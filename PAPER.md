@@ -84,6 +84,10 @@ Nota: o `PAPER.md` antigo listava so 4 RQs; a autoridade e o `protocol.md` com 5
 | Agenda de Pesquisa | `tex/sections/06_agenda_pesquisa.tex` | ESCRITO (RQ5, 6 lacunas) |
 | Conclusao | `tex/sections/07_conclusao.tex` | ESCRITO |
 
+## Score / viabilidade
+
+- Analise de viabilidade e backlog de melhoria em `score.md` (Q atual 74/100, teto 88-90). Fonte de verdade para o futuro agente `improve`. Atualizar `score.md` a cada rodada de melhoria.
+
 ## Submissao
 
 - Recomendacao gerada em 2026-05-30: ver `venue-recommendation-2026-05-30.md`.
