@@ -55,7 +55,11 @@ Detalhe: 39/40 confirmadas via CrossRef ou Semantic Scholar (titulo casa). A 40a
 - Re-gate pos-traducao/humanizacao: 0 travessao; cross_validate 41 citadas / 0 faltando / 0 orfa; validate_bib 0 FATAL; merged doc sem fatais reais.
 
 ## Publicacao
-- Repositorio: (pendente) | Commit: (pendente) | Push: (pendente)
+- Repositorio: https://github.com/sandeco/ai-swe-systematic-review-paper (PRIVADO, novo, dedicado ao paper) | Commit: d9659e7 | Push: ok
+- gh autenticado via token em /keys/.env (conta sandeco, escopo repo).
+- NUNCA deu push no repo do scientex (guard verificado: nao ha origin scientex no subdir do paper).
+- Decisao de copyright (auto): .gitignore proprio exclui os 44 PDFs de texto completo (84 MB, nao redistribuiveis) e os JSONs brutos raspados (search-results.raw.json, s2-arxiv.json). Incluido o pacote de reprodutibilidade (protocolo, descritores, logs de screening, scripts de snowballing, extraction-matrix.csv, synthesis.md) + a figura propria. Verificado: 0 PDF de estudo revisado no remoto. Por isso a publicacao foi feita manualmente (com as mesmas guardas do publish_paper_repo.sh) em vez do script, que sobrescreveria o .gitignore e re-incluiria os PDFs via `git add -A`.
 
 ## Revisao humana recomendada
-- (a preencher ao final)
+- NAO. Apos 3 ciclos de critic (veredito final REVISAO MENOR) nao restaram issues FATAL/MAJOR. Gate de citacao 40/40 com DOI (0 alucinada). Gate de validacao verde (so avisos soft de `volume` ausente, aceitaveis para preprint).
+- Observacoes opcionais para o autor: (a) repo esta PRIVADO; tornar publico quando submeter ao arXiv; (b) sem toolchain LaTeX neste container, a validacao foi estatica (validate_tex/bib/cross_validate) e nao um pdflatex real, entao convem uma compilacao final no Overleaf/arXiv; (c) `AshaRajbhoj2024` segue como pendencia operacional fora do corpus (documentada nas Limitacoes), corpus = 37.
