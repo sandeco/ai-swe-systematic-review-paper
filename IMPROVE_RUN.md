@@ -30,3 +30,16 @@
 - Figuras novas: snowball_saturation a 96 DPI, fonte >=12pt, [h!], variantes _pt/_en.
 
 - Q depois: 85/100. Teto honesto sem recurso novo: ~86. Meta 90+ depende dos itens AUTOR acima.
+
+## Rodada 1b (follow-up autorizado pelo autor), 2026-05-30
+- Autor autorizou: ampliar bases de busca e extrair texto completo.
+
+### IMP-4 elevado a FEITO (texto completo)
+- 2a passada sobre pdf-extracts/*.md dos 25 estudos (5 leitores Explore em paralelo). Achados reais por estudo + resultados empíricos concretos auto-reportados. Arquivos: extracted/key-findings.{md,csv}; novo parágrafo "Evidência empírica reportada pelos estudos" em 04_resultados_sintese (pt+en) com AutoDev 91,5% Pass@1, ASTRA 11-66%, SDD até 50%, SKaruppuchamy 20x deploy, Watfa SEM n=328, Reversa 517 claims (97,1%), SeyedmoeinMohsenimofidi 5% de 10k repos. Limitação de granularidade resolvida (vira ressalva de resultados auto-reportados e heterogêneos). Delta: Magnitude 11 -> 12.
+
+### IMP-7 busca suplementar (auditoria de completude)
+- run_supplementary_search.py: arXiv API direta + Crossref com descritores do protocolo; 350 brutos, dedupe vs 234 search-results + matriz + logs. Filtro de escopo + triagem manual: 12 estudos no escopo não capturados pela busca original (5 na janela <=2025; 7 de 2026 no/após o corte). Artefatos: snowballing/supplementary/{raw-*,new-candidates,screened-inscope}.{json,md}. Reportado com honestidade na Limitação "Saturação parcial e recall da busca" (pt+en). NÃO inflou o corpus: os 12 não foram extraídos sob o protocolo congelado, para preservar a integridade da síntese. Expansão real do corpus (re-extração dos 12) fica PENDENTE-AUTOR.
+
+### Gates (follow-up)
+- latex-validator: 0 fatais pt+en; 40/40 cite-keys; 0 citação nova; 0 órfãos; 0 travessão.
+- Q depois: 86/100 (teto honesto desta rodada atingido). 90+ exige IRR humano real + re-extração dos 12 estudos da busca suplementar.

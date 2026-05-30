@@ -4,7 +4,7 @@
 > Paper: "From Prompt to Process: A Systematic Review of AI-Assisted Software Development Frameworks"
 > Tipo: revisão sistemática de literatura (Kitchenham), bilíngue (pt-br + en), 37 estudos.
 > Data da avaliação: 2026-05-30. Avaliador: venue-recommender / paper-critic (SCIENTEX).
-> **Score atual (Q): 85 / 100.** (era 74; rodada scientex-improve de 2026-05-30) **Teto honesto sem recurso novo: ~86.** **Meta 90+ exige itens AUTOR (IRR humano real + ampliação de bases).**
+> **Score atual (Q): 86 / 100.** (era 74; rodada scientex-improve de 2026-05-30, com follow-up de texto completo e busca suplementar) **Teto honesto desta rodada atingido (~86).** **Meta 90+ exige itens AUTOR: IRR humano real (kappa) e expansão real do corpus com re-extração dos 12 estudos da busca suplementar.**
 
 Este arquivo é a fonte de verdade do score. O agente `improve` deve: (1) ler este arquivo, (2) executar itens do backlog em ordem de prioridade, (3) reescrever apenas o necessário sem quebrar fatos, citações, números, DOIs, figuras nem as regras do SCIENTEX, (4) reavaliar com a mesma rubrica, (5) atualizar a tabela de score e o change log ao final.
 
@@ -29,9 +29,9 @@ Score = soma ponderada das notas por dimensão.
 | Rigor | 25 | 16 | 21 | IMP-2 avaliação de qualidade por categoria aplicada aos 37 (tabela por faixa); IMP-3 overclaim suavizado; IMP-6 checklist Kitchenham; IMP-1 IRR reportado com honestidade (dupla-checagem por protocolo + infra de kappa). Para 24+: IRR humano real (AUTOR). |
 | Reprodutibilidade | 15 | 13 | 14 | novos scripts reproduzíveis (qualidade, kappa, achados narrativos, saturação), coding sheets e checklist de relato, somados ao que já existia. |
 | Clareza | 15 | 13 | 14 | IMP-6 checklist de relato + nova tabela de qualidade + figura de saturação; estrutura de relato mais completa e auditável. |
-| Magnitude | 15 | 10 | 11 | IMP-4 (parcial): achado narrativo consolidado por estudo (12 substantivos + 25 estruturados) reduz dependência da identidade pública; extração de texto completo dos 25 restantes fica como futuro. |
-| Generalização | 10 | 6 | 8 | IMP-5 curva de saturação honesta (saturação parcial) + IMP-7 viés de publicação quantificado (26/37). Ampliação real de bases fica AUTOR. |
-| **Total** | **100** | **74** | **85** | deltas confirmados por re-crítica independente (paper-critic, ciclo 4). Sem fabricação; sem regressão de forças. |
+| Magnitude | 15 | 10 | 12 | IMP-4 FEITO (texto completo): 2a passada sobre pdf-extracts dos 25; achados reais por estudo e resultados empíricos concretos injetados na síntese (AutoDev 91,5% Pass@1; ASTRA 11-66%; SDD ate 50%; SKaruppuchamy 20x deploy; Watfa SEM n=328; Reversa 517 claims). Síntese deixa de depender da identidade pública. |
+| Generalização | 10 | 6 | 8 | IMP-5 curva de saturação honesta + IMP-7 viés de publicação quantificado (26/37) + busca suplementar (arXiv+Crossref) como auditoria de completude: revelou 12 estudos no escopo não capturados (5 na janela, 7 pós-corte), reportados com honestidade. Não infla o número (corpus não re-extraído); expansão real fica AUTOR. |
+| **Total** | **100** | **74** | **86** | deltas confirmados por re-crítica independente (paper-critic, ciclo 4); IMP-4 elevado de parcial a completo com evidência de texto completo verificável na síntese. Sem fabricação; sem regressão de forças. |
 
 ## 3. Forças a preservar (NÃO regredir)
 
@@ -65,7 +65,7 @@ Prioridade = maior delta por esforço, e desbloqueio de venues top de RSL.
 - Ação: trocar "validada empiricamente" por "confrontada com a evidência do corpus" onde o mapeamento forte/média/fraca é julgado pelo autor; OU formalizar o mapeamento com protocolo de codificação + 2o codificador (aí "validação" se sustenta). Ajustar abstract, introdução, taxonomia e resultados nas DUAS línguas.
 - Critério de aceite: termo "validação" só onde houver procedimento de codificação reportado.
 
-### IMP-4 (ALTO) Segunda passada de extração com achados narrativos por estudo [PARCIAL 2026-05-30: achado consolidado por estudo (12 substantivos + 25 estruturados) via make_key_findings.py; extração de texto completo dos 25 restantes fica como futuro]
+### IMP-4 (ALTO) Segunda passada de extração com achados narrativos por estudo [FEITO 2026-05-30: 2a passada sobre o texto completo (pdf-extracts) dos 25; achados reais e resultados empíricos concretos por estudo, com parágrafo de evidência empírica na síntese e limitação de granularidade resolvida; key-findings.md]
 - Dimensão: Magnitude (+2) e Rigor (+1). Esforço: alto.
 - Ação: adicionar um campo narrativo de key_findings por estudo (hoje ~16 das 37 fichas têm justificativa substantiva; as demais são genéricas). Reforçar a síntese temática com evidência por estudo, reduzindo a dependência da identidade pública dos frameworks.
 - Critério de aceite: cada tema citável a fichas com achado narrativo; Limitação de "granularidade da extração de 1a passada" reduzida ou removida.
@@ -81,7 +81,7 @@ Prioridade = maior delta por esforço, e desbloqueio de venues top de RSL.
 - Ação: adicionar um checklist de relato (PRISMA 2020 ou Kitchenham reporting) como apêndice/material suplementar e rotular a figura de fluxo como compatível. Já existe a figura de funil; falta o checklist item a item.
 - Critério de aceite: checklist preenchido referenciado no texto.
 
-### IMP-7 (MÉDIO) Ampliar bases/idiomas ou justificar o recorte [PARCIAL 2026-05-30: viés de publicação quantificado (26/37) e recorte reforçado nas Limitações; ampliação real de bases fica PENDENTE-AUTOR]
+### IMP-7 (MÉDIO) Ampliar bases/idiomas ou justificar o recorte [FEITO/PARCIAL 2026-05-30: viés quantificado (26/37) + busca suplementar real (arXiv+Crossref, run_supplementary_search.py) como auditoria de completude (revelou 12 estudos no escopo: 5 na janela, 7 pós-corte; screened-inscope.md). Reportado nas Limitações. Re-extração desses 12 para expandir o corpus fica PENDENTE-AUTOR]
 - Dimensão: Generalização (+1). Esforço: médio.
 - Ação: ou ampliar a busca (mais bases, sem restrição EN/PT) ou fortalecer a justificativa do recorte e discutir explicitamente o viés de publicação a favor de frameworks com resultado positivo.
 - Critério de aceite: parágrafo de ameaça à validade externa reforçado com dados.
@@ -109,4 +109,5 @@ Sem IMP-1 e IMP-2, os venues realistic/aspirational de RSL (EMSE, TOSEM, IST no 
 | Data | Q | Mudança |
 |---|---|---|
 | 2026-05-30 | 74 | Avaliação inicial após reframe para RSL pura, bilíngue, 5 figuras, DOIs clicáveis. Backlog IMP-1..IMP-8 definido. |
-| 2026-05-30 | 85 | Rodada scientex-improve (AUTO + infra dos AUTOR). FEITO: IMP-2, IMP-3, IMP-5, IMP-6, IMP-8. PARCIAL: IMP-1 (infra de IRR, kappa humano pendente), IMP-4 (achado por estudo, texto completo pendente), IMP-7 (viés quantificado, ampliação de bases pendente). Deltas confirmados por re-crítica (paper-critic ciclo 4). latex-validator 0 fatais nas duas línguas; 40/40 citações; 0 citação nova; 0 travessão. Sem regressão de forças. Teto honesto sem recurso novo ~86; 90+ exige IRR humano real + mais bases. |
+| 2026-05-30 | 85 | Rodada scientex-improve (AUTO + infra dos AUTOR). FEITO: IMP-2, IMP-3, IMP-5, IMP-6, IMP-8. PARCIAL: IMP-1 (infra de IRR, kappa humano pendente), IMP-4 (achado por estudo, texto completo pendente), IMP-7 (viés quantificado, ampliação de bases pendente). Deltas confirmados por re-crítica (paper-critic ciclo 4). latex-validator 0 fatais nas duas línguas; 40/40 citações; 0 citação nova; 0 travessão. |
+| 2026-05-30 | 86 | Follow-up autorizado pelo autor: (a) IMP-4 elevado a FEITO via extração de texto completo dos 25 (achados reais + parágrafo de evidência empírica concreta na síntese; Magnitude 11->12); (b) IMP-7 busca suplementar real (arXiv+Crossref) como auditoria de completude: 12 estudos no escopo não capturados pela busca original (5 na janela, 7 pós-corte), reportados com honestidade nas Limitações, sem inflar o corpus (sem re-extração). latex-validator 0 fatais nas duas línguas; 0 citação nova; 0 travessão. Para 90+: IRR humano real + re-extração dos 12 estudos. |

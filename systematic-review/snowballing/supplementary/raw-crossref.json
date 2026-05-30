@@ -1,0 +1,1602 @@
+[
+ {
+  "title": "CodeAir: A Multi-Agent Orchestration Framework for AI-Assisted Software Development",
+  "doi": "10.2139/ssrn.5928934",
+  "url": "https://doi.org/10.2139/ssrn.5928934",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "ThreatPrism: Multi-Framework Threat Intelligence for AI-Assisted Software Development via Model Context Protocol",
+  "doi": "10.2139/ssrn.6460159",
+  "url": "https://doi.org/10.2139/ssrn.6460159",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Multi-agent Security Framework for AI-Assisted Software Development",
+  "doi": "10.63282/3050-9416.ijaibdcms-v7i1p105",
+  "url": "https://doi.org/10.63282/3050-9416.ijaibdcms-v7i1p105",
+  "year": 2026,
+  "venue": "International Journal of AI, BigData, Computational and Management Studies",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Boundary as an Execution-Time Primitive for AI-Assisted Software Development Governance",
+  "doi": "10.31224/6583",
+  "url": "https://doi.org/10.31224/6583",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Technical Debt-Aware Prompting Framework for Sustainable Vibe Coding: Addressing the Production Readiness Crisis in AI-Assisted Software Development",
+  "doi": "10.36227/techrxiv.175459417.76916566/v1",
+  "url": "https://doi.org/10.36227/techrxiv.175459417.76916566/v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Assisted Test Automation: A Cognitive Software Testing Framework Using Generative AI",
+  "doi": "10.36227/techrxiv.176315879.96821044/v1",
+  "url": "https://doi.org/10.36227/techrxiv.176315879.96821044/v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Toward a Maturity Model for AI-Assisted Software Development: Conceptual Framework and Research Agenda",
+  "doi": "10.1109/iisec69317.2026.11418422",
+  "url": "https://doi.org/10.1109/iisec69317.2026.11418422",
+  "year": 2026,
+  "venue": "2026 5th International Informatics and Software Engineering Conference (IISEC)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Towards an Adoption Framework to Foster Trust in AI-Assisted Software Engineering",
+  "doi": "10.1109/cain66642.2025.00038",
+  "url": "https://doi.org/10.1109/cain66642.2025.00038",
+  "year": 2025,
+  "venue": "2025 IEEE/ACM 4th International Conference on AI Engineering \u2013 Software Engineering for AI (CAIN)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Extending AI-Assisted Software Development Beyond Vibe Coding",
+  "doi": "10.36227/techrxiv.177156350.06379872/v1",
+  "url": "https://doi.org/10.36227/techrxiv.177156350.06379872/v1",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Decision Analysis",
+  "doi": "10.31224/6616",
+  "url": "https://doi.org/10.31224/6616",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Anchor Architecture: A Structural Foundation for Deterministic Traceability in AI-Assisted Software Development",
+  "doi": "10.31224/6580",
+  "url": "https://doi.org/10.31224/6580",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "ACM TechBrief: AI-Assisted Software Development, or Vibe Coding: Benefits and Risks of AI-Driven Software Development",
+  "doi": "10.1145/3807518",
+  "url": "https://doi.org/10.1145/3807518",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Enhancing Software Quality through AI - Assisted Code Review: Insights from AWS Cloud Infrastructure Development",
+  "doi": "10.21275/sr24716230727",
+  "url": "https://doi.org/10.21275/sr24716230727",
+  "year": 2023,
+  "venue": "International Journal of Science and Research (IJSR)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work",
+  "doi": "10.31235/osf.io/cwkav_v1",
+  "url": "https://doi.org/10.31235/osf.io/cwkav_v1",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Decision-Driven Software Engineering (DDSE) for AI-Assisted Development -A New SDLC Paradigm",
+  "doi": "10.2139/ssrn.6632898",
+  "url": "https://doi.org/10.2139/ssrn.6632898",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Framework for Quantifying Ethical and Regulatory Risks in Big Data Analytics and AI-Assisted Banking Software Development",
+  "doi": "10.1109/asiancon66527.2025.11280739",
+  "url": "https://doi.org/10.1109/asiancon66527.2025.11280739",
+  "year": 2025,
+  "venue": "2025 5th Asian Conference on Innovation in Technology (ASIANCON)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI-Powered Toolchain Framework for Agile Software Development in Startups",
+  "doi": "10.1007/978-3-032-04294-1_11",
+  "url": "https://doi.org/10.1007/978-3-032-04294-1_11",
+  "year": 2026,
+  "venue": "Advances in Software Startups",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Ensuring Code Integrity in the Era of AI-Assisted Software Development",
+  "doi": "10.1109/icsme64153.2025.00095",
+  "url": "https://doi.org/10.1109/icsme64153.2025.00095",
+  "year": 2025,
+  "venue": "2025 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Human-AI Symbiotic Theory (HAIST): Development, Multi-Framework Assessment, and AI-Assisted Validation in Academic Research",
+  "doi": "10.20944/preprints202508.0041.v1",
+  "url": "https://doi.org/10.20944/preprints202508.0041.v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Generative AI-Assisted Framework for Secure and Autonomous Software Development Lifecycle Optimization",
+  "doi": "10.1109/icipcn67432.2026.11438791",
+  "url": "https://doi.org/10.1109/icipcn67432.2026.11438791",
+  "year": 2026,
+  "venue": "2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Documentation-Driven Framework for AI-Assisted Full-Circle Agile Software Development",
+  "doi": "10.1109/ieir67391.2025.11491045",
+  "url": "https://doi.org/10.1109/ieir67391.2025.11491045",
+  "year": 2025,
+  "venue": "2025 International Conference on Intelligent Education and Intelligent Research (IEIR)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI_Adaptive_POW: An AI assisted Proof Of Work (POW) framework for DDoS defense",
+  "doi": "10.1016/j.simpa.2022.100335",
+  "url": "https://doi.org/10.1016/j.simpa.2022.100335",
+  "year": 2022,
+  "venue": "Software Impacts",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Beyond Productivity: A Framework for Measuring Human-AI Synergy in the Software Development Lifecycle - AI-Augmented Productivity Metrics Framework (AAPM)",
+  "doi": "10.63282/3050-9262.ijaidsml-v6i3p107",
+  "url": "https://doi.org/10.63282/3050-9262.ijaidsml-v6i3p107",
+  "year": 2025,
+  "venue": "International Journal of Artificial Intelligence, Data Science, and Machine Learning",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The New Developer: AI Skill Threat, Identity Change &amp;amp; Developer Thriving in the Transition to AI-Assisted Software Development",
+  "doi": "10.31234/osf.io/2gej5",
+  "url": "https://doi.org/10.31234/osf.io/2gej5",
+  "year": 2024,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI-assisted voice enabled computing framework for hydrological analysis",
+  "doi": "10.1016/j.envsoft.2025.106833",
+  "url": "https://doi.org/10.1016/j.envsoft.2025.106833",
+  "year": 2026,
+  "venue": "Environmental Modelling &amp; Software",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The New Developer: AI Skill Threat, Identity Change &amp;amp; Developer Thriving in the Transition to AI-Assisted Software Development",
+  "doi": "10.31234/osf.io/2gej5_v2",
+  "url": "https://doi.org/10.31234/osf.io/2gej5_v2",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Towards Trustworthy AI-Assisted Software Development",
+  "doi": "10.1109/vl-hcc65237.2025.00062",
+  "url": "https://doi.org/10.1109/vl-hcc65237.2025.00062",
+  "year": 2025,
+  "venue": "2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI Literacy Development for Software Engineering Education: Mapping AI from the SWEBOK to the SAIL Framework",
+  "doi": "10.18293/seke2025-011",
+  "url": "https://doi.org/10.18293/seke2025-011",
+  "year": 2025,
+  "venue": "International Conferences on Software Engineering and Knowledge Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "INTEGRATING AI-ASSISTED LEARNING OF PROGRAMMING IN SOFTWARE DEVELOPMENT COURSES",
+  "doi": "10.21125/iceri.2024.2623",
+  "url": "https://doi.org/10.21125/iceri.2024.2623",
+  "year": 2024,
+  "venue": "ICERI Proceedings",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI-assisted issue report classification",
+  "doi": "10.1016/j.simpa.2026.100816",
+  "url": "https://doi.org/10.1016/j.simpa.2026.100816",
+  "year": 2026,
+  "venue": "Software Impacts",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI-Assisted HCI Design and Sprint Cadence in Scrum Software Development",
+  "doi": "10.62036/isd.2025.19",
+  "url": "https://doi.org/10.62036/isd.2025.19",
+  "year": 2025,
+  "venue": "International Conference on Information Systems Development",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Human-AI Symbiotic Theory (HAIST): Development, Multi-Framework Assessment, and AI-Assisted Validation in Academic Research",
+  "doi": "10.3390/informatics12030085",
+  "url": "https://doi.org/10.3390/informatics12030085",
+  "year": 2025,
+  "venue": "Informatics",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI-Driven Software Development and Business Automation in 2025: A Comprehensive Framework for Enhanced Efficiency, Transparency, and Decision Support",
+  "doi": "10.2139/ssrn.5222417",
+  "url": "https://doi.org/10.2139/ssrn.5222417",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Revolutionary transformations in twentieth century: making AI-assisted software development",
+  "doi": "10.1515/9783110709247-001",
+  "url": "https://doi.org/10.1515/9783110709247-001",
+  "year": 2022,
+  "venue": "Computational Intelligence in Software Modeling",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Skeet: Towards a Lightweight Serverless Framework Supporting Modern AI-Driven App Development",
+  "doi": "10.5220/0012681000003687",
+  "url": "https://doi.org/10.5220/0012681000003687",
+  "year": 2024,
+  "venue": "Proceedings of the 19th International Conference on Evaluation of Novel Approaches to Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "6 Generative AI-Assisted Pair Programming: A New Era of Collaboration",
+  "doi": "10.1515/9783111677798-006",
+  "url": "https://doi.org/10.1515/9783111677798-006",
+  "year": 2025,
+  "venue": "Generative AI for Software Development",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI-Assisted Development for Insurance Software: A Technical Review",
+  "doi": "10.32996/jcsts.2025.7.10.2",
+  "url": "https://doi.org/10.32996/jcsts.2025.7.10.2",
+  "year": 2025,
+  "venue": "Journal of Computer Science and Technology Studies",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AI Is Capital, Not Software: A Framework for Understanding AI Value Creation",
+  "doi": "10.2139/ssrn.6207778",
+  "url": "https://doi.org/10.2139/ssrn.6207778",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Recommendation Framework for Generative AI-Assisted Software Development",
+  "doi": "10.1007/978-981-96-6537-2_10",
+  "url": "https://doi.org/10.1007/978-981-96-6537-2_10",
+  "year": 2026,
+  "venue": "Lecture Notes in Networks and Systems",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Towards a Framework for AI-Assisted Data Storytelling",
+  "doi": "10.5220/0012251800003584",
+  "url": "https://doi.org/10.5220/0012251800003584",
+  "year": 2023,
+  "venue": "Proceedings of the 19th International Conference on Web Information Systems and Technologies",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Semantically-Grounded Agentic Framework for Assisting BPMN Model Instance Execution",
+  "doi": "10.5220/0014446900004058",
+  "url": "https://doi.org/10.5220/0014446900004058",
+  "year": 2026,
+  "venue": "Proceedings of the 14th International Conference on Model-Based Software and Systems Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "From Feature Variability to Agency Variability: A Software Product-Line Engineering Framework for Governed Agentic AI Systems",
+  "doi": "10.20944/preprints202605.0741.v1",
+  "url": "https://doi.org/10.20944/preprints202605.0741.v1",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Trace-Based Assurance Framework for Agentic AI Orchestration: Contracts, Testing, and Governance",
+  "doi": "10.5220/0014840300004015",
+  "url": "https://doi.org/10.5220/0014840300004015",
+  "year": 2026,
+  "venue": "Proceedings of the 21st International Conference on Evaluation of Novel Approaches to Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Securing Agentic AI in Software-Defined Networks: A Policy-Driven Framework for Governance, Monitoring, and Incident Response",
+  "doi": "10.7753/ijsea1503.1007",
+  "url": "https://doi.org/10.7753/ijsea1503.1007",
+  "year": 2026,
+  "venue": "International Journal of Science and Engineering Applications",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The Agentic Product Lifecycle (APL): A New Framework for Autonomous Software Governance and Product Management",
+  "doi": "10.56726/irjmets89141",
+  "url": "https://doi.org/10.56726/irjmets89141",
+  "year": 2026,
+  "venue": "International Research Journal of Modernization in Engineering Technology &amp; Science",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "cfgLLM: Automated assistance for software requirements using multi-LLM Fusion Agentic Framework",
+  "doi": "10.1145/3796563.3796599",
+  "url": "https://doi.org/10.1145/3796563.3796599",
+  "year": 2026,
+  "venue": "Proceedings of the 19th Innovations in Software Engineering Conference",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary",
+  "doi": "10.1145/3786167.3788422",
+  "url": "https://doi.org/10.1145/3786167.3788422",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 International Workshop on Agentic Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "GABBE: A Neurocognitive Swarm Architecture for Agentic AI Software Engineering",
+  "doi": "10.36227/techrxiv.177220787.72010996/v1",
+  "url": "https://doi.org/10.36227/techrxiv.177220787.72010996/v1",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Verifiable Collaboration among Agentic Code Assistants using Blockchain for Software Engineering Workflows",
+  "doi": "10.1109/aixse64906.2025.00019",
+  "url": "https://doi.org/10.1109/aixse64906.2025.00019",
+  "year": 2025,
+  "venue": "2025 Conference on AI x Software Engineering (AIxSE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic RTE: A Framework for Synchronizing Multimodal Software Artifacts",
+  "doi": "10.1145/3786161.3788461",
+  "url": "https://doi.org/10.1145/3786161.3788461",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 7th International Workshop on Bots and Agents in Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Overcoming Agentic Drift in Software Engineering through Stigmergic Coordination and Zero-Trust Architectures",
+  "doi": "10.2139/ssrn.6248481",
+  "url": "https://doi.org/10.2139/ssrn.6248481",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Efficient Underwriting Using Agentic AI",
+  "doi": "10.5923/j.se.20251201.01",
+  "url": "https://doi.org/10.5923/j.se.20251201.01",
+  "year": 2025,
+  "venue": "Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Toward Agentic Software Project Management: A Vision and Roadmap",
+  "doi": "10.1145/3786167.3788409",
+  "url": "https://doi.org/10.1145/3786167.3788409",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 International Workshop on Agentic Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "DevFlow: An Agentic AI Architecture Planning Platform for Software Engineering Workflows",
+  "doi": "10.64388/irev9i11-1717845",
+  "url": "https://doi.org/10.64388/irev9i11-1717845",
+  "year": 2026,
+  "venue": "Iconic Research and Engineering Journals",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "MODERNIZING SOFTWARE TESTING: AI, TELEMETRY, AND AGENTIC QUALITY ENGINEERING",
+  "doi": "10.34218/ijaieg_01_01_002",
+  "url": "https://doi.org/10.34218/ijaieg_01_01_002",
+  "year": 2026,
+  "venue": "INTERNATIONAL JOURNAL OF AI ENGINEERING",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A 3-Layer Agentic Model for Nonfunctional Requirements in Software Engineering",
+  "doi": "10.1109/asew67777.2025.00020",
+  "url": "https://doi.org/10.1109/asew67777.2025.00020",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Designing Inclusive AI for Aging Populations: A Conceptual Agentic Framework for Lifelong Learning",
+  "doi": "10.21015/vtse.v14i1.2313",
+  "url": "https://doi.org/10.21015/vtse.v14i1.2313",
+  "year": 2026,
+  "venue": "VFAST Transactions on Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic Test Automation Framework for Complex Software and Database Systems",
+  "doi": "10.1109/icsft66733.2026.11507055",
+  "url": "https://doi.org/10.1109/icsft66733.2026.11507055",
+  "year": 2026,
+  "venue": "2026 International Conference on Smart Futuristic Technology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic AI in Software Engineering: Practitioner Perspectives Across the Software Development Life Cycle",
+  "doi": "10.2139/ssrn.5520159",
+  "url": "https://doi.org/10.2139/ssrn.5520159",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Autonomous Reliability Engineering: A Scalable Agentic AI Framework for Enterprise Infrastructure Support",
+  "doi": "10.1109/southeastcon63549.2026.11476087",
+  "url": "https://doi.org/10.1109/southeastcon63549.2026.11476087",
+  "year": 2026,
+  "venue": "SoutheastCon 2026",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic AI for Software-Defined Vehicles: A Generative Testing Framework for Autonomous Feature Assurance",
+  "doi": "10.52783/jes.9181",
+  "url": "https://doi.org/10.52783/jes.9181",
+  "year": 2025,
+  "venue": "Journal of Electrical Systems",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Customized Ecosystem Agentic AI Framework",
+  "doi": "10.56726/irjmets89030",
+  "url": "https://doi.org/10.56726/irjmets89030",
+  "year": 2026,
+  "venue": "International Research Journal of Modernization in Engineering Technology &amp; Science",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic Workflows and AI Agents",
+  "doi": "10.4324/9781003729068-16",
+  "url": "https://doi.org/10.4324/9781003729068-16",
+  "year": 2026,
+  "venue": "Generative AI in Software Development",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic RAG for Cyber Threat Intelligence",
+  "doi": "10.5220/0015049100004015",
+  "url": "https://doi.org/10.5220/0015049100004015",
+  "year": 2026,
+  "venue": "Proceedings of the 21st International Conference on Evaluation of Novel Approaches to Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "GenReachAI: An Agentic Generative AI Framework for Automated Reachability Analysis of Enterprise Software Vulnerabilities",
+  "doi": "10.1109/isdfs69419.2026.11459101",
+  "url": "https://doi.org/10.1109/isdfs69419.2026.11459101",
+  "year": 2026,
+  "venue": "2026 14th International Symposium on Digital Forensics and Security (ISDFS)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic Multi-Modal LLMs for Software Comprehension: Structuring Code Summarization with Business Process Awareness",
+  "doi": "10.1109/sse67621.2025.00024",
+  "url": "https://doi.org/10.1109/sse67621.2025.00024",
+  "year": 2025,
+  "venue": "2025 IEEE International Conference on Software Services Engineering (SSE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Towards Multi-Agentic AI for automated software design and modelling: challenges and opportunities",
+  "doi": "10.1109/asew67777.2025.00063",
+  "url": "https://doi.org/10.1109/asew67777.2025.00063",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Intent-Driven Fleets: An Agentic AI Framework for Cloud Elasticity",
+  "doi": "10.17762/ijisae.v14i1s.8220",
+  "url": "https://doi.org/10.17762/ijisae.v14i1s.8220",
+  "year": 2026,
+  "venue": "International Journal of Intelligent Systems and Applications in Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Architecting Agentic AI Systems with a Well-Architected Framework",
+  "doi": "10.1007/979-8-8688-1542-3_2",
+  "url": "https://doi.org/10.1007/979-8-8688-1542-3_2",
+  "year": 2025,
+  "venue": "Agentic AI in Enterprise",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The New Software Cost Curve under Agentic AI: Development Economics, Pricing, and Labor Impacts",
+  "doi": "10.4236/jsea.2026.191001",
+  "url": "https://doi.org/10.4236/jsea.2026.191001",
+  "year": 2026,
+  "venue": "Journal of Software Engineering and Applications",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Automation Testing Framework for Reliable Autonomous Agentic AI",
+  "doi": "10.1109/eras63351.2025.11135911",
+  "url": "https://doi.org/10.1109/eras63351.2025.11135911",
+  "year": 2025,
+  "venue": "2025 IEEE Engineering Reliable Autonomous Systems (ERAS)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems",
+  "doi": "10.1145/3786167.3788414",
+  "url": "https://doi.org/10.1145/3786167.3788414",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 International Workshop on Agentic Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration",
+  "doi": "10.1109/icodse68111.2025.11351757",
+  "url": "https://doi.org/10.1109/icodse68111.2025.11351757",
+  "year": 2025,
+  "venue": "2025 IEEE International Conference on Data and Software Engineering (ICoDSE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "FGDM: Reasoning Aware Multi-Agentic Framework for Software Bug Detection using Chain of Thought and Tree of Thought Prompting",
+  "doi": "10.2139/ssrn.6731321",
+  "url": "https://doi.org/10.2139/ssrn.6731321",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The Agentic 3 C's Framework A Reasoning-Layer Risk Governance Model for Agentic AI in Financial Services",
+  "doi": "10.2139/ssrn.6674761",
+  "url": "https://doi.org/10.2139/ssrn.6674761",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Adaptive Self-Prompting in Agentic LLM Frameworks for Code Fault Detection",
+  "doi": "10.3390/software5020016",
+  "url": "https://doi.org/10.3390/software5020016",
+  "year": 2026,
+  "venue": "Software",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Governance Models for Agentic Software Delivery",
+  "doi": "10.20944/preprints202605.1737.v1",
+  "url": "https://doi.org/10.20944/preprints202605.1737.v1",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Agentic Language Model (ALM): A Task-Centric Framework for Autonomous AI Systems",
+  "doi": "10.64388/irev9i10-1716344",
+  "url": "https://doi.org/10.64388/irev9i10-1716344",
+  "year": 2026,
+  "venue": "Iconic Research and Engineering Journals",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "MALPRE: Malware Protocol Reverse Engineering through Code Slicing and Agentic Workflow",
+  "doi": "10.1109/issre66568.2025.00052",
+  "url": "https://doi.org/10.1109/issre66568.2025.00052",
+  "year": 2025,
+  "venue": "2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Software and Software Engineering",
+  "doi": "10.31219/osf.io/b73w4",
+  "url": "https://doi.org/10.31219/osf.io/b73w4",
+  "year": 2020,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "BioChatter and the future of LLM driven bioscience",
+  "doi": "10.6019/tol.biochatter-llm-w.2025.00001.1",
+  "url": "https://doi.org/10.6019/tol.biochatter-llm-w.2025.00001.1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Small Language Models and Spec-Driven Development for High-Accuracy Agentic Frameworks",
+  "doi": "10.2139/ssrn.5833543",
+  "url": "https://doi.org/10.2139/ssrn.5833543",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "EMU-LLM: Emulators for Performance Evaluation of LLM-based Applications",
+  "doi": "10.1145/3680256.3721312",
+  "url": "https://doi.org/10.1145/3680256.3721312",
+  "year": 2025,
+  "venue": "Companion of the 16th ACM/SPEC International Conference on Performance Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Iterative Proof-Driven Development LLM Prompt",
+  "doi": "10.1145/3701716.3717811",
+  "url": "https://doi.org/10.1145/3701716.3717811",
+  "year": 2025,
+  "venue": "Companion Proceedings of the ACM on Web Conference 2025",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads",
+  "doi": "10.1145/3777911.3800637",
+  "url": "https://doi.org/10.1145/3777911.3800637",
+  "year": 2026,
+  "venue": "Companion of the 17th ACM/SPEC International Conference on Performance Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Vega: LLM-driven Intelligent Chatbot Platform for Internet of Things Control and Development",
+  "doi": "10.20944/preprints202505.0380.v1",
+  "url": "https://doi.org/10.20944/preprints202505.0380.v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "EOAC-LLM: An LLM-Driven Event Ontology Automatic Construction System",
+  "doi": "10.2139/ssrn.5775146",
+  "url": "https://doi.org/10.2139/ssrn.5775146",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Beyond Syntax: The Paradigm Shift to System Architecture in Large Language Model (LLM) Driven Development",
+  "doi": "10.2139/ssrn.6070429",
+  "url": "https://doi.org/10.2139/ssrn.6070429",
+  "year": 2026,
+  "venue": "SSRN Electronic Journal",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Evaluation-Driven Development and Operations of LLM Agents: A Process Model and Reference Architecture",
+  "doi": "10.2139/ssrn.5775317",
+  "url": "https://doi.org/10.2139/ssrn.5775317",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Driven Microservice Evolution: Prompt-Based Feature Development and Database Adaptation",
+  "doi": "10.52783/jisem.v10i59s.12988",
+  "url": "https://doi.org/10.52783/jisem.v10i59s.12988",
+  "year": 2025,
+  "venue": "Journal of Information Systems Engineering and Management",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Optimizing National Security Strategies through LLM-Driven Artificial Intelligence Integration",
+  "doi": "10.36227/techrxiv.22787327.v1",
+  "url": "https://doi.org/10.36227/techrxiv.22787327.v1",
+  "year": 2023,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Optimizing National Security Strategies through LLM-Driven Artificial Intelligence Integration",
+  "doi": "10.36227/techrxiv.22787327",
+  "url": "https://doi.org/10.36227/techrxiv.22787327",
+  "year": 2023,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Based Generation of Low-Code Development Platforms",
+  "doi": "10.1109/models-c68889.2025.00015",
+  "url": "https://doi.org/10.1109/models-c68889.2025.00015",
+  "year": 2025,
+  "venue": "2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Driven Investment Models: Evidence from Earnings Call Transcripts",
+  "doi": "10.2139/ssrn.6510327",
+  "url": "https://doi.org/10.2139/ssrn.6510327",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Optimizing National Security Strategies through LLM-Driven Artificial Intelligence Integration",
+  "doi": "10.14293/pr2199.000136.v1",
+  "url": "https://doi.org/10.14293/pr2199.000136.v1",
+  "year": 2023,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Driven Drift Models for Brownian Motion in Quantitative Finance",
+  "doi": "10.2139/ssrn.5891423",
+  "url": "https://doi.org/10.2139/ssrn.5891423",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AlphaSharpe: LLM-Driven Discovery of Robust Risk-Adjusted Metrics",
+  "doi": "10.2139/ssrn.5111141",
+  "url": "https://doi.org/10.2139/ssrn.5111141",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Ontology-Driven LLM Assistance for Task-Oriented Systems Engineering",
+  "doi": "10.5220/0013441100003896",
+  "url": "https://doi.org/10.5220/0013441100003896",
+  "year": 2025,
+  "venue": "Proceedings of the 13th International Conference on Model-Based Software and Systems Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Driven Drift Models for Brownian Motion in Quantitative Finance",
+  "doi": "10.2139/ssrn.6156967",
+  "url": "https://doi.org/10.2139/ssrn.6156967",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Ethical Considerations of LLM-Driven Quantum Code Generation for Optimization Tasks",
+  "doi": "10.37547/tajet/volume05issue12-13",
+  "url": "https://doi.org/10.37547/tajet/volume05issue12-13",
+  "year": 2023,
+  "venue": "The American Journal of Engineering and Technology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Driven Market Microstructure Representation Learning for Robust High-Frequency Forecasting",
+  "doi": "10.2139/ssrn.5776122",
+  "url": "https://doi.org/10.2139/ssrn.5776122",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "First Contact: \u201cHello, LLM\u201d with Spring Boot",
+  "doi": "10.1007/979-8-8688-1609-3_2",
+  "url": "https://doi.org/10.1007/979-8-8688-1609-3_2",
+  "year": 2025,
+  "venue": "Generative AI-Driven Application Development with Java",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "NextGen: Transforming Industrial Training through LLM-Driven 3D Environment Generation",
+  "doi": "10.5220/0014323600004052",
+  "url": "https://doi.org/10.5220/0014323600004052",
+  "year": 2026,
+  "venue": "Proceedings of the 18th International Conference on Agents and Artificial Intelligence",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Test-Driven Development and LLM-based Code Generation",
+  "doi": "10.1145/3691620.3695527",
+  "url": "https://doi.org/10.1145/3691620.3695527",
+  "year": 2024,
+  "venue": "Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM driven Test optimization for Insurance Management Policy Engines",
+  "doi": "10.21203/rs.3.rs-8768192/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-8768192/v1",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "On Theoretically-Driven LLM Agents for Multi-Dimensional Discourse Analysis",
+  "doi": "10.5220/0014319700004052",
+  "url": "https://doi.org/10.5220/0014319700004052",
+  "year": 2026,
+  "venue": "Proceedings of the 18th International Conference on Agents and Artificial Intelligence",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Driven Market Microstructure Representation Learning and Game-Theoretic Reinforcement Dynamics",
+  "doi": "10.2139/ssrn.5880382",
+  "url": "https://doi.org/10.2139/ssrn.5880382",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Multifaceted Variability in Llm-Driven Stock Recommendations",
+  "doi": "10.2139/ssrn.5350936",
+  "url": "https://doi.org/10.2139/ssrn.5350936",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Gen-UI-Lang: A Compact Language for LLM-Driven UI Generation",
+  "doi": "10.2139/ssrn.6384778",
+  "url": "https://doi.org/10.2139/ssrn.6384778",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Efficiency-Driven Custom Chatbot Development: Unleashing LangChain, RAG, and Performance-Optimized LLM Fusion",
+  "doi": "10.32604/cmc.2024.054360",
+  "url": "https://doi.org/10.32604/cmc.2024.054360",
+  "year": 2024,
+  "venue": "Computers, Materials &amp; Continua",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Beyond Scaling Laws: Towards Scientific Reasoning-Driven LLM Architectures",
+  "doi": "10.20944/preprints202504.2088.v1",
+  "url": "https://doi.org/10.20944/preprints202504.2088.v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Vega: LLM-Driven Intelligent Chatbot Platform for Internet of Things Control and Development",
+  "doi": "10.3390/s25123809",
+  "url": "https://doi.org/10.3390/s25123809",
+  "year": 2025,
+  "venue": "Sensors",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Can You See Me Now? Observability for LLM Pipelines",
+  "doi": "10.1007/979-8-8688-1609-3_18",
+  "url": "https://doi.org/10.1007/979-8-8688-1609-3_18",
+  "year": 2025,
+  "venue": "Generative AI-Driven Application Development with Java",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Driven Qualitative Portfolio Evolution and Correlation-Aware Cluster Tournaments",
+  "doi": "10.2139/ssrn.5835462",
+  "url": "https://doi.org/10.2139/ssrn.5835462",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "ZeoAgent: An LLM-Driven Agent for Automated Zeolite Design and Property Prediction",
+  "doi": "10.26434/chemrxiv.15001701/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15001701/v1",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Does It Even Work? Testing and Evaluating LLM Apps",
+  "doi": "10.1007/979-8-8688-1609-3_15",
+  "url": "https://doi.org/10.1007/979-8-8688-1609-3_15",
+  "year": 2025,
+  "venue": "Generative AI-Driven Application Development with Java",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "ATDLLMD: a test-driven framework for safe, reliable, and business-centric LLM development",
+  "doi": "10.1049/icp.2025.4778",
+  "url": "https://doi.org/10.1049/icp.2025.4778",
+  "year": 2026,
+  "venue": "IET Conference Proceedings",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Lang: A Programming Language and Framework for Test-Driven Development and Enhanced Error Interpretation with LLM Integration",
+  "doi": "10.1109/icoeit63558.2025.11211825",
+  "url": "https://doi.org/10.1109/icoeit63558.2025.11211825",
+  "year": 2025,
+  "venue": "2025 International Conference on Engineering Innovations and Technologies (ICoEIT)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Auto K-Means with Cluster Labelling Using LLM: MDL-Driven HERCULES for Actionable Segmentation",
+  "doi": "10.5220/0014566200004067",
+  "url": "https://doi.org/10.5220/0014566200004067",
+  "year": 2026,
+  "venue": "Proceedings of the 15th International Conference on Pattern Recognition Applications and Methods",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Context-Aware Search: LLM-Driven Model for Searching Emerging Topics",
+  "doi": "10.21203/rs.3.rs-6042607/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-6042607/v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Software Development Lifecycle (SDLC)",
+  "doi": "10.4324/9781003669609-2",
+  "url": "https://doi.org/10.4324/9781003669609-2",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Improving Fuzz Testing Coverage by Using Agent Instrumentation",
+  "doi": "10.1002/9781119710783.ch9",
+  "url": "https://doi.org/10.1002/9781119710783.ch9",
+  "year": 2021,
+  "venue": "Building Secure Cars",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Adherence to Secure Software Development Lifecycle",
+  "doi": "10.5220/0011263700003266",
+  "url": "https://doi.org/10.5220/0011263700003266",
+  "year": 2022,
+  "venue": "Proceedings of the 17th International Conference on Software Technologies",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Introduction to Security in the Automotive Software Development Lifecycle",
+  "doi": "10.1002/9781119710783.ch2",
+  "url": "https://doi.org/10.1002/9781119710783.ch2",
+  "year": 2021,
+  "venue": "Building Secure Cars",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Software Development Contracts",
+  "doi": "10.4324/9781003669609-9",
+  "url": "https://doi.org/10.4324/9781003669609-9",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Need for Automated Security Solutions in the Automotive Software Development Lifecycle",
+  "doi": "10.1002/9781119710783.ch4",
+  "url": "https://doi.org/10.1002/9781119710783.ch4",
+  "year": 2021,
+  "venue": "Building Secure Cars",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "DevOps phases across Software Development Lifecycle",
+  "doi": "10.36227/techrxiv.13207796",
+  "url": "https://doi.org/10.36227/techrxiv.13207796",
+  "year": 2021,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "DevOps phases across Software Development Lifecycle",
+  "doi": "10.36227/techrxiv.13207796.v1",
+  "url": "https://doi.org/10.36227/techrxiv.13207796.v1",
+  "year": 2020,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "DevOps phases across Software Development Lifecycle",
+  "doi": "10.36227/techrxiv.13207796.v2",
+  "url": "https://doi.org/10.36227/techrxiv.13207796.v2",
+  "year": 2021,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Multi-Agent Collaborative Decision-Making Framework for Highway Full Lifecycle Management",
+  "doi": "10.2139/ssrn.6508383",
+  "url": "https://doi.org/10.2139/ssrn.6508383",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Di-Agent: A Multi-Agent Llm Framework for Full Lifecycle Bearing Health Management",
+  "doi": "10.2139/ssrn.5292405",
+  "url": "https://doi.org/10.2139/ssrn.5292405",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "CodeAir: A Multi-Agent Orchestration Framework for AI-Assisted Software Development",
+  "doi": "10.2139/ssrn.5928934",
+  "url": "https://doi.org/10.2139/ssrn.5928934",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The first twenty years of agent-based software development with JADE",
+  "doi": "10.1007/s10458-020-09460-z",
+  "url": "https://doi.org/10.1007/s10458-020-09460-z",
+  "year": 2020,
+  "venue": "Autonomous Agents and Multi-Agent Systems",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Legal Risks in the Software Development Lifecycle",
+  "doi": "10.4324/9781003669609",
+  "url": "https://doi.org/10.4324/9781003669609",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The Role of AI Tools Across the Software Development Lifecycle",
+  "doi": "10.21275/sr251108130321",
+  "url": "https://doi.org/10.21275/sr251108130321",
+  "year": 2025,
+  "venue": "International Journal of Science and Research (IJSR)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The Role of Observability in Modern Software Development Lifecycle",
+  "doi": "10.21275/sr231030132216",
+  "url": "https://doi.org/10.21275/sr231030132216",
+  "year": 2021,
+  "venue": "International Journal of Science and Research (IJSR)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "SOLF - A SOFTWARE DEVELOPMENT LIFECYCLE BASED ON GOLF",
+  "doi": "10.31224/osf.io/zrdpu",
+  "url": "https://doi.org/10.31224/osf.io/zrdpu",
+  "year": 2020,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Development Phase",
+  "doi": "10.4324/9781003669609-5",
+  "url": "https://doi.org/10.4324/9781003669609-5",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "An Insight on (SDLC) Software Development Lifecycle Process Models",
+  "doi": "10.31124/advance.22354453.v1",
+  "url": "https://doi.org/10.31124/advance.22354453.v1",
+  "year": 2023,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "An Insight on (SDLC) Software Development Lifecycle Process Models",
+  "doi": "10.31124/advance.22354453",
+  "url": "https://doi.org/10.31124/advance.22354453",
+  "year": 2023,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Ethics by Agreement in Multi-agent Software Systems",
+  "doi": "10.5220/0007958105290535",
+  "url": "https://doi.org/10.5220/0007958105290535",
+  "year": 2019,
+  "venue": "Proceedings of the 14th International Conference on Software Technologies",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Strategies for Integrating Security into the Software Development Lifecycle",
+  "doi": "10.37547/tajet/volume07issue04-20",
+  "url": "https://doi.org/10.37547/tajet/volume07issue04-20",
+  "year": 2025,
+  "venue": "The American Journal of Engineering and Technology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The Role of Gamification in Software Development Lifecycle",
+  "doi": "10.5772/intechopen.91113",
+  "url": "https://doi.org/10.5772/intechopen.91113",
+  "year": 2021,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "WITHDRAWN: Resilience-Oriented Lifecycle Automation of Structural RC Elements via a Multi-Agent System Framework",
+  "doi": "10.21203/rs.3.rs-7326131/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-7326131/v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "WITHDRAWN: Resilience-Oriented Lifecycle Automation of Structural RC Elements via a Multi-Agent System Framework",
+  "doi": "10.21203/rs.3.rs-7326131/v2",
+  "url": "https://doi.org/10.21203/rs.3.rs-7326131/v2",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Model-Driven Development of Fuzzy-BDI Multi-Agent Systems",
+  "doi": "10.5220/0014611800004058",
+  "url": "https://doi.org/10.5220/0014611800004058",
+  "year": 2026,
+  "venue": "Proceedings of the 14th International Conference on Model-Based Software and Systems Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "METHOD OF FUNCTIONING AND STRUCTURE OF ONTOLOGY-BASED INTELLIGENT AGENT FOR ASSESSING THE INITIAL STAGES OF THE SOFTWARE LIFECYCLE",
+  "doi": "10.31891/2307-5732-2020-285-3-9",
+  "url": "https://doi.org/10.31891/2307-5732-2020-285-3-9",
+  "year": 2020,
+  "venue": "Herald of Khmelnytskyi National University. Technical sciences",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Enhanced Software Risk Assessment in Software Development Lifecycle",
+  "doi": "10.46253/j.mr.v5i3.a5",
+  "url": "https://doi.org/10.46253/j.mr.v5i3.a5",
+  "year": 2022,
+  "venue": "Multimedia Research",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Introduction",
+  "doi": "10.4324/9781003669609-1",
+  "url": "https://doi.org/10.4324/9781003669609-1",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "iCoder: A Multi Agent Software Development Platform",
+  "doi": "10.2139/ssrn.6027954",
+  "url": "https://doi.org/10.2139/ssrn.6027954",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "- The Secure Development Lifecycle",
+  "doi": "10.1201/b16134-8",
+  "url": "https://doi.org/10.1201/b16134-8",
+  "year": 2018,
+  "venue": "Core Software Security",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Deployment Phase",
+  "doi": "10.4324/9781003669609-7",
+  "url": "https://doi.org/10.4324/9781003669609-7",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Quantum Software Development Lifecycle",
+  "doi": "10.1007/978-3-031-05324-5_4",
+  "url": "https://doi.org/10.1007/978-3-031-05324-5_4",
+  "year": 2022,
+  "venue": "Quantum Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Design Phase",
+  "doi": "10.4324/9781003669609-4",
+  "url": "https://doi.org/10.4324/9781003669609-4",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Testing Phase",
+  "doi": "10.4324/9781003669609-6",
+  "url": "https://doi.org/10.4324/9781003669609-6",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Threats Arising from Software Gamification",
+  "doi": "10.5772/intechopen.95963",
+  "url": "https://doi.org/10.5772/intechopen.95963",
+  "year": 2021,
+  "venue": "The Role of Gamification in Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Quality Measures for Agent-Oriented Software",
+  "doi": "10.5772/intechopen.79741",
+  "url": "https://doi.org/10.5772/intechopen.79741",
+  "year": 2019,
+  "venue": "Multi-Agent Systems - Control Spectrum",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Maintenance and Support",
+  "doi": "10.4324/9781003669609-8",
+  "url": "https://doi.org/10.4324/9781003669609-8",
+  "year": 2026,
+  "venue": "Legal Risks in the Software Development Lifecycle",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Special issue on Current trends in research on software agents and agent-based software systems",
+  "doi": "10.1007/s10458-021-09510-0",
+  "url": "https://doi.org/10.1007/s10458-021-09510-0",
+  "year": 2021,
+  "venue": "Autonomous Agents and Multi-Agent Systems",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "MULTI-AGENT SOFTWARE DEVELOPMENT FOR DIGITAL IMAGE PROCESSING",
+  "doi": "10.34219/2078-8320-2024-15-5-100-107",
+  "url": "https://doi.org/10.34219/2078-8320-2024-15-5-100-107",
+  "year": 2024,
+  "venue": "Informatization and communication",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Facilitating Trustworthy Human-Agent Collaboration in LLM-based Multi-Agent System oriented Software Engineering",
+  "doi": "10.1145/3696630.3728717",
+  "url": "https://doi.org/10.1145/3696630.3728717",
+  "year": 2025,
+  "venue": "Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Developing and Evaluating an LLM-based Agent for ExplorViz Using CopilotKit",
+  "doi": "10.38071/2026-00397-5",
+  "url": "https://doi.org/10.38071/2026-00397-5",
+  "year": 2026,
+  "venue": "Kiel Software Engineering Research",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "ALMAS: an Autonomous LLM-based Multi-Agent Software Engineering Framework",
+  "doi": "10.1109/asew67777.2025.00059",
+  "url": "https://doi.org/10.1109/asew67777.2025.00059",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Facilitation of Kansei engineering design process with LLM multi-agent discussion",
+  "doi": "10.54941/ahfe1005135",
+  "url": "https://doi.org/10.54941/ahfe1005135",
+  "year": 2024,
+  "venue": "AHFE International",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM Dual-Agent for Taste Preference Prediction",
+  "doi": "10.1109/cbase67452.2025.11335473",
+  "url": "https://doi.org/10.1109/cbase67452.2025.11335473",
+  "year": 2025,
+  "venue": "2025 4th International Conference on Cloud Computing, Big Data Application and Software Engineering (CBASE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Assessing and Enhancing the Robustness of LLM-Based Multi-Agent Systems Through Chaos Engineering",
+  "doi": "10.1109/cain66642.2025.00039",
+  "url": "https://doi.org/10.1109/cain66642.2025.00039",
+  "year": 2025,
+  "venue": "2025 IEEE/ACM 4th International Conference on AI Engineering \u2013 Software Engineering for AI (CAIN)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Traceability and Accountability in Role-Specialized Multi-Agent LLM Pipelines",
+  "doi": "10.1109/asew67777.2025.00064",
+  "url": "https://doi.org/10.1109/asew67777.2025.00064",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "RepairAgent: An Autonomous, LLM-Based Agent for Program Repair",
+  "doi": "10.1109/icse55347.2025.00157",
+  "url": "https://doi.org/10.1109/icse55347.2025.00157",
+  "year": 2025,
+  "venue": "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "NOMAD: A Multi-Agent LLM System for UML Class Diagram Generation from Natural Language Requirements",
+  "doi": "10.5220/0014301900004058",
+  "url": "https://doi.org/10.5220/0014301900004058",
+  "year": 2026,
+  "venue": "Proceedings of the 14th International Conference on Model-Based Software and Systems Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "NIODebugger: A Novel Approach to Repair Non-Idempotent-Outcome Tests with LLM-Based Agent",
+  "doi": "10.1109/icse55347.2025.00226",
+  "url": "https://doi.org/10.1109/icse55347.2025.00226",
+  "year": 2025,
+  "venue": "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Bridging MDE and LLM-Based Agent Frameworks for Multi-Agent Systems: A Quasi-Systematic Review and Metamodel",
+  "doi": "10.5220/0014236700004058",
+  "url": "https://doi.org/10.5220/0014236700004058",
+  "year": 2026,
+  "venue": "Proceedings of the 14th International Conference on Model-Based Software and Systems Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Towards the Versioning of LLM-Agent-Based Software",
+  "doi": "10.1145/3696630.3728714",
+  "url": "https://doi.org/10.1145/3696630.3728714",
+  "year": 2025,
+  "venue": "Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Modular Multi-Agent {LLM} Architecture for Text-to-Diagram Generation and User-Guided Refinement",
+  "doi": "10.37190/e-inf260109",
+  "url": "https://doi.org/10.37190/e-inf260109",
+  "year": 2026,
+  "venue": "e-Informatica Software Engineering Journal",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Interactive LLM Agent Review for Software Engineering Artifacts",
+  "doi": "10.1080/08874417.2026.2650523",
+  "url": "https://doi.org/10.1080/08874417.2026.2650523",
+  "year": 2026,
+  "venue": "Journal of Computer Information Systems",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "BuilDroid: A Self-Correcting LLM Agent for Automated Android Builds",
+  "doi": "10.1109/ase63991.2025.00370",
+  "url": "https://doi.org/10.1109/ase63991.2025.00370",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A LLM-Powered Agent for Summarizing Critical Information in the Swine Certification Process",
+  "doi": "10.5220/0013473400003929",
+  "url": "https://doi.org/10.5220/0013473400003929",
+  "year": 2025,
+  "venue": "Proceedings of the 27th International Conference on Enterprise Information Systems",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead",
+  "doi": "10.1145/3712003",
+  "url": "https://doi.org/10.1145/3712003",
+  "year": 2025,
+  "venue": "ACM Transactions on Software Engineering and Methodology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "An LLM-based multi-agent framework for agile effort estimation",
+  "doi": "10.1109/ase63991.2025.00090",
+  "url": "https://doi.org/10.1109/ase63991.2025.00090",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Artifact validity under varying agent configurations in LLM-assisted software development: A comparative analysis",
+  "doi": "10.1016/j.infsof.2026.108022",
+  "url": "https://doi.org/10.1016/j.infsof.2026.108022",
+  "year": 2026,
+  "venue": "Information and Software Technology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Comparative Study Towards Designing a Hybrid Architecture of Microservices and LLM-based Multi-Agent Systems",
+  "doi": "10.1109/apsec66846.2025.00077",
+  "url": "https://doi.org/10.1109/apsec66846.2025.00077",
+  "year": 2025,
+  "venue": "2025 32nd Asia-Pacific Software Engineering Conference (APSEC)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AutoReview: An LLM-based Multi-Agent System for Security Issue-Oriented Code Review",
+  "doi": "10.1145/3696630.3728618",
+  "url": "https://doi.org/10.1145/3696630.3728618",
+  "year": 2025,
+  "venue": "Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Automating Software Release Notes with AI: A Comparative Study of Agent-Based Systems vs. LLM Fine-Tuning Approaches",
+  "doi": "10.55041/isjem05150",
+  "url": "https://doi.org/10.55041/isjem05150",
+  "year": 2025,
+  "venue": "International Scientific Journal of Engineering and Management",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms",
+  "doi": "10.36227/techrxiv.175339471.17113065/v1",
+  "url": "https://doi.org/10.36227/techrxiv.175339471.17113065/v1",
+  "year": 2025,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Multi-agent systems for improved information retrieval - leveraging autonomous agents and LLM models",
+  "doi": "10.1109/asew67777.2025.00062",
+  "url": "https://doi.org/10.1109/asew67777.2025.00062",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Mixed-Method Empirical Study of LLM Assistance in Software Engineering Workflows",
+  "doi": "10.5220/0014983500004015",
+  "url": "https://doi.org/10.5220/0014983500004015",
+  "year": 2026,
+  "venue": "Proceedings of the 21st International Conference on Evaluation of Novel Approaches to Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Engineering LLM-based Multi-Agent Systems: A Taxonomy of Emerging Frameworks",
+  "doi": "10.1109/ms.2026.3694089",
+  "url": "https://doi.org/10.1109/ms.2026.3694089",
+  "year": 2026,
+  "venue": "IEEE Software",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "SALLMA: A Software Architecture for LLM-Based Multi-Agent Systems",
+  "doi": "10.1109/satrends66715.2025.00006",
+  "url": "https://doi.org/10.1109/satrends66715.2025.00006",
+  "year": 2025,
+  "venue": "2025 IEEE/ACM International Workshop New Trends in Software Architecture (SATrends)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Scrum-AI LLM Based Software Process Management",
+  "doi": "10.1109/ubmk67458.2025.11206875",
+  "url": "https://doi.org/10.1109/ubmk67458.2025.11206875",
+  "year": 2025,
+  "venue": "2025 10th International Conference on Computer Science and Engineering (UBMK)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building",
+  "doi": "10.1145/3729386",
+  "url": "https://doi.org/10.1145/3729386",
+  "year": 2025,
+  "venue": "Proceedings of the ACM on Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Taxonomy for Autonomous LLM-Powered Multi-Agent Architectures",
+  "doi": "10.5220/0012239100003598",
+  "url": "https://doi.org/10.5220/0012239100003598",
+  "year": 2023,
+  "venue": "Proceedings of the 15th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Emergent Autonomous Sub-Agent Spawning in LLM-Based Multi-Agent Software Engineering Systems:An Empirical Case Study, Controlled Pilot Experiment, and Benchmark Framework\"Can AI Agents Have Babies?\"",
+  "doi": "10.51244/ijrsi.2026.1303000020",
+  "url": "https://doi.org/10.51244/ijrsi.2026.1303000020",
+  "year": 2026,
+  "venue": "International Journal of Research and Scientific Innovation",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair",
+  "doi": "10.1145/3818617",
+  "url": "https://doi.org/10.1145/3818617",
+  "year": 2026,
+  "venue": "ACM Transactions on Software Engineering and Methodology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "HumanEvalComm: Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent",
+  "doi": "10.1145/3715109",
+  "url": "https://doi.org/10.1145/3715109",
+  "year": 2025,
+  "venue": "ACM Transactions on Software Engineering and Methodology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Fuzzy-LLM: Multi-Agent Task Planning with Large Language Models",
+  "doi": "10.1109/snpd65828.2025.11254718",
+  "url": "https://doi.org/10.1109/snpd65828.2025.11254718",
+  "year": 2025,
+  "venue": "2025 IEEE/ACIS 29th International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Developing Multi-Agent LLM Applications Through Continuous Human-LLM Co-Programming",
+  "doi": "10.1109/cain66642.2025.00013",
+  "url": "https://doi.org/10.1109/cain66642.2025.00013",
+  "year": 2025,
+  "venue": "2025 IEEE/ACM 4th International Conference on AI Engineering \u2013 Software Engineering for AI (CAIN)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Catalogue of Evaluation Metrics for LLM-Based Multi-Agent Frameworks in Software Engineering",
+  "doi": "10.1145/3786167.3788430",
+  "url": "https://doi.org/10.1145/3786167.3788430",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 International Workshop on Agentic Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Case Studies on LLM Centric and Services Oriented Data Analytics Agent Development",
+  "doi": "10.1145/3708635.3708655",
+  "url": "https://doi.org/10.1145/3708635.3708655",
+  "year": 2024,
+  "venue": "Proceedings of the 2024 13th International Conference on Software and Information Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Engineering LLM Powered Multi-Agent Framework for Autonomous CloudOps",
+  "doi": "10.1109/cain66642.2025.00031",
+  "url": "https://doi.org/10.1109/cain66642.2025.00031",
+  "year": 2025,
+  "venue": "2025 IEEE/ACM 4th International Conference on AI Engineering \u2013 Software Engineering for AI (CAIN)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "DevNous: An LLM-based multi-agent system for grounding IT project management in unstructured conversation",
+  "doi": "10.1016/j.infsof.2026.108078",
+  "url": "https://doi.org/10.1016/j.infsof.2026.108078",
+  "year": 2026,
+  "venue": "Information and Software Technology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "The Role of Software Measurement in Assured LLM-Based Software Engineering",
+  "doi": "10.1145/3661167.3661269",
+  "url": "https://doi.org/10.1145/3661167.3661269",
+  "year": 2024,
+  "venue": "Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering",
+  "source": "crossref-supplementary"
+ }
+]

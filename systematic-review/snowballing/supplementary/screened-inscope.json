@@ -1,0 +1,98 @@
+[
+ {
+  "title": "CodeAir: A Multi-Agent Orchestration Framework for AI-Assisted Software Development",
+  "doi": "10.2139/ssrn.5928934",
+  "url": "https://doi.org/10.2139/ssrn.5928934",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "ALMAS: an Autonomous LLM-based Multi-Agent Software Engineering Framework",
+  "doi": "10.1109/asew67777.2025.00059",
+  "url": "https://doi.org/10.1109/asew67777.2025.00059",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "iCoder: A Multi Agent Software Development Platform",
+  "doi": "10.2139/ssrn.6027954",
+  "url": "https://doi.org/10.2139/ssrn.6027954",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Small Language Models and Spec-Driven Development for High-Accuracy Agentic Frameworks",
+  "doi": "10.2139/ssrn.5833543",
+  "url": "https://doi.org/10.2139/ssrn.5833543",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A Documentation-Driven Framework for AI-Assisted Full-Circle Agile Software Development",
+  "doi": "10.1109/ieir67391.2025.11491045",
+  "url": "https://doi.org/10.1109/ieir67391.2025.11491045",
+  "year": 2025,
+  "venue": "2025 International Conference on Intelligent Education and Intelligent Research (IEIR)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Decision-Driven Software Engineering (DDSE) for AI-Assisted Development -A New SDLC Paradigm",
+  "doi": "10.2139/ssrn.6632898",
+  "url": "https://doi.org/10.2139/ssrn.6632898",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair",
+  "doi": "10.1145/3818617",
+  "url": "https://doi.org/10.1145/3818617",
+  "year": 2026,
+  "venue": "ACM Transactions on Software Engineering and Methodology",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Scrum-AI LLM Based Software Process Management",
+  "doi": "10.1109/ubmk67458.2025.11206875",
+  "url": "https://doi.org/10.1109/ubmk67458.2025.11206875",
+  "year": 2025,
+  "venue": "2025 10th International Conference on Computer Science and Engineering (UBMK)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "Generative AI-Assisted Framework for Secure and Autonomous Software Development Lifecycle Optimization",
+  "doi": "10.1109/icipcn67432.2026.11438791",
+  "url": "https://doi.org/10.1109/icipcn67432.2026.11438791",
+  "year": 2026,
+  "venue": "2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "A 3-Layer Agentic Model for Nonfunctional Requirements in Software Engineering",
+  "doi": "10.1109/asew67777.2025.00020",
+  "url": "https://doi.org/10.1109/asew67777.2025.00020",
+  "year": 2025,
+  "venue": "2025 40th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "AutoReview: An LLM-based Multi-Agent System for Security Issue-Oriented Code Review",
+  "doi": "10.1145/3696630.3728618",
+  "url": "https://doi.org/10.1145/3696630.3728618",
+  "year": 2025,
+  "venue": "Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering",
+  "source": "crossref-supplementary"
+ },
+ {
+  "title": "FGDM: Reasoning Aware Multi-Agentic Framework for Software Bug Detection using Chain of Thought and Tree of Thought Prompting",
+  "doi": "10.2139/ssrn.6731321",
+  "url": "https://doi.org/10.2139/ssrn.6731321",
+  "year": 2026,
+  "venue": "",
+  "source": "crossref-supplementary"
+ }
+]
