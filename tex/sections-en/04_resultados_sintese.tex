@@ -1,6 +1,6 @@
 \section{Results and Synthesis}
 
-This section consolidates the findings of the 37 included studies. The synthesis follows a hybrid thematic approach: six themes were derived inductively from the structured fields of the extraction records (artifacts, roles, execution, validation, portability, risks, nature, and evidence) and then confronted with the six-dimension taxonomy proposed in the previous section, so as to validate it empirically rather than assume it. The themes answer RQ1 through RQ4; RQ5, on gaps, is addressed in the Research Agenda. Because the protocol fixed \texttt{quality\_assessment: none}, there is no weighting by risk of bias; the strength of the evidence is qualified by source category.
+This section consolidates the findings of the 37 included studies. The synthesis follows a hybrid thematic approach: six themes were derived inductively from the structured fields of the extraction records (artifacts, roles, execution, validation, portability, risks, nature, and evidence) and then confronted with the six-dimension taxonomy proposed in the previous section, so as to test it against the evidence rather than assume it. The themes answer RQ1 through RQ4; RQ5, on gaps, is addressed in the Research Agenda. The strength of each study's evidence is weighted by a source-category quality assessment, described in the Method and summarized below (Table~\ref{tab:qualidade}).
 
 \noindent\textbf{Quantitative overview.} Table~\ref{tab:quant} summarizes the composition of the corpus. The framework category dominates almost entirely (34 of the 37 studies), which empirically supports the thesis that the unit of work has shifted from the isolated prompt to the structured process. Empirical evaluation is claimed by 26 studies and 22 release a public repository, but ten are arXiv preprints not yet peer-reviewed, which calls for a qualified reading of the strength of the evidence (Figure~\ref{fig:evidence}). The temporal distribution shows steady acceleration of the field, from a single study in 2022 to eleven in 2026, with most of the corpus concentrated from 2024 onward (Figure~\ref{fig:year}). Venues are dispersed, with the ACM Transactions on Software Engineering and Methodology as a recurring outlet (five studies) followed by a long tail of conferences and journals with one or two studies each, consistent with an emerging field that still lacks a consolidated forum.
 
@@ -42,6 +42,32 @@ High extraction confidence & 35 & Medium in Dam2025 and JundaHe2025 \\
 \label{fig:evidence}
 \end{figure}
 
+\noindent\textbf{Quality assessment by source category.} Table~\ref{tab:qualidade} summarizes the quality assessment described in the Method, with the four-item checklist applied to the 37 studies. Eleven studies (30\%) fall in the high-quality band, seventeen (46\%) in the medium band, and nine (24\%) in the low band. Most of the corpus comes from peer-reviewed venues (25 studies, 68\%), against ten arXiv preprints (27\%) and two non-indexed technical records (5\%). At the item level, 26 studies (70\%) report empirical evaluation and 22 (59\%) release a public repository, but only five (14\%) bring applied validation in a case study or real project, which bounds how far the current evidence supports production use. The low band concentrates preprints and technical records without recorded empirical evaluation; their findings are read cautiously in the synthesis and no theme rests exclusively on them. The assessment is conservative by construction, since it derives from the signals recorded in the extraction rather than from a full-text reappraisal of each study.
+
+\begin{table}[h!]
+\centering
+\caption{Source-category quality assessment of the 37 studies. Items derived from observable signals in the extraction matrix; QA is the sum of QA1 to QA4 (0 to 4).}
+\label{tab:qualidade}
+\small
+\begin{tabularx}{\textwidth}{@{}p{0.46\textwidth}r Y@{}}
+\toprule
+\textbf{Category} & \textbf{N} & \textbf{\%} \\
+\midrule
+High quality (QA $\geq$ 3) & 11 & 30\% \\
+Medium quality (QA = 2) & 17 & 46\% \\
+Low quality (QA $\leq$ 1) & 9 & 24\% \\
+\midrule
+Peer-reviewed venue (QA1) & 25 & 68\% \\
+arXiv preprint & 10 & 27\% \\
+Non-indexed technical record & 2 & 5\% \\
+\midrule
+Reported empirical evaluation (QA2) & 26 & 70\% \\
+Applied validation in a case study (QA3) & 5 & 14\% \\
+Public artifact for reproducibility (QA4) & 22 & 59\% \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
 \noindent\textbf{Six inductive themes.} The analysis surfaced six themes that, together, cover the 37 studies (100\% coverage, above the 80\% target). Each study may belong to more than one theme; the order reflects decreasing frequency.
 
 \noindent\textbf{T1: multi-agent orchestration and role division.} This is the most populous theme and the dominant architectural axis of the corpus, answering RQ1 directly. The central convergence is that structuring the work by distinct roles, not the choice of language model, is what differentiates the frameworks. ChatDev encodes a chat chain with design, coding, testing, and review phases, plus a communicative dehallucination mechanism \cite{ChenQian2023}. MetaGPT internalizes standard operating procedures from software engineering, assigning specific artifacts to each role: the product manager generates requirements, the architect generates the design and interfaces, the developer implements \cite{SiruiHong2023}. CodePori scales that arrangement to agents for management, architecture, structure, development, verification, and finalization \cite{ZeeshanRasheed2024}, and AutoDev and AutoCodeRover bring agent coordination to real program-improvement tasks \cite{MicheleTufano2024,YuntongZhang2024}. He et al.'s reviews and Hassan et al.'s Software Engineering 3.0 vision confirm that the literature already organizes these systems by lifecycle stage \cite{JundaHe2025,AhmedEHassan2024}. Consensus, however, is partial: there is clear tension over the degree of autonomy. Sapkota et al. explicitly contrast vibe coding and agentic coding \cite{RanjanSapkota2025}, and while CodePori and MetaGPT lean toward end-to-end autonomous development, other designs preserve human decision points. Reliability and coordination cost appear as recurring risks in this theme \cite{Dam2025,Alsegier2026,Merchant2025,Paduraru2026,SKaruppuchamy2026,Paiva2026,Akbar2025,LiyiCai2025,Anon2026,BESLEAGA2026}.
@@ -63,7 +89,7 @@ High extraction confidence & 35 & Medium in Dam2025 and JundaHe2025 \\
 \label{fig:risk}
 \end{figure}
 
-\noindent\textbf{Empirical validation of the taxonomy.} Table~\ref{tab:tema-dim} crosses each inductive theme with the six taxonomy dimensions, indicating the strength of the relation. The reading is direct. Five of the six dimensions receive strong empirical support from at least one theme: roles and execution anchor in T1; specification and validation, in T2 and T4; context, in T3. In that part, the taxonomy is empirically validated. Figure~\ref{fig:heatmap} renders the same mapping as a heatmap. The exception is portability, which receives no strong relation from any theme and is absent in two. In the data, portability appears almost always on the negative side, as a risk of lock-in and of dependence on an IDE, a commercial model, or a platform. The portability field of the records notes dependence on an IDE or environment in nearly all 37 studies, and lock-in is named explicitly as a risk in only one of them \cite{SeyedmoeinMohsenimofidi2025}. Portability is therefore the weakest dimension of the taxonomy when confronted with the evidence, and should be read as a predominantly diagnostic dimension, not as a positive differentiator between frameworks. Themes T5 and T6, in turn, have no clear home in the six dimensions: the human-organizational axis and the security axis emerge from the data as concrete recommendations for extension, and the rule of the hybrid mode was respected by not forcing them into the existing dimensions.
+\noindent\textbf{Confronting the taxonomy with the evidence.} Table~\ref{tab:tema-dim} crosses each inductive theme with the six taxonomy dimensions, indicating the strength of the relation, which is coded by the author from the extraction records. The reading is direct. Five of the six dimensions receive strong support from at least one theme: roles and execution anchor in T1; specification and validation, in T2 and T4; context, in T3. In that part, the taxonomy holds up against the evidence. Figure~\ref{fig:heatmap} renders the same mapping as a heatmap. The exception is portability, which receives no strong relation from any theme and is absent in two. In the data, portability appears almost always on the negative side, as a risk of lock-in and of dependence on an IDE, a commercial model, or a platform. The portability field of the records notes dependence on an IDE or environment in nearly all 37 studies, and lock-in is named explicitly as a risk in only one of them \cite{SeyedmoeinMohsenimofidi2025}. Portability is therefore the weakest dimension of the taxonomy when confronted with the evidence, and should be read as a predominantly diagnostic dimension, not as a positive differentiator between frameworks. Themes T5 and T6, in turn, have no clear home in the six dimensions: the human-organizational axis and the security axis emerge from the data as concrete recommendations for extension, and the rule of the hybrid mode was respected by not forcing them into the existing dimensions.
 
 \begin{table}[h!]
 \centering

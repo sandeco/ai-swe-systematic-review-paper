@@ -42,3 +42,19 @@ Confirmados OK no ciclo 1 (não re-criticar sem mudança): citações 40/40 com 
 - Reverificação: merged doc sem fatais reais (só falso-positivo do caminho da figura em /tmp); 0 travessões; sem subseções numeradas.
 
 ## Após 3 ciclos: sem issues FATAL/MAJOR residuais. Não é necessário aviso "REVISÃO HUMANA RECOMENDADA".
+
+### Ciclo 4 (2026-05-30, scientex-improve, re-crítica focada). Veredito: REVISÃO MENOR.
+
+Confirmação dos deltas do backlog do score.md (item a item):
+- IMP-2 (avaliação de qualidade): FECHADO. Método descreve checklist de 4 itens (QA1-QA4) por categoria de fonte; Resultados traz Tabela tab:qualidade (alta 11/30%, média 17/46%, baixa 9/24%). Honesto e conservador (deriva de sinais da extração). Resíduo (instrumento de risco de viés por texto completo) declarado na Limitação. Creditável.
+- IMP-1 (IRR): PARCIAL-HONESTO. O paper NÃO reivindica kappa de dois humanos; reporta dupla-checagem por protocolo e entrega infra (coding sheets, irr_kit.py, irr-protocol.md). Objeção nº1 de revisor de RSL suavizada, não plenamente neutralizada (sem valor de kappa ainda). Ponto cheio fica AUTOR.
+- IMP-3 (overclaim): FECHADO. "validação empírica" -> "confronto com a evidência" em abstract, intro, taxonomia, related work e resultados; codificação pelo autor explicitada. Sem novo overclaim.
+- IMP-4 (2a passada narrativa): PARCIAL. Achado narrativo consolidado por estudo (12 substantivos + 25 estruturados, sinalizados); extração de texto completo dos 25 restantes fica como futuro (declarado).
+- IMP-5 (saturação): FECHADO. Figura fig:saturacao + discussão honesta de "saturação parcial".
+- IMP-7 (viés de publicação): FECHADO. Quantificado (26/37, 70%).
+- IMP-6 (checklist Kitchenham): FECHADO. Apêndice ap:checklist nas duas línguas.
+- IMP-8 (posicionamento quantitativo): FECHADO. Diferencial mensurável pela unidade de análise vs Hou et al. e He et al., sem fabricar contagens dos surveys.
+
+Sem regressão das forças: gap de SE preservado; RSL pura preservada; 40/40 DOIs intactos; hedging honesto reforçado, não enfraquecido. Paridade pt/en mantida. 0 travessões; 0 fatais de LaTeX; 40/40 cite-keys.
+
+## Após 4 ciclos: sem issues FATAL/MAJOR residuais. Pendência AUTOR para 90+: IRR humano real (kappa) e, opcionalmente, ampliação de bases.

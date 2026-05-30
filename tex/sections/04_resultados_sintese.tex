@@ -1,6 +1,6 @@
 \section{Resultados e Síntese}
 
-Esta seção consolida os achados dos 37 estudos incluídos. A síntese segue uma abordagem temática em modo híbrido: seis temas foram derivados indutivamente dos campos estruturados das fichas de extração (artefatos, papéis, execução, validação, portabilidade, riscos, natureza e evidência) e, em seguida, confrontados com a taxonomia de seis dimensões proposta na seção anterior, de modo a validá-la empiricamente em vez de assumi-la. Os temas respondem às perguntas RQ1 a RQ4; a RQ5, sobre lacunas, é tratada na Agenda de Pesquisa. Como o protocolo fixou \texttt{quality\_assessment: none}, não há ponderação por risco de viés; a força da evidência é qualificada por categoria de fonte.
+Esta seção consolida os achados dos 37 estudos incluídos. A síntese segue uma abordagem temática em modo híbrido: seis temas foram derivados indutivamente dos campos estruturados das fichas de extração (artefatos, papéis, execução, validação, portabilidade, riscos, natureza e evidência) e, em seguida, confrontados com a taxonomia de seis dimensões proposta na seção anterior, de modo a testá-la contra a evidência em vez de assumi-la. Os temas respondem às perguntas RQ1 a RQ4; a RQ5, sobre lacunas, é tratada na Agenda de Pesquisa. A força da evidência de cada estudo é ponderada por uma avaliação de qualidade por categoria de fonte, descrita no Método e resumida adiante (Tabela~\ref{tab:qualidade}).
 
 \noindent\textbf{Panorama quantitativo.} A Tabela~\ref{tab:quant} resume a composição do corpus. A categoria framework domina quase por completo (34 dos 37 estudos), o que sustenta empiricamente a tese de que a unidade de trabalho se deslocou do prompt isolado para o processo estruturado. A avaliação empírica é reivindicada por 26 estudos e 22 disponibilizam repositório público, mas dez são preprints arXiv ainda não revisados por pares, o que exige leitura qualificada da força da evidência (Figura~\ref{fig:evidence}). A distribuição temporal mostra aceleração consistente do campo, de um único estudo em 2022 para onze em 2026, com a maior parte do corpus concentrada a partir de 2024 (Figura~\ref{fig:year}). Os venues são dispersos, com a ACM Transactions on Software Engineering and Methodology como canal recorrente (cinco estudos) seguido de uma cauda longa de conferências e periódicos com um a dois estudos cada, o que é coerente com um campo emergente ainda sem foro consolidado.
 
@@ -42,6 +42,32 @@ Confiança de extração alta & 35 & Média em Dam2025 e JundaHe2025 \\
 \label{fig:evidence}
 \end{figure}
 
+\noindent\textbf{Avaliação de qualidade por categoria de fonte.} A Tabela~\ref{tab:qualidade} resume a avaliação de qualidade descrita no Método, com o checklist de quatro itens aplicado aos 37 estudos. Onze estudos (30\%) ficam na faixa de qualidade alta, dezessete (46\%) na média e nove (24\%) na baixa. A maior parte do corpus vem de venue revisado por pares (25 estudos, 68\%), contra dez preprints arXiv (27\%) e dois registros técnicos não indexados (5\%). No nível dos itens, 26 estudos (70\%) reportam avaliação empírica e 22 (59\%) disponibilizam repositório público, mas apenas cinco (14\%) trazem validação aplicada em estudo de caso ou projeto real, o que delimita o quanto a evidência atual sustenta uso em produção. A faixa baixa concentra-se em preprints e registros técnicos sem avaliação empírica registrada; seus achados são lidos com cautela na síntese e nenhum tema se apoia exclusivamente neles. A avaliação é conservadora por construção, pois deriva dos sinais registrados na extração e não de uma reanálise de texto completo estudo a estudo.
+
+\begin{table}[h!]
+\centering
+\caption{Avaliação de qualidade por categoria de fonte dos 37 estudos. Itens derivados de sinais observáveis na matriz de extração; QA é a soma de QA1 a QA4 (0 a 4).}
+\label{tab:qualidade}
+\small
+\begin{tabularx}{\textwidth}{@{}p{0.46\textwidth}r Y@{}}
+\toprule
+\textbf{Categoria} & \textbf{N} & \textbf{\%} \\
+\midrule
+Qualidade alta (QA $\geq$ 3) & 11 & 30\% \\
+Qualidade média (QA = 2) & 17 & 46\% \\
+Qualidade baixa (QA $\leq$ 1) & 9 & 24\% \\
+\midrule
+Venue revisado por pares (QA1) & 25 & 68\% \\
+Preprint arXiv & 10 & 27\% \\
+Registro técnico não indexado & 2 & 5\% \\
+\midrule
+Avaliação empírica reportada (QA2) & 26 & 70\% \\
+Validação aplicada em estudo de caso (QA3) & 5 & 14\% \\
+Artefato público para reprodutibilidade (QA4) & 22 & 59\% \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
 \noindent\textbf{Seis temas indutivos.} A análise fez emergir seis temas que, juntos, cobrem os 37 estudos (cobertura de 100\%, acima do alvo de 80\%). Cada estudo pode pertencer a mais de um tema; a ordem reflete frequência decrescente.
 
 \noindent\textbf{T1: orquestração multiagente e divisão de papéis.} Este é o tema mais populoso e o eixo arquitetônico dominante do corpus, respondendo diretamente à RQ1. A convergência central é que a estruturação do trabalho por papéis distintos, e não a escolha do modelo de linguagem, é o que diferencia os frameworks. ChatDev codifica uma cadeia de conversas com fases de design, codificação, teste e revisão, além de um mecanismo de redução comunicativa de alucinação \cite{ChenQian2023}. MetaGPT internaliza procedimentos operacionais padrão de engenharia de software, atribuindo a cada papel artefatos específicos: o gerente de produto gera requisitos, o arquiteto gera o design e as interfaces, o desenvolvedor implementa \cite{SiruiHong2023}. CodePori escala esse arranjo para agentes de gerência, arquitetura, estrutura, desenvolvimento, verificação e finalização \cite{ZeeshanRasheed2024}, e AutoDev e AutoCodeRover levam a coordenação de agentes a tarefas reais de melhoria de programas \cite{MicheleTufano2024,YuntongZhang2024}. As revisões de He et al. e a visão de Engenharia de Software 3.0 de Hassan et al. confirmam que a literatura já organiza esses sistemas por etapas do ciclo de vida \cite{JundaHe2025,AhmedEHassan2024}. O consenso, porém, é parcial: há tensão clara quanto ao grau de autonomia. Sapkota et al. contrastam explicitamente codificação por intuição e codificação agêntica \cite{RanjanSapkota2025}, e enquanto CodePori e MetaGPT se inclinam ao desenvolvimento autônomo de ponta a ponta, outros desenhos preservam pontos de decisão humana. A confiabilidade e o custo de coordenação aparecem como riscos recorrentes neste tema \cite{Dam2025,Alsegier2026,Merchant2025,Paduraru2026,SKaruppuchamy2026,Paiva2026,Akbar2025,LiyiCai2025,Anon2026,BESLEAGA2026}.
@@ -63,7 +89,7 @@ Confiança de extração alta & 35 & Média em Dam2025 e JundaHe2025 \\
 \label{fig:risk}
 \end{figure}
 
-\noindent\textbf{Validação empírica da taxonomia.} A Tabela~\ref{tab:tema-dim} cruza cada tema indutivo com as seis dimensões da taxonomia, indicando a força da relação. A leitura é direta. Cinco das seis dimensões recebem suporte empírico forte de pelo menos um tema: papéis e execução ancoram-se em T1; especificação e validação, em T2 e T4; contexto, em T3. Nessa parte, a taxonomia é empiricamente validada. A Figura~\ref{fig:heatmap} apresenta o mesmo mapeamento como um mapa de calor. A exceção é portabilidade, que não recebe relação forte de nenhum tema e é ausente em dois. Nos dados, portabilidade aparece quase sempre pelo lado negativo, como risco de aprisionamento tecnológico e de dependência de IDE, modelo comercial ou plataforma. O campo de portabilidade das fichas registra dependência de IDE ou ambiente em praticamente todos os 37 estudos, e o aprisionamento só é nomeado explicitamente como risco em um deles \cite{SeyedmoeinMohsenimofidi2025}. Portabilidade é, portanto, a dimensão mais fraca da taxonomia quando confrontada com a evidência, e deve ser lida como dimensão predominantemente diagnóstica, e não como diferenciador positivo entre frameworks. Os temas T5 e T6, por sua vez, não têm casa clara nas seis dimensões: o eixo humano-organizacional e o eixo de segurança emergem dos dados como recomendações concretas de extensão, e a regra do modo híbrido foi respeitada ao não forçá-los nas dimensões existentes.
+\noindent\textbf{Confronto da taxonomia com a evidência.} A Tabela~\ref{tab:tema-dim} cruza cada tema indutivo com as seis dimensões da taxonomia, indicando a força da relação, codificada pelo autor a partir das fichas de extração. A leitura é direta. Cinco das seis dimensões recebem suporte forte de pelo menos um tema: papéis e execução ancoram-se em T1; especificação e validação, em T2 e T4; contexto, em T3. Nessa parte, a taxonomia se sustenta no confronto com a evidência. A Figura~\ref{fig:heatmap} apresenta o mesmo mapeamento como um mapa de calor. A exceção é portabilidade, que não recebe relação forte de nenhum tema e é ausente em dois. Nos dados, portabilidade aparece quase sempre pelo lado negativo, como risco de aprisionamento tecnológico e de dependência de IDE, modelo comercial ou plataforma. O campo de portabilidade das fichas registra dependência de IDE ou ambiente em praticamente todos os 37 estudos, e o aprisionamento só é nomeado explicitamente como risco em um deles \cite{SeyedmoeinMohsenimofidi2025}. Portabilidade é, portanto, a dimensão mais fraca da taxonomia quando confrontada com a evidência, e deve ser lida como dimensão predominantemente diagnóstica, e não como diferenciador positivo entre frameworks. Os temas T5 e T6, por sua vez, não têm casa clara nas seis dimensões: o eixo humano-organizacional e o eixo de segurança emergem dos dados como recomendações concretas de extensão, e a regra do modo híbrido foi respeitada ao não forçá-los nas dimensões existentes.
 
 \begin{table}[h!]
 \centering

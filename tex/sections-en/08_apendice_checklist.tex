@@ -1,0 +1,33 @@
+\appendix
+\section{Reporting Compliance Checklist}
+\label{ap:checklist}
+
+Table~\ref{tab:checklist} lists the reporting items recommended for systematic reviews under the Kitchenham and Charters guidelines \cite{kitchenham2009slr}, indicating, for each item, where it is reported in this article. The goal is to make reporting compliance auditable and to ease replication. The protocol artifacts, the screening logs, the extraction matrix, the quality assessment, and the figure and reliability scripts are available in the study repository.
+
+\begin{table}[h!]
+\centering
+\caption{Kitchenham reporting checklist and where each item is met in this article.}
+\label{tab:checklist}
+\small
+\begin{tabularx}{\textwidth}{@{}p{0.50\textwidth}Y@{}}
+\toprule
+\textbf{Reporting item} & \textbf{Where it is met} \\
+\midrule
+Review context and rationale & Introduction \\
+Research questions (RQ1 to RQ5) & Introduction; Review Method \\
+Protocol fixed before execution & Review Method; \texttt{protocol.md} \\
+Sources consulted and search strings & Review Method; \texttt{descriptors.md} \\
+Inclusion and exclusion criteria & Review Method (criteria table) \\
+Two-pass selection and counts & Review Method; logs in \texttt{screening/} \\
+Snowballing and saturation analysis & Review Method (saturation figure) \\
+Inter-rater reliability (IRR) & Review Method; \texttt{irr-protocol.md}, \texttt{irr\_kit.py} \\
+Extraction schema and matrix & Review Method; \texttt{extraction-matrix.csv} \\
+Quality assessment / risk of bias & Review Method; Results (quality table) \\
+Synthesis method & Review Method; Results and Synthesis \\
+Results per research question & Results and Synthesis (theme $\times$ dimension and theme $\times$ RQ tables) \\
+Threats to validity and limitations & Review Limitations \\
+Conclusions and future work & Research Agenda; Conclusion \\
+Data and artifact availability & Study repository (protocol, logs, scripts, figures) \\
+\bottomrule
+\end{tabularx}
+\end{table}

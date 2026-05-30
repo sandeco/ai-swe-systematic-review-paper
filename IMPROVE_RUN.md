@@ -1,0 +1,32 @@
+# Improve run, ai-swe-systematic-review-paper
+
+## Rodada 1, 2026-05-30
+- Q antes: 74/100. Meta do autor: >90. Teto honesto desta rodada: ~86/100.
+- Escopo escolhido: "AUTO + preparar a infraestrutura dos itens AUTOR".
+
+### Itens executados (FEITO)
+- IMP-2 (Rigor, +3): avaliação de qualidade por categoria aplicada aos 37 estudos. Arquivos: systematic-review/make_quality_assessment.py, extracted/quality-assessment.csv, extracted/quality-summary.md; tex/sections{,-en}/02_metodo_revisao.tex, 04_resultados_sintese.tex (Tabela tab:qualidade). Dado-fonte: extraction-matrix.csv (confianca, evidencia). Confirmado por paper-critic: sim. Delta creditado: +3.
+- IMP-3 (Rigor/Clareza, +1): overclaim suavizado nas duas línguas (00_resumo, 01_introducao, 03_taxonomia, 03_trabalhos_relacionados, 04_resultados_sintese). Confirmado: sim. Delta: +1.
+- IMP-5 (Generalização, +1): curva de saturação. Arquivos: systematic-review/make_saturation_figure.py, figures/snowball_saturation_{pt,en}.{pdf,png}; 02_metodo (fig:saturacao) + 06b_limitacoes. Dado-fonte: snowballing/round-*/summary.md (69/50/30; 6/3/3). Confirmado: sim. Delta: +1.
+- IMP-6 (Clareza/Rigor, +1+0.5): checklist de relato Kitchenham. Arquivos: tex/sections{,-en}/08_apendice_checklist.tex, main{,-en}.tex (include), 02_metodo (ref ap:checklist). Confirmado: sim.
+- IMP-8 (Novidade, +1): posicionamento quantitativo vs Hou et al. e He et al. (03_trabalhos_relacionados, duas línguas). Confirmado: sim. Delta: +1.
+
+### Itens parciais (PARCIAL; ponto cheio AUTOR)
+- IMP-1 (Rigor, +1 de +5): infra de IRR entregue (systematic-review/irr_kit.py, screening/irr/coding-sheet-*.csv, irr-protocol.md) + reporte honesto no Método (dupla-checagem por protocolo). PENDENTE-AUTOR: 2o codificador humano independente para calcular o Cohen kappa real. Confirmado por paper-critic: parcial.
+- IMP-4 (Magnitude, +1 de +2): achado narrativo consolidado por estudo (make_key_findings.py -> extracted/key-findings.{md,csv}); 12 substantivos + 25 estruturados. Limitação 1 atualizada. PENDENTE: extração de texto completo, campo a campo, dos 25 restantes. Confirmado: parcial.
+- IMP-7 (Generalização, +1): viés de publicação quantificado (26/37) e recorte reforçado (06b_limitacoes, duas línguas). PENDENTE-AUTOR: ampliar busca para bases adicionais / remover restrição de idioma.
+
+### Itens AUTOR pendentes (para cruzar 90)
+- IMP-1: precisa de 2o codificador humano. Infra entregue: protocolo + script de kappa + coding sheets pré-preenchidas. Renderia Rigor 21 -> 24 (+3).
+- IMP-7 (ampliação real de bases): renderia Generalização 8 -> 9 (+1).
+- IMP-4 (texto completo dos 25): renderia Magnitude 11 -> 12/13 (+1 a +2).
+
+### Gates
+- latex-validator: APROVADO (pt e en): 0 fatais, 0 refs indefinidas, 40/40 cite-keys, 0 órfãos. Bib: 18 avisos cosméticos pré-existentes (campo volume).
+- citation-validator: 0 citação nova introduzida (reuso de chaves já com DOI verificado). Nada a validar.
+- Travessão U+2014/U+2013: 0 ocorrências nos arquivos tocados.
+- Acentuação pt-br: revisada no texto e nos rótulos das figuras (figuras de dados regeneradas com acento; saturação acentuada).
+- Forças (Seção 3 do score.md): nenhuma regrediu (gap de SE, RSL pura, 40 DOIs, hedging honesto, bilíngue, zero travessão, sem subseção).
+- Figuras novas: snowball_saturation a 96 DPI, fonte >=12pt, [h!], variantes _pt/_en.
+
+- Q depois: 85/100. Teto honesto sem recurso novo: ~86. Meta 90+ depende dos itens AUTOR acima.

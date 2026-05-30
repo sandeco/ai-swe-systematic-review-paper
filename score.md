@@ -4,7 +4,7 @@
 > Paper: "From Prompt to Process: A Systematic Review of AI-Assisted Software Development Frameworks"
 > Tipo: revisão sistemática de literatura (Kitchenham), bilíngue (pt-br + en), 37 estudos.
 > Data da avaliação: 2026-05-30. Avaliador: venue-recommender / paper-critic (SCIENTEX).
-> **Score atual (Q): 74 / 100.** **Teto realista após backlog: 88 a 90 / 100.** **Meta: 88.**
+> **Score atual (Q): 85 / 100.** (era 74; rodada scientex-improve de 2026-05-30) **Teto honesto sem recurso novo: ~86.** **Meta 90+ exige itens AUTOR (IRR humano real + ampliação de bases).**
 
 Este arquivo é a fonte de verdade do score. O agente `improve` deve: (1) ler este arquivo, (2) executar itens do backlog em ordem de prioridade, (3) reescrever apenas o necessário sem quebrar fatos, citações, números, DOIs, figuras nem as regras do SCIENTEX, (4) reavaliar com a mesma rubrica, (5) atualizar a tabela de score e o change log ao final.
 
@@ -23,15 +23,15 @@ Score = soma ponderada das notas por dimensão.
 
 ## 2. Score atual (decomposição)
 
-| Dimensão | Peso | Nota atual | Justificativa (estado em 2026-05-30) |
-|---|---|---|---|
-| Novidade | 20 | 16 | gap claro (lente de SE sobre frameworks operacionais), posicionado vs Hou et al., He et al., Hassan et al. |
-| Rigor | 25 | 16 | protocolo Kitchenham sólido (multibase, 2 passadas, 3 rodadas de snowballing, matriz). FALTA: IRR (kappa), avaliação de qualidade/risco de viés, análise de saturação. |
-| Reprodutibilidade | 15 | 13 | protocolo, extraction-matrix.csv, logs de screening, scripts e DOIs públicos no repo. PDFs não redistribuídos (corpus por DOI). |
-| Clareza | 15 | 13 | bilíngue, 5 figuras (96 DPI), 3 tabelas, seção de Limitações, figura de fluxo Kitchenham. FALTA: rotular o fluxo como PRISMA/Kitchenham checklist explícito. |
-| Magnitude | 15 | 10 | taxonomia testada + 3 eixos de tensão + agenda. Síntese parcialmente apoiada na identidade pública dos frameworks (extração de 1a passada). |
-| Generalização | 10 | 6 | 37 estudos, 2022-2026, EN/PT; viés de publicação provável; snowballing pode não ter saturado. |
-| **Total** | **100** | **74** | bom artigo de RSL, acima da média, com lacunas metodológicas tratáveis. |
+| Dimensão | Peso | Nota (74) | Nota (85) | Justificativa (estado em 2026-05-30, pós scientex-improve) |
+|---|---|---|---|---|
+| Novidade | 20 | 16 | 17 | IMP-8: posicionamento quantitativo vs Hou et al. e He et al. com diferencial mensurável pela unidade de análise (framework operacional vs tarefa/componente). |
+| Rigor | 25 | 16 | 21 | IMP-2 avaliação de qualidade por categoria aplicada aos 37 (tabela por faixa); IMP-3 overclaim suavizado; IMP-6 checklist Kitchenham; IMP-1 IRR reportado com honestidade (dupla-checagem por protocolo + infra de kappa). Para 24+: IRR humano real (AUTOR). |
+| Reprodutibilidade | 15 | 13 | 14 | novos scripts reproduzíveis (qualidade, kappa, achados narrativos, saturação), coding sheets e checklist de relato, somados ao que já existia. |
+| Clareza | 15 | 13 | 14 | IMP-6 checklist de relato + nova tabela de qualidade + figura de saturação; estrutura de relato mais completa e auditável. |
+| Magnitude | 15 | 10 | 11 | IMP-4 (parcial): achado narrativo consolidado por estudo (12 substantivos + 25 estruturados) reduz dependência da identidade pública; extração de texto completo dos 25 restantes fica como futuro. |
+| Generalização | 10 | 6 | 8 | IMP-5 curva de saturação honesta (saturação parcial) + IMP-7 viés de publicação quantificado (26/37). Ampliação real de bases fica AUTOR. |
+| **Total** | **100** | **74** | **85** | deltas confirmados por re-crítica independente (paper-critic, ciclo 4). Sem fabricação; sem regressão de forças. |
 
 ## 3. Forças a preservar (NÃO regredir)
 
@@ -48,45 +48,45 @@ Score = soma ponderada das notas por dimensão.
 Cada item: dimensão alvo, delta esperado, esforço, ação concreta, critério de aceite, fonte de dados.
 Prioridade = maior delta por esforço, e desbloqueio de venues top de RSL.
 
-### IMP-1 (CRÍTICO) Confiabilidade entre avaliadores (IRR)
+### IMP-1 (CRÍTICO) Confiabilidade entre avaliadores (IRR) [PARCIAL 2026-05-30: infra entregue (irr_kit.py, coding sheets, irr-protocol.md) + reporte honesto no Método; ponto cheio PENDENTE-AUTOR: 2o codificador humano para o kappa]
 - Dimensão: Rigor. Delta esperado: +4 a +5. Esforço: alto (exige 2o avaliador ou protocolo de re-triagem).
 - Ação: reaplicar a triagem (título/resumo e texto completo) por um segundo avaliador em uma amostra (ou no todo), calcular Cohen's kappa (ou Krippendorff), reportar o valor e como divergências foram resolvidas. Se 2o avaliador humano não for viável, documentar um protocolo de dupla-checagem reproduzível e reportar a concordância.
 - Critério de aceite: kappa reportado no Método com interpretação; objeção nº 1 de revisores de RSL neutralizada.
 - Fonte: systematic-review/screening/*.csv (logs de triagem).
 
-### IMP-2 (CRÍTICO) Avaliação de qualidade / risco de viés
+### IMP-2 (CRÍTICO) Avaliação de qualidade / risco de viés [FEITO 2026-05-30: checklist de 4 itens aplicado aos 37; Tabela tab:qualidade (alta 11, média 17, baixa 9); make_quality_assessment.py + quality-assessment.csv]
 - Dimensão: Rigor. Delta esperado: +3 a +4. Esforço: médio.
 - Ação: aplicar um checklist de qualidade adaptado (ex.: DARE/CASP ou itens de Kitchenham para estudos primários) aos 37 estudos; reportar a distribuição e discutir o impacto dos 10 preprints e dos 2 de confiança média. Não precisa excluir; basta ponderar/qualificar.
 - Critério de aceite: subseção/parágrafo de avaliação de qualidade no Método ou Resultados, com tabela ou síntese por categoria.
 - Fonte: extraction-matrix.csv (campo confianca, evidencia).
 
-### IMP-3 (ALTO) Suavizar "validação empírica" da taxonomia
+### IMP-3 (ALTO) Suavizar "validação empírica" da taxonomia [FEITO 2026-05-30: "validação empírica" -> "confronto com a evidência" em abstract, intro, taxonomia, related work e resultados, nas duas línguas]
 - Dimensão: Rigor / Clareza (reduz overclaim). Delta esperado: +1 (e remove risco de rejeição). Esforço: baixo.
 - Ação: trocar "validada empiricamente" por "confrontada com a evidência do corpus" onde o mapeamento forte/média/fraca é julgado pelo autor; OU formalizar o mapeamento com protocolo de codificação + 2o codificador (aí "validação" se sustenta). Ajustar abstract, introdução, taxonomia e resultados nas DUAS línguas.
 - Critério de aceite: termo "validação" só onde houver procedimento de codificação reportado.
 
-### IMP-4 (ALTO) Segunda passada de extração com achados narrativos por estudo
+### IMP-4 (ALTO) Segunda passada de extração com achados narrativos por estudo [PARCIAL 2026-05-30: achado consolidado por estudo (12 substantivos + 25 estruturados) via make_key_findings.py; extração de texto completo dos 25 restantes fica como futuro]
 - Dimensão: Magnitude (+2) e Rigor (+1). Esforço: alto.
 - Ação: adicionar um campo narrativo de key_findings por estudo (hoje ~16 das 37 fichas têm justificativa substantiva; as demais são genéricas). Reforçar a síntese temática com evidência por estudo, reduzindo a dependência da identidade pública dos frameworks.
 - Critério de aceite: cada tema citável a fichas com achado narrativo; Limitação de "granularidade da extração de 1a passada" reduzida ou removida.
 - Fonte: systematic-review/extracted/*.md.
 
-### IMP-5 (MÉDIO) Saturação do snowballing
+### IMP-5 (MÉDIO) Saturação do snowballing [FEITO 2026-05-30: figura fig:saturacao (make_saturation_figure.py) + discussão honesta de saturação parcial no Método e Limitações]
 - Dimensão: Generalização (+2). Esforço: médio a alto.
 - Ação: rodar 1 a 2 rodadas adicionais de snowballing OU apresentar uma análise de saturação (curva de novos incluídos por rodada: 6, 3, 3) argumentando o ponto de corte. Hoje as últimas rodadas ainda adicionavam estudos.
 - Critério de aceite: gráfico/curva de saturação OU rodadas extras com a decisão de parada justificada por dados.
 
-### IMP-6 (MÉDIO) Conformidade de relato (PRISMA/Kitchenham checklist)
+### IMP-6 (MÉDIO) Conformidade de relato (PRISMA/Kitchenham checklist) [FEITO 2026-05-30: Apêndice ap:checklist (08_apendice_checklist) nas duas línguas, referenciado no Método]
 - Dimensão: Clareza (+1) e Rigor (+1). Esforço: baixo a médio.
 - Ação: adicionar um checklist de relato (PRISMA 2020 ou Kitchenham reporting) como apêndice/material suplementar e rotular a figura de fluxo como compatível. Já existe a figura de funil; falta o checklist item a item.
 - Critério de aceite: checklist preenchido referenciado no texto.
 
-### IMP-7 (MÉDIO) Ampliar bases/idiomas ou justificar o recorte
+### IMP-7 (MÉDIO) Ampliar bases/idiomas ou justificar o recorte [PARCIAL 2026-05-30: viés de publicação quantificado (26/37) e recorte reforçado nas Limitações; ampliação real de bases fica PENDENTE-AUTOR]
 - Dimensão: Generalização (+1). Esforço: médio.
 - Ação: ou ampliar a busca (mais bases, sem restrição EN/PT) ou fortalecer a justificativa do recorte e discutir explicitamente o viés de publicação a favor de frameworks com resultado positivo.
 - Critério de aceite: parágrafo de ameaça à validade externa reforçado com dados.
 
-### IMP-8 (BAIXO) Posicionamento quantitativo vs surveys existentes
+### IMP-8 (BAIXO) Posicionamento quantitativo vs surveys existentes [FEITO 2026-05-30: diferencial mensurável pela unidade de análise vs Hou et al. e He et al. na Related Work, nas duas línguas]
 - Dimensão: Novidade (+1). Esforço: baixo.
 - Ação: na Related Work, contrastar numericamente a cobertura/escopo deste paper com Hou et al. e He et al. (ex.: foco por processo vs por tarefa/técnica), deixando o diferencial mensurável.
 - Critério de aceite: comparação explícita (tabela ou frase quantitativa) com as revisões âncora.
@@ -109,3 +109,4 @@ Sem IMP-1 e IMP-2, os venues realistic/aspirational de RSL (EMSE, TOSEM, IST no 
 | Data | Q | Mudança |
 |---|---|---|
 | 2026-05-30 | 74 | Avaliação inicial após reframe para RSL pura, bilíngue, 5 figuras, DOIs clicáveis. Backlog IMP-1..IMP-8 definido. |
+| 2026-05-30 | 85 | Rodada scientex-improve (AUTO + infra dos AUTOR). FEITO: IMP-2, IMP-3, IMP-5, IMP-6, IMP-8. PARCIAL: IMP-1 (infra de IRR, kappa humano pendente), IMP-4 (achado por estudo, texto completo pendente), IMP-7 (viés quantificado, ampliação de bases pendente). Deltas confirmados por re-crítica (paper-critic ciclo 4). latex-validator 0 fatais nas duas línguas; 40/40 citações; 0 citação nova; 0 travessão. Sem regressão de forças. Teto honesto sem recurso novo ~86; 90+ exige IRR humano real + mais bases. |

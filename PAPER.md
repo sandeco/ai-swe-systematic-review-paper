@@ -86,7 +86,9 @@ Nota: o `PAPER.md` antigo listava so 4 RQs; a autoridade e o `protocol.md` com 5
 
 ## Score / viabilidade
 
-- Analise de viabilidade e backlog de melhoria em `score.md` (Q atual 74/100, teto 88-90). Fonte de verdade para o futuro agente `improve`. Atualizar `score.md` a cada rodada de melhoria.
+- Analise de viabilidade e backlog de melhoria em `score.md`. **Q atual 85/100** (era 74; rodada scientex-improve de 2026-05-30). Log auditavel em `IMPROVE_RUN.md`.
+- Rodada scientex-improve (2026-05-30, escopo "AUTO + infra dos AUTOR"): FEITO IMP-2 (avaliacao de qualidade), IMP-3 (overclaim suavizado), IMP-5 (curva de saturacao), IMP-6 (checklist Kitchenham), IMP-8 (posicionamento quantitativo); PARCIAL IMP-1 (infra de IRR), IMP-4 (achado por estudo), IMP-7 (vies quantificado). Deltas confirmados por paper-critic (ciclo 4). Sem fabricacao; sem regressao de forcas.
+- Pendencias AUTOR para cruzar 90+ (teto honesto so com AUTO ~86): (1) IRR humano real (2o codificador) usando o kit em `systematic-review/irr_kit.py` + `screening/irr/`; (2) ampliar busca para bases adicionais; (3) extracao de texto completo dos 25 estudos com achado consolidado dos campos estruturados.
 
 ## Submissao
 

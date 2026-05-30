@@ -34,7 +34,7 @@ years = Counter(r["year"] for r in rows)
 yk = sorted(years)
 yv = [years[y] for y in yk]
 def fig_year(lang):
-    t = {"pt": ("Estudos por ano de publicacao", "Ano", "Numero de estudos"),
+    t = {"pt": ("Estudos por ano de publicação", "Ano", "Número de estudos"),
          "en": ("Studies by publication year", "Year", "Number of studies")}[lang]
     fig, ax = plt.subplots(figsize=(7.2, 4.2))
     bars = ax.bar(yk, yv, color=BLUE, width=0.62)
@@ -54,8 +54,8 @@ arx = sum(1 for r in rows if "arxiv" in r["evidencia"].lower())
 case = 5; survey = 2  # curatorial classification from synthesis
 def fig_evidence(lang):
     if lang == "pt":
-        labels = ["Avaliacao empirica", "Repositorio publico", "Preprint arXiv", "Estudo de caso", "Survey / revisao"]
-        title = f"Perfil de evidencia do corpus (n = {n})"; xlab = "Numero de estudos"
+        labels = ["Avaliação empírica", "Repositório público", "Preprint arXiv", "Estudo de caso", "Survey / revisão"]
+        title = f"Perfil de evidência do corpus (n = {n})"; xlab = "Número de estudos"
     else:
         labels = ["Empirical evaluation", "Public repository", "arXiv preprint", "Case study", "Survey / review"]
         title = f"Evidence profile of the corpus (n = {n})"; xlab = "Number of studies"
@@ -83,10 +83,10 @@ M = np.array([
 ])
 def fig_heat(lang):
     if lang == "pt":
-        themes = ["T1 Orquestracao", "T2 Especificacao", "T3 Contexto", "T4 Validacao", "T5 Colab. humano-IA", "T6 Seguranca"]
-        dims = ["Especif.", "Contexto", "Papeis", "Execucao", "Validacao", "Portab."]
-        title = "Mapeamento tema x dimensao da taxonomia"
-        legend = {3:"forte", 2:"media", 1:"fraca", 0:"ausente"}
+        themes = ["T1 Orquestração", "T2 Especificação", "T3 Contexto", "T4 Validação", "T5 Colab. humano-IA", "T6 Segurança"]
+        dims = ["Especif.", "Contexto", "Papéis", "Execução", "Validação", "Portab."]
+        title = "Mapeamento tema x dimensão da taxonomia"
+        legend = {3:"forte", 2:"média", 1:"fraca", 0:"ausente"}
     else:
         themes = ["T1 Orchestration", "T2 Specification", "T3 Context", "T4 Validation", "T5 Human-AI collab.", "T6 Security"]
         dims = ["Spec.", "Context", "Roles", "Exec.", "Valid.", "Portab."]
@@ -118,17 +118,17 @@ for r in rows:
 # canonical order by frequency for the main risks
 risk_keys = ["contexto", "confiabilidade", "overhead", "seguranca", "governanca", "rastreabilidade", "drift"]
 labels_map = {
-    "pt": {"contexto":"Contexto", "governanca":"Governanca", "confiabilidade":"Confiabilidade",
-           "overhead":"Custo de coordenacao", "seguranca":"Seguranca", "drift":"Drift spec-codigo",
+    "pt": {"contexto":"Contexto", "governanca":"Governança", "confiabilidade":"Confiabilidade",
+           "overhead":"Custo de coordenação", "seguranca":"Segurança", "drift":"Drift spec-código",
            "rastreabilidade":"Rastreabilidade"},
     "en": {"contexto":"Context", "governanca":"Governance", "confiabilidade":"Reliability",
            "overhead":"Coordination cost", "seguranca":"Security", "drift":"Spec-code drift",
            "rastreabilidade":"Traceability"},
 }
 def fig_risk(lang):
-    title = ("Frequencia dos riscos no corpus (n = 37 estudos)" if lang=="pt"
+    title = ("Frequência dos riscos no corpus (n = 37 estudos)" if lang=="pt"
              else "Risk frequency across the corpus (n = 37 studies)")
-    xlab = "Numero de estudos" if lang=="pt" else "Number of studies"
+    xlab = "Número de estudos" if lang=="pt" else "Number of studies"
     keys = sorted(risk_keys, key=lambda k: rc[k])
     labels = [labels_map[lang][k] for k in keys]
     vals = [rc[k] for k in keys]
