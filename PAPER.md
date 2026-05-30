@@ -84,6 +84,16 @@ Nota: o `PAPER.md` antigo listava so 4 RQs; a autoridade e o `protocol.md` com 5
 | Agenda de Pesquisa | `tex/sections/06_agenda_pesquisa.tex` | ESCRITO (RQ5, 6 lacunas) |
 | Conclusao | `tex/sections/07_conclusao.tex` | ESCRITO |
 
+## Submissao
+
+- Recomendacao gerada em 2026-05-30: ver `venue-recommendation-2026-05-30.md`.
+- Q (qualidade) validado: 74/100. Perfil: balanceado. Restricoes: internacional em ingles, sem APC.
+- Tier 1 (aspirational): ACM Computing Surveys, IEEE TSE (baixa probabilidade; provavel APC no CSUR).
+- Tier 2 (realistic, ALVO PRINCIPAL): Information and Software Technology (IST, melhor encaixe, sem APC pela assinatura) -> Journal of Systems and Software / Empirical Software Engineering -> Automated Software Engineering.
+- Tier 3 (safe, sem APC): e-Informatica Software Engineering Journal (OA gratuito).
+- Plano sequencial (nunca paralelo): IST -> (JSS ou EMSE) -> AUSE -> EISEJ. Manter preprint no arXiv.
+- Pendencias antes de submeter (criticas para venues de RSL): adicionar confiabilidade entre avaliadores (kappa); incluir avaliacao de qualidade/risco de vies; suavizar "validacao empirica" da taxonomia para "confronto com a evidencia".
+
 ## Proximos passos
 
 1. Converter `systematic-review/synthesis.md` nas secoes de Resultados/Sintese, Discussao e Agenda.
