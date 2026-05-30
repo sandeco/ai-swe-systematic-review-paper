@@ -1,0 +1,2059 @@
+[
+  {
+    "doi": "10.4324/9780367807542",
+    "title": "Proactive Risk Management",
+    "authors": [
+      "Preston G. Smith",
+      "Guy M. Merritt"
+    ],
+    "year": 2020,
+    "venue": "Productivity Press eBooks",
+    "abstract": "Listed as one of the 30 Best Business Books of 2002 by Executive Book Summaries. Proactive Risk Management's unique approach provides a model of risk that is scalable to any size project or program and easily deployable into any product development or project management life cycle. It offers methods for identifying drivers (causes) of risks so you can manage root causes rather than the symptoms of risks.&nbsp; Providing you with an appropriate quantification of the key factors of a risk allows you to prioritize those risks without introducing errors that render the numbers meaningless. This book stands apart from much of the literature on project risk management in its practical, easy-to-use, fact-based approach to managing all of the risks associated with a project. The depth of actual how-to information and techniques provided here is not available anywhere else.",
+    "citations": 67,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.4324/9780367807542",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W400521479",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "PrestonGSmith2020",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3363562",
+    "title": "A Survey of Compiler Testing",
+    "authors": [
+      "Junjie Chen",
+      "Jibesh Patra",
+      "Michael Pradel",
+      "Yingfei Xiong",
+      "Hongyu Zhang",
+      "Dan Hao",
+      "Lu Zhang"
+    ],
+    "year": 2020,
+    "venue": "ACM Computing Surveys",
+    "abstract": "Virtually any software running on a computer has been processed by a compiler or a compiler-like tool. Because compilers are such a crucial piece of infrastructure for building software, their correctness is of paramount importance. To validate and increase the correctness of compilers, significant research efforts have been devoted to testing compilers. This survey article provides a comprehensive summary of the current state-of-the-art of research on compiler testing. The survey covers different aspects of the compiler testing problem, including how to construct test programs, what test oracles to use for determining whether a compiler behaves correctly, how to execute compiler tests efficiently, and how to help compiler developers take action on bugs discovered by compiler testing. Moreover, we survey work that empirically studies the strengths and weaknesses of current compiler testing research and practice. Based on the discussion of existing work, we outline several open challenges that remain to be addressed in future work.",
+    "citations": 197,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3363562",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3007855180",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "JunjieChen2020",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.3991/ijim.v14i11.13269",
+    "title": "Agile Software Development: Methodologies and Trends",
+    "authors": [
+      "Samar Al-Saqqa",
+      "Samer Sawalha",
+      "Heba Abdel-Nabi"
+    ],
+    "year": 2020,
+    "venue": "International Journal of Interactive Mobile Technologies (iJIM)",
+    "abstract": "&lt;p&gt;Software engineering is a discipline that undergone many improvements that aims to keep up with the new advancements in technologies and the modern business requirements through developing effective approaches to reach the final software product, agile software development is one of these successful approaches. Agile software development is a lightweight approach that was proposed to overcome the convolutional development methods’ limitations and to reduce the overhead and the cost while providing flexibility to adopt the changes in requirements at any stage, this is done by managing the tasks and their coordination through a certain set of values and principles.&lt;/p&gt;&lt;p&gt;In this work, a comprehensive review that outlines the main agile values and principles, and states the key differences that distinguish agile methods over the traditional ones are presented. Then a discussion of the most popular agile methodologies; their life cycles, their roles, and their advantages and disadvantages are outlined. The recent state of art trends that adopts agile development especially in cloud computing, big data, and coordination are also explored. And finally, this work highlights how to choose the best suitable agile methodology that must be selected according to the task at hand, how sensitive the product is and the organization structure.&lt;/p&gt;",
+    "citations": 340,
+    "open_access_pdf_url": "https://online-journals.org/index.php/i-jim/article/download/13269/7405",
+    "doi_url": "https://doi.org/10.3991/ijim.v14i11.13269",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3041586137",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "SamarAlSaqqa2020",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1073/pnas.2311878121",
+    "title": "Explaining neural scaling laws",
+    "authors": [
+      "Yasaman Bahri",
+      "Ethan Dyer",
+      "Jared Kaplan",
+      "Jaehoon Lee",
+      "Utkarsh Sharma"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the National Academy of Sciences",
+    "abstract": "The population loss of trained deep neural networks often follows precise power-law scaling relations with either the size of the training dataset or the number of parameters in the network. We propose a theory that explains the origins of and connects these scaling laws. We identify variance-limited and resolution-limited scaling behavior for both dataset and model size, for a total of four scaling regimes. The variance-limited scaling follows simply from the existence of a well-behaved infinite data or infinite width limit, while the resolution-limited regime can be explained by positing that models are effectively resolving a smooth data manifold. In the large width limit, this can be equivalently obtained from the spectrum of certain kernels, and we present evidence that large width and large dataset resolution-limited scaling exponents are related by a duality. We exhibit all four scaling regimes in the controlled setting of large random feature and pretrained models and test the predictions empirically on a range of standard architectures and datasets. We also observe several empirical relationships between datasets and scaling exponents under modifications of task and architecture aspect ratio. Our work provides a taxonomy for classifying different scaling regimes, underscores that there can be different mechanisms driving improvements in loss, and lends insight into the microscopic origin and relationships between scaling exponents.",
+    "citations": 118,
+    "open_access_pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2311878121",
+    "doi_url": "https://doi.org/10.1073/pnas.2311878121",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3133450183",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "YasamanBahri2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3475716.3475769",
+    "title": "A comparative study of vulnerability reporting by software composition analysis tools",
+    "authors": [
+      "Nasif Imtiaz",
+      "Seaver Thorn",
+      "Laurie Williams"
+    ],
+    "year": 2021,
+    "venue": null,
+    "abstract": "Background: Modern software uses many third-party libraries and frameworks as dependencies. Known vulnerabilities in these dependencies are a potential security risk. Software composition analysis (SCA) tools, therefore, are being increasingly adopted by practitioners to keep track of vulnerable dependencies. Aim: The goal of this study is to understand the difference in vulnerability reporting by various SCA tools. Understanding if and how existing SCA tools differ in their analysis may help security practitioners to choose the right tooling and identify future research needs. Method: We present an in-depth case study by comparing the analysis reports of 9 industry-leading SCA tools on a large web application, OpenMRS, composed of Maven (Java) and npm (JavaScript) projects. Results: We find that the tools vary in their vulnerability reporting. The count of reported vulnerable dependencies ranges from 17 to 332 for Maven and from 32 to 239 for npm projects across the studied tools. Similarly, the count of unique known vulnerabilities reported by the tools ranges from 36 to 313 for Maven and from 45 to 234 for npm projects. Our manual analysis of the tools' results suggest that accuracy of the vulnerability database is a key differentiator for SCA tools. Conclusion: We recommend that practitioners should not rely on any single tool at the present, as that can result in missing known vulnerabilities. We point out two research directions in the SCA space: i) establishing frameworks and metrics to identify false positives for dependency vulnerabilities; and ii) building automation technologies for continuous monitoring of vulnerability data from open source package ecosystems.",
+    "citations": 71,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2108.12078",
+    "doi_url": "https://doi.org/10.1145/3475716.3475769",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3198845576",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "NasifImtiaz2021",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1016/j.caeai.2022.100056",
+    "title": "Rethinking the entwinement between artificial intelligence and human learning: What capabilities do learners need for a world with AI?",
+    "authors": [
+      "Lina Markauskaitė",
+      "Rebecca Marrone",
+      "Oleksandra Poquet",
+      "Simon Knight",
+      "Roberto Martínez‐Maldonado",
+      "Sarah Howard",
+      "Jo Tondeur",
+      "Maarten de Laat",
+      "Simon Buckingham Shum",
+      "Dragan Gašević",
+      "George Siemens"
+    ],
+    "year": 2022,
+    "venue": "Computers and Education Artificial Intelligence",
+    "abstract": "The proliferation of AI in many aspects of human life—from personal leisure, to collaborative professional work, to global policy decisions—poses a sharp question about how to prepare people for an interconnected, fast-changing world which is increasingly becoming saturated with technological devices and agentic machines. What kinds of capabilities do people need in a world infused with AI? How can we conceptualise these capabilities? How can we help learners develop them? How can we empirically study and assess their development? With this paper, we open the discussion by adopting a dialogical knowledge-making approach. Our team of 11 co-authors participated in an orchestrated written discussion. Engaging in a semi-independent and semi-joint written polylogue, we assembled a pool of ideas of what these capabilities are and how learners could be helped to develop them. Simultaneously, we discussed conceptual and methodological ideas that would enable us to test and refine our hypothetical views. In synthesising these ideas, we propose that there is a need to move beyond AI-centred views of capabilities and consider the ecology of technology, cognition, social interaction, and values.",
+    "citations": 307,
+    "open_access_pdf_url": "https://doi.org/10.1016/j.caeai.2022.100056",
+    "doi_url": "https://doi.org/10.1016/j.caeai.2022.100056",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4213430857",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "LinaMarkauskait2022",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3533767",
+    "title": "Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis",
+    "authors": [],
+    "year": 2022,
+    "venue": null,
+    "abstract": "It is a great pleasure to welcome you to ISSTA 2022, the 31st edition of the International Symposium on Software Testing and Analysis. The conference has quickly risen to become the premier scientific event in the expanding area of software testing and analysis, with a strong appeal to researchers from all continents.",
+    "citations": 87,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3533767",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4285490400",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "Anon2022",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3524610",
+    "title": "Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension",
+    "authors": [],
+    "year": 2022,
+    "venue": null,
+    "abstract": "ICPC is the premier venue for research on program comprehension. Starting as a workshop in 1992, it is now a wellestablished conference at its 30th edition and recently became an \"A\" conference in the CORE ranking. Program comprehension is a vital activity in software development, maintenance, and evolution, and is necessary to facilitate the reuse, inspection, maintenance, reengineering, migration, and evolution of existing software systems. The research on program comprehension encompasses both human activities for comprehending the software and technologies for supporting such comprehension.",
+    "citations": 34,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3524610",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4312927344",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "Anon2022_2",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2303.11366",
+    "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+    "authors": [
+      "Noah Shinn",
+      "Cassano, Federico",
+      "Berman, Edward",
+      "Gopinath, Ashwin",
+      "Narasimhan, Karthik",
+      "Yao, Shunyu"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Large language models (LLMs) have been increasingly used to interact with external environments (e.g., games, compilers, APIs) as goal-driven agents. However, it remains challenging for these language agents to quickly and efficiently learn from trial-and-error as traditional reinforcement learning methods require extensive training samples and expensive model fine-tuning. We propose Reflexion, a novel framework to reinforce language agents not by updating weights, but instead through linguistic feedback. Concretely, Reflexion agents verbally reflect on task feedback signals, then maintain their own reflective text in an episodic memory buffer to induce better decision-making in subsequent trials. Reflexion is flexible enough to incorporate various types (scalar values or free-form language) and sources (external or internally simulated) of feedback signals, and obtains significant improvements over a baseline agent across diverse tasks (sequential decision-making, coding, language reasoning). For example, Reflexion achieves a 91% pass@1 accuracy on the HumanEval coding benchmark, surpassing the previous state-of-the-art GPT-4 that achieves 80%. We also conduct ablation and analysis studies using different feedback signals, feedback incorporation methods, and agent types, and provide insights into how they affect performance.",
+    "citations": 264,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2303.11366",
+    "doi_url": "https://doi.org/10.48550/arxiv.2303.11366",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4353112996",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "NoahShinn2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2303.17760",
+    "title": "CAMEL: Communicative Agents for \"Mind\" Exploration of Large Language Model Society",
+    "authors": [
+      "Guohao Li",
+      "Hasan Abed Al Kader Hammoud",
+      "Hani Itani",
+      "Dmitrii Khizbullin",
+      "Bernard Ghanem"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "The rapid advancement of chat-based language models has led to remarkable progress in complex task-solving. However, their success heavily relies on human input to guide the conversation, which can be challenging and time-consuming. This paper explores the potential of building scalable techniques to facilitate autonomous cooperation among communicative agents, and provides insight into their \"cognitive\" processes. To address the challenges of achieving autonomous cooperation, we propose a novel communicative agent framework named role-playing. Our approach involves using inception prompting to guide chat agents toward task completion while maintaining consistency with human intentions. We showcase how role-playing can be used to generate conversational data for studying the behaviors and capabilities of a society of agents, providing a valuable resource for investigating conversational language models. In particular, we conduct comprehensive studies on instruction-following cooperation in multi-agent settings. Our contributions include introducing a novel communicative agent framework, offering a scalable approach for studying the cooperative behaviors and capabilities of multi-agent systems, and open-sourcing our library to support research on communicative agents and beyond: https://github.com/camel-ai/camel.",
+    "citations": 98,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2303.17760",
+    "doi_url": "https://doi.org/10.48550/arxiv.2303.17760",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4362508448",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "GuohaoLi2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.3386/w31122",
+    "title": "Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?",
+    "authors": [
+      "J.R. Horton",
+      "Apostolos Filippas",
+      "Benjamin Manning"
+    ],
+    "year": 2023,
+    "venue": "National Bureau of Economic Research",
+    "abstract": "Newly-developed large language models (LLM)-because of how they are trained and designed -are implicit computational models of humans-a homo silicus.LLMs can be used like economists use homo economicus: they can be given endowments, information, preferences, and so on, and then their behavior can be explored in scenarios via simulation.Experiments using this approach, derived from Charness and Rabin (2002), Kahneman, Knetsch andThaler (1986), andSamuelson andZeckhauser (1988) show qualitatively similar results to the original, but it is also easy to try variations for fresh insights.LLMs could allow researchers to pilot studies via simulation first, searching for novel social science insights to test in the real world.",
+    "citations": 264,
+    "open_access_pdf_url": "https://doi.org/10.3386/w31122",
+    "doi_url": "https://doi.org/10.3386/w31122",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4363624465",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "JRHorton2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2305.01210",
+    "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation",
+    "authors": [
+      "Jiawei Liu",
+      "Chunqiu Steven Xia",
+      "Yuyao Wang",
+      "Lingming Zhang"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Program synthesis has been long studied with recent approaches focused on directly using the power of Large Language Models (LLMs) to generate code. Programming benchmarks, with curated synthesis problems and test-cases, are used to measure the performance of various LLMs on code synthesis. However, these test-cases can be limited in both quantity and quality for fully assessing the functional correctness of the generated code. Such limitation in the existing benchmarks begs the following question: In the era of LLMs, is the code generated really correct? To answer this, we propose EvalPlus -- a code synthesis evaluation framework to rigorously benchmark the functional correctness of LLM-synthesized code. EvalPlus augments a given evaluation dataset with large amounts of test-cases newly produced by an automatic test input generator, powered by both LLM- and mutation-based strategies. While EvalPlus is general, we extend the test-cases of the popular HumanEval benchmark by 80x to build HumanEval+. Our extensive evaluation across 26 popular LLMs (e.g., GPT-4 and ChatGPT) demonstrates that HumanEval+ is able to catch significant amounts of previously undetected wrong code synthesized by LLMs, reducing the pass@k by up-to 19.3-28.9%. We also surprisingly found that test insufficiency can lead to mis-ranking. For example, both WizardCoder-CodeLlama and Phind-CodeLlama now outperform ChatGPT on HumanEval+, while none of them could on HumanEval. Our work not only indicates that prior popular code synthesis evaluation results do not accurately reflect the true performance of LLMs for code synthesis, but also opens up a new direction to improve such programming benchmarks through automated testing. We have open-sourced our tools, enhanced datasets as well as all LLM-generated code at https://github.com/evalplus/evalplus to facilitate and accelerate future LLM-for-code research.",
+    "citations": 173,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2305.01210",
+    "doi_url": "https://doi.org/10.48550/arxiv.2305.01210",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4367860052",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "JiaweiLiu2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3635711",
+    "title": "Representation Learning for Stack Overflow Posts: How Far Are We?",
+    "authors": [
+      "Junda He",
+      "Xin Zhou",
+      "Bowen Xu",
+      "Ting Zhang",
+      "Kisub Kim",
+      "Zhou Yang",
+      "Ferdian Thung",
+      "Ivana Clairine Irsan",
+      "David Lo"
+    ],
+    "year": 2023,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "abstract": "The tremendous success of Stack Overflow has accumulated an extensive corpus of software engineering knowledge, thus motivating researchers to propose various solutions for analyzing its content. The performance of such solutions hinges significantly on the selection of representation models for Stack Overflow posts. As the volume of literature on Stack Overflow continues to burgeon, it highlights the need for a powerful Stack Overflow post representation model and drives researchers’ interest in developing specialized representation models that can adeptly capture the intricacies of Stack Overflow posts. The state-of-the-art (SOTA) Stack Overflow post representation models are Post2Vec and BERTOverflow, which are built upon neural networks such as convolutional neural network and transformer architecture (e.g., BERT). Despite their promising results, these representation methods have not been evaluated in the same experimental setting. To fill the research gap, we first empirically compare the performance of the representation models designed specifically for Stack Overflow posts (Post2Vec and BERTOverflow) in a wide range of related tasks (i.e., tag recommendation, relatedness prediction, and API recommendation). The results show that Post2Vec cannot further improve the SOTA techniques of the considered downstream tasks, and BERTOverflow shows surprisingly poor performance. To find more suitable representation models for the posts, we further explore a diverse set of transformer-based models, including (1) general domain language models (RoBERTa, Longformer, and GPT2) and (2) language models built with software engineering related textual artifacts (CodeBERT, GraphCodeBERT, seBERT, CodeT5, PLBart, and CodeGen). This exploration shows that models like CodeBERT and RoBERTa are suitable for representing Stack Overflow posts. However, it also illustrates the “No Silver Bullet” concept, as none of the models consistently wins against all the others. Inspired by the findings, we propose SOBERT, which employs a simple yet effective strategy to improve the representation models of Stack Overflow posts by continuing the pre-training phase with the textual artifact from Stack Overflow. The overall experimental results demonstrate that SOBERT can consistently outperform the considered models and increase the SOTA performance significantly for all the downstream tasks.",
+    "citations": 24,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3635711",
+    "doi_url": "https://doi.org/10.1145/3635711",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4389438812",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "JundaHe2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3652155",
+    "title": "Fairness Testing: A Comprehensive Survey and Analysis of Trends",
+    "authors": [
+      "Zhenpeng Chen",
+      "Jie M. Zhang",
+      "Max Hort",
+      "Mark Harman",
+      "Federica Sarro"
+    ],
+    "year": 2024,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "abstract": "Unfair behaviors of Machine Learning (ML) software have garnered increasing attention and concern among software engineers. To tackle this issue, extensive research has been dedicated to conducting fairness testing of ML software, and this article offers a comprehensive survey of existing studies in this field. We collect 100 papers and organize them based on the testing workflow (i.e., how to test) and testing components (i.e., what to test). Furthermore, we analyze the research focus, trends, and promising directions in the realm of fairness testing. We also identify widely adopted datasets and open-source tools for fairness testing.",
+    "citations": 52,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3652155",
+    "doi_url": "https://doi.org/10.1145/3652155",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4392645489",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "ZhenpengChen2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1109/apsec60848.2023.00085",
+    "title": "ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We?",
+    "authors": [
+      "Michael C. Fu",
+      "Chakkrit Tantithamthavorn",
+      "Van Nguyen",
+      "Trung Le"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Large language models (LLMs) like ChatGPT (i.e., gpt-3.5-turbo and gpt-4) exhibited remarkable advancement in a range of software engineering tasks associated with source code such as code review and code generation. In this paper, we undertake a comprehensive study by instructing ChatGPT for four prevalent vulnerability tasks: function and line-level vulnerability prediction, vulnerability classification, severity estimation, and vulnerability repair. We compare ChatGPT with state-of-the-art language models designed for software vulnerability purposes. Through an empirical assessment employing extensive real-world datasets featuring over 190,000 C/C++ functions, we found that ChatGPT achieves limited performance, trailing behind other language models in vulnerability contexts by a significant margin. The experimental outcomes highlight the challenging nature of vulnerability prediction tasks, requiring domain-specific expertise. Despite ChatGPT's substantial model scale, exceeding that of source code-pre-trained language models (e.g., CodeBERT) by a factor of 14,000, the process of fine-tuning remains imperative for ChatGPT to generalize for vulnerability prediction tasks. We publish the studied dataset, experimental prompts for ChatGPT, and experimental results at https://github.com/awsm-research/ChatGPT4Vul.",
+    "citations": 79,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/apsec60848.2023.00085",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4393406994",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "MichaelCFu2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3597503.3639121",
+    "title": "Fuzz4All: Universal Fuzzing with Large Language Models",
+    "authors": [
+      "Chunqiu Steven Xia",
+      "Matteo Paltenghi",
+      "Jia Le Tian",
+      "Michael Pradel",
+      "Lingming Zhang"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Fuzzing has achieved tremendous success in discovering bugs and vulnerabilities in various software systems. Systems under test (SUTs) that take in programming or formal language as inputs, e.g., compilers, runtime engines, constraint solvers, and software libraries with accessible APIs, are especially important as they are fundamental building blocks of software development. However, existing fuzzers for such systems often target a specific language, and thus cannot be easily applied to other languages or even other versions of the same language. Moreover, the inputs generated by existing fuzzers are often limited to specific features of the input language, and thus can hardly reveal bugs related to other or new features. This paper presents Fuzz4All, the first fuzzer that is universal in the sense that it can target many different input languages and many different features of these languages. The key idea behind Fuzz4All is to leverage large language models (LLMs) as an input generation and mutation engine, which enables the approach to produce diverse and realistic inputs for any practically relevant language. To realize this potential, we present a novel autoprompting technique, which creates LLM prompts that are well-suited for fuzzing, and a novel LLM-powered fuzzing loop, which iteratively updates the prompt to create new fuzzing inputs. We evaluate Fuzz4All on nine systems under test that take in six different languages (C, C++, Go, SMT2, Java, and Python) as inputs. The evaluation shows, across all six languages, that universal fuzzing achieves higher coverage than existing, language-specific fuzzers. Furthermore, Fuzz4All has identified 98 bugs in widely used systems, such as GCC, Clang, Z3, CVC5, OpenJDK, and the Qiskit quantum computing platform, with 64 bugs already confirmed by developers as previously unknown.",
+    "citations": 155,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3597503.3639121",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4394769544",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "ChunqiuStevenXia2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3613904.3642777",
+    "title": "AXNav: Replaying Accessibility Tests from Natural Language",
+    "authors": [
+      "Maryam Taeb",
+      "Amanda Swearngin",
+      "Eldon Schoop",
+      "Ruijia Cheng",
+      "Yue Jiang",
+      "Jeffrey Nichols"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Developers and quality assurance testers often rely on manual testing to test accessibility features throughout the product lifecycle. Unfortunately, manual testing can be tedious, often has an overwhelming scope, and can be difficult to schedule amongst other development milestones. Recently, Large Language Models (LLMs) have been used for a variety of tasks including automation of UIs. However, to our knowledge, no one has yet explored the use of LLMs in controlling assistive technologies for the purposes of supporting accessibility testing. In this paper, we explore the requirements of a natural language based accessibility testing workflow, starting with a formative study. From this we build a system that takes a manual accessibility test instruction in natural language (e.g., “Search for a show in VoiceOver”) as input and uses an LLM combined with pixel-based UI Understanding models to execute the test and produce a chaptered, navigable video. In each video, to help QA testers, we apply heuristics to detect and flag accessibility issues (e.g., Text size not increasing with Large Text enabled, VoiceOver navigation loops). We evaluate this system through a 10-participant user study with accessibility QA professionals who indicated that the tool would be very useful in their current work and performed tests similarly to how they would manually test the features. The study also reveals insights for future work on using LLMs for accessibility testing.",
+    "citations": 45,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642777",
+    "doi_url": "https://doi.org/10.1145/3613904.3642777",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4396833734",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "MaryamTaeb2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1109/icst60714.2024.00020",
+    "title": "Intent-Driven Mobile GUI Testing with Autonomous Large Language Model Agents",
+    "authors": [
+      "Juyeon Yoon",
+      "Robert Feldt",
+      "Shin Yoo"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "GUI testing checks if a software system behaves as expected when users interact with its graphical interface, e.g., testing specific functionality or validating relevant use case scenarios. Currently, deciding what to test at this high level is a manual task since automated GUI testing tools target lower level adequacy metrics such as structural code coverage or activity coverage. We propose DroidAgent, an autonomous GUI testing agent for Android, for semantic, intent-driven automation of GUI testing. It is based on Large Language Models and support mechanisms such as long- and short-term memory. Given an Android app, DroidAgent sets relevant task goals and subsequently tries to achieve them by interacting with the app. Our empirical evaluation of DroidAgent using 15 apps from the Themis benchmark shows that it can set up and perform realistic tasks, with a higher level of autonomy. For example, when testing a messaging app, DroidAgent created a second account and added a first account as a friend, testing a realistic use case, without human intervention. On average, DroidAgent achieved 61% activity coverage, compared to 51 % for current state-of-the-art GUI testing techniques. Further, manual analysis shows that 317 out of the 547 autonomously created tasks are realistic and relevant to app functionalities, and also that DroidAgent interacts deeply with the apps and covers more features.",
+    "citations": 20,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icst60714.2024.00020",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4401907288",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "JuyeonYoon2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3650212.3680384",
+    "title": "AutoCodeRover: Autonomous Program Improvement",
+    "authors": [
+      "Yuntong Zhang",
+      "Haifeng Ruan",
+      "Zhiyu Fan",
+      "Abhik Roychoudhury"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Researchers have made significant progress in automating the software development process in the past decades. Automated techniques for issue summarization, bug reproduction, fault localization, and program repair have been built to ease the workload of developers. Recent progress in Large Language Models (LLMs) has significantly impacted the development process, where developers can use LLM-based programming assistants to achieve automated coding. Nevertheless, software engineering involves the process of program improvement apart from coding, specifically to enable software maintenance (e.g. program repair to fix bugs) and software evolution (e.g. feature additions). In this paper, we propose an automated approach for solving Github issues to autonomously achieve program improvement. In our approach called AutoCodeRover, LLMs are combined with sophisticated code search capabilities, ultimately leading to a program modification or patch. In contrast to recent LLM agent approaches from AI researchers and practitioners, our outlook is more software engineering oriented. We work on a program representation (abstract syntax tree) as opposed to viewing a software project as a mere collection of files. Our code search exploits the program structure in the form of classes/methods to enhance LLM’s understanding of the issue’s root cause, and effectively retrieve a context via iterative search. The use of spectrum-based fault localization using tests, further sharpens the context, as long as a test-suite is available. Experiments on the recently proposed SWE-bench-lite (300 real-life Github issues) show increased efficacy in solving Github issues (19% on SWE-bench-lite), which is higher than the efficacy of the recently reported Swe-agent. Interestingly, our approach resolved 57 GitHub issues in about 4 minutes each (pass@1), whereas developers spent more than 2.68 days on average. In addition, AutoCodeRover achieved this efficacy with significantly lower cost (on average, $0.43 USD), compared to other baselines. We posit that our workflow enables autonomous software engineering, where, in future, auto-generated code from LLMs can be autonomously improved.",
+    "citations": 96,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3650212.3680384?download=true",
+    "doi_url": "https://doi.org/10.1145/3650212.3680384",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402442868",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "YuntongZhang2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3650212",
+    "title": "Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis",
+    "authors": [],
+    "year": 2024,
+    "venue": null,
+    "abstract": null,
+    "citations": 64,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3650212",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402443087",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "Anon2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3650212.3680347",
+    "title": "AI Coders Are among Us: Rethinking Programming Language Grammar towards Efficient Code Generation",
+    "authors": [
+      "Zhensu Sun",
+      "Xiaoning Du",
+      "Zhou Yang",
+      "Li Li",
+      "David Lo"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Artificial Intelligence (AI) models have emerged as another important audience for programming languages alongside humans and machines, as we enter the era of large language models (LLMs). LLMs can now perform well in coding competitions and even write programs like developers to solve various tasks, including mathematical problems. However, the grammar and layout of current programs are designed to cater the needs of human developers -- with many grammar tokens and formatting tokens being used to make the code easier for humans to read. While this is helpful, such a design adds unnecessary computational work for LLMs, as each token they either use or produce consumes computational resources. To improve inference efficiency and reduce computational costs, we propose the concept of AI-oriented grammar.This aims to represent code in a way that better suits the working mechanism of AI models. Code written with AI-oriented grammar discards formats and uses a minimum number of tokens to convey code semantics effectively. To demonstrate the feasibility of this concept, we explore and implement the first AI-oriented grammar for Python, named Simple Python (SimPy). SimPy is crafted by revising the original Python grammar through a series of heuristic rules. Programs written in SimPy maintain identical Abstract Syntax Tree (AST) structures to those in standard Python. This allows for not only execution via a modified AST parser, but also seamless transformation between programs written in Python and SimPy, enabling human developers and LLMs to use Python and SimPy, respectively, when they need to collaborate. We also look into methods to help existing LLMs understand and use SimPy effectively. In the experiments, compared with Python, SimPy enables a reduction in token usage by 13.5% and 10.4% for CodeLlama and GPT-4, respectively, when completing the same set of code-related tasks. Additionally, these models can maintain or even improve their performance when using SimPy instead of Python for these tasks. With these promising results, we call for further contributions to the development of AI-oriented program grammar within our community.",
+    "citations": 8,
+    "open_access_pdf_url": "https://doi.org/10.1145/3650212.3680347",
+    "doi_url": "https://doi.org/10.1145/3650212.3680347",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402457350",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "ZhensuSun2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.18653/v1/2024.findings-acl.124",
+    "title": "INTERVENOR: Prompting the Coding Ability of Large Language Models with the Interactive Chain of Repair",
+    "authors": [
+      "Hanbin Wang",
+      "Zhenghao Liu",
+      "Shuo Wang",
+      "Ganqu Cui",
+      "Ning Ding",
+      "Zhiyuan Liu",
+      "Yu Ge"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "This paper introduces INTERVENOR (IN-TERactiVE chaiN Of Repair), a system designed to emulate the interactive code repair processes observed in humans, encompassing both code diagnosis and code repair.IN-TERVENOR prompts Large Language Models (LLMs) to play distinct roles during the code repair process, functioning as both a Code Learner and a Code Teacher.Specifically, the Code Learner is tasked with adhering to instructions to generate or repair code, while the Code Teacher is responsible for crafting a Chain-of-Repair (CoR) to serve as guidance for the Code Learner.During generating the CoR, the Code Teacher needs to check the generated codes from Code Learner and reassess how to address code bugs based on error feedback received from compilers.Experimental results demonstrate that INTERVENOR surpasses baseline models, exhibiting improvements of approximately 18% and 4.3% over GPT-3.5 in code generation and code translation tasks, respectively.Our further analyses show that CoR is effective to illuminate the reasons behind bugs and outline solution plans in natural language.With the feedback of code compilers, INTERVENOR can accurately identify syntax errors and assertion errors and provide precise instructions to repair codes.",
+    "citations": 10,
+    "open_access_pdf_url": "https://aclanthology.org/2024.findings-acl.124.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/2024.findings-acl.124",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402670831",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "HanbinWang2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.2139/ssrn.4979510",
+    "title": "Codepori: Large-Scale System for Autonomous Software Development Using Multi-Agent Technology",
+    "authors": [
+      "Zeeshan Rasheed",
+      "Sami Malik",
+      "Kai‐Kristian Kemell",
+      "Muhammad Waseem",
+      "Mika Saari",
+      "Kari Systä",
+      "Pekka Abrahamsson"
+    ],
+    "year": 2024,
+    "venue": "SSRN Electronic Journal",
+    "abstract": null,
+    "citations": 13,
+    "open_access_pdf_url": "https://doi.org/10.2139/ssrn.4979510",
+    "doi_url": "https://doi.org/10.2139/ssrn.4979510",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4403238748",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "ZeeshanRasheed2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3691620.3695506",
+    "title": "A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement",
+    "authors": [
+      "Huan Zhang",
+      "Wei Cheng",
+      "Yuhan Wu",
+      "Wei Hu"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Large language models (LLMs) have achieved impressive performance on code generation. Although prior studies enhanced LLMs with prompting techniques and code refinement, they still struggle with complex programming problems due to rigid solution plans. In this paper, we draw on pair programming practices to propose PairCoder, a novel LLM-based framework for code generation. PairCoder incorporates two collaborative LLM agents, namely a Navigator agent for high-level planning and a Driver agent for specific implementation. The Navigator is responsible for proposing promising solution plans, selecting the current optimal plan, and directing the next iteration round based on execution feedback. The Driver follows the guidance of Navigator to undertake initial code generation, code testing, and refinement. This interleaved and iterative workflow involves multi-plan exploration and feedback-based refinement, which mimics the collaboration of pair programmers. We evaluate PairCoder with both open-source and closed-source LLMs on various code generation benchmarks. Extensive experimental results demonstrate the superior accuracy of PairCoder, achieving relative pass@1 improvements of 12.00%--162.43% compared to prompting LLMs directly.",
+    "citations": 7,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3691620.3695506",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4403536415",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "HuanZhang2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.20944/preprints202411.0566.v1",
+    "title": "LangChain",
+    "authors": [
+      "Vasilios Mavroudis"
+    ],
+    "year": 2024,
+    "venue": "Preprints.org",
+    "abstract": "LangChain is a rapidly emerging framework that offers a ver- satile and modular approach to developing applications powered by large language models (LLMs). By leveraging LangChain, developers can sim- plify complex stages of the application lifecycle&amp;mdash;such as development, productionization, and deployment&amp;mdash;making it easier to build scalable, stateful, and contextually aware applications. It provides tools for han- dling chat models, integrating retrieval-augmented generation (RAG), and offering secure API interactions. With LangChain, rapid deployment of sophisticated LLM solutions across diverse domains becomes feasible. However, despite its strengths, LangChain&amp;rsquo;s emphasis on modularity and integration introduces complexities and potential security concerns that warrant critical examination. This paper provides an in-depth analysis of LangChain&amp;rsquo;s architecture and core components, including LangGraph, LangServe, and LangSmith. We explore how the framework facilitates the development of LLM applications, discuss its applications across multi- ple domains, and critically evaluate its limitations in terms of usability, security, and scalability. By offering valuable insights into both the capa- bilities and challenges of LangChain, this paper serves as a key resource for developers and researchers interested in leveraging LangChain for innovative and secure LLM-powered applications.",
+    "citations": 20,
+    "open_access_pdf_url": "https://doi.org/10.20944/preprints202411.0566.v1",
+    "doi_url": "https://doi.org/10.20944/preprints202411.0566.v1",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4404216613",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "VasiliosMavroudis2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3708522",
+    "title": "Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead",
+    "authors": [
+      "Xin Zhou",
+      "Sicong Cao",
+      "Xiaobing Sun",
+      "David Lo"
+    ],
+    "year": 2024,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "abstract": "The significant advancements in Large Language Models (LLMs) have resulted in their widespread adoption across various tasks within Software Engineering (SE), including vulnerability detection and repair. Numerous studies have investigated the application of LLMs to enhance vulnerability detection and repair tasks. Despite the increasing research interest, there is currently no existing survey that focuses on the utilization of LLMs for vulnerability detection and repair. In this paper, we aim to bridge this gap by offering a systematic literature review of approaches aimed at improving vulnerability detection and repair through the utilization of LLMs. The review encompasses research work from leading SE, AI, and Security conferences and journals, encompassing 43 papers published across 25 distinct venues, along with 15 high-quality preprint papers, bringing the total to 58 papers. By answering three key research questions, we aim to (1) summarize the LLMs employed in the relevant literature, (2) categorize various LLM adaptation techniques in vulnerability detection, and (3) classify various LLM adaptation techniques in vulnerability repair. Based on our findings, we have identified a series of limitations of existing studies. Additionally, we have outlined a roadmap highlighting potential opportunities that we believe are pertinent and crucial for future research endeavors.",
+    "citations": 85,
+    "open_access_pdf_url": "https://doi.org/10.1145/3708522",
+    "doi_url": "https://doi.org/10.1145/3708522",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4405543707",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "XinZhou2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1007/s10664-024-10594-x",
+    "title": "Explainable automated debugging via large language model-driven scientific debugging",
+    "authors": [
+      "Sungmin Kang",
+      "Bei Chen",
+      "Shin Yoo",
+      "Jian–Guang Lou"
+    ],
+    "year": 2024,
+    "venue": "Empirical Software Engineering",
+    "abstract": "Abstract Automated debugging techniques have the potential to reduce developer effort in debugging. However, while developers want rationales for the provided automatic debugging results, existing techniques are ill-suited to provide them, as their deduction process differs significantly froof human developers. Inspired by the way developers interact with code when debugging, we propose Automated Scientific Debugging ( AutoSD ), a technique that prompts large language models to automatically generate hypotheses, uses debuggers to interact with buggy code, and thus automatically reach conclusions prior to patch generation. In doing so, we aim to produce explanations of how a specific patch has been generated, with the hope that these explanations will lead to enhanced developer decision-making. Our empirical analysis on three program repair benchmarks shows that AutoSD performs competitively with other program repair baselines, and that it can indicate when it is confident in its results. Furthermore, we perform a human study with 20 participants to evaluate AutoSD -generated explanations. Participants with access to explanations judged patch correctness more accurately in five out of six real-world bugs studied. Furthermore, 70% of participants answered that they wanted explanations when using repair tools, and 55% answered that they were satisfied with the Scientific Debugging presentation.",
+    "citations": 34,
+    "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s10664-024-10594-x.pdf",
+    "doi_url": "https://doi.org/10.1007/s10664-024-10594-x",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4405556610",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "SungminKang2024",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3702987",
+    "title": "Empowering Agile-Based Generative Software Development through Human-AI Teamwork",
+    "authors": [
+      "Sai Zhang",
+      "Zhenchang Xing",
+      "Ronghui Guo",
+      "Fangzhou Xu",
+      "L. Chen",
+      "Zhaoyuan Zhang",
+      "Xiaowang Zhang",
+      "Zhiyong Feng",
+      "Zhiqiang Zhuang"
+    ],
+    "year": 2025,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "abstract": "In software development, the raw requirements proposed by users are frequently incomplete, which impedes the complete implementation of software functionalities. With the emergence of large language models, the exploration of generating software through user requirements has attracted attention. Recent methods with the top-down waterfall model employ a questioning approach for requirement completion, attempting to explore further user requirements. However, users, constrained by their domain knowledge, result in a lack of effective acceptance criteria during the requirement completion, failing to fully capture the implicit needs of the user. Moreover, the cumulative errors of the waterfall model can lead to discrepancies between the generated code and user requirements. The Agile methodologies reduce cumulative errors of the waterfall model through lightweight iteration and collaboration with users, but the challenge lies in ensuring semantic consistency between user requirements and the code generated by the agent. To address these challenges, we propose AgileGen, an agile-based generative software development through human-AI teamwork. Unlike existing questioning agents, AgileGen adopts a novel collaborative approach that breaks free from the constraints of domain knowledge by initiating the end-user perspective to complete the acceptance criteria. By introducing the Gherkin language, AgileGen attempts for the first time to use testable requirement descriptions as a bridge for semantic consistency between requirements and code, aiming to ensure that software products meet actual user requirements by defining user scenarios that include acceptance criteria. Additionally, we innovate in the human-AI teamwork model, allowing users to participate in decision-making processes they do well and significantly enhancing the completeness of software functionality. To ensure semantic consistency between requirements and generated code, we derive consistency factors from Gherkin to drive the subsequent software code generation. Finally, to improve the reliability of user scenarios, we also introduce a memory pool mechanism, collecting user decision-making scenarios and recommending them to new users with similar requirements. AgileGen, as a user-friendly interactive system, significantly outperformed existing best methods by 16.4% and garnered higher user satisfaction.",
+    "citations": 15,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3702987",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4406698707",
+    "source_papers": [
+      "10.1145/3712003"
+    ],
+    "source_citation_keys": [
+      "JundaHe2025"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "SaiZhang2025",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1109/icssit46314.2019.8987843",
+    "title": "Machine Learning based Predictive Analysis for failure of monitored control System",
+    "authors": [
+      "Vivank Sharma",
+      "S. V. N. Santhosh Kumar",
+      "Sumit Jahagirdar"
+    ],
+    "year": 2019,
+    "venue": "2019 International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+    "abstract": "When an abnormality is identified in an IoT system or sub-system using change point discovery, a failure prediction dependent on predictive analytic models can distinguish an up-and-coming failure condition ahead of time. In view of this recognition, it can make proactive prescriptive move. This proactive activity in conventional applications is regularly booked support exercises. Although it is workable for us to expect and start activities using IoT sensor information, the edge layer isn't constantly furnished with equipment that can get such guidelines and make the restorative move. We propose a failure prediction dependent on IoT sensor data analytic models that can distinguish an up-and-coming failure condition ahead of time.",
+    "citations": 1,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icssit46314.2019.8987843",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3006136391",
+    "source_papers": [
+      "10.32628/cseit24106197"
+    ],
+    "source_citation_keys": [
+      "MitulModi2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "VivankSharma2019",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1111/isj.12193",
+    "title": "Digital innovation:<scp>A</scp>review and synthesis",
+    "authors": [
+      "Rajiv Kohli",
+      "Nigel P. Melville"
+    ],
+    "year": 2018,
+    "venue": "Information Systems Journal",
+    "abstract": "Abstract Organizations are under increasing pressure to apply digital technologies to renew and transform their business models. A great deal of research has examined specific phenomena, such as adoption antecedents and design methods. However, it is unclear what we know in totality, including what research streams exist, how they fit together, and fruitful opportunities for new knowledge development. We combine scientometric and systematic literature review methodologies to examine 7 dimensions of an adapted theoretical framework: initiation; development; implementation; exploitation; the role of the external competitive environment; role of internal organizational environment; and product, service, and process outcomes. From a macro perspective, we find vastly uneven coverage of research streams, diversity and diffusiveness of research, and knowledge and learning as an underlying conceptual pillar. Combined with our summary of each of the 7 research streams, these findings suggest several areas of future research, which we develop by identifying oppositions and tensions.",
+    "citations": 740,
+    "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/isj.12193",
+    "doi_url": "https://doi.org/10.1111/isj.12193",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2799903446",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "RajivKohli2018",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3241743",
+    "title": "The ABC of Software Engineering Research",
+    "authors": [
+      "Klaas-Jan Stol",
+      "Brian Fitzgerald"
+    ],
+    "year": 2018,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "abstract": "A variety of research methods and techniques are available to SE researchers, and while several overviews exist, there is consistency neither in the research methods covered nor in the terminology used. Furthermore, research is sometimes critically reviewed for characteristics inherent to the methods. We adopt a taxonomy from the social sciences, termed here the ABC framework for SE research, which offers a holistic view of eight archetypal research strategies. ABC refers to the research goal that strives for generalizability over Actors (A) and precise measurement of their Behavior (B), in a realistic Context (C). The ABC framework uses two dimensions widely considered to be key in research design: the level of obtrusiveness of the research and the generalizability of research findings. We discuss metaphors for each strategy and their inherent limitations and potential strengths. We illustrate these research strategies in two key SE domains, global software engineering and requirements engineering, and apply the framework on a sample of 75 articles. Finally, we discuss six ways in which the framework can advance SE research.",
+    "citations": 264,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3241743",
+    "doi_url": "https://doi.org/10.1145/3241743",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2890801208",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "KlaasJanStol2018",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3230713",
+    "title": "A Meta-Model for Information Systems Quality",
+    "authors": [
+      "Daniel Russo",
+      "Paolo Ciancarini",
+      "Tommaso Falasconi",
+      "Massimo Tomasi"
+    ],
+    "year": 2018,
+    "venue": "ACM Transactions on Management Information Systems",
+    "abstract": "Information Systems Quality (ISQ) is a critical source of competitive advantages for organizations. In a scenario of increasing competition on digital services, ISQ is a competitive differentiation asset. In this regard, managing, maintaining, and evolving IT infrastructures have become a primary concern of organizations. Thus, a technical perspective on ISQ provides useful guidance to meet current challenges. The financial sector is paradigmatic, since it is a traditional business, with highly complex business-critical legacy systems, facing a tremendous change due to market and regulation drivers. We carried out a Mixed-Methods study, performing a Delphi-like study on the financial sector. We developed a specific research framework to pursue this vertical study. Data were collected in four phases starting with a high-level randomly stratified panel of 13 senior managers and then a target panel of 124 carefully selected and well-informed domain experts. We have identified and dealt with several quality factors; they were discussed in a comprehensive model inspired by the ISO 25010, 42010, and 12207 standards, corresponding to software quality, software architecture, and software process, respectively. Our results suggest that the relationship among quality, architecture, and process is a valuable technical perspective to explain the quality of an information system. Thus, we introduce and illustrate a novel meta-model, named SQuAP (Software Quality, Architecture, Process), which is intended to give a comprehensive picture of ISQ by abstracting and connecting detailed individual ISO models.",
+    "citations": 26,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3230713",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2894409023",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "DanielRusso2018",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.1904.09751",
+    "title": "The Curious Case of Neural Text Degeneration",
+    "authors": [
+      "Ari Holtzman",
+      "Jan Buys",
+      "Li Du",
+      "Maxwell Forbes",
+      "Yejin Choi"
+    ],
+    "year": 2019,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Despite considerable advancements with deep neural language models, the enigma of neural text degeneration persists when these models are tested as text generators. The counter-intuitive empirical observation is that even though the use of likelihood as training objective leads to high quality models for a broad range of language understanding tasks, using likelihood as a decoding objective leads to text that is bland and strangely repetitive. In this paper, we reveal surprising distributional differences between human text and machine text. In addition, we find that decoding strategies alone can dramatically effect the quality of machine text, even when generated from exactly the same neural language model. Our findings motivate Nucleus Sampling, a simple but effective method to draw the best out of neural generation. By sampling text from the dynamic nucleus of the probability distribution, which allows for diversity while effectively truncating the less reliable tail of the distribution, the resulting text better demonstrates the quality of human text, yielding enhanced diversity without sacrificing fluency and coherence.",
+    "citations": 1110,
+    "open_access_pdf_url": "https://arxiv.org/pdf/1904.09751",
+    "doi_url": "https://doi.org/10.48550/arxiv.1904.09751",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2938704169",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "AriHoltzman2019",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1108/qrj-12-2018-0012",
+    "title": "Coding qualitative data: a synthesis guiding the novice",
+    "authors": [
+      "Mai Skjøtt Linneberg",
+      "Steffen Korsgaard"
+    ],
+    "year": 2019,
+    "venue": "Qualitative Research Journal",
+    "abstract": "Purpose Qualitative research has gained in importance in the social sciences. General knowledge about qualitative data analysis, how to code qualitative data and decisions concerning related research design in the analytical process are all important for novice researchers. The purpose of this paper is to offer researchers who are new to qualitative research a thorough yet practical introduction to the vocabulary and craft of coding. Design/methodology/approach Having pooled, their experience in coding qualitative material and teaching students how to code, in this paper, the authors synthesize the extensive literature on coding in the form of a hands-on review. Findings The aim of this paper is to provide a thorough yet practical presentation of the vocabulary and craft of coding. The authors, thus, discuss the central choices that have to be made before, during and after coding, providing support for novices in practicing careful and enlightening coding work, and joining in the debate on practices and quality in qualitative research. Originality/value While much material on coding exists, it tends to be either too comprehensive or too superficial to be practically useful for the novice researcher. This paper, thus, focusses on the central decisions that need to be made when engaging in qualitative data coding in order to help researchers new to qualitative research engage in thorough coding in order to enhance the quality of their analyses and findings, as well as improve quantitative researchers’ understanding of qualitative coding.",
+    "citations": 1121,
+    "open_access_pdf_url": "https://pure.au.dk/ws/files/190067680/Linneberg_2019_Coding_qualitative_data.pdf",
+    "doi_url": "https://doi.org/10.1108/qrj-12-2018-0012",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2944745716",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "MaiSkjttLinneberg2019",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1108/ejm-02-2019-0189",
+    "title": "Predictive model assessment in PLS-SEM: guidelines for using PLSpredict",
+    "authors": [
+      "Galit Shmueli",
+      "Marko Sarstedt",
+      "Joseph F. Hair",
+      "Jun‐Hwa Cheah",
+      "Hiram Ting",
+      "Santha Vaithilingam",
+      "Christian M. Ringle"
+    ],
+    "year": 2019,
+    "venue": "European Journal of Marketing",
+    "abstract": "Purpose Partial least squares (PLS) has been introduced as a “causal-predictive” approach to structural equation modeling (SEM), designed to overcome the apparent dichotomy between explanation and prediction. However, while researchers using PLS-SEM routinely stress the predictive nature of their analyses, model evaluation assessment relies exclusively on metrics designed to assess the path model’s explanatory power. Recent research has proposed PLSpredict, a holdout sample-based procedure that generates case-level predictions on an item or a construct level. This paper offers guidelines for applying PLSpredict and explains the key choices researchers need to make using the procedure. Design/methodology/approach The authors discuss the need for prediction-oriented model evaluations in PLS-SEM and conceptually explain and further advance the PLSpredict method. In addition, they illustrate the PLSpredict procedure’s use with a tourism marketing model and provide recommendations on how the results should be interpreted. While the focus of the paper is on the PLSpredict procedure, the overarching aim is to encourage the routine prediction-oriented assessment in PLS-SEM analyses. Findings The paper advances PLSpredict and offers guidance on how to use this prediction-oriented model evaluation approach. Researchers should routinely consider the assessment of the predictive power of their PLS path models. PLSpredict is a useful and straightforward approach to evaluate the out-of-sample predictive capabilities of PLS path models that researchers can apply in their studies. Research limitations/implications Future research should seek to extend PLSpredict’s capabilities, for example, by developing more benchmarks for comparing PLS-SEM results and empirically contrasting the earliest antecedent and the direct antecedent approaches to predictive power assessment. Practical implications This paper offers clear guidelines for using PLSpredict, which researchers and practitioners should routinely apply as part of their PLS-SEM analyses. Originality/value This research substantiates the use of PLSpredict. It provides marketing researchers and practitioners with the knowledge they need to properly assess, report and interpret PLS-SEM results. Thereby, this research contributes to safeguarding the rigor of marketing studies using PLS-SEM.",
+    "citations": 3653,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1108/ejm-02-2019-0189",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2955829435",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "GalitShmueli2019",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2001.08361",
+    "title": "Scaling Laws for Neural Language Models",
+    "authors": [
+      "Jared Kaplan",
+      "Sam McCandlish",
+      "Tom Henighan",
+      "T. B. Brown",
+      "Benjamin Chess",
+      "Rewon Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeffrey Wu",
+      "Dario Amodei"
+    ],
+    "year": 2020,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "This paper develops a transport-validity theory for agentic AI interventions that are first screened on small systems and later considered for frontier-scale deployment. Rather than predicting absolute frontier performance, it asks when a comparative gain observed at small scale can be carried forward without overclaiming. The analysis targets an explicitly delimited class of operationally isolatable interventions whose effects can be compiled from logged event-local channels with bounded spillover and replayable extraction maps. The paper proves structured failure modes for naive extrapolation, including sign reversal under bottleneck-weight shift and the vacuity of observable closeness when a descriptor omits a sign-relevant coordinate. It then develops a constructive positive framework based on executable lower certificates: a two-stage compiler architecture, replayable identified sets for stage-one mode laws, descriptor-language growth audits, witness-cover transport certificates, branch-local evaluation bridges, confidence-calibrated audit rules, and portfolio-level frontier allocation under interaction risk. The result is a finite, machine-readable, and operational framework for deciding which small-scale architectural improvements—such as decomposition, tool routing, memory policy, verifier coupling, orchestration, and related inference-time interventions—deserve expensive frontier trials, and how scarce frontier budget should be allocated among them. The paper does not claim a law for AGI timelines and does not remove the need for frontier experimentation; its claim is narrower and practical: to provide replayable, falsifiable conditions for responsible scale-up decisions in agentic AI research.",
+    "citations": 1502,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2001.08361",
+    "doi_url": "https://doi.org/10.48550/arxiv.2001.08361",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3001279689",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "JaredKaplan2020",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.5465/amr.2018.0482",
+    "title": "Achieving Rigor in Qualitative Analysis: The Role of Active Categorization in Theory Building",
+    "authors": [
+      "Stine Grodal",
+      "Michel Anteby",
+      "Audrey Holm"
+    ],
+    "year": 2020,
+    "venue": "Academy of Management Review",
+    "abstract": "Scholars have long debated how rigor can be achieved in qualitative analysis. To answer this question, we need to better understand how theory is generated from data. Qualitative analysis is, at its core, a categorization process. Nevertheless, despite a surge of interest in categorization within the social sciences, insights from categorization theory have not yet been applied to our understanding of qualitative analysis. Drawing from categorization theory, we argue that the movement from data to theory is an active process in which researchers choose between multiple moves that help them to make sense of their data. In addition, we develop a framework of the main moves that people use when they categorize data and demonstrate that evidence of these moves can also be found in past qualitative scholarship. Our framework emphasizes that, if we are not sufficiently reflexive and explicit about the active analytical processes that generate theoretical insights, we cannot be transparent and, thus, rigorous about how we analyze data. We discuss the implications of our framework for increasing rigor in qualitative analysis, for actively constructing categories from data, and for spurring more methodological plurality within qualitative theory building.",
+    "citations": 551,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.5465/amr.2018.0482",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3017214408",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "StineGrodal2020",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3447580",
+    "title": "PLS-SEM for Software Engineering Research",
+    "authors": [
+      "Daniel Russo",
+      "Klaas-Jan Stol"
+    ],
+    "year": 2021,
+    "venue": "ACM Computing Surveys",
+    "abstract": "Software Engineering (SE) researchers are increasingly paying attention to organizational and human factors. Rather than focusing only on variables that can be directly measured, such as lines of code, SE research studies now also consider unobservable variables, such as organizational culture and trust. To measure such latent variables, SE scholars have adopted Partial Least Squares Structural Equation Modeling (PLS-SEM), which is one member of the larger SEM family of statistical analysis techniques. As the SE field is facing the introduction of new methods such as PLS-SEM, a key issue is that not much is known about how to evaluate such studies. To help SE researchers learn about PLS-SEM, we draw on the latest methodological literature on PLS-SEM to synthesize an introduction. Further, we conducted a survey of PLS-SEM studies in the SE literature and evaluated those based on recommended guidelines.",
+    "citations": 199,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3447580",
+    "doi_url": "https://doi.org/10.1145/3447580",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3157093692",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "DanielRusso2021",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3464938",
+    "title": "The Agile Success Model",
+    "authors": [
+      "Daniel Russo"
+    ],
+    "year": 2021,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "abstract": "Organizations are increasingly adopting Agile frameworks for their internal software development. Cost reduction, rapid deployment, requirements and mental model alignment are typical reasons for an Agile transformation. This article presents an in-depth field study of a large-scale Agile transformation in a mission-critical environment, where stakeholders’ commitment was a critical success factor. The goal of such a transformation was to implement mission-oriented features, reducing costs and time to operate in critical scenarios. The project lasted several years and involved over 40 professionals. We report how a hierarchical and plan-driven organization exploited Agile methods to develop a Command &amp; Control (C2) system. Accordingly, we first abstract our experience, inducing a success model of general use for other comparable organizations by performing a post-mortem study. The goal of the inductive research process was to identify critical success factors and their relations. Finally, we validated and generalized our model through Partial Least Squares - Structural Equation Modelling, surveying 200 software engineers involved in similar projects. We conclude the article with data-driven recommendations concerning the management of Agile projects.",
+    "citations": 53,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3464938",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3184225832",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "DanielRusso2021_2",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1108/shr-08-2021-0040",
+    "title": "What do employees want? Halting record-setting turnovers globally",
+    "authors": [
+      "Emmanuel Senior Tenakwah"
+    ],
+    "year": 2021,
+    "venue": "Strategic HR Review",
+    "abstract": "Purpose Retaining talents has been a significant issue for companies globally. Recent statistics suggest that the trend is rising at an alarming rate. This paper aims at examining these statistics, the driving factors, and how organisations can deal with this issue to retain current employees and to attract prospective employees. Design/methodology/approach This paper discusses the drivers of these high turnover rates and the associated costs. Based on these, suggestions on how to retain and attract talents are offered. Findings The evidence available illustrates that employee turnover continues to hamper the growth of companies and can pose existential threats to these companies. It also suggests that listening to concerns or reasons accounting for the exit of employees can go a long way to reduce the current trends. Practical implications The suggestions presented in this paper highlight the possibility of curbing the high rate of turnover. By taking these suggestions, organisations can avoid the enormous costs associated with employee turnover while building a healthy organisation for their employees. Originality/value This work is timely given the high rate of turnover recorded worldwide, even during the pandemic.",
+    "citations": 14,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1108/shr-08-2021-0040",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3201190796",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "EmmanuelSeniorTenakwah2021",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1145/3491101.3519665",
+    "title": "Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models",
+    "authors": [
+      "Priyan Vaithilingam",
+      "Tianyi Zhang",
+      "Elena L. Glassman"
+    ],
+    "year": 2022,
+    "venue": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+    "abstract": "Recent advances in Large Language Models (LLM) have made automatic code generation possible for real-world programming tasks in general-purpose programming languages such as Python. However, there are few human studies on the usability of these tools and how they fit the programming workflow. In this work, we conducted a within-subjects user study with 24 participants to understand how programmers use and perceive Copilot, a LLM-based code generation tool. We found that, while Copilot did not necessarily improve the task completion time or success rate, most participants preferred to use Copilot in daily programming tasks, since Copilot often provided a useful starting point and saved the effort of searching online. However, participants did face difficulties in understanding, editing, and debugging code snippets generated by Copilot, which significantly hindered their task-solving effectiveness. Finally, we highlighted several promising directions for improving the design of Copilot based on our observations and participants’ feedback.",
+    "citations": 539,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3491101.3519665",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4225108562",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "PriyanVaithilingam2022",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2210.14306",
+    "title": "Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming",
+    "authors": [
+      "Hussein Mozannar",
+      "Gagan Bansal",
+      "Adam Fourney",
+      "Eric Horvitz"
+    ],
+    "year": 2022,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Code-recommendation systems, such as Copilot and CodeWhisperer, have the potential to improve programmer productivity by suggesting and auto-completing code. However, to fully realize their potential, we must understand how programmers interact with these systems and identify ways to improve that interaction. To seek insights about human-AI collaboration with code recommendations systems, we studied GitHub Copilot, a code-recommendation system used by millions of programmers daily. We developed CUPS, a taxonomy of common programmer activities when interacting with Copilot. Our study of 21 programmers, who completed coding tasks and retrospectively labeled their sessions with CUPS, showed that CUPS can help us understand how programmers interact with code-recommendation systems, revealing inefficiencies and time costs. Our insights reveal how programmers interact with Copilot and motivate new interface designs and metrics.",
+    "citations": 21,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2210.14306",
+    "doi_url": "https://doi.org/10.48550/arxiv.2210.14306",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4307473961",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "HusseinMozannar2022",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2212.03491",
+    "title": "\"It would work for me too\": How Online Communities Shape Software Developers' Trust in AI-Powered Code Generation Tools",
+    "authors": [
+      "Ruijia Cheng",
+      "Ruotong Wang",
+      "Thomas Zimmermann",
+      "Denae Ford"
+    ],
+    "year": 2022,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "While revolutionary AI-powered code generation tools have been rising rapidly, we know little about how and how to help software developers form appropriate trust in those AI tools. Through a two-phase formative study, we investigate how online communities shape developers' trust in AI tools and how we can leverage community features to facilitate appropriate user trust. Through interviewing 17 developers, we find that developers collectively make sense of AI tools using the experiences shared by community members and leverage community signals to evaluate AI suggestions. We then surface design opportunities and conduct 11 design probe sessions to explore the design space of using community features to support user trust in AI code generation systems. We synthesize our findings and extend an existing model of user trust in AI technologies with sociotechnical factors. We map out the design considerations for integrating user community into the AI code generation experience.",
+    "citations": 7,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2212.03491",
+    "doi_url": "https://doi.org/10.48550/arxiv.2212.03491",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4310923020",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "RuijiaCheng2022",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2302.00438",
+    "title": "On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot",
+    "authors": [
+      "Antonio Mastropaolo",
+      "Luca Pascarella",
+      "Emanuela Guglielmi",
+      "Matteo Ciniselli",
+      "Simone Scalabrino",
+      "Rocco Oliveto",
+      "Gabriele Bavota"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Software engineering research has always being concerned with the improvement of code completion approaches, which suggest the next tokens a developer will likely type while coding. The release of GitHub Copilot constitutes a big step forward, also because of its unprecedented ability to automatically generate even entire functions from their natural language description. While the usefulness of Copilot is evident, it is still unclear to what extent it is robust. Specifically, we do not know the extent to which semantic-preserving changes in the natural language description provided to the model have an effect on the generated code function. In this paper we present an empirical study in which we aim at understanding whether different but semantically equivalent natural language descriptions result in the same recommended function. A negative answer would pose questions on the robustness of deep learning (DL)-based code generators since it would imply that developers using different wordings to describe the same code would obtain different recommendations. We asked Copilot to automatically generate 892 Java methods starting from their original Javadoc description. Then, we generated different semantically equivalent descriptions for each method both manually and automatically, and we analyzed the extent to which predictions generated by Copilot changed. Our results show that modifying the description results in different code recommendations in ~46% of cases. Also, differences in the semantically equivalent descriptions might impact the correctness of the generated code ~28%.",
+    "citations": 7,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2302.00438",
+    "doi_url": "https://doi.org/10.48550/arxiv.2302.00438",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4319049672",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "AntonioMastropaolo2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2303.08733",
+    "title": "Practices and Challenges of Using GitHub Copilot: An Empirical Study",
+    "authors": [
+      "Beiqi Zhang",
+      "Peng Liang",
+      "Xiyu Zhou",
+      "Aakash Ahmad",
+      "Muhammad Waseem"
+    ],
+    "year": 2023,
+    "venue": "Lancaster EPrints (Lancaster University)",
+    "abstract": "With the advances in machine learning, there is a growing interest in AI-enabled tools for autocompleting source code. GitHub Copilot, also referred to as the \"AI Pair Programmer\", has been trained on billions of lines of open source GitHub code, and is one of such tools that has been increasingly used since its launch on June 2021. However, little effort has been devoted to understanding the practices and challenges of using Copilot in programming with auto-completed source code. To this end, we conducted an empirical study by collecting and analyzing the data from Stack Overflow (SO) and GitHub Discussions. More specifically, we searched and manually collected 169 SO posts and 655 GitHub discussions related to the usage of Copilot. We identified the programming languages, IDEs, technologies used with Copilot, functions implemented, benefits, limitations, and challenges when using Copilot. The results show that when practitioners use Copilot: (1) The major programming languages used with Copilot are JavaScript and Python, (2) the main IDE used with Copilot is Visual Studio Code, (3) the most common used technology with Copilot is Node.js, (4) the leading function implemented by Copilot is data processing, (5) the significant benefit of using Copilot is useful code generation, and (6) the main limitation encountered by practitioners when using Copilot is difficulty of integration. Our results suggest that using Copilot is like a double-edged sword, which requires developers to carefully consider various aspects when deciding whether or not to use it. Our study provides empirically grounded foundations and basis for future research on the role of Copilot as an AI pair programmer in software development.",
+    "citations": 5,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2303.08733",
+    "doi_url": "https://doi.org/10.48550/arxiv.2303.08733",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4327673267",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "BeiqiZhang2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.18293/seke2023-077",
+    "title": "Practices and Challenges of Using GitHub Copilot: An Empirical Study",
+    "authors": [
+      "Beiqi Zhang",
+      "Peng Liang",
+      "Xiyu Zhou",
+      "Aakash Ahmad",
+      "Muhammad Waseem"
+    ],
+    "year": 2023,
+    "venue": "Proceedings/Proceedings of the ... International Conference on Software Engineering and Knowledge Engineering",
+    "abstract": "With the advances in machine learning, there is a growing interest in AI-enabled tools for autocompleting source code.GitHub Copilot, also referred to as the \"AI Pair Programmer\", has been trained on billions of lines of open source GitHub code, and is one of such tools that has been increasingly used since its launch in June 2021.However, little effort has been devoted to understanding the practices and challenges of using Copilot in programming with auto-completed source code.To this end, we conducted an empirical study by collecting and analyzing the data from Stack Overflow (SO) and GitHub Discussions.More specifically, we searched and manually collected 169 SO posts and 655 GitHub discussions related to the usage of Copilot.We identified the programming languages, IDEs, technologies used with Copilot, functions implemented, benefits, limitations, and challenges when using Copilot.The results show that when practitioners use Copilot: (1) The major programming languages used with Copilot are JavaScript and Python, (2) the main IDE used with Copilot is Visual Studio Code, (3) the most common used technology with Copilot is Node.js,(4) the leading function implemented by Copilot is data processing, (5) the significant benefit of using Copilot is useful code generation, and (6) the main limitation encountered by practitioners when using Copilot is difficulty of integration.Our results suggest that using Copilot is like a double-edged sword, which requires developers to carefully consider various aspects when deciding whether or not to use it.Our study provides empirically grounded foundations and basis for future research on the role of Copilot as an AI pair programmer in software development.",
+    "citations": 55,
+    "open_access_pdf_url": "https://doi.org/10.18293/seke2023-077",
+    "doi_url": "https://doi.org/10.18293/seke2023-077",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4367061230",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "BeiqiZhang2023_2",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2305.11248",
+    "title": "Investigating and Designing for Trust in AI-powered Code Generation Tools",
+    "authors": [
+      "Ruotong Wang",
+      "Ruijia Cheng",
+      "Denae Ford",
+      "Thomas Zimmermann"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "As AI-powered code generation tools such as GitHub Copilot become popular, it is crucial to understand software developers' trust in AI tools -- a key factor for tool adoption and responsible usage. However, we know little about how developers build trust with AI, nor do we understand how to design the interface of generative AI systems to facilitate their appropriate levels of trust. In this paper, we describe findings from a two-stage qualitative investigation. We first interviewed 17 developers to contextualize their notions of trust and understand their challenges in building appropriate trust in AI code generation tools. We surfaced three main challenges -- including building appropriate expectations, configuring AI tools, and validating AI suggestions. To address these challenges, we conducted a design probe study in the second stage to explore design concepts that support developers' trust-building process by 1) communicating AI performance to help users set proper expectations, 2) allowing users to configure AI by setting and adjusting preferences, and 3) offering indicators of model mechanism to support evaluation of AI suggestions. We gathered developers' feedback on how these design concepts can help them build appropriate trust in AI-powered code generation tools, as well as potential risks in design. These findings inform our proposed design recommendations on how to design for trust in AI-powered code generation tools.",
+    "citations": 2,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2305.11248",
+    "doi_url": "https://doi.org/10.48550/arxiv.2305.11248",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4377298776",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "RuotongWang2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.48550/arxiv.2306.02781",
+    "title": "An Automated Survey of Generative Artificial Intelligence: Large Language Models, Architectures, Protocols, and Applications",
+    "authors": [
+      "Garrido-Merchán, Eduardo C.",
+      "López, Álvaro López"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Generative artificial intelligence, and large language models in particular, have emerged as one of the most transformative paradigms in modern computer science. This automated survey provides an accessible treatment of the field as of early 2026, with a strong focus on the leading model families, deployment protocols, and real-world applications. The core of the survey is devoted to a detailed comparative analysis of the frontier large language models, with particular emphasis on open-weight systems: DeepSeek-V3, DeepSeek-R1, DeepSeek-V3.2, and the forthcoming DeepSeek V4; the Qwen 3 and Qwen 3.5 series; GLM-5; Kimi K2.5; MiniMax M2.5; LLaMA 4; Mistral Large 3; Gemma 3; and Phi-4, alongside proprietary systems including GPT-5.4, Gemini 3.1 Pro, Grok 4.20, and Claude Opus 4.6. For each model, we describe the architectural innovations, training regimes, and empirical performance on current benchmarks and the Chatbot Arena leaderboard. The survey further covers deployment protocols including Retrieval-Augmented Generation, the Model Context Protocol, the Agent-to-Agent protocol, function calling standards, and serving frameworks. We present an extensive review of real-world applications across fifteen industry sectors, from financial services and legal technology to tourism and agriculture, supported by empirical evidence and case studies. This work has been generated by Claude Opus 4.6 (Anthropic) under the supervision and editorial review of the human authors, with the goal of producing updated editions approximately every six months.",
+    "citations": 28,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2306.02781",
+    "doi_url": "https://doi.org/10.48550/arxiv.2306.02781",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4379540039",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "GarridoMerchn2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1109/ms.2023.3278056",
+    "title": "The Next Frontier in Software Development: AI-Augmented Software Development Processes",
+    "authors": [
+      "İpek Özkaya"
+    ],
+    "year": 2023,
+    "venue": "IEEE Software",
+    "abstract": "Excitement around advances in generative artificial intelligence (AI) has taken the world by storm. This article reviews how software development processes evolved successfully only when automation was appropriately targeted to remove roadblocks and recommends that the software development community needs to replicate the same mindset when embracing generative AI based tools.",
+    "citations": 43,
+    "open_access_pdf_url": "https://ieeexplore.ieee.org/ielx7/52/10176167/10176194.pdf",
+    "doi_url": "https://doi.org/10.1109/ms.2023.3278056",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4383498569",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "pekzkaya2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  },
+  {
+    "doi": "10.1109/icse-seip58684.2023.00052",
+    "title": "An Empirical Study on Quality Issues of Deep Learning Platform",
+    "authors": [
+      "Yanjie Gao",
+      "Xiaoxiang Shi",
+      "Haoxiang Lin",
+      "Hongyu Zhang",
+      "Hao Wu",
+      "Rui Li",
+      "Mao Yang"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "In recent years, deep learning (DL) has been increasingly adopted in many application areas. To help deep learning developers better train and test their models, enterprises have built dedicated, multi-tenant platforms equipped with a mass of computing devices like GPUs. The service quality of these platforms plays a critical role in system efficiency and user experience. Nevertheless, there indeed exist diverse types of quality issues that not only waste computing resources significantly but also slow down development productivity severely. In this paper, we present a comprehensive empirical study on quality issues of Platform-X in Microsoft. Platform-X is an internal production deep learning platform that serves hundreds of developers and researchers. We have manually examined 360 real issues and investigated their common symptoms, root causes, and mitigation actions. Our major findings include: (1) 28.33% of the quality issues are caused by hardware (the GPU, network, and compute node) faults; (2) 28.33% of them result from system-side faults (e.g., system defects and service outages); (3) User-side faults (e.g., user bugs and policy violation) account for more than two-fifths (43.34%) of all the common causes; (4) More than three-fifths of all the quality issues can be mitigated by simply resubmitting jobs (34.72%) and improving user code (24.72%). Our study results provide valuable guidance on promoting the service quality of deep learning platforms from both the development and maintenance aspects. The results further motivate possible research directions and tooling support.",
+    "citations": 3,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse-seip58684.2023.00052",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4383888873",
+    "source_papers": [
+      "10.1145/3652154"
+    ],
+    "source_citation_keys": [
+      "DanielRusso2024"
+    ],
+    "snowballing_direction": "backward",
+    "citation_key": "YanjieGao2023",
+    "systematic_review": {
+      "retrieved_at": "2026-05-28 13:19",
+      "stage": "identification",
+      "discovery": "snowballing-2",
+      "query_family": "snowballing",
+      "year_in_protocol_range": true
+    },
+    "screening_pass1": {
+      "decision": "pending",
+      "criterion": "",
+      "reason": "Novo candidato identificado por snowballing; requer triagem por titulo e abstract.",
+      "reviewer": "snowballing-hunter",
+      "timestamp": "2026-05-28T16:19:17Z"
+    },
+    "added_at": "2026-05-28T16:19:17Z"
+  }
+]

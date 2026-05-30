@@ -1,0 +1,619 @@
+{
+  "source": "JSauvola2024",
+  "source_doi": "10.1007/s10515-024-00426-z",
+  "provider": "openalex",
+  "items": [
+    {
+      "id": "https://openalex.org/W4383498485",
+      "doi": "https://doi.org/10.1109/ms.2023.3265877",
+      "title": "Generative AI for Software Practitioners",
+      "publication_year": 2023,
+      "primary_location": {
+        "id": "doi:10.1109/ms.2023.3265877",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/ms.2023.3265877",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S6725529",
+          "display_name": "IEEE Software",
+          "issn_l": "0740-7459",
+          "issn": [
+            "0740-7459",
+            "1937-4194"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320439",
+          "host_organization_name": "IEEE Computer Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320439",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Computer Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Software",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5036461290",
+            "display_name": "Christof Ebert",
+            "orcid": "https://orcid.org/0000-0003-2287-1854"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Christof Ebert",
+          "raw_affiliation_strings": [
+            "Vector Consulting Services, Stuttgart, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2287-1854",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Vector Consulting Services, Stuttgart, Germany",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5065365299",
+            "display_name": "Πάνος Λουρίδας",
+            "orcid": "https://orcid.org/0000-0002-3971-4612"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63843962",
+              "display_name": "National Infrastructures for Research and Technology -  GRNET S.A",
+              "ror": "https://ror.org/05tcasm11",
+              "country_code": "GR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I63843962"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I73142707",
+              "display_name": "Athens University of Economics and Business",
+              "ror": "https://ror.org/03s262162",
+              "country_code": "GR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I73142707"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Panos Louridas",
+          "raw_affiliation_strings": [
+            "Department of Management Science and Technology, Athens University of Economics and Business, Athens, Greece",
+            "GRNET S.A., Athens, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Management Science and Technology, Athens University of Economics and Business, Athens, Greece",
+              "institution_ids": [
+                "https://openalex.org/I73142707"
+              ]
+            },
+            {
+              "raw_affiliation_string": "GRNET S.A., Athens, Greece",
+              "institution_ids": [
+                "https://openalex.org/I63843962"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Generative": [
+          0
+        ],
+        "artificial": [
+          1
+        ],
+        "intelligence": [
+          2
+        ],
+        "(AI)": [
+          3
+        ],
+        "tools,": [
+          4
+        ],
+        "such": [
+          5,
+          44
+        ],
+        "as": [
+          6
+        ],
+        "Bard,": [
+          7
+        ],
+        "ChatGPT,": [
+          8
+        ],
+        "and": [
+          9,
+          32,
+          61,
+          75,
+          94
+        ],
+        "CoPilot,": [
+          10
+        ],
+        "have": [
+          11,
+          18,
+          68
+        ],
+        "rapidly": [
+          12
+        ],
+        "gained": [
+          13
+        ],
+        "widespread": [
+          14
+        ],
+        "usage.": [
+          15
+        ],
+        "They": [
+          16
+        ],
+        "also": [
+          17
+        ],
+        "the": [
+          19,
+          38,
+          64,
+          95
+        ],
+        "potential": [
+          20
+        ],
+        "to": [
+          21,
+          54,
+          58,
+          87
+        ],
+        "boost": [
+          22
+        ],
+        "software": [
+          23,
+          39,
+          51,
+          59
+        ],
+        "engineering": [
+          24
+        ],
+        "productivity.": [
+          25
+        ],
+        "In": [
+          26
+        ],
+        "this": [
+          27,
+          92
+        ],
+        "article,": [
+          28
+        ],
+        "we": [
+          29
+        ],
+        "elaborate": [
+          30
+        ],
+        "technologies": [
+          31,
+          67,
+          96
+        ],
+        "usage": [
+          33
+        ],
+        "of": [
+          34,
+          71
+        ],
+        "generative": [
+          35,
+          48,
+          56
+        ],
+        "AI": [
+          36,
+          49,
+          57
+        ],
+        "in": [
+          37
+        ],
+        "industry.": [
+          40
+        ],
+        "We": [
+          41
+        ],
+        "address": [
+          42
+        ],
+        "questions,": [
+          43
+        ],
+        "as:": [
+          45
+        ],
+        "How": [
+          46,
+          53
+        ],
+        "does": [
+          47
+        ],
+        "improve": [
+          50
+        ],
+        "productivity?": [
+          52
+        ],
+        "connect": [
+          55
+        ],
+        "development,": [
+          60
+        ],
+        "what": [
+          62,
+          69
+        ],
+        "are": [
+          63,
+          78
+        ],
+        "risks?": [
+          65
+        ],
+        "Which": [
+          66
+        ],
+        "sorts": [
+          70
+        ],
+        "benefits?": [
+          72
+        ],
+        "Practitioner": [
+          73
+        ],
+        "guidance": [
+          74
+        ],
+        "case": [
+          76
+        ],
+        "studies": [
+          77
+        ],
+        "shared": [
+          79
+        ],
+        "from": [
+          80,
+          89
+        ],
+        "our": [
+          81
+        ],
+        "industry": [
+          82
+        ],
+        "context.": [
+          83
+        ],
+        "I": [
+          84
+        ],
+        "look": [
+          85
+        ],
+        "forward": [
+          86
+        ],
+        "hearing": [
+          88
+        ],
+        "you": [
+          90
+        ],
+        "about": [
+          91
+        ],
+        "column": [
+          93
+        ],
+        "that": [
+          97
+        ],
+        "matter": [
+          98
+        ],
+        "most": [
+          99
+        ],
+        "for": [
+          100
+        ],
+        "your": [
+          101
+        ],
+        "work.—Christof": [
+          102
+        ],
+        "Ebert": [
+          103
+        ]
+      },
+      "cited_by_count": 263,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4385656600",
+      "doi": "https://doi.org/10.1109/ms.2023.3300574",
+      "title": "Generative Artificial Intelligence Assistants in Software Development Education: A Vision for Integrating Generative Artificial Intelligence Into Educational Practice, Not Instinctively Defending Against It",
+      "publication_year": 2023,
+      "primary_location": {
+        "id": "doi:10.1109/ms.2023.3300574",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/ms.2023.3300574",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S6725529",
+          "display_name": "IEEE Software",
+          "issn_l": "0740-7459",
+          "issn": [
+            "0740-7459",
+            "1937-4194"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320439",
+          "host_organization_name": "IEEE Computer Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320439",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Computer Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Software",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5046452200",
+            "display_name": "Christopher Bull",
+            "orcid": "https://orcid.org/0000-0002-9811-4190"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I84884186",
+              "display_name": "Newcastle University",
+              "ror": "https://ror.org/01kj2bm70",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Christopher Bull",
+          "raw_affiliation_strings": [
+            "School of Computing, Newcastle University, Newcastle Upon Tyne, U.K"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9811-4190",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Computing, Newcastle University, Newcastle Upon Tyne, U.K",
+              "institution_ids": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5008442844",
+            "display_name": "Ahmed Kharrufa",
+            "orcid": "https://orcid.org/0000-0002-3461-4161"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I84884186",
+              "display_name": "Newcastle University",
+              "ror": "https://ror.org/01kj2bm70",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Kharrufa",
+          "raw_affiliation_strings": [
+            "School of Computing, Newcastle University, Newcastle Upon Tyne, U.K"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3461-4161",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Computing, Newcastle University, Newcastle Upon Tyne, U.K",
+              "institution_ids": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "use": [
+          1,
+          27
+        ],
+        "of": [
+          2,
+          28
+        ],
+        "Generative": [
+          3,
+          29
+        ],
+        "AI": [
+          4,
+          30
+        ],
+        "in": [
+          5
+        ],
+        "software": [
+          6,
+          19,
+          33
+        ],
+        "development": [
+          7,
+          20
+        ],
+        "is": [
+          8
+        ],
+        "gaining": [
+          9
+        ],
+        "traction.": [
+          10
+        ],
+        "But": [
+          11
+        ],
+        "what": [
+          12
+        ],
+        "are": [
+          13
+        ],
+        "the": [
+          14,
+          26
+        ],
+        "potentials": [
+          15
+        ],
+        "and": [
+          16,
+          35
+        ],
+        "implications": [
+          17
+        ],
+        "on": [
+          18,
+          25
+        ],
+        "education?": [
+          21
+        ],
+        "We": [
+          22
+        ],
+        "gathered": [
+          23
+        ],
+        "insights": [
+          24
+        ],
+        "from": [
+          31
+        ],
+        "professional": [
+          32
+        ],
+        "developers": [
+          34
+        ],
+        "make": [
+          36
+        ],
+        "some": [
+          37
+        ],
+        "pedagogical": [
+          38
+        ],
+        "recommendations.": [
+          39
+        ]
+      },
+      "cited_by_count": 69,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ]
+}

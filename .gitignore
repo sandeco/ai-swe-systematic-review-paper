@@ -1,0 +1,25 @@
+# Internal read-only junction to the source project (none for this literature review)
+/ai-swe-systematic-review/
+
+# Copyrighted full texts and heavy scraped data (NOT redistributable; corpus is identified by DOI)
+systematic-review/papers_to_review/
+systematic-review/pdf-extracts/
+systematic-review/search-results.raw.json
+systematic-review/search-results.s2-arxiv.json
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS / editor
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

@@ -1,0 +1,2129 @@
+[
+  {
+    "doi": "10.4324/9780203793206",
+    "title": "The Discovery of Grounded Theory",
+    "authors": [
+      "Barney G. Glaser",
+      "Anselm L. Strauss"
+    ],
+    "year": 2017,
+    "venue": null,
+    "abstract": "Most writing on sociological method has been concerned with how accurate facts can be obtained and how theory can thereby be more rigorously tested. In The Discovery of Grounded Theory, Barney Glaser and Anselm Strauss address the equally Important enterprise of how the discovery of theory from data—systematically obtained and analyzed in social research—can be furthered. The discovery of theory from data—grounded theory—is a major task confronting sociology, for such a theory fits empirical situations, and is understandable to sociologists and laymen alike. Most important, it provides relevant predictions, explanations, interpretations, and applications. In Part I of the book, \"Generation Theory by Comparative Analysis,\" the authors present a strategy whereby sociologists can facilitate the discovery of grounded theory, both substantive and formal. This strategy involves the systematic choice and study of several comparison groups. In Part II, The Flexible Use of Data,\" the generation of theory from qualitative, especially documentary, and quantitative data Is considered. In Part III, \"Implications of Grounded Theory,\" Glaser and Strauss examine the credibility of grounded theory. The Discovery of Grounded Theory is directed toward improving social scientists' capacity for generating theory that will be relevant to their research. While aimed primarily at sociologists, it will be useful to anyone Interested In studying social phenomena—political, educational, economic, industrial— especially If their studies are based on qualitative data.",
+    "citations": 23634,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.4324/9780203793206",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1515587369",
+    "source_papers": [
+      "10.2139/ssrn.5520159"
+    ],
+    "source_citation_keys": [
+      "Akbar2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/978-3-031-96096-3_23",
+    "title": "Artificial Intelligent Technologies to Support Software Engineering: A Survey",
+    "authors": [
+      "Luigi Colucci Cante",
+      "Antônio Espósito",
+      "Mariangela Graziano",
+      "Beniamino Di Martino"
+    ],
+    "year": 2025,
+    "venue": "Lecture notes on data engineering and communications technologies",
+    "abstract": null,
+    "citations": 2,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-031-96096-3_23",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4412043055",
+    "source_papers": [
+      "10.2139/ssrn.5520159"
+    ],
+    "source_citation_keys": [
+      "Akbar2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/icse-c.2017.142",
+    "title": "Blockchain-Oriented Software Engineering: Challenges and New Directions",
+    "authors": [
+      "Simone Porru",
+      "Andrea Pinna",
+      "Michele Marchesi",
+      "Roberto Tonelli"
+    ],
+    "year": 2017,
+    "venue": null,
+    "abstract": "In this work, we acknowledge the need for software engineers to devise specialized tools and techniques for blockchain-oriented software development. Ensuring effective testing activities, enhancing collaboration in large teams, and facilitating the development of smart contracts all appear as key factors in the future of blockchain-oriented software development.",
+    "citations": 329,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse-c.2017.142",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2589660059",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00019"
+    ],
+    "source_citation_keys": [
+      "Merchant2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/3211933.3211934",
+    "title": "ChainSoft",
+    "authors": [
+      "Michał Król",
+      "Sergi Reñé",
+      "Onur Ascigil",
+      "Ioannis Psaras"
+    ],
+    "year": 2018,
+    "venue": null,
+    "abstract": "In recent years, more and more companies require dedicated software to increase the efficiency of their business. However, with rapidly changing technologies it is often inefficient to maintain a dedicated team of developers. On the other hand, outsourcing software development requires considerable effort and trust between involved parties to ensure the quality of the code and adequate payment.",
+    "citations": 19,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3211933.3211934",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2806254542",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00019"
+    ],
+    "source_citation_keys": [
+      "Merchant2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1287/orsc.2021.1479",
+    "title": "Bottleneck Resources, Market Relatedness, and the Dynamics of Organizational Growth",
+    "authors": [
+      "Sungyong Chang",
+      "J. P. Eggers",
+      "Dongil Daniel Keum"
+    ],
+    "year": 2021,
+    "venue": "Organization Science",
+    "abstract": "Entering a new product market requires assembling a bundle of resources. Because missing a single resource can foil the entire entry effort, we argue that bottleneck resources—those most difficult to obtain or sell externally—anchor the direction of firm growth. We characterize market resources as bottlenecks to product market entry, because they are (on average) more challenging to obtain and sell than technological resources, and we articulate why the importance of market resources varies with the strength of external markets for technology. Using cross-industry data linking firms’ product portfolios with patents, we find resource dynamics whereby market resources drive the strategic decision to enter, and firms fill technological gaps using both internal research and development and external acquisitions (joint ventures and alliances). Our study underscores the importance of resources for firm growth dynamics and specifically highlights market resources as the bottleneck that constrains and directs the direction of product market entry.",
+    "citations": 16,
+    "open_access_pdf_url": "https://lbsresearch.london.edu/id/eprint/1735/1/20210308%20Growth%20Logic%20Full%20v.2.1%20SY.pdf",
+    "doi_url": "https://doi.org/10.1287/orsc.2021.1479",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3184655123",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00019"
+    ],
+    "source_citation_keys": [
+      "Merchant2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1148/ryai.220028",
+    "title": "Generalizability of Machine Learning Models: Quantitative Evaluation of Three Methodological Pitfalls",
+    "authors": [
+      "Farhad Maleki",
+      "Katie Ovens",
+      "Rajiv Gupta",
+      "Caroline Reinhold",
+      "Alan Spatz",
+      "Reza Forghani"
+    ],
+    "year": 2022,
+    "venue": "Radiology Artificial Intelligence",
+    "abstract": "Purpose To investigate the impact of the following three methodological pitfalls on model generalizability: (a) violation of the independence assumption, (b) model evaluation with an inappropriate performance indicator or baseline for comparison, and (c) batch effect. Materials and Methods The authors used retrospective CT, histopathologic analysis, and radiography datasets to develop machine learning models with and without the three methodological pitfalls to quantitatively illustrate their effect on model performance and generalizability. F1 score was used to measure performance, and differences in performance between models developed with and without errors were assessed using the Wilcoxon rank sum test when applicable. Results Violation of the independence assumption by applying oversampling, feature selection, and data augmentation before splitting data into training, validation, and test sets seemingly improved model F1 scores by 71.2% for predicting local recurrence and 5.0% for predicting 3-year overall survival in head and neck cancer and by 46.0% for distinguishing histopathologic patterns in lung cancer. Randomly distributing data points for a patient across datasets superficially improved the F1 score by 21.8%. High model performance metrics did not indicate high-quality lung segmentation. In the presence of a batch effect, a model built for pneumonia detection had an F1 score of 98.7% but correctly classified only 3.86% of samples from a new dataset of healthy patients. Conclusion Machine learning models developed with these methodological pitfalls, which are undetectable during internal evaluation, produce inaccurate predictions; thus, understanding and avoiding these pitfalls is necessary for developing generalizable models. Keywords: Random Forest, Diagnosis, Prognosis, Convolutional Neural Network (CNN), Medical Image Analysis, Generalizability, Machine Learning, Deep Learning, Model Evaluation Supplemental material is available for this article. Published under a CC BY 4.0 license.",
+    "citations": 128,
+    "open_access_pdf_url": "https://doi.org/10.1148/ryai.220028",
+    "doi_url": "https://doi.org/10.1148/ryai.220028",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4309321702",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00019"
+    ],
+    "source_citation_keys": [
+      "Merchant2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.3390/math12233860",
+    "title": "Scalability and Security in Blockchain Networks: Evaluation of Sharding Algorithms and Prospects for Decentralized Data Storage",
+    "authors": [
+      "Andrey L. Bulgakov",
+      "Anna V. Aleshina",
+      "Sergey D. Smirnov",
+      "Alexey D. Demidov",
+      "Maxim A. Milyutin",
+      "Yanliang Xin"
+    ],
+    "year": 2024,
+    "venue": "Mathematics",
+    "abstract": "This article addresses the issues of scalability and security in blockchain networks, with a focus on sharding algorithms and decentralized data storage. Key challenges include the low throughput and high transaction latency in public networks such as Bitcoin and Ethereum. Sharding is examined as a method to enhance performance through data distribution, but it raises concerns regarding node management and reliability. Sharding schemes, such as Elastico, OmniLedger, Pyramid, RepChain, and SSchain, are analyzed, each presenting its own advantages and drawbacks. Alternative architectures like Directed Acyclic Graphs (DAGs) demonstrate potential for improved scalability but require further refinement to ensure decentralization and security. Protocols such as Brokerchain, Meepo, AHL, Benzene, and CycLedger offer unique approaches to addressing performance and transaction consistency issues. This article emphasizes the need for a comprehensive approach, including dynamic sharding, multi-level consensus, and inter-shard coordination. Additionally, a conceptual model is proposed that incorporates the sharding of transactions, states, and networks, which enables greater scalability and efficiency.",
+    "citations": 13,
+    "open_access_pdf_url": "https://www.mdpi.com/2227-7390/12/23/3860/pdf?version=1733646958",
+    "doi_url": "https://doi.org/10.3390/math12233860",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4405189055",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00019"
+    ],
+    "source_citation_keys": [
+      "Merchant2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.52202/068431-1800",
+    "title": "Chain-Of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "authors": [
+      "Maarten Bosma",
+      "Ed Chi",
+      "Brian Ichter",
+      "Quoc V Le",
+      "Dale Schuurmans",
+      "Xuezhi Wang",
+      "Jason Wei",
+      "Fei Xia",
+      "Denny Zhou"
+    ],
+    "year": 2022,
+    "venue": null,
+    "abstract": null,
+    "citations": 432,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.52202/068431-1800",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W7133224126",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00019"
+    ],
+    "source_citation_keys": [
+      "Merchant2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1016/j.intcom.2009.04.007",
+    "title": "Usability – Context, framework, definition, design and evaluation",
+    "authors": [
+      "B Shackel"
+    ],
+    "year": 2009,
+    "venue": "Interacting with Computers",
+    "abstract": "For many users the informatics system is essentially the terminal or workstation which they are using, and that is the central computer as they see it. But only too often these users are seen as “end-users” by designers – and this name may well betray an attitude which causes some of the bad design for users and failures in usability. Designers must see the user as the centre of the computer system instead of as a mere peripheral. This simple concept, easy to state but harder to achieve, is often expounded by ergonomists and human factors specialists. It has been emphasised by Nicholls (1979): In spite of changes in the nature of computing, remnants of old thinking remain with us. In former days, when the CPU was at the heart of a system, designers naturally talked of “terminals” and “peripherals”. I suspect it was in this period that people began to use the term “end user”. The unconscious symbolism is both a symptom and a cause; the “end” user at the “terminal” was often the last person to be considered in the design of the system. It is important to develop a new view of computing systems, and to look at the user in a different light … taking this view of computing, the centre of a system is the user.",
+    "citations": 418,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.intcom.2009.04.007",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1970200091",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1016/j.infsof.2011.02.007",
+    "title": "Usability evaluation methods for the web: A systematic mapping study",
+    "authors": [
+      "Adrián Fernandez",
+      "Emilio Insfrán",
+      "Silvia Abrahão"
+    ],
+    "year": 2011,
+    "venue": "Information and Software Technology",
+    "abstract": null,
+    "citations": 494,
+    "open_access_pdf_url": "http://hdl.handle.net/10251/33426",
+    "doi_url": "https://doi.org/10.1016/j.infsof.2011.02.007",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2055000704",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/zinc.2016.7513646",
+    "title": "User behavior prediction in the “offline” smart home solutions",
+    "authors": [
+      "Valery Milykh",
+      "Dmitry Vavilov",
+      "Ivan Platonov",
+      "А. Г. Анисимов"
+    ],
+    "year": 2016,
+    "venue": null,
+    "abstract": "Smart Home products spread is restrained due to several reasons including poor usability and fears of the personal data security [1,2]. Our research team suggested Smart Home solutions based on the user behavior analysis and modeling [3]. We also studied application of this approach to different householder needs (like healthcare or imitation of the user's presence [4]). We showed that the approach also critically improve the usability of the Smart Home. Finally, we described the methodology for analysis of the householder's behavior and simulation of his activities. So “offline” solutions based on this approach allows protecting privacy and provide good usability (“offline” means here partly or completely disconnected from the external operating signals and observations). At the same time they have some disadvantages including relatively low quality of predictions [5]. In this paper we discuss how the tuning of parameters of the previously suggested methodology provides improvement of the user needs predictions. The results of primal tests of this approach are presented and analyzed.",
+    "citations": 9,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/zinc.2016.7513646",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2491724337",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": null,
+    "title": "Parsing Software Requirements with an Ontology-based Semantic Role Labeler",
+    "authors": [
+      "Michael Roth",
+      "Ewan Klein"
+    ],
+    "year": 2015,
+    "venue": null,
+    "abstract": "Software requirements describe functional and non-functional aspects of a software system and form the basis for the development process. Accordingly, requirements of existing systems can pro-vide insights regarding the re-usability of already implemented software artifacts. To facilitate direct comparison between requirements of existing and to be developed systems, we propose to automati-cally map requirements in natural language text to structured semantic representations. For this task, we adapt techniques from semantic role labeling to a high-level ontology that defines concepts and relations for describing static software functionalities. The proposed method achieves a precision and recall of 77.9 % and 74.5%, respectively, on an annotated software requirements dataset and significantly outperforms two baselines that are based on lexical and syntactic patterns. 1",
+    "citations": 13,
+    "open_access_pdf_url": null,
+    "doi_url": null,
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2599803294",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1001/jama.2019.0161",
+    "title": "A Decade of Health Information Technology Usability Challenges and the Path Forward",
+    "authors": [
+      "Raj M. Ratwani",
+      "Jacob Reider",
+      "Hardeep Singh"
+    ],
+    "year": 2019,
+    "venue": "JAMA",
+    "abstract": "Our website uses cookies to enhance your experience. By continuing to use our site, or clicking \"Continue,\" you are agreeing to our Cookie Policy | Continue JAMA HomeNew OnlineCurrent IssueFor Authors Publications JAMA JAMA Network Open JAMA Cardiology JAMA Dermatology JAMA Health Forum JAMA Internal Medicine JAMA Neurology JAMA Oncology JAMA Ophthalmology JAMA Otolaryngology–Head & Neck Surgery JAMA Pediatrics JAMA Psychiatry JAMA Surgery Archives of Neurology & Psychiatry (1919-1959) Podcasts Clinical Reviews Editors' Summary Medical News Author Interviews More JN Learning / CMESubscribeJobsInstitutions / LibrariansReprints & Permissions Terms of Use | Privacy Policy | Accessibility Statement 2023 American Medical Association. All Rights Reserved Search All JAMA JAMA Network Open JAMA Cardiology JAMA Dermatology JAMA Forum Archive JAMA Health Forum JAMA Internal Medicine JAMA Neurology JAMA Oncology JAMA Ophthalmology JAMA Otolaryngology–Head & Neck Surgery JAMA Pediatrics JAMA Psychiatry JAMA Surgery Archives of Neurology & Psychiatry Input Search Term Sign In Individual Sign In Sign inCreate an Account Access through your institution Sign In Purchase Options: Buy this article Rent this article Subscribe to the JAMA journal",
+    "citations": 101,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1001/jama.2019.0161",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2912370264",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1201/9781315151199",
+    "title": "Virtual Humans: Today and Tomorrow",
+    "authors": [
+      "David Burden",
+      "Maggi Savin‐Baden"
+    ],
+    "year": 2019,
+    "venue": null,
+    "abstract": null,
+    "citations": 52,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1201/9781315151199",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2914256856",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1016/j.infsof.2019.07.007",
+    "title": "Using cognitive dimensions to evaluate the usability of security APIs: An empirical investigation",
+    "authors": [
+      "Chamila Wijayarathna",
+      "Nalin Asanka Gamagedara Arachchilage"
+    ],
+    "year": 2019,
+    "venue": "Information and Software Technology",
+    "abstract": null,
+    "citations": 19,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.infsof.2019.07.007",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2963725780",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1016/j.infsof.2019.106195",
+    "title": "Impact of usability mechanisms: An experiment on efficiency, effectiveness and user satisfaction",
+    "authors": [
+      "Juan M. Ferreira",
+      "Silvia T. Acuña",
+      "Óscar Dieste",
+      "Sira Vegas",
+      "Adrián Santos",
+      "Francy D. Rodríguez",
+      "Natália Juristo"
+    ],
+    "year": 2019,
+    "venue": "Information and Software Technology",
+    "abstract": null,
+    "citations": 81,
+    "open_access_pdf_url": "http://urn.fi/urn:nbn:fi-fe202002054561",
+    "doi_url": "https://doi.org/10.1016/j.infsof.2019.106195",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2976869736",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1007/978-3-030-62522-1_24",
+    "title": "Towards an Ontology Network on Human-Computer Interaction",
+    "authors": [
+      "Simone Dornelas Costa",
+      "Monalessa Perini Barcellos",
+      "Ricardo de Almeida Falbo",
+      "Murillo V. H. B. Castro"
+    ],
+    "year": 2020,
+    "venue": "Lecture notes in computer science",
+    "abstract": null,
+    "citations": 7,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-030-62522-1_24",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3096709149",
+    "source_papers": [
+      "10.36227/techrxiv.20097701"
+    ],
+    "source_citation_keys": [
+      "Gupta2022"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1016/j.jss.2015.06.063",
+    "title": "Continuous software engineering: A roadmap and agenda",
+    "authors": [
+      "Brian Fitzgerald",
+      "Klaas-Jan Stol"
+    ],
+    "year": 2015,
+    "venue": "Journal of Systems and Software",
+    "abstract": null,
+    "citations": 698,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.jss.2015.06.063",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W806202468",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10",
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024",
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.21225/d5g01t",
+    "title": "Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory",
+    "authors": [
+      "Brad Wuetherick"
+    ],
+    "year": 2010,
+    "venue": "Canadian Journal of University Continuing Education",
+    "abstract": null,
+    "citations": 8422,
+    "open_access_pdf_url": "https://journals.library.ualberta.ca/cjuce-rcepu/index.php/cjuce-rcepu/article/download/9688/7644",
+    "doi_url": "https://doi.org/10.21225/d5g01t",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1615506555",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/1595696.1595728",
+    "title": "Learning from examples to improve code completion systems",
+    "authors": [
+      "Marcel Bruch",
+      "Martin Monperrus",
+      "Mira Mezini"
+    ],
+    "year": 2009,
+    "venue": null,
+    "abstract": "The suggestions made by current IDE's code completion features are based exclusively on static type system of the programming language. As a result, often proposals are made which are irrelevant for a particular working context. Also, these suggestions are ordered alphabetically rather than by their relevance in a particular context. In this paper, we present intelligent code completion systems that learn from existing code repositories. We have implemented three such systems, each using the information contained in repositories in a different way. We perform a large-scale quantitative evaluation of these systems, integrate the best performing one into Eclipse, and evaluate the latter also by a user study. Our experiments give evidence that intelligent code completion systems which learn from examples significantly outperform mainstream code completion systems in terms of the relevance of their suggestions and thus have the potential to enhance developers' productivity.",
+    "citations": 379,
+    "open_access_pdf_url": "https://hal.science/hal-01575348",
+    "doi_url": "https://doi.org/10.1145/1595696.1595728",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1970607969",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/ms.2006.105",
+    "title": "How are Java software developers using the Eclipse IDE?",
+    "authors": [
+      "Gail C. Murphy",
+      "Mik Kersten",
+      "Leah Findlater"
+    ],
+    "year": 2006,
+    "venue": "IEEE Software",
+    "abstract": "The Eclipse integrated development environment continues to gain popularity among Java developers. Our usage monitoring approach allows tool builders to sample how developers are using their tools in the wild. The data gathered about tool use can be used to prevent feature bloat and to evolve the environments according to user needs. Information about how developers work in a development environment can also provide a baseline for assessing new software development tools. We hope this report provides a start in defining which in formation to collect and distribute on an on going basis to help improve Eclipse and other similar platforms and tools.",
+    "citations": 406,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/ms.2006.105",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1998265754",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/ms.2009.82",
+    "title": "What Do We Know about Knowledge Management? Practical Implications for Software Engineering",
+    "authors": [
+      "Torgeir Dingsøyr",
+      "Finn Olav Bjørnson",
+      "Forrest Shull"
+    ],
+    "year": 2009,
+    "venue": "IEEE Software",
+    "abstract": "Knowledge management is an overarching idea with a large potential impact on knowledge-intensive work such as software engineering. What do we know about these approaches and how they work in practice? What are the main findings from research on knowledge management in software engineering, and what are these findings' practical implications? This article summarizes a systematic review of research on knowledge management in software engineering, characterizing the research findings and practical implications according to knowledge management school.",
+    "citations": 59,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/ms.2009.82",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2000351074",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1016/j.infsof.2009.11.004",
+    "title": "A teamwork model for understanding an agile team: A case study of a Scrum project",
+    "authors": [
+      "Nils Brede Moe",
+      "Torgeir Dingsøyr",
+      "Tore Dybå"
+    ],
+    "year": 2009,
+    "venue": "Information and Software Technology",
+    "abstract": null,
+    "citations": 508,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.infsof.2009.11.004",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2018944916",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/1181775.1181777",
+    "title": "Using task context to improve programmer productivity",
+    "authors": [
+      "Mik Kersten",
+      "Gail C. Murphy"
+    ],
+    "year": 2006,
+    "venue": null,
+    "abstract": "When working on a large software system, a programmer typically spends an inordinate amount of time sifting through thousands of artifacts to find just the subset of information needed to complete an assigned task. All too often, before completing the task the programmer must switch to working on a different task. These task switches waste time as the programmer must repeatedly find and identify the information relevant to the task-at-hand. In this paper, we present a mechanism that captures, models, and persists the elements and relations relevant to a task. We show how our task context model reduces information overload and focuses a programmer's work by filtering and ranking the information presented by the development environment. A task context is created by monitoring a programmer's activity and extracting the structural relationships of program artifacts. Operations on task contexts integrate with development environment features, such as structure display, search, and change management. We have validated our approach with a longitudinal field study of Mylar, our implementation of task context for the Eclipse development environment. We report a statistically significant improvement in the productivity of 16 industry programmers who voluntarily used Mylar for their daily work.",
+    "citations": 447,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/1181775.1181777",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2130344546",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1177/004912418101000205",
+    "title": "Snowball Sampling: Problems and Techniques of Chain Referral Sampling",
+    "authors": [
+      "Patrick Biernacki",
+      "Dan Waldorf"
+    ],
+    "year": 1981,
+    "venue": "Sociological Methods & Research",
+    "abstract": "In spite of the fact that chain referral sampling has been widely used in qualitative sociological research, especially in the study of deviant behavior, the problems and techniques involved in its use have not been adequately explained. The procedures of chain referral sampling are not self-evident or obvious. This article attempts to rectify this methodological neglect. The article provides a description and analysis of some of the problems that were encountered and resolved in the course of using the method in a relatively large exploratory study of ex-opiate addicts.",
+    "citations": 5378,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1177/004912418101000205",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2149236908",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/2902362",
+    "title": "On the naturalness of software",
+    "authors": [
+      "Abram Hindle",
+      "Earl T. Barr",
+      "Mark Gabel",
+      "Zhendong Su",
+      "Prémkumar Dévanbu"
+    ],
+    "year": 2016,
+    "venue": "Communications of the ACM",
+    "abstract": "Natural languages like English are rich, complex, and powerful. The highly creative and graceful use of languages like English and Tamil, by masters like Shakespeare and Avvaiyar, can certainly delight and inspire. But in practice, given cognitive constraints and the exigencies of daily life, most human utterances are far simpler and much more repetitive and predictable. In fact, these utterances can be very usefully modeled using modern statistical methods. This fact has led to the phenomenal success of statistical approaches to speech recognition, natural language translation, question-answering, and text mining and comprehension. We begin with the conjecture that most software is also natural , in the sense that it is created by humans at work, with all the attendant constraints and limitations---and thus, like natural language, it is also likely to be repetitive and predictable. We then proceed to ask whether (a) code can be usefully modeled by statistical language models and (b) such models can be leveraged to support software engineers. Using the widely adopted n -gram model, we provide empirical evidence supportive of a positive answer to both these questions. We show that code is also very regular, and, in fact, even more so than natural languages. As an example use of the model, we have developed a simple code completion engine for Java that, despite its simplicity, already improves Eclipse's completion capability. We conclude the paper by laying out a vision for future research in this area.",
+    "citations": 291,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/2902362",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2344444819",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/s11846-018-0301-4",
+    "title": "Modeling knowledge sharing and team performance in technology industry: the main and moderating effects of happiness",
+    "authors": [
+      "Min-Ling Liu",
+      "Meng-Wen Hsieh",
+      "Chan Hsiao",
+      "Chieh‐Peng Lin",
+      "Chyan Yang"
+    ],
+    "year": 2018,
+    "venue": "Review of Managerial Science",
+    "abstract": null,
+    "citations": 31,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/s11846-018-0301-4",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2885179681",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1016/j.jss.2019.110454",
+    "title": "Finding help with programming errors: An exploratory study of novice software engineers’ focus in stack overflow posts",
+    "authors": [
+      "Preetha Chatterjee",
+      "Minji Kong",
+      "Lori Pollock"
+    ],
+    "year": 2019,
+    "venue": "Journal of Systems and Software",
+    "abstract": null,
+    "citations": 51,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.jss.2019.110454",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2982364419",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1145/3465074.3465080",
+    "title": "Applied AI matters: AI4Code",
+    "authors": [
+      "Kartik Talamadupula"
+    ],
+    "year": 2021,
+    "venue": "AI Matters",
+    "abstract": "The marriage of Artificial Intelligence (AI) techniques to problems surrounding the generation, maintenance, and use of source code has come to the fore in recent years as an important AI application area1. A large chunk of this recent attention can be attributed to contemporaneous advancements in Natural Language Processing (NLP) techniques and sub-fields. The naturalness hypothesis, which states that \"software is a form of human communication\" and that code exhibits patterns that are similar to (human) natural languages (Devanbu, 2015; Hindle, Barr, Gabel, Su, &amp; Devanbu, 2016), has allowed for the application of many of these NLP advances to code-centric usecases. This development has contributed to a spate of work in the community --- much of it captured in a survey by Allamanis, Barr, Devanbu, and Sutton (2018) that focuses on classifying these approaches by the type of probabilistic model applied to source code. This increase in the variety of AI techniques applied to source code has found various manifestations in the industry at large. Code and software form the backbone that underpins almost all modern technical advancements: it is thus natural that breakthroughs in this area should reflect in the emergence of real world deployments.",
+    "citations": 11,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3465074.3465080",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3183948023",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1109/icse-seet55299.2022.9794240",
+    "title": "Debugging with Stack Overflow: Web Search Behavior in Novice and Expert Programmers",
+    "authors": [
+      "Annie Li",
+      "Madeline Endres",
+      "Westley Weimer"
+    ],
+    "year": 2022,
+    "venue": null,
+    "abstract": "Debugging can be challenging for novice and expert programmers alike. Programmers routinely turn to online resources such as Stack Overflow for help, but understanding of debugging search practices, as well as tool support to find debugging resources, remains limited. Existing tools that mine online help forums are generally not aimed at novices, and programmers face varying levels of success when looking for online resources. Furthermore, training online code search skills is pedagogically challenging, as we have little understanding of how expertise impacts programmers’ web search behavior while debugging code.We help fill these knowledge gaps with the results of a study of 40 programmers investigating differences in Stack Overflow search behavior at three levels of expertise: novices, experienced programmers who are novices in Python (the language we use in our study), and experienced Python programmers. We observe significant differences between all three levels in their ability to find posts helpful for debugging a given error, with both general and language-specific expertise facilitating Stack Overflow search efficacy and debugging success. We also conduct an exploratory investigation of factors that correlate with this difference, such as the display rank of the selected link and the number of links checked per search query. We conclude with an analysis of how online search behavior and results vary by Python error type. Our findings can inform online code search pedagogy, as well as inform the development of future automated tools.",
+    "citations": 11,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse-seet55299.2022.9794240",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4282831706",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1109/ms.2023.3276929",
+    "title": "Attractive Workplaces: What Are Engineers Looking for?",
+    "authors": [
+      "Nils Brede Moe",
+      "Viktoria Stray",
+      "Darja Šmite",
+      "Marius Mikalsen"
+    ],
+    "year": 2023,
+    "venue": "IEEE Software",
+    "abstract": "<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">The tech industry increasingly focuses on how to attract talents, which is in dire demand. It is also one of the most volatile industries, with many flagship companies eager to experiment and advance their organizational structures, work methods and, not the least, office environment to ensure job satisfaction and retain talents. Today, due to ongoing digital transformations, many previously non-tech companies, such as banks, are gradually becoming tech companies. Competing for talents requires a conscious effort to offer an attractive workplace. In the last decade, the main strategy was to increase employee empowerment, engagement, and offer opportunities for bottom-up innovation. Today, this is not sufficient. Due to the better-than-expected experiences with remote work during the pandemic, many tech employees prefer to continue working remotely out of the unwillingness to commute, convenience or just a habit. This pushes tech companies to harmonize existing strategies with remote work – a non-trivial exercise.</i>",
+    "citations": 19,
+    "open_access_pdf_url": "https://ieeexplore.ieee.org/ielx7/52/5204063/10128875.pdf",
+    "doi_url": "https://doi.org/10.1109/ms.2023.3276929",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4377009161",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.2139/ssrn.4573321",
+    "title": "Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality",
+    "authors": [
+      "Fabrizio Dell’Acqua",
+      "Edward McFowland",
+      "Ethan Mollick",
+      "Hila Lifshitz‐Assaf",
+      "Katherine C. Kellogg",
+      "Saran Rajendran",
+      "Lisa Krayer",
+      "François Candelon",
+      "Karim R. Lakhani"
+    ],
+    "year": 2023,
+    "venue": "SSRN Electronic Journal",
+    "abstract": null,
+    "citations": 680,
+    "open_access_pdf_url": "https://doi.org/10.2139/ssrn.4573321",
+    "doi_url": "https://doi.org/10.2139/ssrn.4573321",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4386827556",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1007/978-3-031-55642-5_3",
+    "title": "DAnTE: A Taxonomy for the Automation Degree of Software Engineering Tasks",
+    "authors": [
+      "Jorge Melegati",
+      "Eduardo Guerra"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": null,
+    "citations": 2,
+    "open_access_pdf_url": "https://bia.unibz.it/esploro/outputs/bookChapter/DAnTE-A-Taxonomy-for-the-Automation/991006862997701241",
+    "doi_url": "https://doi.org/10.1007/978-3-031-55642-5_3",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4399203756",
+    "source_papers": [
+      "10.1007/978-3-031-55642-5_10"
+    ],
+    "source_citation_keys": [
+      "Ulfsnes2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1007/978-3-540-69927-9_3",
+    "title": "Model Synchronisation: Definitions for Round-Trip Engineering",
+    "authors": [
+      "Thomas Hettel",
+      "Michael Lawley",
+      "Kerry Raymond"
+    ],
+    "year": 2008,
+    "venue": "Lecture notes in computer science",
+    "abstract": null,
+    "citations": 58,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-540-69927-9_3",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1503242327",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/mc.2005.316",
+    "title": "Transforming software development: an MDA road map",
+    "authors": [
+      "Thomas O. Meservy",
+      "Kurt D. Fenstermacher"
+    ],
+    "year": 2005,
+    "venue": "Computer",
+    "abstract": "The Model Driven Architecture initiative shifts the focus of software development from writing code to building models. At appropriate abstraction levels, such models can help customers and development teams translate their understanding of the problem domain into more reliable working code more quickly.",
+    "citations": 93,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/mc.2005.316",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2066670950",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1016/s1571-0661(04)80732-1",
+    "title": "Automatic Roundtrip Engineering",
+    "authors": [
+      "Uwe Aßmann"
+    ],
+    "year": 2003,
+    "venue": "Electronic Notes in Theoretical Computer Science",
+    "abstract": "A systematic method for roundtrip engineering of systems, automatic roundtrip engineering (ARE), is presented. It relies on the automatic derivation of inverses for domain transformations. While roundtrip engineering is a well known system engineering method, systematic conditions for its deployment have not yet been formalized, and this is done in the paper. Secondly, ARE is a generic architectural style for different architectural scenarios. To show this, the paper gives a first classification, defining several subclasses of ARE systems: sequenced ARE systems, automatic Model-View-Controller engineering (MVARE), and bidirectional aspect systems (Beavers). Sequenced ARE systems extend the ARE principle to chains of transformations. MVARE systems project a domain into a set of simpler ones, simplifying system understanding. Beaving systems generalize aspect-oriented programming to roundtrip engineering. All ARE classes describe different generic application architectures and have a great potential to simplify the construction of roundtrip engineering tools and applications.",
+    "citations": 32,
+    "open_access_pdf_url": "https://doi.org/10.1016/s1571-0661(04)80732-1",
+    "doi_url": "https://doi.org/10.1016/s1571-0661(04)80732-1",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2119541750",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/s11219-016-9324-8",
+    "title": "Quality in model-driven engineering: a tertiary study",
+    "authors": [
+      "Miguel Goulão",
+      "Vasco Amaral",
+      "Marjan Mernik"
+    ],
+    "year": 2016,
+    "venue": "Software Quality Journal",
+    "abstract": null,
+    "citations": 34,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2511.06103",
+    "doi_url": "https://doi.org/10.1007/s11219-016-9324-8",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2464138587",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.15439/2016f485",
+    "title": "From UML State Machine to code and back again!",
+    "authors": [
+      "Van Cam Pham",
+      "Ansgar Radermacher",
+      "Sébastien Gérard"
+    ],
+    "year": 2016,
+    "venue": "Annals of Computer Science and Information Systems",
+    "abstract": "UML state machines and their visual representations are much more suitable to describe logical behaviors of system entities than equivalent text based description such as IF-THEN-ELSE or SWITH-CASE constructions. Although many industrial tools and research prototypes can generate executable code from such a graphical language, generated code could be manually modified by programmers. After code modifications, round-trip engineering is needed to make the model and code consistent, which is a critical aspect to meet quality and performance constraints required for software systems. Unfortunately, current UML tools only support structural concepts for roundtrip engineering such as those available from class diagrams. In this paper, we address the round-trip engineering of UML statemachine and its related generated code. We propose an approach consisting of a forward process which generates code by using transformation patterns, and a backward process which is based on code pattern detection to update the original state machine model from the modified code. We implemented a prototype and conducted several experiments on different aspects of the roundtrip engineering to verify the proposed approach.",
+    "citations": 1,
+    "open_access_pdf_url": "https://annals-csis.org/proceedings/2016/pliks/485.pdf",
+    "doi_url": "https://doi.org/10.15439/2016f485",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2525441432",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/access.2017.2733518",
+    "title": "Model-Driven Reverse Engineering Approaches: A Systematic Literature Review",
+    "authors": [
+      "Claudia Raibulet",
+      "Francesca Arcelli Fontana",
+      "Marco Zanoni"
+    ],
+    "year": 2017,
+    "venue": "IEEE Access",
+    "abstract": "This paper explores and describes the state of the art for what concerns the model-driven approaches proposed in the literature to support reverse engineering. We conducted a systematic literature review on this topic with the aim to answer three research questions. We focus on various solutions developed for model-driven reverse engineering, outlining in particular the models they use and the transformations applied to the models. We also consider the tools used for model definition, extraction, and transformation and the level of automation reached by the available tools. The model-driven reverse engineering approaches are also analyzed based on various features such as genericity, extensibility, automation of the reverse engineering process, and coverage of the full or partial source artifacts. We describe in detail and compare fifteen approaches applying model-driven reverse engineering. Based on this analysis, we identify and indicate some hints on choosing a model-driven reverse engineering approach from the available ones, and we outline open issues concerning the model-driven reverse engineering approaches.",
+    "citations": 81,
+    "open_access_pdf_url": "https://doi.org/10.1109/access.2017.2733518",
+    "doi_url": "https://doi.org/10.1109/access.2017.2733518",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2741616365",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/icsme52107.2021.00008",
+    "title": "Improving Traceability Link Recovery Using Fine-grained Requirements-to-Code Relations",
+    "authors": [
+      "Tobias Hey",
+      "Fei Chen",
+      "Sebastian Weigelt",
+      "Walter F. Tichy"
+    ],
+    "year": 2021,
+    "venue": null,
+    "abstract": "Traceability information is a fundamental prerequisite for many essential software maintenance and evolution tasks, such as change impact and software reusability analyses. However, manually generating traceability information is costly and error-prone. Therefore, researchers have developed automated approaches that utilize textual similarities between artifacts to establish trace links. These approaches tend to achieve low precision at reasonable recall levels, as they are not able to bridge the semantic gap between high-level natural language requirements and code. We propose to overcome this limitation by leveraging fine-grained, method and sentence level, similarities between the artifacts for traceability link recovery. Our approach uses word embeddings and a Word Mover's Distance-based similarity to bridge the semantic gap. The fine-grained similarities are aggregated according to the artifacts structure and participate in a majority vote to retrieve coarse-grained, requirement-to-class, trace links. In a comprehensive empirical evaluation, we show that our approach is able to outperform state-of-the-art unsupervised traceability link recovery approaches. Additionally, we illustrate the benefits of fine-grained structural analyses to word embedding-based trace link generation.",
+    "citations": 23,
+    "open_access_pdf_url": "https://doi.org/10.5445/ir/1000140404",
+    "doi_url": "https://doi.org/10.1109/icsme52107.2021.00008",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3215933179",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.5220/0011667500003402",
+    "title": "A Tool for Supporting Round-Trip Engineering with the Ability to Avoid Unintended Design Changes",
+    "authors": [
+      "Takahiro Yamazaki",
+      "Takafumi Tanaka",
+      "Atsuo Hazeyama",
+      "Hiroaki Hashiura"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": null,
+    "citations": 2,
+    "open_access_pdf_url": "http://dx.doi.org/10.5220/0011667500003402",
+    "doi_url": "https://doi.org/10.5220/0011667500003402",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4323240621",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1007/s10270-023-01105-5",
+    "title": "On the assessment of generative AI in modeling tasks: an experience report with ChatGPT and UML",
+    "authors": [
+      "Javier Cámara",
+      "Javier Troya",
+      "Loli Burgueño",
+      "Antonio Vallecillo"
+    ],
+    "year": 2023,
+    "venue": "Software & Systems Modeling",
+    "abstract": "Abstract Most experts agree that large language models (LLMs), such as those used by Copilot and ChatGPT, are expected to revolutionize the way in which software is developed. Many papers are currently devoted to analyzing the potential advantages and limitations of these generative AI models for writing code. However, the analysis of the current state of LLMs with respect to software modeling has received little attention. In this paper, we investigate the current capabilities of ChatGPT to perform modeling tasks and to assist modelers, while also trying to identify its main shortcomings. Our findings show that, in contrast to code generation, the performance of the current version of ChatGPT for software modeling is limited, with various syntactic and semantic deficiencies, lack of consistency in responses and scalability issues. We also outline our views on how we perceive the role that LLMs can play in the software modeling discipline in the short term, and how the modeling community can help to improve the current capabilities of ChatGPT and the coming LLMs for software modeling.",
+    "citations": 183,
+    "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s10270-023-01105-5.pdf",
+    "doi_url": "https://doi.org/10.1007/s10270-023-01105-5",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4377291442",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.48550/arxiv.2305.14314",
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "authors": [
+      "Tim Dettmers",
+      "Artidoro Pagnoni",
+      "Ari Holtzman",
+      "Luke Zettlemoyer"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "We present QLoRA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance. QLoRA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters~(LoRA). Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU. QLoRA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) double quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) paged optimziers to manage memory spikes. We use QLoRA to finetune more than 1,000 models, providing a detailed analysis of instruction following and chatbot performance across 8 instruction datasets, multiple model types (LLaMA, T5), and model scales that would be infeasible to run with regular finetuning (e.g. 33B and 65B parameter models). Our results show that QLoRA finetuning on a small high-quality dataset leads to state-of-the-art results, even when using smaller models than the previous SoTA. We provide a detailed analysis of chatbot performance based on both human and GPT-4 evaluations showing that GPT-4 evaluations are a cheap and reasonable alternative to human evaluation. Furthermore, we find that current chatbot benchmarks are not trustworthy to accurately evaluate the performance levels of chatbots. A lemon-picked analysis demonstrates where Guanaco fails compared to ChatGPT. We release all of our models and code, including CUDA kernels for 4-bit training.",
+    "citations": 493,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2305.14314",
+    "doi_url": "https://doi.org/10.48550/arxiv.2305.14314",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4378509449",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/sse62657.2024.00046",
+    "title": "How LLMs Aid in UML Modeling: An Exploratory Study with Novice Analysts",
+    "authors": [
+      "Beian Wang",
+      "Chong Wang",
+      "Peng Liang",
+      "Bing Li",
+      "Cheng Zeng"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Since the emergence of GPT-3, Large Language Models (LLMs) have caught the eyes of researchers, practitioners, and educators in the field of software engineering. However, there has been relatively little investigation regarding the performance of LLMs in assisting with requirements analysis and UML modeling. This paper explores how LLMs can assist novice analysts in creating three types of typical UML models: use case models, class diagrams, and sequence diagrams. For this purpose, we designed the modeling tasks of these three UML models for 45 undergraduate students who participated in a requirements modeling course, with the help of LLMs. By analyzing their project reports, we found that LLMs can assist undergraduate students as novice analysts in UML modeling tasks, but LLMs also have shortcomings and limitations that should be considered when using them.",
+    "citations": 27,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/sse62657.2024.00046",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402586225",
+    "source_papers": [
+      "10.1145/3786161.3788461",
+      "10.1109/asew67777.2025.00063"
+    ],
+    "source_citation_keys": [
+      "Paiva2026",
+      "Dam2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.48550/arxiv.2502.02649",
+    "title": "Fully Autonomous AI Agents Should Not be Developed",
+    "authors": [
+      "Margaret Mitchell",
+      "Avijit Ghosh",
+      "Alexandra Sasha Luccioni",
+      "Giada Pistilli"
+    ],
+    "year": 2025,
+    "venue": "ArXiv.org",
+    "abstract": "This paper argues that fully autonomous AI agents should not be developed. In support of this position, we build from prior scientific literature and current product marketing to delineate different AI agent levels and detail the ethical values at play in each, documenting trade-offs in potential benefits and risks. Our analysis reveals that risks to people increase with the autonomy of a system: The more control a user cedes to an AI agent, the more risks to people arise. Particularly concerning are safety risks, which affect human life and impact further values.",
+    "citations": 7,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2502.02649",
+    "doi_url": "https://doi.org/10.48550/arxiv.2502.02649",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4407208775",
+    "source_papers": [
+      "10.1145/3786161.3788461"
+    ],
+    "source_citation_keys": [
+      "Paiva2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1016/j.jss.2015.06.044",
+    "title": "Consistent merging of model versions",
+    "authors": [
+      "Hoa Khanh Dam",
+      "Alexander Egyed",
+      "Michael Winikoff",
+      "Alexander Reder",
+      "Roberto E. Lopez-Herrejon"
+    ],
+    "year": 2015,
+    "venue": "Journal of Systems and Software",
+    "abstract": null,
+    "citations": 26,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.jss.2015.06.044",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W776719359",
+    "source_papers": [
+      "10.1109/asew67777.2025.00063"
+    ],
+    "source_citation_keys": [
+      "Dam2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/icsm.2010.5609712",
+    "title": "Supporting change propagation in UML models",
+    "authors": [
+      "Hoa Khanh Dam",
+      "Michael Winikoff"
+    ],
+    "year": 2010,
+    "venue": null,
+    "abstract": "A critical issue in software maintenance and evolution is change propagation: given a primary change that is made in order to meet a new or changed requirement, what additional, secondary, changes are needed? We have previously developed techniques for effectively supporting change propagation within design models of intelligent agent systems. In this paper, we propose how this approach is applied to support change propagation within UML design models. Our approach offers a number of advantages in terms of saving substantial time writing hard-coded rules, ensuring soundness and completeness, and at the same time capturing the cascading nature of change propagation. We will also present and discuss the results of an evaluation performed to assess the scalability of our approach.",
+    "citations": 28,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icsm.2010.5609712",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2029426844",
+    "source_papers": [
+      "10.1109/asew67777.2025.00063"
+    ],
+    "source_citation_keys": [
+      "Dam2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.3844/jcssp.2024.801.818",
+    "title": "A Survey of Generative AI Applications",
+    "authors": [
+      "Roberto Gozalo-Brizuela",
+      "Eduardo Eduardo Garrido Merchan"
+    ],
+    "year": 2024,
+    "venue": "Journal of Computer Science",
+    "abstract": "Generative AI has experienced remarkable growth in recent years, leading to a wide array of applications across diverse domains. In this study, we present a comprehensive survey of more than 350 generative AI applications, providing a structured taxonomy and concise descriptions of various unimodal and even multimodal generative AIs. The survey is organized into sections, covering a wide range of unimodal generative AI applications such as text (ChatGPT or Bard), images (DALL-E 3 or Midjourney), video (Colossyan AI and Synthesia AI), gaming (CSM and ConvAI) and brain (Meta&rsquo;s speech from brain) information. Our survey provides an updated outlook of the generative AGI landscape, giving several examples of each technology, something not achieved in a paper before to our knowledge. Other surveys have focused on reviewing the impact of generative on different industries while not diving deep into which technologies or models to use. A thorough web and industry analysis was conducted to get examples for each of the sections. Ethical considerations were followed for the composition of this study.",
+    "citations": 83,
+    "open_access_pdf_url": "https://thescipub.com/pdf/jcssp.2024.801.818.pdf",
+    "doi_url": "https://doi.org/10.3844/jcssp.2024.801.818",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4399809828",
+    "source_papers": [
+      "10.1109/asew67777.2025.00063"
+    ],
+    "source_citation_keys": [
+      "Dam2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.18653/v1/2024.findings-acl.49",
+    "title": "Debug like a Human: A Large Language Model Debugger via Verifying Runtime Execution Step by Step",
+    "authors": [
+      "Zhong Li",
+      "Zilong Wang",
+      "Jingbo Shang"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": null,
+    "citations": 41,
+    "open_access_pdf_url": "https://aclanthology.org/2024.findings-acl.49.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/2024.findings-acl.49",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402670687",
+    "source_papers": [
+      "10.1109/asew67777.2025.00063"
+    ],
+    "source_citation_keys": [
+      "Dam2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1023/a:1020557525901",
+    "title": "Software Evolution and Software Evolution Processes",
+    "authors": [
+      "M. M. Lehman",
+      "J.F. Ramil"
+    ],
+    "year": 2002,
+    "venue": "Annals of Software Engineering",
+    "abstract": null,
+    "citations": 86,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1023/a:1020557525901",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1606433013",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1191/1478088706qp063oa",
+    "title": "Using thematic analysis in psychology",
+    "authors": [
+      "Virginia Braun",
+      "Victoria Clarke"
+    ],
+    "year": 2006,
+    "venue": "Qualitative Research in Psychology",
+    "abstract": "Increasingly, adult Indigenous language learners are being identified as the “missing generation” of learners who hold great potential to contribute to the revival of Indigenous languages by acting as the middle ground between Elders, children and youth within their communities. Our research project NEȾOLṈEW̱ ‘one mind, one people’ investigated adult Indigenous language learning through the popular Mentor-Apprentice Program (MAP) method (Leanne Hinton, 2001). Over the course of 14 months, our team conducted 133 interviews with four groups of participants involved in MAP. The participants were current and past apprentices, mentors, and administrators of MAP programs in British Columbia, Canada. Our primary interest was to learn about the successes and challenges of MAP for language learning, but we also included interview questions that gave participants space to share how participating in MAP may have affected them. During thematic analysis of the interviews (Braun &amp; Clarke, 2006, 2014) we noticed repeating comments across all four participant groups on how their involvement with MAP impacted their own and their community’s wellbeing. Six exploratory themes were identified: • Language loss negatively impacts the wellbeing of Indigenous people: “[the word] doesn’t just mean a bad, misbehaving child, it also means a poor child that has been uprooted […] and is disconnected from their culture” • The relationship between burden and wellbeing among participants in MAP: “there’s so much to be done. […] that’s the exhausting part of it. It’s trying to learn and teach at the same time” • Strengthening MAP apprentices to become future community leaders: “it brings a huge sense of pride […] and helps me be an inspiration to anyone else” • Elder’s healing through becoming language mentors: “we once again have that believe in ourselves where we can feel free” • Cultural and spiritual health and healing: “I am keeping something very precious alive by speaking my language” • Health outcomes: “it was […] the language that... pushed me to sobriety, […] it gave me... a sense of who I was”. Although studies have reported protective effects of Indigenous language use on health (Ball &amp; Moselle, 2013; Hallett, Chandler, &amp; Lalonde, 2007; McIvor, 2013), health-related outcomes of language revitalization efforts, including MAP, remain underexplored (Whalen, Moss, &amp; Baldwin, 2016). In addition to discussing the six exploratory themes from our study, our paper also proposes that these themes can inform future research in the area of language revitalization and wellbeing. References Ball, J., &amp; Moselle, K. (2013). Contributions of culture and language in aboriginal head start in urban and northern communities to children’s health outcomes: A review of theory and research. Prepared for Division of Children, Seniors &amp; Healthy Development, Health Promotion and Chronic Disease Prevention Branch. Braun, V., &amp; Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3, 77–101. http://doi.org/10.1191/1478088706qp063oa Braun, V., &amp; Clarke, V. (2014). What can “thematic analysis” offer health and wellbeing researchers? International Journal of Qualitative Studies on Health and Well-Being, 9, 26152. http://doi.org/10.3402/qhw.v9.26152 Hallett, D., Chandler, M. J., &amp; Lalonde, C. E. (2007). Aboriginal language knowledge and youth suicide. Cognitive Development, 22(3), 392–399. http://doi.org/10.1016/j.cogdev.2007.02.001 Hinton, L. (2001). The master-apprentice language learning program. In L. Hinton &amp; K. Hale (Eds.), The green book of language revitalization in practice (pp. 217–226). San Diego, CA: Academic Press. McIvor, O. (2013). Protective effects of language learning, use and culture on the health and well-being of Indigenous people in Canada. In Proceedings of the 17th FEL Conference, FEL XVII: Endangered Languages Beyond Boundaries: Community Connections, Collaborative Approaches and Cross-Disciplinary Research (pp. 123–131). Foundation for Endangered Languages in association with the University of Carleton. Whalen, D. H., Moss, M., &amp; Baldwin, D. (2016). Healing through language: Positive physical health effects of indigenous language use. F1000Research, 5(852). http://doi.org/10.12688/f1000research.8656.1",
+    "citations": 180209,
+    "open_access_pdf_url": "https://www.tandfonline.com/doi/abs/10.1191/1478088706qp063oa",
+    "doi_url": "https://doi.org/10.1191/1478088706qp063oa",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1979290264",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1016/j.jss.2009.05.052",
+    "title": "Identifying some important success factors in adopting agile software development practices",
+    "authors": [
+      "Subhas Chandra Misra",
+      "Vinod Kumar",
+      "Uma Kumar"
+    ],
+    "year": 2009,
+    "venue": "Journal of Systems and Software",
+    "abstract": null,
+    "citations": 377,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.jss.2009.05.052",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2037493585",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1016/j.drudis.2013.01.012",
+    "title": "Into the valley of death: research to innovation",
+    "authors": [
+      "John Hudson",
+      "Hanan Khazragui"
+    ],
+    "year": 2013,
+    "venue": "Drug Discovery Today",
+    "abstract": null,
+    "citations": 112,
+    "open_access_pdf_url": "https://purehost.bath.ac.uk/ws/files/9594981/Hudson_Drug_Discovery_Today_2013.pdf",
+    "doi_url": "https://doi.org/10.1016/j.drudis.2013.01.012",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2063171475",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/978-3-642-19823-6",
+    "title": "Engineering of Software",
+    "authors": [
+      "Osterweil, Leon J.",
+      "Tarr, Peri L."
+    ],
+    "year": 2011,
+    "venue": null,
+    "abstract": null,
+    "citations": 8,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-642-19823-6",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2488072041",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/icse.2017.21",
+    "title": "Becoming Agile: A Grounded Theory of Agile Transitions in Practice",
+    "authors": [
+      "Rashina Hoda",
+      "James Noble"
+    ],
+    "year": 2017,
+    "venue": null,
+    "abstract": "Agile adoption is typically understood as a one-off organizational process involving a staged selection of agile development practices. This view of agility fails to explain the differences in the pace and effectiveness of individual teams transitioning to agile development. Based on a Grounded Theory study of 31 agile practitioners drawn from 18 teams across five countries, we present a grounded theory of becoming agile as a network of on-going transitions across five dimensions: software development practices, team practices, management approach, reflective practices, and culture. The unique position of a software team through this network, and their pace of progress along the five dimensions, explains why individual agile teams present distinct manifestations of agility and unique transition experiences. The theory expands the current understanding of agility as a holistic and complex network of on-going multidimensional transitions, and will help software teams, their managers, and organizations better navigate their individual agile journeys.",
+    "citations": 131,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse.2017.21",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2620457578",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/978-3-319-49998-7_13",
+    "title": "Agile Software Development",
+    "authors": [
+      "Gabriel Steinhardt"
+    ],
+    "year": 2017,
+    "venue": "Management for professionals",
+    "abstract": null,
+    "citations": 6,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-319-49998-7_13",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2752905380",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1016/j.jss.2018.08.059",
+    "title": "An anatomy of requirements engineering in software startups using multi-vocal literature and case survey",
+    "authors": [
+      "Nirnaya Tripathi",
+      "Eriks Klotins",
+      "Rafael Prikladnicki",
+      "Markku Oivo",
+      "Leandro Pompermaier",
+      "Arun Sojan Kudakacheril",
+      "Michael Unterkalmsteiner",
+      "Kari Liukkunen",
+      "Tony Gorschek"
+    ],
+    "year": 2018,
+    "venue": "Journal of Systems and Software",
+    "abstract": null,
+    "citations": 51,
+    "open_access_pdf_url": "http://urn.fi/urn:nbn:fi-fe201901162270",
+    "doi_url": "https://doi.org/10.1016/j.jss.2018.08.059",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2888929421",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1016/j.infsof.2019.06.008",
+    "title": "Startup ecosystem effect on minimum viable product development in software startups",
+    "authors": [
+      "Nirnaya Tripathi",
+      "Markku Oivo",
+      "Kari Liukkunen",
+      "Jouni Markkula"
+    ],
+    "year": 2019,
+    "venue": "Information and Software Technology",
+    "abstract": null,
+    "citations": 92,
+    "open_access_pdf_url": "http://urn.fi/urn:nbn:fi-fe2019072423189",
+    "doi_url": "https://doi.org/10.1016/j.infsof.2019.06.008",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2949676652",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.31226/osf.io/8mxfk",
+    "title": "A Study on the Impact of Artificial Intelligence on Project Management",
+    "authors": [
+      "Adel Belharet",
+      "Urmila Bharathan",
+      "Benjamin Dzingina",
+      "Neha Madhavan",
+      "Charul Mathur",
+      "Yves-Daniel Boga Toti",
+      "Divij Babbar",
+      "Krzysztof Markowski"
+    ],
+    "year": 2020,
+    "venue": null,
+    "abstract": "Artificial intelligence and machine learning have found a wide range of business applications, but their impact is only just starting to be seen in project management.This study explores how our existing PM profession will change to be more suitable to AI inputs; and how project management will be forced to change because of the advent of AI, along with concrete, succinct and precise recommendations backed by demonstrable reasoning.",
+    "citations": 7,
+    "open_access_pdf_url": "https://doi.org/10.31226/osf.io/8mxfk",
+    "doi_url": "https://doi.org/10.31226/osf.io/8mxfk",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3110661639",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.2139/ssrn.3823361",
+    "title": "Defining a Startup - A Critical Analysis",
+    "authors": [
+      "Zaeem-Al Ehsan"
+    ],
+    "year": 2021,
+    "venue": "SSRN Electronic Journal",
+    "abstract": null,
+    "citations": 29,
+    "open_access_pdf_url": "https://doi.org/10.2139/ssrn.3823361",
+    "doi_url": "https://doi.org/10.2139/ssrn.3823361",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3164006624",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1109/ms.2023.3265877",
+    "title": "Generative AI for Software Practitioners",
+    "authors": [
+      "Christof Ebert",
+      "Πάνος Λουρίδας"
+    ],
+    "year": 2023,
+    "venue": "IEEE Software",
+    "abstract": "Generative artificial intelligence (AI) tools, such as Bard, ChatGPT, and CoPilot, have rapidly gained widespread usage. They also have the potential to boost software engineering productivity. In this article, we elaborate technologies and usage of generative AI in the software industry. We address questions, such as: How does generative AI improve software productivity? How to connect generative AI to software development, and what are the risks? Which technologies have what sorts of benefits? Practitioner guidance and case studies are shared from our industry context. I look forward to hearing from you about this column and the technologies that matter most for your work.—Christof Ebert",
+    "citations": 262,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/ms.2023.3265877",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4383498485",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1007/978-3-031-55642-5_12",
+    "title": "Value-Based Adoption of ChatGPT in Agile Software Development: A Survey Study of Nordic Software Experts",
+    "authors": [
+      "Anh Nguyen‐Duc",
+      "Dron Khanna"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": null,
+    "citations": 6,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-031-55642-5_12",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4399204378",
+    "source_papers": [
+      "10.1007/978-3-032-04294-1_11"
+    ],
+    "source_citation_keys": [
+      "Khan2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/tnn.2004.842673",
+    "title": "Reinforcement Learning: An Introduction",
+    "authors": [
+      "Richard S. Sutton",
+      "Andrew G. Barto"
+    ],
+    "year": 2005,
+    "venue": "IEEE Transactions on Neural Networks",
+    "abstract": "An account of key ideas and algorithms in reinforcement learning. The discussion ranges from the history of the field's intellectual foundations to recent developments and applications. Areas studied include reinforcement learning problems in terms of Markov decision problems and solution methods.",
+    "citations": 25776,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/tnn.2004.842673",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2121863487",
+    "source_papers": [
+      "10.21275/sr24604032016"
+    ],
+    "source_citation_keys": [
+      "KumarAle2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/1985793.1985795",
+    "title": "A practical guide for using statistical tests to assess randomized algorithms in software engineering",
+    "authors": [
+      "Andrea Arcuri",
+      "Lionel Briand"
+    ],
+    "year": 2011,
+    "venue": null,
+    "abstract": "Randomized algorithms have been used to successfully address many different types of software engineering problems. This type of algorithms employ a degree of randomness as part of their logic. Randomized algorithms are useful for difficult problems where a precise solution cannot be derived in a deterministic way within reasonable time. However, randomized algorithms produce different results on every run when applied to the same problem instance. It is hence important to assess the effectiveness of randomized algorithms by collecting data from a large enough number of runs. The use of rigorous statistical tests is then essential to provide support to the conclusions derived by analyzing such data. In this paper, we provide a systematic review of the use of randomized algorithms in selected software engineering venues in 2009. Its goal is not to perform a complete survey but to get a representative snapshot of current practice in software engineering research. We show that randomized algorithms are used in a significant percentage of papers but that, in most cases, randomness is not properly accounted for.",
+    "citations": 958,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/1985793.1985795",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2138428785",
+    "source_papers": [
+      "10.21275/sr24604032016"
+    ],
+    "source_citation_keys": [
+      "KumarAle2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/2491627.2491646",
+    "title": "Practical pairwise testing for software product lines",
+    "authors": [
+      "Dusica Marijan",
+      "Arnaud Gotlieb",
+      "Sagar Sen",
+      "Aymeric Hervieu"
+    ],
+    "year": 2013,
+    "venue": null,
+    "abstract": "One key challenge for software product lines is efficiently managing variability throughout their lifecycle. In this paper, we address the problem of variability in software product lines testing. We (1) identify a set of issues that must be addressed to make software product line testing work in practice and (2) provide a framework that combines a set of techniques to solve these issues. The framework integrates feature modelling, combinatorial interaction testing and constraint programming techniques. First, we extract variability in a software product line as a feature model with specified feature interdependencies. We then employ an algorithm that generates a minimal set of valid test cases covering all 2-way feature interactions for a given time interval. Furthermore, we evaluate the framework on an industrial SPL and show that using the framework saves time and provides better test coverage. In particular, our experiments show that the framework improves industrial testing practice in terms of (i) 17% smaller set of test cases that are (a) valid and (b) guarantee all 2-way feature coverage (as opposite to 19.2% 2-way feature coverage in the hand made test set), and (ii) full flexibility and adjustment of test generation to available testing time.",
+    "citations": 70,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/2491627.2491646",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2152893457",
+    "source_papers": [
+      "10.21275/sr24604032016"
+    ],
+    "source_citation_keys": [
+      "KumarAle2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.4230/lipics.cosit.2022.18",
+    "title": "AI-Assisted Pipeline for Dynamic Generation of Trustworthy Health Supplement Content at Scale",
+    "authors": [
+      "Holter, Ole Magnus",
+      "Ell, Basil"
+    ],
+    "year": 2018,
+    "venue": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+    "abstract": "Although geospatial question answering systems have received increasing attention in recent years, existing prototype systems struggle to properly answer qualitative spatial questions. In this work, we propose a unique framework for answering qualitative spatial questions, which comprises three main components: a geoparser that takes the input questions and extracts place semantic information from text, a reasoning system which is embedded with a crisp reasoner, and finally, answer extraction, which refines the solution space and generates final answers. We present an experimental design to evaluate our framework for point-based cardinal direction calculus (CDC) relations by developing an automated approach for generating three types of synthetic qualitative spatial questions. The initial evaluations of generated answers in our system are promising because a high proportion of answers were labelled correct.",
+    "citations": 45570,
+    "open_access_pdf_url": "https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.LDK.2019.21",
+    "doi_url": "https://doi.org/10.4230/lipics.cosit.2022.18",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2896457183",
+    "source_papers": [
+      "10.21275/sr24604032016"
+    ],
+    "source_citation_keys": [
+      "KumarAle2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1007/978-3-658-40442-0_9",
+    "title": "Generative Adversarial Nets",
+    "authors": [
+      "Raphael Labaca-Castro"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": null,
+    "citations": 19896,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-658-40442-0_9",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4320013936",
+    "source_papers": [
+      "10.21275/sr24604032016"
+    ],
+    "source_citation_keys": [
+      "KumarAle2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.4135/9781452243610.n15",
+    "title": "The Organizational Trust Inventory (OTI): Development and Validation",
+    "authors": [
+      "L. L. Cummings",
+      "Philip Bromiley"
+    ],
+    "year": 1996,
+    "venue": null,
+    "abstract": null,
+    "citations": 996,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.4135/9781452243610.n15",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1675037971",
+    "source_papers": [
+      "10.1109/cain66642.2025.00038"
+    ],
+    "source_citation_keys": [
+      "Baron2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/esem.2011.36",
+    "title": "Recommended Steps for Thematic Synthesis in Software Engineering",
+    "authors": [
+      "Daniela S. Cruzes",
+      "T. Dyba"
+    ],
+    "year": 2011,
+    "venue": null,
+    "abstract": "Thematic analysis is an approach that is often used for identifying, analyzing, and reporting patterns (themes) within data in primary qualitative research. 'Thematic synthesis' draws on the principles of thematic analysis and identifies the recurring themes or issues from multiple studies, interprets and explains these themes, and draws conclusions in systematic reviews. This paper conceptualizes the thematic synthesis approach in software engineering as a scientific inquiry involving five steps that parallel those of primary research. The process and outcome associated with each step are described and illustrated with examples from systematic reviews in software engineering.",
+    "citations": 861,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/esem.2011.36",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1969939902",
+    "source_papers": [
+      "10.1109/cain66642.2025.00038"
+    ],
+    "source_citation_keys": [
+      "Baron2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.31234/osf.io/e3kv9",
+    "title": "Measuring Trust in the XAI Context",
+    "authors": [
+      "Robert M. Hoffman",
+      "Shane T. Mueller",
+      "Gary Klein",
+      "Jordan A. Litman"
+    ],
+    "year": 2021,
+    "venue": null,
+    "abstract": "Trust in automation, is of concern in computer science and cognitive systems engineering, as well as the popular media (e.g., Chancey et al., 2015; Hoff and Bashir 2015; Hoffman et al., 2009; Huynh et al., 2006; Naone, 2009; Merritt and Ilgen, 2008; Merritt et al. 2013, 2015a; Pop et al. 2015; Shadbolt, 2002; Wickens et al. ,2015; Woods and Hollnagel 2006). Trust is of particular concern as more AI systems are being developed and tested (Schaefer et al., 2016).",
+    "citations": 17,
+    "open_access_pdf_url": "https://psyarxiv.com/e3kv9/download",
+    "doi_url": "https://doi.org/10.31234/osf.io/e3kv9",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4235315377",
+    "source_papers": [
+      "10.1109/cain66642.2025.00038"
+    ],
+    "source_citation_keys": [
+      "Baron2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1037//0022-3514.49.1.95",
+    "title": "Trust in close relationships.",
+    "authors": [
+      "John K. Rempel",
+      "John G. Holmes",
+      "Mark P. Zanna"
+    ],
+    "year": 1985,
+    "venue": "Journal of Personality and Social Psychology",
+    "abstract": null,
+    "citations": 401,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1037//0022-3514.49.1.95",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4238559845",
+    "source_papers": [
+      "10.1109/cain66642.2025.00038"
+    ],
+    "source_citation_keys": [
+      "Baron2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/3544549.3585808",
+    "title": "Trust Issues with Trust Scales: Examining the Psychometric Quality of Trust Measures in the Context of AI",
+    "authors": [
+      "Sebastian A. C. Perrig",
+      "Nicolas Scharowski",
+      "Florian Brühlmann"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Trust is crucial for human interaction with artificial intelligence (AI) and is frequently measured through questionnaires or rating scales. One commonly used questionnaire in AI research is the Trust between People and Automation scale (TPA). However, its psychometric quality has yet to be examined in the context of AI. More recently, a Trust Scale for Explainable AI (TXAI) was recommended but not empirically evaluated. In this study, we assessed the psychometric qualities of both scales, using confirmatory and exploratory factor analyses to test the scales’ validity and coefficients α and ω for reliability estimation. Our results suggested good psychometric quality for the TXAI after removing one item. Concerning the TPA, acceptable quality was only achieved when using a two-factor model (trust and distrust) and after removing two items. We provide recommendations for using the two scales and evidence to distinguish trust and distrust as separate psychological constructs.",
+    "citations": 29,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3544549.3585808",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4366527116",
+    "source_papers": [
+      "10.1109/cain66642.2025.00038"
+    ],
+    "source_citation_keys": [
+      "Baron2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/icse-fose59343.2023.00010",
+    "title": "Trustworthy and Synergistic Artificial Intelligence for Software Engineering: Vision and Roadmaps",
+    "authors": [
+      "David Lo"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "For decades, much software engineering research has been dedicated to devising automated solutions aimed at enhancing developer productivity and elevating software quality. The past two decades have witnessed an unparalleled surge in the development of intelligent solutions tailored for software engineering tasks. This momentum established the Artificial Intelligence for Software Engineering (AI4SE) area, which has swiftly become one of the most active and popular areas within the software engiueering field. This Future of Software Engineering (FoSE) paper navigates through several focal points. It commences with a succinct introduction and history of AI4SE. Thereafter, it underscores the core challenges inherent to AI4SE, particularly highlighting the need to realize trustworthy and synergistic AI4SE. Progressing, the paper paints a vision for the potential leaps achievable if AI4SE's key challenges are surmounted, suggesting a transition toward Software Engineering 2.0. Two strategic roadmaps are then laid out: one centered on realizing trustworthy AI4SE, and the other on fostering synergistic AI4SE. While this paper may not serve as a conclusive guide, its intent is to catalyze further progress. The ultimate aspiration is to position AI4SE as a linchpin in redefining the horizons of software engineering, propelling us toward Software Engineering 2.0.",
+    "citations": 36,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse-fose59343.2023.00010",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4392609567",
+    "source_papers": [
+      "10.1109/cain66642.2025.00038"
+    ],
+    "source_citation_keys": [
+      "Baron2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/apsec.2009.56",
+    "title": "Risk Identification and Mitigation Processes for Using Scrum in Global Software Development: A Conceptual Framework",
+    "authors": [
+      "Emam Hossain",
+      "Muhammad Ali Babar",
+      "Hye-Young Paik",
+      "June Verner"
+    ],
+    "year": 2009,
+    "venue": null,
+    "abstract": "There is growing interest in applying agile practices in Global Software Development (GSD) projects. But project stakeholder distribution in GSD creates a number of challenges that make it difficult to use some agile practices. Moreover, little is known about what the key challenges or risks are, and how GSD project mangers deal with these risks while using agile practices. We conduct a Systematic Literature Review (SLR) following existing guidelines to identify primary papers that discuss the use of Scrum practices in GSD projects. We identify key challenges, due to global project distribution, that restrict the use of Scrum and explore the strategies used by project managers to deal with these challenges. Our findings are consolidated into a conceptual framework and we discuss various elements of this framework. This research is relevant to project managers who are seeking ways to use Scrum in their globally distributed projects.",
+    "citations": 91,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/apsec.2009.56",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2111423723",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/2594291.2594321",
+    "title": "Code completion with statistical language models",
+    "authors": [
+      "Veselin Raychev",
+      "Martin Vechev",
+      "Eran Yahav"
+    ],
+    "year": 2014,
+    "venue": null,
+    "abstract": "We address the problem of synthesizing code completions for programs using APIs. Given a program with holes, we synthesize completions for holes with the most likely sequences of method calls.",
+    "citations": 551,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/2594291.2594321",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2143861926",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/tse.2006.116",
+    "title": "An Exploratory Study of How Developers Seek, Relate, and Collect Relevant Information during Software Maintenance Tasks",
+    "authors": [
+      "Andrew J. Ko",
+      "Brad A. Myers",
+      "Michael Coblenz",
+      "Htet Htet Aung"
+    ],
+    "year": 2006,
+    "venue": "IEEE Transactions on Software Engineering",
+    "abstract": "Much of software developers' time is spent understanding unfamiliar code. To better understand how developers gain this understanding and how software development environments might be involved, a study was performed in which developers were given an unfamiliar program and asked to work on two debugging tasks and three enhancement tasks for 70 minutes. The study found that developers interleaved three activities. They began by searching for relevant code both manually and using search tools; however, they based their searches on limited and misrepresentative cues in the code, environment, and executing program, often leading to failed searches. When developers found relevant code, they followed its incoming and outgoing dependencies, often returning to it and navigating its other dependencies; while doing so, however, Eclipse's navigational tools caused significant overhead. Developers collected code and other information that they believed would be necessary to edit, duplicate, or otherwise refer to later by encoding it in the interactive state of Eclipse's package explorer, file tabs, and scroll bars. However, developers lost track of relevant code as these interfaces were used for other tasks, and developers were forced to find it again. These issues caused developers to spend, on average, 35 percent of their time performing the mechanics of navigation within and between source files. These observations suggest a new model of program understanding grounded in theories of information foraging and suggest ideas for tools that help developers seek, relate, and collect information in a more effective and explicit manner.",
+    "citations": 672,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/tse.2006.116",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2151996389",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/s11390-016-1671-1",
+    "title": "Summarizing Software Artifacts: A Literature Review",
+    "authors": [
+      "Najam Nazar",
+      "Yan Hu",
+      "He Jiang"
+    ],
+    "year": 2016,
+    "venue": "Journal of Computer Science and Technology",
+    "abstract": null,
+    "citations": 83,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/s11390-016-1671-1",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2517332594",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/s00766-017-0272-z",
+    "title": "Challenges of working with artifacts in requirements engineering and software engineering",
+    "authors": [
+      "Parisa Ghazi",
+      "Martin Glinz"
+    ],
+    "year": 2017,
+    "venue": "Requirements Engineering",
+    "abstract": null,
+    "citations": 20,
+    "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00766-017-0272-z.pdf",
+    "doi_url": "https://doi.org/10.1007/s00766-017-0272-z",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2617548478",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/3372787.3390442",
+    "title": "Understanding collaborative software development",
+    "authors": [
+      "Kattiana Constantino",
+      "Shurui Zhou",
+      "Maurício Ronny de Almeida Souza",
+      "Eduardo Figueiredo",
+      "Christian Kästner"
+    ],
+    "year": 2020,
+    "venue": null,
+    "abstract": "In globally distributed software development, many software developers have to collaborate and deal with issues of collaboration. Although collaboration is challenging, collaborative development produces better software than any developer could produce alone. Unlike previous work which focuses on the proposal and evaluation of models and tools to support collaborative work, this paper presents an interview study aiming to understand (i) the motivations, (ii) how collaboration happens, and (iii) the challenges and barriers of collaborative software development. After interviewing twelve experienced software developers from GitHub, we found different types of collaborative contributions, such as in the management of requests for changes. Our analysis also indicates that the main barriers for collaboration are related to non-technical, rather than technical issues.",
+    "citations": 35,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3372787.3390442",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3089330114",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.18653/v1/2020.findings-emnlp.139",
+    "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+    "authors": [
+      "Zhangyin Feng",
+      "Daya Guo",
+      "Duyu Tang",
+      "Nan Duan",
+      "Xiaocheng Feng",
+      "Ming Gong",
+      "Linjun Shou",
+      "Bing Qin",
+      "Ting Liu",
+      "Daxin Jiang",
+      "Ming Zhou"
+    ],
+    "year": 2020,
+    "venue": null,
+    "abstract": "Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. Findings of the Association for Computational Linguistics: EMNLP 2020. 2020.",
+    "citations": 2393,
+    "open_access_pdf_url": "https://www.aclweb.org/anthology/2020.findings-emnlp.139.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/2020.findings-emnlp.139",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3098605233",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1109/ieeestd.2015.7109795",
+    "title": "ISO/IEC/IEEE International Standard Systems and software engineering -- Content of life-cycle information items (documentation)",
+    "authors": [],
+    "year": 2015,
+    "venue": null,
+    "abstract": "The purpose and content of all identified systems and software life cycle and service management information items (documentation) are specified in this standard. The information item contents are defined according to generic document types, as presented in Clause 7, and the specific purpose of the document (Clause 10). This International Standard provides a mapping of ISO/IEC/IEEE 15288, ISO/IEC 12207:2008 (IEEE Std 12207-2008), ISO/IEC 20000-1:2011 (IEEE Std 20000-1:2013), and ISO/IEC 20000-2 (IEEE Std 20000-2:2013) clauses with a set of information items. This International Standard identifies records and information items based on analysis of references in ISO/IEC/IEEE 15288, ISO/IEC 12207:2008 (IEEE Std 12207-2008), ISO/IEC 20000-1:2011 (IEEE Std 20000-1:2013) and ISO/IEC 20000-2:2012 (IEEE 20000-2:2013), which in some cases provide partial or complete outlines for the content of specific documents. However, the requirements for the life-cycle processesdo not uniquely and unambiguously state the requirements for the information items contents or the information needed by a user of an information item. Moreover, the information from the life-cycle processes may overlap or may be created and revised at different times. In short, the analyzed references do not result in a logically complete list of information items.",
+    "citations": 3,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/ieeestd.2015.7109795",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4233754296",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/ieeestd.2015.7106435",
+    "title": "ISO/IEC/IEEE International Standard - Systems and software engineering -- System life cycle processes",
+    "authors": [],
+    "year": 2015,
+    "venue": null,
+    "abstract": "A common framework for describing the life cycle of systems created by humans is established by this standard. It defines a set of processes and associated terminology. These processes can be applied at any level in the hierarchy of a system's structure. Selected sets of these processes can be applied throughout the life cycle for managing and performing the stages of a system's life cycle. This is accomplished through the involvement of all interested parties, with the ultimate goal of achieving customer satisfaction.",
+    "citations": 43,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/ieeestd.2015.7106435",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4241545792",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/icse-fose59343.2023.00008",
+    "title": "Large Language Models for Software Engineering: Survey and Open Problems",
+    "authors": [
+      "Angela Fan",
+      "Beliz Gokkaya",
+      "Mark Harman",
+      "Mitya Lyubarskiy",
+      "Shubho Sengupta",
+      "Shin Yoo",
+      "Jie M. Zhang"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "This paper provides a survey of the emerging area of Large Language Models (LLMs) for Software Engineering (SE). It also sets out open research challenges for the application of LLMs to technical problems faced by software engineers. LLMs' emergent properties bring novelty and creativity with applications right across the spectrum of Software Engineering activities including coding, design, requirements, repair, refactoring, performance improvement, documentation and analytics. However, these very same emergent properties also pose significant technical challenges; we need techniques that can reliably weed out incorrect solutions, such as hallucinations. Our survey reveals the pivotal role that hybrid techniques (traditional SE plus LLMs) have to play in the development and deployment of reliable, efficient and effective LLM-based SE.",
+    "citations": 338,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse-fose59343.2023.00008",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4392414327",
+    "source_papers": [
+      "10.1109/aixse64906.2025.00017"
+    ],
+    "source_citation_keys": [
+      "Gadamsetty2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1145/2931037.2931054",
+    "title": "Sapienz: multi-objective automated testing for Android applications",
+    "authors": [
+      "Ke Mao",
+      "Mark Harman",
+      "Yue Jia"
+    ],
+    "year": 2016,
+    "venue": null,
+    "abstract": "We introduce Sapienz, an approach to Android testing that uses multi-objective search-based testing to automatically explore and optimise test sequences, minimising length, while simultaneously maximising coverage and fault revelation. Sapienz combines random fuzzing, systematic and search-based exploration, exploiting seeding and multi-level instrumentation. Sapienz significantly outperforms (with large effect size) both the state-of-the-art technique Dynodroid and the widely-used tool, Android Monkey, in 7/10 experiments for coverage, 7/10 for fault detection and 10/10 for fault-revealing sequence length. When applied to the top 1,000 Google Play apps, Sapienz found 558 unique, previously unknown crashes. So far we have managed to make contact with the developers of 27 crashing apps. Of these, 14 have confirmed that the crashes are caused by real faults. Of those 14, six already have developer-confirmed fixes.",
+    "citations": 530,
+    "open_access_pdf_url": "https://discovery.ucl.ac.uk/1508043/1/p_issta16_sapienz.pdf",
+    "doi_url": "https://doi.org/10.1145/2931037.2931054",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2463553622",
+    "source_papers": [
+      "10.1109/ccwc67433.2026.11393761"
+    ],
+    "source_citation_keys": [
+      "SKaruppuchamy2026"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  }
+]

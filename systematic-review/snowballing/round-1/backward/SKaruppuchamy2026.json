@@ -1,0 +1,1162 @@
+{
+  "source": "SKaruppuchamy2026",
+  "source_doi": "10.1109/ccwc67433.2026.11393761",
+  "provider": "openalex",
+  "items": [
+    {
+      "id": "https://openalex.org/W2463553622",
+      "doi": "https://doi.org/10.1145/2931037.2931054",
+      "title": "Sapienz: multi-objective automated testing for Android applications",
+      "publication_year": 2016,
+      "primary_location": {
+        "id": "doi:10.1145/2931037.2931054",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/2931037.2931054",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 25th International Symposium on Software Testing and Analysis",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5014851285",
+            "display_name": "Ke Mao",
+            "orcid": "https://orcid.org/0000-0003-3956-9184"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ke Mao",
+          "raw_affiliation_strings": [
+            "University College London, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University College London, UK",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000019783",
+            "display_name": "Mark Harman",
+            "orcid": "https://orcid.org/0000-0002-5864-4488"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mark Harman",
+          "raw_affiliation_strings": [
+            "University College London, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University College London, UK",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5100725712",
+            "display_name": "Yue Jia",
+            "orcid": "https://orcid.org/0000-0001-8013-4540"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yue Jia",
+          "raw_affiliation_strings": [
+            "University College London, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University College London, UK",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "We": [
+          0
+        ],
+        "introduce": [
+          1
+        ],
+        "Sapienz,": [
+          2
+        ],
+        "an": [
+          3
+        ],
+        "approach": [
+          4
+        ],
+        "to": [
+          5,
+          13,
+          77,
+          96
+        ],
+        "Android": [
+          6,
+          58
+        ],
+        "testing": [
+          7,
+          12
+        ],
+        "that": [
+          8,
+          111
+        ],
+        "uses": [
+          9
+        ],
+        "multi-objective": [
+          10
+        ],
+        "search-based": [
+          11,
+          35
+        ],
+        "automatically": [
+          14
+        ],
+        "explore": [
+          15
+        ],
+        "and": [
+          16,
+          26,
+          34,
+          39,
+          54,
+          69
+        ],
+        "optimise": [
+          17
+        ],
+        "test": [
+          18
+        ],
+        "sequences,": [
+          19
+        ],
+        "minimising": [
+          20
+        ],
+        "length,": [
+          21
+        ],
+        "while": [
+          22
+        ],
+        "simultaneously": [
+          23
+        ],
+        "maximising": [
+          24
+        ],
+        "coverage": [
+          25
+        ],
+        "fault": [
+          27,
+          67
+        ],
+        "revelation.": [
+          28
+        ],
+        "Sapienz": [
+          29,
+          42,
+          84
+        ],
+        "combines": [
+          30
+        ],
+        "random": [
+          31
+        ],
+        "fuzzing,": [
+          32
+        ],
+        "systematic": [
+          33
+        ],
+        "exploration,": [
+          36
+        ],
+        "exploiting": [
+          37
+        ],
+        "seeding": [
+          38
+        ],
+        "multi-level": [
+          40
+        ],
+        "instrumentation.": [
+          41
+        ],
+        "significantly": [
+          43
+        ],
+        "outperforms": [
+          44
+        ],
+        "(with": [
+          45
+        ],
+        "large": [
+          46
+        ],
+        "effect": [
+          47
+        ],
+        "size)": [
+          48
+        ],
+        "both": [
+          49
+        ],
+        "the": [
+          50,
+          55,
+          78,
+          100,
+          112
+        ],
+        "state-of-the-art": [
+          51
+        ],
+        "technique": [
+          52
+        ],
+        "Dynodroid": [
+          53
+        ],
+        "widely-used": [
+          56
+        ],
+        "tool,": [
+          57
+        ],
+        "Monkey,": [
+          59
+        ],
+        "in": [
+          60
+        ],
+        "7/10": [
+          61,
+          65
+        ],
+        "experiments": [
+          62
+        ],
+        "for": [
+          63,
+          66,
+          71
+        ],
+        "coverage,": [
+          64
+        ],
+        "detection": [
+          68
+        ],
+        "10/10": [
+          70
+        ],
+        "fault-revealing": [
+          72
+        ],
+        "sequence": [
+          73
+        ],
+        "length.": [
+          74
+        ],
+        "When": [
+          75
+        ],
+        "applied": [
+          76
+        ],
+        "top": [
+          79
+        ],
+        "1,000": [
+          80
+        ],
+        "Google": [
+          81
+        ],
+        "Play": [
+          82
+        ],
+        "apps,": [
+          83
+        ],
+        "found": [
+          85
+        ],
+        "558": [
+          86
+        ],
+        "unique,": [
+          87
+        ],
+        "previously": [
+          88
+        ],
+        "unknown": [
+          89
+        ],
+        "crashes.": [
+          90
+        ],
+        "So": [
+          91
+        ],
+        "far": [
+          92
+        ],
+        "we": [
+          93
+        ],
+        "have": [
+          94,
+          109,
+          124
+        ],
+        "managed": [
+          95
+        ],
+        "make": [
+          97
+        ],
+        "contact": [
+          98
+        ],
+        "with": [
+          99
+        ],
+        "developers": [
+          101
+        ],
+        "of": [
+          102
+        ],
+        "27": [
+          103
+        ],
+        "crashing": [
+          104
+        ],
+        "apps.": [
+          105
+        ],
+        "Of": [
+          106,
+          119
+        ],
+        "these,": [
+          107
+        ],
+        "14": [
+          108
+        ],
+        "confirmed": [
+          110
+        ],
+        "crashes": [
+          113
+        ],
+        "are": [
+          114
+        ],
+        "caused": [
+          115
+        ],
+        "by": [
+          116
+        ],
+        "real": [
+          117
+        ],
+        "faults.": [
+          118
+        ],
+        "those": [
+          120
+        ],
+        "14,": [
+          121
+        ],
+        "six": [
+          122
+        ],
+        "already": [
+          123
+        ],
+        "developer-confirmed": [
+          125
+        ],
+        "fixes.": [
+          126
+        ]
+      },
+      "cited_by_count": 530,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://discovery.ucl.ac.uk/1508043/1/p_issta16_sapienz.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4406602186",
+      "doi": "https://doi.org/10.1145/3610721",
+      "title": "Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1145/3610721",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3610721",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S103482838",
+          "display_name": "Communications of the ACM",
+          "issn_l": "0001-0782",
+          "issn": [
+            "0001-0782",
+            "1557-7317"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Communications of the ACM",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5053148078",
+            "display_name": "Hammond Pearce",
+            "orcid": "https://orcid.org/0000-0002-3488-7004"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I57206974",
+              "display_name": "New York University",
+              "ror": "https://ror.org/0190ak572",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hammond Pearce",
+          "raw_affiliation_strings": [
+            "New York University, Department of ECE, New York, NY, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3488-7004",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Department of ECE, New York, NY, USA",
+              "institution_ids": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063392410",
+            "display_name": "Baleegh Ahmad",
+            "orcid": "https://orcid.org/0000-0001-6854-3966"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I57206974",
+              "display_name": "New York University",
+              "ror": "https://ror.org/0190ak572",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Baleegh Ahmad",
+          "raw_affiliation_strings": [
+            "New York University, Department of ECE, New York, NY, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6854-3966",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Department of ECE, New York, NY, USA",
+              "institution_ids": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5069388936",
+            "display_name": "Benjamin Tan",
+            "orcid": "https://orcid.org/0000-0002-7642-3638"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I168635309",
+              "display_name": "University of Calgary",
+              "ror": "https://ror.org/03yjb2x39",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Benjamin Tan",
+          "raw_affiliation_strings": [
+            "University of Calgary, Department of ESE, Calgary, Alberta, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7642-3638",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Calgary, Department of ESE, Calgary, Alberta, Canada",
+              "institution_ids": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060815601",
+            "display_name": "Brendan Dolan-Gavitt",
+            "orcid": "https://orcid.org/0000-0002-8867-4282"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I57206974",
+              "display_name": "New York University",
+              "ror": "https://ror.org/0190ak572",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brendan Dolan-Gavitt",
+          "raw_affiliation_strings": [
+            "New York University, Department of ECE, New York, NY, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8867-4282",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Department of ECE, New York, NY, USA",
+              "institution_ids": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5059648257",
+            "display_name": "Ramesh Karri",
+            "orcid": "https://orcid.org/0000-0001-7989-5617"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I57206974",
+              "display_name": "New York University",
+              "ror": "https://ror.org/0190ak572",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ramesh Karri",
+          "raw_affiliation_strings": [
+            "New York University, Department of ECE, New York, NY, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7989-5617",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "New York University, Department of ECE, New York, NY, USA",
+              "institution_ids": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "There": [
+          0
+        ],
+        "is": [
+          1,
+          41,
+          68
+        ],
+        "burgeoning": [
+          2
+        ],
+        "interest": [
+          3
+        ],
+        "in": [
+          4,
+          11,
+          28,
+          120
+        ],
+        "designing": [
+          5,
+          12
+        ],
+        "AI-based": [
+          6
+        ],
+        "systems": [
+          7
+        ],
+        "to": [
+          8,
+          106,
+          117,
+          123,
+          172,
+          183
+        ],
+        "assist": [
+          9
+        ],
+        "humans": [
+          10
+        ],
+        "computing": [
+          13
+        ],
+        "systems,": [
+          14
+        ],
+        "including": [
+          15
+        ],
+        "tools": [
+          16
+        ],
+        "that": [
+          17,
+          63,
+          70,
+          101
+        ],
+        "automatically": [
+          18
+        ],
+        "generate": [
+          19,
+          118
+        ],
+        "computer": [
+          20
+        ],
+        "code.": [
+          21,
+          49,
+          80,
+          109
+        ],
+        "The": [
+          22
+        ],
+        "most": [
+          23
+        ],
+        "notable": [
+          24
+        ],
+        "of": [
+          25,
+          31,
+          60,
+          87,
+          154,
+          157,
+          161
+        ],
+        "these": [
+          26
+        ],
+        "comes": [
+          27
+        ],
+        "the": [
+          29,
+          32,
+          57,
+          71,
+          85,
+          97
+        ],
+        "form": [
+          30
+        ],
+        "first": [
+          33
+        ],
+        "self-described": [
+          34
+        ],
+        "“AI": [
+          35
+        ],
+        "pair": [
+          36
+        ],
+        "programmer,”": [
+          37
+        ],
+        "GitHub": [
+          38,
+          48,
+          104
+        ],
+        "Copilot,": [
+          39
+        ],
+        "which": [
+          40
+        ],
+        "a": [
+          42
+        ],
+        "language": [
+          43,
+          72
+        ],
+        "model": [
+          44,
+          73
+        ],
+        "trained": [
+          45
+        ],
+        "over": [
+          46
+        ],
+        "open-source": [
+          47
+        ],
+        "However,": [
+          50
+        ],
+        "code": [
+          51,
+          62,
+          89,
+          119,
+          146
+        ],
+        "often": [
+          52
+        ],
+        "contains": [
+          53
+        ],
+        "bugs—and": [
+          54
+        ],
+        "so,": [
+          55
+        ],
+        "given": [
+          56,
+          152
+        ],
+        "vast": [
+          58
+        ],
+        "quantity": [
+          59
+        ],
+        "unvetted": [
+          61
+        ],
+        "Copilot": [
+          64,
+          105,
+          116,
+          171
+        ],
+        "has": [
+          65
+        ],
+        "processed,": [
+          66
+        ],
+        "it": [
+          67,
+          150
+        ],
+        "certain": [
+          69
+        ],
+        "will": [
+          74
+        ],
+        "have": [
+          75
+        ],
+        "learned": [
+          76
+        ],
+        "from": [
+          77,
+          130
+        ],
+        "exploitable,": [
+          78
+        ],
+        "buggy": [
+          79
+        ],
+        "This": [
+          81
+        ],
+        "raises": [
+          82
+        ],
+        "concerns": [
+          83
+        ],
+        "on": [
+          84,
+          143
+        ],
+        "security": [
+          86
+        ],
+        "Copilot’s": [
+          88,
+          141
+        ],
+        "contributions.": [
+          90
+        ],
+        "In": [
+          91,
+          163
+        ],
+        "this": [
+          92,
+          112
+        ],
+        "work,": [
+          93
+        ],
+        "we": [
+          94,
+          114,
+          165,
+          179
+        ],
+        "systematically": [
+          95
+        ],
+        "investigate": [
+          96
+        ],
+        "prevalence": [
+          98
+        ],
+        "and": [
+          99,
+          159
+        ],
+        "conditions": [
+          100
+        ],
+        "can": [
+          102
+        ],
+        "cause": [
+          103
+        ],
+        "recommend": [
+          107
+        ],
+        "insecure": [
+          108
+        ],
+        "To": [
+          110
+        ],
+        "perform": [
+          111
+        ],
+        "analysis": [
+          113
+        ],
+        "prompt": [
+          115
+        ],
+        "scenarios": [
+          121,
+          169
+        ],
+        "relevant": [
+          122
+        ],
+        "high-risk": [
+          124
+        ],
+        "cybersecurity": [
+          125
+        ],
+        "weaknesses,": [
+          126,
+          155
+        ],
+        "for": [
+          127,
+          170
+        ],
+        "example,": [
+          128
+        ],
+        "those": [
+          129
+        ],
+        "MITRE’s": [
+          131
+        ],
+        "“Top": [
+          132
+        ],
+        "25”": [
+          133
+        ],
+        "Common": [
+          134
+        ],
+        "Weakness": [
+          135
+        ],
+        "Enumeration": [
+          136
+        ],
+        "(CWE)": [
+          137
+        ],
+        "list.": [
+          138
+        ],
+        "We": [
+          139
+        ],
+        "explore": [
+          140
+        ],
+        "performance": [
+          142
+        ],
+        "three": [
+          144
+        ],
+        "distinct": [
+          145
+        ],
+        "generation": [
+          147
+        ],
+        "axes—examining": [
+          148
+        ],
+        "how": [
+          149
+        ],
+        "performs": [
+          151
+        ],
+        "diversity": [
+          153,
+          156,
+          160
+        ],
+        "prompts,": [
+          158
+        ],
+        "domains.": [
+          162
+        ],
+        "total,": [
+          164
+        ],
+        "produce": [
+          166
+        ],
+        "89": [
+          167
+        ],
+        "different": [
+          168
+        ],
+        "complete,": [
+          173
+        ],
+        "producing": [
+          174
+        ],
+        "1,689": [
+          175
+        ],
+        "programs.": [
+          176
+        ],
+        "Of": [
+          177
+        ],
+        "these,": [
+          178
+        ],
+        "found": [
+          180
+        ],
+        "approximately": [
+          181
+        ],
+        "40%": [
+          182
+        ],
+        "be": [
+          184
+        ],
+        "vulnerable.": [
+          185
+        ]
+      },
+      "cited_by_count": 57,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ]
+}

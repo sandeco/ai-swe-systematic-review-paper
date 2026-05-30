@@ -1,0 +1,1080 @@
+[
+  {
+    "doi": "10.1109/tse.1979.234183",
+    "title": "Constructing the Call Graph of a Program",
+    "authors": [
+      "Barbara G. Ryder"
+    ],
+    "year": 1979,
+    "venue": "IEEE Transactions on Software Engineering",
+    "abstract": "The proliferation of large software systems written in high level programming languages insures the utility of analysis programs which examine interprocedural communications. Often these analysis programs need to reduce the dynamic relations between procedures to a static data representation. This paper presents one such representation, a directed, acyclic graph named the call graph of a program. We delineate the programs representable by an acyclic call graph and present an algorithm for constructing it using the property that its nodes may be linearly ordered. We prove the correctness of the algorithm and discuss the results obtained from an implementation of the algorithm in the PFORT Verifier [1].",
+    "citations": 298,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/tse.1979.234183",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W1966831167",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/2786805.2786825",
+    "title": "Is the cure worse than the disease? overfitting in automated program repair",
+    "authors": [
+      "Edward K. Smith",
+      "Earl T. Barr",
+      "Claire Le Goues",
+      "Yuriy Brun"
+    ],
+    "year": 2015,
+    "venue": null,
+    "abstract": "Automated program repair has shown promise for reducing the sig-nificant manual effort debugging requires. This paper addresses a deficit of earlier evaluations of automated repair techniques caused by repairing programs and evaluating generated patches ’ correctness using the same set of tests. Since tests are an imperfect metric of program correctness, evaluations of this type do not discriminate be-tween correct patches and patches that overfit the available tests and break untested but desired functionality. This paper evaluates two well-studied repair tools, GenProg and TrpAutoRepair, on a pub-licly available benchmark of 998 bugs, each with a human-written patch. By evaluating patches using tests independent from those used during repair, we find that the tools are unlikely to improve the proportion of independent tests passed, and that the quality of the patches is proportional to the coverage of the test suite used during repair. For programs that pass most tests, the tools are as likely to break tests as to fix them. However, novice developers also overfit, and automated repair performs no worse than these develop-ers. In addition to overfitting, we measure the effects of test suite coverage, test suite provenance, and starting program quality, as well as the difference in quality between novice-developer-written and tool-generated patches when quality is assessed with a test suite independent from the one used for patch generation.",
+    "citations": 324,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/2786805.2786825",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2061575154",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/2408776.2408795",
+    "title": "Symbolic execution for software testing",
+    "authors": [
+      "Cristian Cadar",
+      "Koushik Sen"
+    ],
+    "year": 2013,
+    "venue": "Communications of the ACM",
+    "abstract": "The challenges---and great promise---of modern symbolic execution techniques, and the tools to help implement them.",
+    "citations": 746,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/2408776.2408795",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2107147876",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/icse.2009.5070536",
+    "title": "Automatically finding patches using genetic programming",
+    "authors": [
+      "Westley Weimer",
+      "ThanhVu Nguyen",
+      "Claire Le Goues",
+      "Stephanie Forrest"
+    ],
+    "year": 2009,
+    "venue": null,
+    "abstract": "Automatic program repair has been a longstanding goal in software engineering, yet debugging remains a largely manual process. We introduce a fully automated method for locating and repairing bugs in software. The approach works on off-the-shelf legacy applications and does not require formal specifications, program annotations or special coding practices. Once a program fault is discovered, an extended form of genetic programming is used to evolve program variants until one is found that both retains required functionality and also avoids the defect in question. Standard test cases are used to exercise the fault and to encode program requirements. After a successful repair has been discovered, it is minimized using structural differencing algorithms and delta debugging. We describe the proposed method and report experimental results demonstrating that it can successfully repair ten different C programs totaling 63,000 lines in under 200 seconds, on average.",
+    "citations": 771,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse.2009.5070536",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2122947685",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/taic.part.2007.13",
+    "title": "On the Accuracy of Spectrum-based Fault Localization",
+    "authors": [
+      "Rui Abreu",
+      "Peter Zoeteweij",
+      "Arjan J. C. van Gemund"
+    ],
+    "year": 2007,
+    "venue": null,
+    "abstract": "Spectrum-based fault localization shortens the test- diagnose-repair cycle by reducing the debugging effort. As a light-weight automated diagnosis technique it can easily be integrated with existing testing schemes. However, as no model of the system is taken into account, its diagnostic accuracy is inherently limited. Using the Siemens Set benchmark, we investigate this diagnostic accuracy as a function of several parameters (such as quality and quantity of the program spectra collected during the execution of the system), some of which directly relate to test design. Our results indicate that the superior performance of a particular similarity coefficient, used to analyze the program spectra, is largely independent of test design. Furthermore, near- optimal diagnostic accuracy (exonerating about 80% of the blocks of code on average) is already obtained for low-quality error observations and limited numbers of test cases. The influence of the number of test cases is of primary importance for continuous (embedded) processing applications, where only limited observation horizons can be maintained.",
+    "citations": 724,
+    "open_access_pdf_url": "https://repositorium.sdum.uminho.pt/bitstream/1822/37990/1/1750.pdf",
+    "doi_url": "https://doi.org/10.1109/taic.part.2007.13",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2153418968",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/581339.581397",
+    "title": "Visualization of test information to assist fault localization",
+    "authors": [
+      "James A. Jones",
+      "Mary Jean Harrold",
+      "John Stasko"
+    ],
+    "year": 2002,
+    "venue": null,
+    "abstract": "One of the most expensive and time-consuming components of the debugging process is locating the errors or faults. To locate faults, developers must identify statements involved in failures and select suspicious statements that might contain faults. This paper presents a new technique that uses visualization to assist with these tasks. The technique uses color to visually map the participation of each program statement in the outcome of the execution of the program with a test suite, consisting of both passed and failed test cases. Based on this visual mapping, a user can inspect the statements in the program, identify statements involved in failures, and locate potentially faulty statements. The paper also describes a prototype tool that implements our technique along with a set of empirical studies that use the tool for evaluation of the technique. The empirical studies show that, for the subject we studied, the technique can be effective in helping a user locate faults in a program.",
+    "citations": 903,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/581339.581397",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2162045655",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/tse.2016.2521368",
+    "title": "A Survey on Software Fault Localization",
+    "authors": [
+      "W. Eric Wong",
+      "Ruizhi Gao",
+      "Yihao Li",
+      "Rui Abreu",
+      "Franz Wotawa"
+    ],
+    "year": 2016,
+    "venue": "IEEE Transactions on Software Engineering",
+    "abstract": "Software fault localization, the act of identifying the locations of faults in a program, is widely recognized to be one of the most tedious, time consuming, and expensive - yet equally critical - activities in program debugging. Due to the increasing scale and complexity of software today, manually locating faults when failures occur is rapidly becoming infeasible, and consequently, there is a strong demand for techniques that can guide software developers to the locations of faults in a program with minimal human intervention. This demand in turn has fueled the proposal and development of a broad spectrum of fault localization techniques, each of which aims to streamline the fault localization process and make it more effective by attacking the problem in a unique way. In this article, we catalog and provide a comprehensive overview of such techniques and discuss key issues and concerns that are pertinent to software fault localization as a whole.",
+    "citations": 1066,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/tse.2016.2521368",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2343875716",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/2884781.2884807",
+    "title": "Angelix",
+    "authors": [
+      "Sergey Mechtaev",
+      "Jooyong Yi",
+      "Abhik Roychoudhury"
+    ],
+    "year": 2016,
+    "venue": null,
+    "abstract": "Since debugging is a time-consuming activity, automated program repair tools such as GenProg have garnered interest. A recent study revealed that the majority of GenProg repairs avoid bugs simply by deleting functionality. We found that SPR, a state-of-the-art repair tool proposed in 2015, still deletes functionality in their many \"plausible\" repairs. Unlike generate-and-validate systems such as GenProg and SPR, semantic analysis based repair techniques synthesize a repair based on semantic information of the program. While such semantics-based repair methods show promise in terms of quality of generated repairs, their scalability has been a concern so far. In this paper, we present Angelix, a novel semantics-based repair method that scales up to programs of similar size as are handled by search-based repair tools such as GenProg and SPR. This shows that Angelix is more scalable than previously proposed semantics based repair methods such as SemFix and DirectFix. Furthermore, our repair method can repair multiple buggy locations that are dependent on each other. Such repairs are hard to achieve using SPR and GenProg. In our experiments, Angelix generated repairs from large-scale real-world software such as wireshark and php, and these generated repairs include multi-location repairs. We also report our experience in automatically repairing the well-known Heartbleed vulnerability.",
+    "citations": 505,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/2884781.2884807",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2373227884",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/qrs.2017.22",
+    "title": "A Critical Evaluation of Spectrum-Based Fault Localization Techniques on a Large-Scale Software System",
+    "authors": [
+      "Fabian Keller",
+      "Lars Grunske",
+      "Simon Heiden",
+      "Antonio Filieri",
+      "André van Hoorn",
+      "David Lo"
+    ],
+    "year": 2017,
+    "venue": null,
+    "abstract": "In the past, spectrum-based fault localization (SBFL) techniques have been developed to pinpoint a fault location in a program given a set of failing and successful test executions. Most of the algorithms use similarity coefficients and have only been evaluated on established but small benchmark programs from the Software-artifact Infrastructure Repository (SIR). In this paper, we evaluate the feasibility of applying 33 state-of-the-art SBFL techniques to a large real-world project, namely ASPECTJ. From an initial set of 350 faulty version from the iBugs repository of ASPECTJ we manually classified 88 bugs where SBFL techniques are suitable. Notably, only 11 bugs of these bugs can be found after examining the 1000 most suspicious lines and on average 250 source code files need to be inspected per bug. Based on these results, the study showcases the limitations of current SBFL techniques on a larger program.",
+    "citations": 77,
+    "open_access_pdf_url": "https://ink.library.smu.edu.sg/sis_research/3837",
+    "doi_url": "https://doi.org/10.1109/qrs.2017.22",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2744752929",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/3133956.3134020",
+    "title": "Directed Greybox Fuzzing",
+    "authors": [
+      "Marcel Böhme",
+      "Van-Thuan Pham",
+      "Manh-Dung Nguyen",
+      "Abhik Roychoudhury"
+    ],
+    "year": 2017,
+    "venue": null,
+    "abstract": "Existing Greybox Fuzzers (GF) cannot be effectively directed, for instance, towards problematic changes or patches, towards critical system calls or dangerous locations, or towards functions in the stack-trace of a reported vulnerability that we wish to reproduce. In this paper, we introduce Directed Greybox Fuzzing (DGF) which generates inputs with the objective of reaching a given set of target program locations efficiently. We develop and evaluate a simulated annealing-based power schedule that gradually assigns more energy to seeds that are closer to the target locations while reducing energy for seeds that are further away. Experiments with our implementation AFLGo demonstrate that DGF outperforms both directed symbolic-execution-based whitebox fuzzing and undirected greybox fuzzing. We show applications of DGF to patch testing and crash reproduction, and discuss the integration of AFLGo into Google's continuous fuzzing platform OSS-Fuzz. Due to its directedness, AFLGo could find 39 bugs in several well-fuzzed, security-critical projects like LibXML2. 17 CVEs were assigned.",
+    "citations": 714,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3133956.3134020",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2766540688",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/ms.2020.3016773",
+    "title": "Fuzzing: Challenges and Reflections",
+    "authors": [
+      "Marcel Boehme",
+      "Cristian Cadar",
+      "Abhik Roychoudhury"
+    ],
+    "year": 2020,
+    "venue": "IEEE Software",
+    "abstract": "We summarize the open challenges and opportunities for fuzzing and symbolic execution as they emerged in discussions among researchers and practitioners in a Shonan Meeting and that were validated in a subsequent survey.",
+    "citations": 147,
+    "open_access_pdf_url": "https://ieeexplore.ieee.org/ielx7/52/9407245/09166552.pdf",
+    "doi_url": "https://doi.org/10.1109/ms.2020.3016773",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3049735680",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1109/icse.2012.6227168",
+    "title": "BugRedux: Reproducing field failures for in-house debugging",
+    "authors": [
+      "Wei Jin",
+      "Alessandro Orso"
+    ],
+    "year": 2012,
+    "venue": null,
+    "abstract": "A recent survey conducted among developers of the Apache, Eclipse, and Mozilla projects showed that the ability to recreate field failures is considered of fundamental importance when investigating bug reports. Unfortunately, the information typically contained in a bug report, such as memory dumps or call stacks, is usually insufficient for recreating the problem. Even more advanced approaches for gathering field data and help in-house debugging tend to collect either too little information, and be ineffective, or too much information, and be inefficient. To address these issues, we present BugRedux, a novel general approach for in-house debugging of field failures. BugRedux aims to synthesize, using execution data collected in the field, executions that mimic the observed field failures. We define several instances of BugRedux that collect different types of execution data and perform, through an empirical study, a cost-benefit analysis of the approach and its variations. In the study, we apply BugRedux to 16 failures of 14 real-world programs. Our results are promising in that they show that it is possible to synthesize in-house executions that reproduce failures observed in the field using a suitable set of execution data.",
+    "citations": 119,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse.2012.6227168",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3140804348",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/978-1-4842-7792-8",
+    "title": "Language Server Protocol and Implementation",
+    "authors": [
+      "Nadeeshaan Gunasinghe",
+      "Nipuna Marcus"
+    ],
+    "year": 2021,
+    "venue": "Apress eBooks",
+    "abstract": "This book covers the language server protocol used for communication between programming tools and your language server.",
+    "citations": 15,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-1-4842-7792-8",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3211776794",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1109/icse.2013.6606623",
+    "title": "SemFix: Program repair via semantic analysis",
+    "authors": [
+      "Hoang Duong Thien Nguyen",
+      "Dawei Qi",
+      "Abhik Roychoudhury",
+      "Satish Chandra"
+    ],
+    "year": 2013,
+    "venue": "2013 35th International Conference on Software Engineering (ICSE)",
+    "abstract": "Debugging consumes significant time and effort in any major software development project. Moreover, even after the root cause of a bug is identified, fixing the bug is non-trivial. Given this situation, automated program repair methods are of value. In this paper, we present an automated repair method based on symbolic execution, constraint solving and program synthesis. In our approach, the requirement on the repaired code to pass a given set of tests is formulated as a constraint. Such a constraint is then solved by iterating over a layered space of repair expressions, layered by the complexity of the repair code. We compare our method with recently proposed genetic programming based repair on SIR programs with seeded bugs, as well as fragments of GNU Coreutils with real bugs. On these subjects, our approach reports a higher success-rate than genetic programming based repair, and produces a repair faster.",
+    "citations": 382,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse.2013.6606623",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4244452926",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/3524459.3527351",
+    "title": "Can OpenAI's codex fix bugs?",
+    "authors": [
+      "Julian Aron Prenner",
+      "Hlib Babii",
+      "Romain Robbes"
+    ],
+    "year": 2022,
+    "venue": null,
+    "abstract": "OpenAI's Codex, a GPT-3 like model trained on a large code corpus, has made headlines in and outside of academia. Given a short user-provided description, it is capable of synthesizing code snippets that are syntactically and semantically valid in most cases. In this work, we want to investigate whether Codex is able to localize and fix bugs, two important tasks in automated program repair. Our initial evaluation uses the multi-language QuixBugs benchmark (40 bugs in both Python and Java). We find that, despite not being trained for APR, Codex is surprisingly effective, and competitive with recent state of the art techniques. Our results also show that Codex is more successful at repairing Python than Java, fixing 50% more bugs in Python.",
+    "citations": 92,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3524459.3527351",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4312970618",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.26507/paper.2300",
+    "title": "GitHub Copilot",
+    "authors": [
+      "Brayan Stiven Torrres Ovalle"
+    ],
+    "year": 2022,
+    "venue": "Encuentro Internacional de Educación en Ingeniería",
+    "abstract": "Durante el programa de ingeniería de sistemas se ha podido trabajar con muchas herramientas las cuales facilitan las enseñanzas de los temas que están enfocados al desarrollo del software al igual que el cloud computing. En esta ocasión se hablará de un nuevo método que salió recientemente, se llama GitHub Copilot; es un asistente que sirve para escribir código basado en machine learn, o como les gusta decirle en GitHub, es una aplicación de pair programming basado en IA (inteligencia artificial). Para comprender más este software, se relaciona más como un Intellisense (auto completa el código) pero más eficiente y va mejorando a medida que transcurren sus actualizaciones. Por otro lado, no solamente hace pequeñas sugerencias sino predice lo que quieres completar y te brinda funciones complementarias con múltiples variantes. Incluso pude llegar a escribir el código a partir de comentarios en el lenguaje que se requiera. En el aula ha sido de gran ayuda para explicar los temas que se enfocan en la inteligencia artificial y programación a nuevos estudiantes, debido a que con el lenguaje “común” se puede realizar una estructura similar al pseudocódigo. De igual manera, se puede comprender los modelos de servicios en la nube, como, por ejemplo: Software as service (SaaS), porque copilot recopila todos los repositorios públicos de GitHub que es similar a un data warehouse el cual abastece a la IA. El objetivo principal de la presentación es demostrar cómo se puede optimizar el desarrollo de un software con la ayuda de GitHub Copilot, también explicar sus ventajas al igual que su arquitectura en la nube, con el objetivo de que todos los ingenieros se puedan apoyar a través de esta herramienta. Esta nueva tecnología aún no ha completado su funcionalidad a los usuarios en general, sin embargo, para acceder se requiere solicitar su uso a GitHub Copilot. Actualmente muy pocos desarrolladores tienen posibilidades de acceso a este programa; se espera que en los próximos meses salga su producción a los demás usuarios. Hoy en día con este software durante 6 meses aproximadamente, se ha demostrado que casi ha mejorado desde sus etapas iniciales de lanzamiento, es por tal motivo que hay una mejor experiencia en el uso diario de la misma.",
+    "citations": 4,
+    "open_access_pdf_url": "https://acofipapers.org/index.php/eiei/article/download/2300/1987",
+    "doi_url": "https://doi.org/10.26507/paper.2300",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4320080615",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1002/smr.2554",
+    "title": "CrossFix: Resolution of GitHub issues via similar bugs recommendation",
+    "authors": [
+      "Shin Hwei Tan",
+      "Ziqiang Li",
+      "Lu Yan"
+    ],
+    "year": 2023,
+    "venue": "Journal of Software Evolution and Process",
+    "abstract": "Summary With the increasing popularity of Open‐Source Software (OSS), the number of GitHub issues reported daily in these OSS projects has been growing rapidly. To resolve these issues, developers need to spend time and effort in debugging and fixing these issues. Meanwhile, a recent approach shows that similar bugs exist across different projects, and one could use the GitHub issues from a different project for finding new bugs for a related project. To locate similar bugs for our approach, we first conduct a study of similar bugs in GitHub. Our study redefines similar bugs as bugs that share the (1) same libraries, (2) same functionalities, (3) same reproduction steps, (4) same configurations, (5) same outcomes, or (6) same errors. Moreover, our study revealed the usefulness of similar bugs in helping developers to find more contexts about the bug and fixing. Based on our study, we design CrossFix, a tool that automatically suggests relevant GitHub issues based on an open GitHub issue. The suggested GitHub issues may contain solutions written in natural language or pull requests that help developers in resolving the given issue. Our evaluation on 249 open issues from Java and Android projects shows that CrossFix could suggest similar bugs to help developers in debugging and fixing.",
+    "citations": 4,
+    "open_access_pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smr.2554",
+    "doi_url": "https://doi.org/10.1002/smr.2554",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4360612989",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/icse48619.2023.00125",
+    "title": "Impact of Code Language Models on Automated Program Repair",
+    "authors": [
+      "Nan Jiang",
+      "Kevin Liu",
+      "Thibaud Lutellier",
+      "Lin Tan"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Automated program repair (APR) aims to help developers improve software reliability by generating patches for buggy programs. Although many code language models (CLM) are developed and effective in many software tasks such as code completion, there has been little comprehensive, in-depth work to evaluate CLMs' fixing capabilities and to fine-tune CLMs for the APR task. Firstly, this work is the first to evaluate ten CLMs on four APR benchmarks, which shows that surprisingly, the best CLM, as is, fixes 72% more bugs than the state-of-the-art deep-learning (DL)-based APR techniques. Secondly, one of the four APR benchmarks was created by us in this paper to avoid data leaking for a fair evaluation. Thirdly, it is the first work to fine-tune CLMs with APR training data, which shows that fine-tuning brings 31%-1,267% improvement to CLMs and enables them to fix 46%-164 % more bugs than existing DL-based APR techniques. Fourthly, this work studies the impact of buggy lines, showing that CLMs, as is, cannot make good use of the buggy lines to fix bugs, yet fine-tuned CLMs could potentially over-rely on buggy lines. Lastly, this work analyzes the size, time, and memory efficiency of different CLMs. This work shows promising directions for the APR domain, such as fine-tuning CLMs with APR-specific designs, and also raises awareness of fair and comprehensive evaluations of CLMs and calls for more transparent reporting of open-source repositories used in the pre-training data to address the data leaking problem.",
+    "citations": 164,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse48619.2023.00125",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4384304728",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/icse48619.2023.00129",
+    "title": "Automated Program Repair in the Era of Large Pre-trained Language Models",
+    "authors": [
+      "Chunqiu Steven Xia",
+      "Yuxiang Wei",
+      "Lingming Zhang"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Automated Program Repair (APR) aims to help developers automatically patch software bugs. However, current state-of-the-art traditional and learning-based APR techniques face the problem of limited patch variety, failing to fix complicated bugs. This is mainly due to the reliance on bug-fixing datasets to craft fix templates (traditional) or directly predict potential patches (learning-based). Large Pre-Trained Language Models (LLMs), trained using billions of text/code tokens, can potentially help avoid this issue. Very recently, researchers have directly leveraged LLMs for APR without relying on any bug-fixing datasets. Meanwhile, such existing work either failed to include state-of-the-art LLMs or was not evaluated on realistic datasets. Thus, the true power of modern LLMs on the important APR problem is yet to be revealed. In this work, we perform the first extensive study on directly applying LLMs for APR. We select 9 recent state-of-the-art LLMs, including both generative and infilling models, ranging from 125M to 20B in size. We designed 3 different repair settings to evaluate the different ways we can use LLMs to generate patches: 1) generate the entire patch function, 2) fill in a chunk of code given the prefix and suffix 3) output a single line fix. We apply the LLMs under these repair settings on 5 datasets across 3 different languages and compare different LLMs in the number of bugs fixed, generation speed and compilation rate. We also compare the LLMs against recent state-of-the-art APR tools. Our study demonstrates that directly applying state-of-the-art LLMs can already substantially outperform all existing APR techniques on all our datasets. Among the studied LLMs, the scaling effect exists for APR where larger models tend to achieve better performance. Also, we show for the first time that suffix code after the buggy line (adopted in infilling-style APR) is important in not only generating more fixes but more patches with higher compilation rate. Besides patch generation, the LLMs consider correct patches to be more natural than other ones, and can even be leveraged for effective patch ranking or patch correctness checking. Lastly, we show that LLM-based APR can be further substantially boosted via: 1) increasing the sample size, and 2) incorporating fix template information.",
+    "citations": 322,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/icse48619.2023.00129",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4384345708",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/sp46215.2023.10179420",
+    "title": "Examining Zero-Shot Vulnerability Repair with Large Language Models",
+    "authors": [
+      "Hammond Pearce",
+      "Benjamin Tan",
+      "Baleegh Ahmad",
+      "Ramesh Karri",
+      "Brendan Dolan-Gavitt"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Human developers can produce code with cybersecurity bugs. Can emerging ‘smart’ code completion tools help repair those bugs? In this work, we examine the use of large language models (LLMs) for code (such as OpenAI’s Codex and AI21’s Jurassic J-1) for zero-shot vulnerability repair. We investigate challenges in the design of prompts that coax LLMs into generating repaired versions of insecure code. This is difficult due to the numerous ways to phrase key information— both semantically and syntactically—with natural languages. We perform a large scale study of five commercially available, black-box, \"off-the-shelf\" LLMs, as well as an open-source model and our own locally-trained model, on a mix of synthetic, hand-crafted, and real-world security bug scenarios. Our experiments demonstrate that while the approach has promise (the LLMs could collectively repair 100% of our synthetically generated and hand-crafted scenarios), a qualitative evaluation of the model’s performance over a corpus of historical real-world examples highlights challenges in generating functionally correct code.",
+    "citations": 173,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/sp46215.2023.10179420",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4385187421",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1145/3611643.3613892",
+    "title": "InferFix: End-to-End Program Repair with LLMs",
+    "authors": [
+      "Matthew Jin",
+      "Syed Shahriar",
+      "Michele Tufano",
+      "Xin Shi",
+      "Shuai Lu",
+      "Neel Sundaresan",
+      "A. Svyatkovskiy"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Software development life cycle is profoundly influenced by bugs; their introduction, identification, and eventual resolution account for a significant portion of software development cost. This has motivated software engineering researchers and practitioners to propose different approaches for automating the identification and repair of software defects.",
+    "citations": 148,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1145/3611643.3613892",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4389158474",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1145/3597503.3639184",
+    "title": "PyTy: Repairing Static Type Errors in Python",
+    "authors": [
+      "Yiu Wai Chow",
+      "Luca Di Grazia",
+      "Michael Pradel"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Gradual typing enables developers to annotate types of their own choosing, offering a flexible middle ground between no type annotations and a fully statically typed language. As more and more code bases get type-annotated, static type checkers detect an increasingly large number of type errors. Unfortunately, fixing these errors requires manual effort, hampering the adoption of gradual typing in practice. This paper presents PyTy, an automated program repair approach targeted at statically detectable type errors in Python. The problem of repairing type errors deserves specific attention because it exposes particular repair patterns, offers a warning message with hints about where and how to apply a fix, and because gradual type checking serves as an automatic way to validate fixes. We addresses this problem through three contributions: (i) an empirical study that investigates how developers fix Python type errors, showing a diverse set of fixing strategies with some recurring patterns; (ii) an approach to automatically extract type error fixes, which enables us to create a dataset of 2,766 error-fix pairs from 176 GitHub repositories, named PyTyDefects; (iii) the first learning-based repair technique for fixing type errors in Python. Motivated by the relative data scarcity of the problem, the neural model at the core of PyTy is trained via cross-lingual transfer learning. Our evaluation shows that PyTy offers fixes for ten frequent categories of type errors, successfully addressing 85.4% of 281 real-world errors. This effectiveness outperforms state-of-the-art large language models asked to repair type errors (by 2.1x) and complements a previous technique aimed at type errors that manifest at runtime. Finally, 20 out of 30 pull requests with PyTy-suggested fixes have been merged by developers, showing the usefulness of PyTy in practice.",
+    "citations": 13,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2401.06619",
+    "doi_url": "https://doi.org/10.1145/3597503.3639184",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4390897855",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/sp54263.2024",
+    "title": "2024 IEEE Symposium on Security and Privacy (SP)",
+    "authors": [],
+    "year": 2024,
+    "venue": null,
+    "abstract": null,
+    "citations": 61,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/sp54263.2024",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402262144",
+    "source_papers": [
+      "10.1145/3650212.3680384"
+    ],
+    "source_citation_keys": [
+      "YuntongZhang2024"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.1109/aero.2014.6836450",
+    "title": "Model-based requirement generation",
+    "authors": [
+      "Brian London",
+      "Piero Miotto"
+    ],
+    "year": 2014,
+    "venue": null,
+    "abstract": "Model-based systems engineering (MBSE) is intended to enhance productivity and quality through a paradigm shift from document-centric engineering. However, most MBSE development tools require the manual creation of requirement constructs. This time consuming step is vulnerable to human error, and must be repeated as high-level designs inevitably evolve. This paper describes a capability that uses SysML structure and behavior diagrams to automatically generate textual requirements. Using modified off-the-shelf MBSE software, information is extracted from SysML constructs (e.g., blocks, states, activities) and combined in SysML requirement objects. The requirement syntax conforms to NASA and DoD standards. Requirements are based on SysML construct relationships (e.g., allocations, control flows, object flows) commonly used in diagrams to describe system architectures and designs. Through the embedded error checker, designers can ensure that requirements are complete and consistent. When new requirement constructs are created, traceability to the “parent” SysML constructs is automatically created to capture the rationale. As the architectural models evolve, the requirements are updated to ensure consistency with configuration management and other model-based tools. Such an approach allows designers to quickly assess the impact of requirement changes and reduces requirement management costs. The capability is demonstrated by comparing model generated requirements to a traditionally developed GPS receiver specification.",
+    "citations": 14,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/aero.2014.6836450",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2063076172",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1016/j.infsof.2009.04.001",
+    "title": "On the generation of requirements specifications from software engineering models: A systematic literature review",
+    "authors": [
+      "Joaquín Nicolás",
+      "Ambrosio Toval"
+    ],
+    "year": 2009,
+    "venue": "Information and Software Technology",
+    "abstract": null,
+    "citations": 131,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1016/j.infsof.2009.04.001",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2152705278",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1007/s00766-017-0279-5",
+    "title": "Using the AMAN-DA method to generate security requirements: a case study in the maritime domain",
+    "authors": [
+      "Amina Souag",
+      "Raúl Mazo",
+      "Camille Salinesi",
+      "Isabelle Comyn-Wattiau"
+    ],
+    "year": 2017,
+    "venue": "Requirements Engineering",
+    "abstract": null,
+    "citations": 16,
+    "open_access_pdf_url": "https://link.springer.com/content/pdf/10.1007/s00766-017-0279-5.pdf",
+    "doi_url": "https://doi.org/10.1007/s00766-017-0279-5",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2755375180",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.18653/v1/p16-1004",
+    "title": "Language to Logical Form with Neural Attention",
+    "authors": [
+      "Li Dong",
+      "Mirella Lapata"
+    ],
+    "year": 2016,
+    "venue": null,
+    "abstract": "Semantic parsing aims at mapping natural language to machine interpretable meaning representations. Traditional approaches rely on high-quality lexicons, manually-built templates, and linguistic features which are either domainor representation-specific. In this paper we present a general method based on an attention-enhanced encoder-decoder model. We encode input utterances into vector representations, and generate their logical forms by conditioning the output sequences or trees on the encoding vectors. Experimental results on four datasets show that our approach performs competitively without using hand-engineered features and is easy to adapt across domains and meaning representations.",
+    "citations": 652,
+    "open_access_pdf_url": "https://www.aclweb.org/anthology/P16-1004.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/p16-1004",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W2963794306",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.18653/v1/2020.findings-emnlp.139",
+    "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+    "authors": [
+      "Zhangyin Feng",
+      "Daya Guo",
+      "Duyu Tang",
+      "Nan Duan",
+      "Xiaocheng Feng",
+      "Ming Gong",
+      "Linjun Shou",
+      "Bing Qin",
+      "Ting Liu",
+      "Daxin Jiang",
+      "Ming Zhou"
+    ],
+    "year": 2020,
+    "venue": null,
+    "abstract": "Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. Findings of the Association for Computational Linguistics: EMNLP 2020. 2020.",
+    "citations": 2397,
+    "open_access_pdf_url": "https://www.aclweb.org/anthology/2020.findings-emnlp.139.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/2020.findings-emnlp.139",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3098605233",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": null,
+    "title": "Research-based web design & usability guidelines",
+    "authors": [
+      "Ben Shneiderman"
+    ],
+    "year": 2006,
+    "venue": null,
+    "abstract": null,
+    "citations": 380,
+    "open_access_pdf_url": null,
+    "doi_url": null,
+    "source": "openalex",
+    "source_id": "https://openalex.org/W3217517604",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1109/ms.2022.3147692",
+    "title": "The Current and Evolving Landscape of Requirements Engineering in Practice",
+    "authors": [
+      "Mohamad Kassab",
+      "Phillip A. Laplante"
+    ],
+    "year": 2022,
+    "venue": "IEEE Software",
+    "abstract": "Four exploratory surveys were conducted in 2003, 2008, 2013, and 2020 on the state of practice of requirements engineering. This article creates a panoramic view of the changes to the landscape of industrial practices by analyzing the responses from the four surveys.",
+    "citations": 14,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/ms.2022.3147692",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4210766525",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.18653/v1/2022.findings-acl.2",
+    "title": "Compilable Neural Code Generation with Compiler Feedback",
+    "authors": [
+      "Xin Wang",
+      "Yasheng Wang",
+      "Yao Wan",
+      "Fei Mi",
+      "Yitong Li",
+      "Pingyi Zhou",
+      "Jin Liu",
+      "Hao Wu",
+      "Xin Jiang",
+      "Qun Liu"
+    ],
+    "year": 2022,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2022",
+    "abstract": "Automatically generating compilable programs with (or without) natural language descriptions has always been a touchstone problem for computational linguistics and automated software engineering. Existing deep-learning approaches model code generation as text generation, either constrained by grammar structures in decoder, or driven by pre-trained language models on large-scale code corpus (e.g., CodeGPT, PLBART, and CodeT5). However, few of them account for compilability of the generated programs. To improve compilability of the generated programs, this paper proposes COMPCODER, a three-stage pipeline utilizing compiler feedback for compilable code generation, including language model fine-tuning, compilability reinforcement, and compilability discrimination. Comprehensive experiments on two code generation tasks demonstrate the effectiveness of our proposed approach, improving the success rate of compilation from 44.18 to 89.18 in code completion on average and from 70.3 to 96.2 in text-to-code generation, respectively, when comparing with the state-ofthe-art CodeGPT.",
+    "citations": 43,
+    "open_access_pdf_url": "https://aclanthology.org/2022.findings-acl.2.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/2022.findings-acl.2",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4226277721",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1109/mise.2017.1",
+    "title": "Online Model Editing, Simulation and Code Generation for Web and Mobile Applications",
+    "authors": [
+      "Carlo Bernaschina",
+      "Sara Comai",
+      "Piero Fraternali"
+    ],
+    "year": 2017,
+    "venue": null,
+    "abstract": "The wide range of different platforms for web and mobile applications development requires fast prototyping and the evaluation of multiple releases. Model Driven Development (MDD) represents the application at high level with textual or visual languages and can be used to automatically generate the final product by means of model-to-model and model-to-code transformations. We describe IFMLEdit.org, an open-source, online MDD tool for the specification and automatic generation of fast prototypes of Web and mobile application from IFML (Interaction Flow Modeling Language) specifications. The tool also supports the semantic mapping from IFML to PCN, a variant of Petri Nets, for model simulation and checking.",
+    "citations": 13,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1109/mise.2017.1",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4236521445",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  },
+  {
+    "doi": "10.1145/3546943",
+    "title": "The Influence of Human Aspects on Requirements Engineering-related Activities: Software Practitioners’ Perspective",
+    "authors": [
+      "Dulaji Hidellaarachchi",
+      "John Grundy",
+      "Rashina Hoda",
+      "Ingo Mueller"
+    ],
+    "year": 2022,
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "abstract": "Requirements Engineering (RE)-related activities require high collaboration between various roles in software engineering (SE), such as requirements engineers, stakeholders, developers, and so on. Their demographics, views, understanding of technologies, working styles, communication and collaboration capabilities make RE highly human-dependent. Identifying how “human aspects” —such as motivation, domain knowledge, communication skills, personality, emotions, culture, and so on—might impact RE-related activities would help us improve RE and SE in general. This study aims at better understanding current industry perspectives on the influence of human aspects on RE-related activities, specifically focusing on motivation and personality, by targeting software practitioners involved in RE-related activities. Our findings indicate that software practitioners consider motivation, domain knowledge, attitude, communication skills and personality as highly important human aspects when involved in RE-related activities. A set of factors were identified as software practitioners’ key motivational factors when involved in RE-related activities, along with important personality characteristics to have when involved in RE. We also identified factors that made individuals less effective when involved in RE-related activities and obtained some feedback on measuring individuals’ performance when involved in RE. The findings from our study suggest various areas needing more investigation, and we summarise a set of key recommendations for further research.",
+    "citations": 49,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3546943",
+    "doi_url": "https://doi.org/10.1145/3546943",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4283830566",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1145/3551349.3559544",
+    "title": "Next Syntactic-Unit Code Completion and Applications",
+    "authors": [
+      "Anh Tuan Nguyen",
+      "Aashish Yadavally",
+      "Tien N. Nguyen"
+    ],
+    "year": 2022,
+    "venue": null,
+    "abstract": "Code completion is an important feature in an IDE to improve developers’ productivity. Existing code completion approaches focus on completing the current code token, next token or statement, or code pattern. We propose AstCC, a code completion approach to suggest the next syntactic unit via an AST-based statistical language model. AstCC learns from a large code corpus to derive the next AST subtree representing a syntactic unit, and then fills in the template with the concrete variables from the current program scope. Our empirical evaluation shows that AstCC can correctly suggest the next syntactic unit in 33% of the cases, and in 62% of the cases, it correctly suggests within five candidates. We will also explain the potential applications of AstCC in automated program repair, automated test case generation, and syntactic pattern mining.",
+    "citations": 4,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3551349.3559544",
+    "doi_url": "https://doi.org/10.1145/3551349.3559544",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4313563565",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1007/978-3-031-22057-9_3",
+    "title": "Acceptance Testing and Behavior Driven Development (BDD)",
+    "authors": [
+      "Saeed Parsa"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": null,
+    "citations": 4,
+    "open_access_pdf_url": null,
+    "doi_url": "https://doi.org/10.1007/978-3-031-22057-9_3",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4360909091",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.48550/arxiv.2303.17568",
+    "title": "CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Benchmarking on HumanEval-X",
+    "authors": [
+      "Qinkai Zheng",
+      "Xiao Xia",
+      "Xu Zou",
+      "Yuxiao Dong",
+      "Shan Wang",
+      "Yufei Xue",
+      "Zihan Wang",
+      "Lei Shen",
+      "Andi Wang",
+      "Yang Li",
+      "Teng Su",
+      "Zhilin Yang",
+      "Jie Tang"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer. In this paper, we introduce CodeGeeX, a multilingual model with 13 billion parameters for code generation. CodeGeeX is pre-trained on 850 billion tokens of 23 programming languages as of June 2022. Our extensive experiments suggest that CodeGeeX outperforms multilingual code models of similar scale for both the tasks of code generation and translation on HumanEval-X. Building upon HumanEval (Python only), we develop the HumanEval-X benchmark for evaluating multilingual models by hand-writing the solutions in C++, Java, JavaScript, and Go. In addition, we build CodeGeeX-based extensions on Visual Studio Code, JetBrains, and Cloud Studio, generating 4.7 billion tokens for tens of thousands of active users per week. Our user study demonstrates that CodeGeeX can help to increase coding efficiency for 83.4% of its users. Finally, CodeGeeX is publicly accessible and in Sep. 2022, we open-sourced its code, model weights (the version of 850B tokens), API, extensions, and HumanEval-X at https://github.com/THUDM/CodeGeeX.",
+    "citations": 49,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2303.17568",
+    "doi_url": "https://doi.org/10.48550/arxiv.2303.17568",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4361866100",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.48550/arxiv.2303.17780",
+    "title": "AceCoder: Utilizing Existing Code to Enhance Code Generation",
+    "authors": [
+      "Jia Li",
+      "Yunfei Zhao",
+      "Yongmin Li",
+      "Ge Li",
+      "Zhi Jin"
+    ],
+    "year": 2023,
+    "venue": "arXiv (Cornell University)",
+    "abstract": "Large Language Models (LLMs) have shown great success in code generation. LLMs take as the input a prompt and output the code. A key question is how to make prompts (i.e., Prompting Techniques). Existing prompting techniques are designed for natural language generation and have low accuracy in code generation. In this paper, we propose a new prompting technique named AceCoder. Our motivation is that code generation meets two unique challenges (i.e., requirement understanding and code implementation). AceCoder contains two novel mechanisms (i.e., guided code generation and example retrieval) to solve these challenges. (1) Guided code generation asks LLMs first to analyze requirements and output an intermediate preliminary (e.g., test cases). The preliminary is used to clarify requirements and tell LLMs \"what to write\". (2) Example retrieval selects similar programs as examples in prompts, which provide lots of relevant content (e.g., algorithms, APIs) and teach LLMs \"how to write\". We apply AceCoder to three LLMs (e.g., Codex) and evaluate it on three public benchmarks using the Pass@k. Results show that AceCoder can significantly improve the performance of LLMs on code generation. (1) In terms of Pass@1, AceCoder outperforms the state-of-the-art baseline by up to 56.4% in MBPP, 70.7% in MBJP, and 88.4% in MBJSP. (2) AceCoder is effective in LLMs with different sizes (i.e., 6B to 13B) and different languages (i.e., Python, Java, and JavaScript). (3) Human evaluation shows human developers prefer programs from AceCoder.",
+    "citations": 16,
+    "open_access_pdf_url": "https://arxiv.org/pdf/2303.17780",
+    "doi_url": "https://doi.org/10.48550/arxiv.2303.17780",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4362508616",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.1145/3580305.3599790",
+    "title": "CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Benchmarking on HumanEval-X",
+    "authors": [
+      "Qinkai Zheng",
+      "Xiao Xia",
+      "Xu Zou",
+      "Yuxiao Dong",
+      "Shan Wang",
+      "Yufei Xue",
+      "Lei Shen",
+      "Zihan Wang",
+      "Andi Wang",
+      "Yang Li",
+      "Teng Su",
+      "Z. Yang",
+      "Jie Tang"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Large pre-trained code generation models, such as OpenAI Codex, can generate syntax-and function-correct code, making the coding of programmers more productive. In this paper, we introduce CodeGeeX, a multilingual model with 13 billion parameters for code generation. CodeGeeX is pre-trained on 850 billion tokens of 23 programming languages as of June 2022. Our extensive experiments suggest that CodeGeeX outperforms multilingual code models of similar scale for both the tasks of code generation and translation on HumanEval-X. Building upon HumanEval (Python only), we develop the HumanEval-X benchmark for evaluating multilingual models by hand-writing the solutions in C++, Java, JavaScript, and Go. In addition, we build CodeGeeX-based extensions on Visual Studio Code, JetBrains, and Cloud Studio, generating 8 billion tokens for tens of thousands of active users per week. Our user study demonstrates that CodeGeeX can help to increase coding efficiency for 83.4% of its users. Finally, CodeGeeX is publicly accessible since Sep. 2022, we open-sourced its code, model weights, API, extensions, and HumanEval-X at https://github.com/THUDM/CodeGeeX.",
+    "citations": 217,
+    "open_access_pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3580305.3599790",
+    "doi_url": "https://doi.org/10.1145/3580305.3599790",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4385562549",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing framework or workflow signal"
+  },
+  {
+    "doi": "10.18653/v1/2023.ijcnlp-main.45",
+    "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity",
+    "authors": [
+      "Yejin Bang",
+      "Samuel Cahyawijaya",
+      "Nayeon Lee",
+      "Wenliang Dai",
+      "Dan Su",
+      "Bryan Wilie",
+      "Holy Lovenia",
+      "Ziwei Ji",
+      "Tiezheng Yu",
+      "Willy Chung",
+      "V. Quyet",
+      "Yan Xu",
+      "Pascale Fung"
+    ],
+    "year": 2023,
+    "venue": null,
+    "abstract": "Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung. Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers). 2023.",
+    "citations": 610,
+    "open_access_pdf_url": "https://aclanthology.org/2023.ijcnlp-main.45.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/2023.ijcnlp-main.45",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4392669753",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.18653/v1/2024.acl-long.305",
+    "title": "Experiential Co-Learning of Software-Developing Agents",
+    "authors": [
+      "Chen Qian",
+      "Yufan Dang",
+      "Jiahao Li",
+      "Wei Liu",
+      "Zihao Xie",
+      "Yifei Wang",
+      "Weize Chen",
+      "Cheng Yang",
+      "Xin Cong",
+      "Xiaoyin Che",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "year": 2024,
+    "venue": null,
+    "abstract": "Chen Qian, Yufan Dang, Jiahao Li, Wei Liu, Zihao Xie, YiFei Wang, Weize Chen, Cheng Yang, Xin Cong, Xiaoyin Che, Zhiyuan Liu, Maosong Sun. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.",
+    "citations": 9,
+    "open_access_pdf_url": "https://aclanthology.org/2024.acl-long.305.pdf",
+    "doi_url": "https://doi.org/10.18653/v1/2024.acl-long.305",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W4402671725",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "missing software engineering focus"
+  },
+  {
+    "doi": "10.13140/rg.2.1.2815.0245",
+    "title": "User Experience Questionnaire Handbook",
+    "authors": [
+      "Schrepp, Martin"
+    ],
+    "year": 2015,
+    "venue": null,
+    "abstract": null,
+    "citations": 146,
+    "open_access_pdf_url": "https://doi.org/10.13140/rg.2.1.2815.0245",
+    "doi_url": "https://doi.org/10.13140/rg.2.1.2815.0245",
+    "source": "openalex",
+    "source_id": "https://openalex.org/W6941129350",
+    "source_papers": [
+      "10.1145/3702987"
+    ],
+    "source_citation_keys": [
+      "SaiZhang2025"
+    ],
+    "snowballing_direction": "backward",
+    "rejected_pre_screening_reason": "outside 2018-2026"
+  }
+]

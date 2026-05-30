@@ -1,0 +1,1341 @@
+{
+  "source": "MitulModi2024",
+  "source_doi": "10.32628/cseit24106197",
+  "provider": "openalex",
+  "items": [
+    {
+      "id": "https://openalex.org/W1983252995",
+      "doi": "https://doi.org/10.1109/kse.2012.17",
+      "title": "An Approach for Quality Assurance of Model Transformations",
+      "publication_year": 2012,
+      "primary_location": {
+        "id": "doi:10.1109/kse.2012.17",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/kse.2012.17",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2012 Fourth International Conference on Knowledge and Systems Engineering",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013345527",
+            "display_name": "Duc-Hanh Dang",
+            "orcid": "https://orcid.org/0000-0003-4564-4080"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I142732210",
+              "display_name": "University of Engineering and Technology Lahore",
+              "ror": "https://ror.org/0051w2v06",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I142732210"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I67868205",
+              "display_name": "VNU University of Science",
+              "ror": "https://ror.org/05w54hk79",
+              "country_code": "VN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177233841",
+                "https://openalex.org/I67868205"
+              ]
+            }
+          ],
+          "countries": [
+            "PK",
+            "VN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Duc-Hanh Dang",
+          "raw_affiliation_strings": [
+            "Department of Software Engineering, VNU - University of Engineering and Technology, Hanoi, Vietnam",
+            "Dept. of Software Eng., VNU Univ. of Eng. & Technol., Hanoi, Vietnam"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Software Engineering, VNU - University of Engineering and Technology, Hanoi, Vietnam",
+              "institution_ids": [
+                "https://openalex.org/I67868205"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Dept. of Software Eng., VNU Univ. of Eng. & Technol., Hanoi, Vietnam",
+              "institution_ids": [
+                "https://openalex.org/I142732210"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013415103",
+            "display_name": "Martin Gogolla",
+            "orcid": "https://orcid.org/0000-0003-4311-1117"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I180437899",
+              "display_name": "University of Bremen",
+              "ror": "https://ror.org/04ers2y35",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I180437899"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Martin Gogolla",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Brethemen, Bremen, Germany",
+            "Department of Computer Science, University of Bremen, Bremen, Germany#TAB#"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Brethemen, Bremen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I180437899"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Bremen, Bremen, Germany#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I180437899"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Model": [
+          0
+        ],
+        "transformation": [
+          1,
+          61,
+          73
+        ],
+        "is": [
+          2,
+          40
+        ],
+        "an": [
+          3,
+          32,
+          43,
+          64
+        ],
+        "important": [
+          4
+        ],
+        "building": [
+          5
+        ],
+        "block": [
+          6
+        ],
+        "for": [
+          7,
+          20,
+          35,
+          72
+        ],
+        "model-driven": [
+          8
+        ],
+        "approaches.": [
+          9
+        ],
+        "It": [
+          10
+        ],
+        "puts": [
+          11
+        ],
+        "forward": [
+          12
+        ],
+        "a": [
+          13,
+          18,
+          28,
+          56
+        ],
+        "necessity": [
+          14
+        ],
+        "as": [
+          15,
+          17,
+          55
+        ],
+        "well": [
+          16
+        ],
+        "challenge": [
+          19
+        ],
+        "validating": [
+          21
+        ],
+        "and": [
+          22,
+          31,
+          49,
+          70
+        ],
+        "verifying": [
+          23
+        ],
+        "transformations.": [
+          24,
+          37
+        ],
+        "This": [
+          25
+        ],
+        "paper": [
+          26
+        ],
+        "proposes": [
+          27
+        ],
+        "specification": [
+          29
+        ],
+        "method": [
+          30
+        ],
+        "OCL-based": [
+          33,
+          60
+        ],
+        "framework": [
+          34,
+          62
+        ],
+        "model": [
+          36,
+          68
+        ],
+        "The": [
+          38,
+          59
+        ],
+        "approach": [
+          39
+        ],
+        "based": [
+          41
+        ],
+        "on": [
+          42
+        ],
+        "integration": [
+          44
+        ],
+        "of": [
+          45,
+          67
+        ],
+        "Triple": [
+          46
+        ],
+        "Graph": [
+          47
+        ],
+        "Grammars": [
+          48
+        ],
+        "the": [
+          50
+        ],
+        "Object": [
+          51
+        ],
+        "Constraint": [
+          52
+        ],
+        "Language": [
+          53
+        ],
+        "(OCL)": [
+          54
+        ],
+        "formal": [
+          57
+        ],
+        "foundation.": [
+          58
+        ],
+        "offers": [
+          63
+        ],
+        "on-the-fly": [
+          65
+        ],
+        "verification": [
+          66
+        ],
+        "transformations": [
+          69
+        ],
+        "means": [
+          71
+        ],
+        "quality": [
+          74
+        ],
+        "assurance.": [
+          75
+        ]
+      },
+      "cited_by_count": 3,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2034686227",
+      "doi": "https://doi.org/10.1109/issrew.2013.6688883",
+      "title": "Failure data analytics to build failure prediction mechanisms",
+      "publication_year": 2013,
+      "primary_location": {
+        "id": "doi:10.1109/issrew.2013.6688883",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/issrew.2013.6688883",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2013 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5074978271",
+            "display_name": "Sandipan Dey",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I882086362",
+              "display_name": "Wipro (Singapore)",
+              "ror": "https://ror.org/01hbz8t53",
+              "country_code": "SG",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210090636",
+                "https://openalex.org/I882086362"
+              ]
+            }
+          ],
+          "countries": [
+            "SG"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sandipan Dey",
+          "raw_affiliation_strings": [
+            "Advanced Analytics - Wipro Technologies"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Advanced Analytics - Wipro Technologies",
+              "institution_ids": [
+                "https://openalex.org/I882086362"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086536442",
+            "display_name": "Kandathil Koshy Jacob",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I882086362",
+              "display_name": "Wipro (Singapore)",
+              "ror": "https://ror.org/01hbz8t53",
+              "country_code": "SG",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210090636",
+                "https://openalex.org/I882086362"
+              ]
+            }
+          ],
+          "countries": [
+            "SG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kandathil Koshy Jacob",
+          "raw_affiliation_strings": [
+            "Advanced Analytics - Wipro Technologies"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Advanced Analytics - Wipro Technologies",
+              "institution_ids": [
+                "https://openalex.org/I882086362"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5104355248",
+            "display_name": "Javier Alonso López",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170897317",
+              "display_name": "Duke University",
+              "ror": "https://ror.org/00py81415",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170897317"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Javier Alonso Lopez",
+          "raw_affiliation_strings": [
+            "Electrical and Computer Engineering, Duke University",
+            "Electrical and Computer Engineering Duke University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Electrical and Computer Engineering, Duke University",
+              "institution_ids": [
+                "https://openalex.org/I170897317"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Electrical and Computer Engineering Duke University",
+              "institution_ids": [
+                "https://openalex.org/I170897317"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5036851432",
+            "display_name": "Kishor S. Trivedi",
+            "orcid": "https://orcid.org/0000-0001-7396-6330"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170897317",
+              "display_name": "Duke University",
+              "ror": "https://ror.org/00py81415",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170897317"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kishor Trivedi",
+          "raw_affiliation_strings": [
+            "Electrical and Computer Engineering, Duke University",
+            "Electrical and Computer Engineering Duke University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Electrical and Computer Engineering, Duke University",
+              "institution_ids": [
+                "https://openalex.org/I170897317"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Electrical and Computer Engineering Duke University",
+              "institution_ids": [
+                "https://openalex.org/I170897317"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "With": [
+          0
+        ],
+        "ever-growing": [
+          1
+        ],
+        "complexity": [
+          2
+        ],
+        "of": [
+          3
+        ],
+        "computer": [
+          4
+        ],
+        "systems,": [
+          5
+        ],
+        "proactive": [
+          6
+        ],
+        "failure": [
+          7,
+          29,
+          46,
+          52
+        ],
+        "management": [
+          8
+        ],
+        "is": [
+          9
+        ],
+        "turning": [
+          10
+        ],
+        "out": [
+          11
+        ],
+        "to": [
+          12,
+          27,
+          42
+        ],
+        "be": [
+          13
+        ],
+        "an": [
+          14
+        ],
+        "effective": [
+          15
+        ],
+        "and": [
+          16
+        ],
+        "essential": [
+          17
+        ],
+        "approach": [
+          18
+        ],
+        "for": [
+          19
+        ],
+        "enhancing": [
+          20
+        ],
+        "availability.": [
+          21
+        ],
+        "Several": [
+          22
+        ],
+        "techniques": [
+          23
+        ],
+        "have": [
+          24,
+          37
+        ],
+        "been": [
+          25
+        ],
+        "proposed": [
+          26
+        ],
+        "develop": [
+          28
+        ],
+        "prediction": [
+          30,
+          47
+        ],
+        "models": [
+          31
+        ],
+        "[3].": [
+          32
+        ],
+        "In": [
+          33
+        ],
+        "this": [
+          34
+        ],
+        "paper": [
+          35
+        ],
+        "we": [
+          36
+        ],
+        "concentrated": [
+          38
+        ],
+        "on": [
+          39,
+          50
+        ],
+        "the": [
+          40,
+          51
+        ],
+        "process": [
+          41
+        ],
+        "build": [
+          43
+        ],
+        "up": [
+          44
+        ],
+        "a": [
+          45
+        ],
+        "model": [
+          48
+        ],
+        "based": [
+          49
+        ],
+        "reports": [
+          53
+        ],
+        "(service": [
+          54
+        ],
+        "ticket": [
+          55
+        ],
+        "logs)": [
+          56
+        ],
+        "from": [
+          57
+        ],
+        "hardware": [
+          58
+        ],
+        "storage": [
+          59
+        ],
+        "devices.": [
+          60
+        ]
+      },
+      "cited_by_count": 2,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2137501186",
+      "doi": "https://doi.org/10.1145/1810295.1810353",
+      "title": "TestFul",
+      "publication_year": 2010,
+      "primary_location": {
+        "id": "doi:10.1145/1810295.1810353",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/1810295.1810353",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 2",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5063590018",
+            "display_name": "Luciano Baresi",
+            "orcid": "https://orcid.org/0000-0001-6467-837X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I93860229",
+              "display_name": "Politecnico di Milano",
+              "ror": "https://ror.org/01nffqt88",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I93860229"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Luciano Baresi",
+          "raw_affiliation_strings": [
+            "Politecnico di Milano, Milano (Italy)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Politecnico di Milano, Milano (Italy)",
+              "institution_ids": [
+                "https://openalex.org/I93860229"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5012489621",
+            "display_name": "Matteo Miraz",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I93860229",
+              "display_name": "Politecnico di Milano",
+              "ror": "https://ror.org/01nffqt88",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I93860229"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Matteo Miraz",
+          "raw_affiliation_strings": [
+            "Politecnico di Milano, Milano (Italy)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Politecnico di Milano, Milano (Italy)",
+              "institution_ids": [
+                "https://openalex.org/I93860229"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "paper": [
+          1
+        ],
+        "presents": [
+          2
+        ],
+        "TestFul,": [
+          3
+        ],
+        "an": [
+          4
+        ],
+        "Eclipse": [
+          5
+        ],
+        "plugin": [
+          6
+        ],
+        "for": [
+          7,
+          12
+        ],
+        "the": [
+          8,
+          19,
+          40,
+          44,
+          48
+        ],
+        "generation": [
+          9
+        ],
+        "of": [
+          10,
+          21,
+          47
+        ],
+        "tests": [
+          11
+        ],
+        "Java": [
+          13
+        ],
+        "classes.": [
+          14
+        ],
+        "It": [
+          15
+        ],
+        "is": [
+          16
+        ],
+        "based": [
+          17
+        ],
+        "on": [
+          18
+        ],
+        "idea": [
+          20
+        ],
+        "search-based": [
+          22
+        ],
+        "testing,": [
+          23
+        ],
+        "working": [
+          24
+        ],
+        "both": [
+          25
+        ],
+        "at": [
+          26
+        ],
+        "class": [
+          27
+        ],
+        "and": [
+          28
+        ],
+        "method": [
+          29
+        ],
+        "level.": [
+          30
+        ],
+        "The": [
+          31
+        ],
+        "former": [
+          32
+        ],
+        "puts": [
+          33
+        ],
+        "objects": [
+          34
+        ],
+        "in": [
+          35
+        ],
+        "useful": [
+          36
+        ],
+        "states,": [
+          37
+        ],
+        "used": [
+          38
+        ],
+        "by": [
+          39
+        ],
+        "latter": [
+          41
+        ],
+        "to": [
+          42
+        ],
+        "exercise": [
+          43
+        ],
+        "uncovered": [
+          45
+        ],
+        "parts": [
+          46
+        ],
+        "class.": [
+          49
+        ]
+      },
+      "cited_by_count": 47,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3006136391",
+      "doi": "https://doi.org/10.1109/icssit46314.2019.8987843",
+      "title": "Machine Learning based Predictive Analysis for failure of monitored control System",
+      "publication_year": 2019,
+      "primary_location": {
+        "id": "doi:10.1109/icssit46314.2019.8987843",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/icssit46314.2019.8987843",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306498549",
+          "display_name": "2019 International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2019 International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078241455",
+            "display_name": "Vivank Sharma",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876193797",
+              "display_name": "Vellore Institute of Technology University",
+              "ror": "https://ror.org/00qzypv28",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876193797"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Vivank Sharma",
+          "raw_affiliation_strings": [
+            "Information Technology - SITE, Vellore Institute of Technology,Vellore,India",
+            "Information Technology - SITE, Vellore Institute of Technology, Vellore, India"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Information Technology - SITE, Vellore Institute of Technology,Vellore,India",
+              "institution_ids": [
+                "https://openalex.org/I876193797"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Information Technology - SITE, Vellore Institute of Technology, Vellore, India",
+              "institution_ids": [
+                "https://openalex.org/I876193797"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5090303016",
+            "display_name": "S. V. N. Santhosh Kumar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876193797",
+              "display_name": "Vellore Institute of Technology University",
+              "ror": "https://ror.org/00qzypv28",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876193797"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "SVN Santhosh Kumar",
+          "raw_affiliation_strings": [
+            "Information Technology - SITE, Vellore Institute of Technology,Vellore,India",
+            "Information Technology - SITE, Vellore Institute of Technology, Vellore, India"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Information Technology - SITE, Vellore Institute of Technology,Vellore,India",
+              "institution_ids": [
+                "https://openalex.org/I876193797"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Information Technology - SITE, Vellore Institute of Technology, Vellore, India",
+              "institution_ids": [
+                "https://openalex.org/I876193797"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5015017432",
+            "display_name": "Sumit Jahagirdar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876193797",
+              "display_name": "Vellore Institute of Technology University",
+              "ror": "https://ror.org/00qzypv28",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876193797"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sumit Jahagirdar",
+          "raw_affiliation_strings": [
+            "School of Electronics Engineering, Vellore Institute of Technology,Vellore,India",
+            "School of Electronics Engineering, Vellore Institute of Technology, Vellore, India"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Electronics Engineering, Vellore Institute of Technology,Vellore,India",
+              "institution_ids": [
+                "https://openalex.org/I876193797"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Electronics Engineering, Vellore Institute of Technology, Vellore, India",
+              "institution_ids": [
+                "https://openalex.org/I876193797"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "When": [
+          0
+        ],
+        "an": [
+          1,
+          6,
+          25,
+          102
+        ],
+        "abnormality": [
+          2
+        ],
+        "is": [
+          3,
+          49,
+          56
+        ],
+        "identified": [
+          4
+        ],
+        "in": [
+          5,
+          46
+        ],
+        "IoT": [
+          7,
+          66,
+          94
+        ],
+        "system": [
+          8
+        ],
+        "or": [
+          9
+        ],
+        "sub-system": [
+          10
+        ],
+        "using": [
+          11,
+          65
+        ],
+        "change": [
+          12
+        ],
+        "point": [
+          13
+        ],
+        "discovery,": [
+          14
+        ],
+        "a": [
+          15,
+          89
+        ],
+        "failure": [
+          16,
+          27,
+          90,
+          104
+        ],
+        "prediction": [
+          17,
+          91
+        ],
+        "dependent": [
+          18,
+          92
+        ],
+        "on": [
+          19,
+          93
+        ],
+        "predictive": [
+          20
+        ],
+        "analytic": [
+          21,
+          97
+        ],
+        "models": [
+          22,
+          98
+        ],
+        "can": [
+          23,
+          38,
+          78,
+          100
+        ],
+        "distinguish": [
+          24,
+          101
+        ],
+        "up-and-coming": [
+          26,
+          103
+        ],
+        "condition": [
+          28,
+          105
+        ],
+        "ahead": [
+          29,
+          106
+        ],
+        "of": [
+          30,
+          34,
+          107
+        ],
+        "time.": [
+          31,
+          108
+        ],
+        "In": [
+          32
+        ],
+        "view": [
+          33
+        ],
+        "this": [
+          35
+        ],
+        "recognition,": [
+          36
+        ],
+        "it": [
+          37,
+          55
+        ],
+        "make": [
+          39,
+          83
+        ],
+        "proactive": [
+          40,
+          44
+        ],
+        "prescriptive": [
+          41
+        ],
+        "move.": [
+          42,
+          86
+        ],
+        "This": [
+          43
+        ],
+        "activity": [
+          45
+        ],
+        "conventional": [
+          47
+        ],
+        "applications": [
+          48
+        ],
+        "regularly": [
+          50
+        ],
+        "booked": [
+          51
+        ],
+        "support": [
+          52
+        ],
+        "exercises.": [
+          53
+        ],
+        "Although": [
+          54
+        ],
+        "workable": [
+          57
+        ],
+        "for": [
+          58
+        ],
+        "us": [
+          59
+        ],
+        "to": [
+          60
+        ],
+        "expect": [
+          61
+        ],
+        "and": [
+          62,
+          82
+        ],
+        "start": [
+          63
+        ],
+        "activities": [
+          64
+        ],
+        "sensor": [
+          67,
+          95
+        ],
+        "information,": [
+          68
+        ],
+        "the": [
+          69,
+          84
+        ],
+        "edge": [
+          70
+        ],
+        "layer": [
+          71
+        ],
+        "isn't": [
+          72
+        ],
+        "constantly": [
+          73
+        ],
+        "furnished": [
+          74
+        ],
+        "with": [
+          75
+        ],
+        "equipment": [
+          76
+        ],
+        "that": [
+          77,
+          99
+        ],
+        "get": [
+          79
+        ],
+        "such": [
+          80
+        ],
+        "guidelines": [
+          81
+        ],
+        "restorative": [
+          85
+        ],
+        "We": [
+          87
+        ],
+        "propose": [
+          88
+        ],
+        "data": [
+          96
+        ]
+      },
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ]
+}

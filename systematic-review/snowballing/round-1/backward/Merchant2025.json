@@ -1,0 +1,7731 @@
+{
+  "source": "Merchant2025",
+  "source_doi": "10.1109/aixse64906.2025.00019",
+  "provider": "openalex",
+  "items": [
+    {
+      "id": "https://openalex.org/W2589660059",
+      "doi": "https://doi.org/10.1109/icse-c.2017.142",
+      "title": "Blockchain-Oriented Software Engineering: Challenges and New Directions",
+      "publication_year": 2017,
+      "primary_location": {
+        "id": "doi:10.1109/icse-c.2017.142",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/icse-c.2017.142",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSE-C)",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5083724034",
+            "display_name": "Simone Porru",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I172446870",
+              "display_name": "University of Cagliari",
+              "ror": "https://ror.org/003109y17",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Simone Porru",
+          "raw_affiliation_strings": [
+            "Department of Electrical and Electronic Engineering, University of Cagliari"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Electrical and Electronic Engineering, University of Cagliari",
+              "institution_ids": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043520448",
+            "display_name": "Andrea Pinna",
+            "orcid": "https://orcid.org/0000-0002-7530-0521"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I172446870",
+              "display_name": "University of Cagliari",
+              "ror": "https://ror.org/003109y17",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrea Pinna",
+          "raw_affiliation_strings": [
+            "Department of Electrical and Electronic Engineering, University of Cagliari"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Electrical and Electronic Engineering, University of Cagliari",
+              "institution_ids": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073485643",
+            "display_name": "Michele Marchesi",
+            "orcid": "https://orcid.org/0000-0003-3745-4324"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I172446870",
+              "display_name": "University of Cagliari",
+              "ror": "https://ror.org/003109y17",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michele Marchesi",
+          "raw_affiliation_strings": [
+            "Department of Electrical and Electronic Engineering, University of Cagliari"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Electrical and Electronic Engineering, University of Cagliari",
+              "institution_ids": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5076859372",
+            "display_name": "Roberto Tonelli",
+            "orcid": "https://orcid.org/0000-0002-9090-7698"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I172446870",
+              "display_name": "University of Cagliari",
+              "ror": "https://ror.org/003109y17",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roberto Tonelli",
+          "raw_affiliation_strings": [
+            "Department of Electrical and Electronic Engineering, University of Cagliari"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Electrical and Electronic Engineering, University of Cagliari",
+              "institution_ids": [
+                "https://openalex.org/I172446870"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "this": [
+          1
+        ],
+        "work,": [
+          2
+        ],
+        "we": [
+          3
+        ],
+        "acknowledge": [
+          4
+        ],
+        "the": [
+          5,
+          31,
+          42
+        ],
+        "need": [
+          6
+        ],
+        "for": [
+          7,
+          16
+        ],
+        "software": [
+          8,
+          18,
+          46
+        ],
+        "engineers": [
+          9
+        ],
+        "to": [
+          10
+        ],
+        "devise": [
+          11
+        ],
+        "specialized": [
+          12
+        ],
+        "tools": [
+          13
+        ],
+        "and": [
+          14,
+          29
+        ],
+        "techniques": [
+          15
+        ],
+        "blockchain-oriented": [
+          17,
+          45
+        ],
+        "development.": [
+          19,
+          47
+        ],
+        "Ensuring": [
+          20
+        ],
+        "effective": [
+          21
+        ],
+        "testing": [
+          22
+        ],
+        "activities,": [
+          23
+        ],
+        "enhancing": [
+          24
+        ],
+        "collaboration": [
+          25
+        ],
+        "in": [
+          26,
+          41
+        ],
+        "large": [
+          27
+        ],
+        "teams,": [
+          28
+        ],
+        "facilitating": [
+          30
+        ],
+        "development": [
+          32
+        ],
+        "of": [
+          33,
+          44
+        ],
+        "smart": [
+          34
+        ],
+        "contracts": [
+          35
+        ],
+        "all": [
+          36
+        ],
+        "appear": [
+          37
+        ],
+        "as": [
+          38
+        ],
+        "key": [
+          39
+        ],
+        "factors": [
+          40
+        ],
+        "future": [
+          43
+        ]
+      },
+      "cited_by_count": 329,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2806254542",
+      "doi": "https://doi.org/10.1145/3211933.3211934",
+      "title": "ChainSoft",
+      "publication_year": 2018,
+      "primary_location": {
+        "id": "doi:10.1145/3211933.3211934",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3211933.3211934",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 1st Workshop on Cryptocurrencies and Blockchains for Distributed Systems",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055695433",
+            "display_name": "Michał Król",
+            "orcid": "https://orcid.org/0000-0002-3437-8621"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michał Król",
+          "raw_affiliation_strings": [
+            "University College London"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University College London",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086613144",
+            "display_name": "Sergi Reñé",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sergi Reñé",
+          "raw_affiliation_strings": [
+            "University College London"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University College London",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004065581",
+            "display_name": "Onur Ascigil",
+            "orcid": "https://orcid.org/0000-0002-3023-6431"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Onur Ascigil",
+          "raw_affiliation_strings": [
+            "University College London"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University College London",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5024203344",
+            "display_name": "Ioannis Psaras",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ioannis Psaras",
+          "raw_affiliation_strings": [
+            "University College London"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University College London",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "recent": [
+          1
+        ],
+        "years,": [
+          2
+        ],
+        "more": [
+          3,
+          5
+        ],
+        "and": [
+          4,
+          43,
+          55
+        ],
+        "companies": [
+          6
+        ],
+        "require": [
+          7
+        ],
+        "dedicated": [
+          8,
+          29
+        ],
+        "software": [
+          9,
+          38
+        ],
+        "to": [
+          10,
+          26,
+          48
+        ],
+        "increase": [
+          11
+        ],
+        "the": [
+          12,
+          34,
+          50,
+          53
+        ],
+        "efficiency": [
+          13
+        ],
+        "of": [
+          14,
+          31,
+          52
+        ],
+        "their": [
+          15
+        ],
+        "business.": [
+          16
+        ],
+        "However,": [
+          17
+        ],
+        "with": [
+          18
+        ],
+        "rapidly": [
+          19
+        ],
+        "changing": [
+          20
+        ],
+        "technologies": [
+          21
+        ],
+        "it": [
+          22
+        ],
+        "is": [
+          23
+        ],
+        "often": [
+          24
+        ],
+        "inefficient": [
+          25
+        ],
+        "maintain": [
+          27
+        ],
+        "a": [
+          28
+        ],
+        "team": [
+          30
+        ],
+        "developers.": [
+          32
+        ],
+        "On": [
+          33
+        ],
+        "other": [
+          35
+        ],
+        "hand,": [
+          36
+        ],
+        "outsourcing": [
+          37
+        ],
+        "development": [
+          39
+        ],
+        "requires": [
+          40
+        ],
+        "considerable": [
+          41
+        ],
+        "effort": [
+          42
+        ],
+        "trust": [
+          44
+        ],
+        "between": [
+          45
+        ],
+        "involved": [
+          46
+        ],
+        "parties": [
+          47
+        ],
+        "ensure": [
+          49
+        ],
+        "quality": [
+          51
+        ],
+        "code": [
+          54
+        ],
+        "adequate": [
+          56
+        ],
+        "payment.": [
+          57
+        ]
+      },
+      "cited_by_count": 19,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2886539561",
+      "doi": "https://doi.org/10.1109/sc2.2018.00018",
+      "title": "Implementation of Smart Contracts Using Hybrid Architectures with On and Off–Blockchain Components",
+      "publication_year": 2018,
+      "primary_location": {
+        "id": "doi:10.1109/sc2.2018.00018",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/sc2.2018.00018",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2018 IEEE 8th International Symposium on Cloud and Service Computing (SC2)",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049768698",
+            "display_name": "Carlos Molina-Jiménez",
+            "orcid": "https://orcid.org/0000-0002-3617-8287"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I241749",
+              "display_name": "University of Cambridge",
+              "ror": "https://ror.org/013meh722",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Carlos Molina-Jimenez",
+          "raw_affiliation_strings": [
+            "Computer Laboratory, University of Cambridge, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Computer Laboratory, University of Cambridge, UK",
+              "institution_ids": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025711579",
+            "display_name": "Ioannis Sfyrakis",
+            "orcid": "https://orcid.org/0000-0003-2932-9064"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I84884186",
+              "display_name": "Newcastle University",
+              "ror": "https://ror.org/01kj2bm70",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ioannis Sfyrakis",
+          "raw_affiliation_strings": [
+            "School of Computing, Newcastle University, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Computing, Newcastle University, UK",
+              "institution_ids": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029552949",
+            "display_name": "Ellis Solaiman",
+            "orcid": "https://orcid.org/0000-0002-8346-7962"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I84884186",
+              "display_name": "Newcastle University",
+              "ror": "https://ror.org/01kj2bm70",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ellis Solaiman",
+          "raw_affiliation_strings": [
+            "School of Computing, Newcastle University, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Computing, Newcastle University, UK",
+              "institution_ids": [
+                "https://openalex.org/I84884186"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101596469",
+            "display_name": "Irene C. L. Ng",
+            "orcid": "https://orcid.org/0000-0002-5468-0289"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Irene Ng",
+          "raw_affiliation_strings": [
+            "Hat Community Foundation, Cambridge, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hat Community Foundation, Cambridge, UK",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060358300",
+            "display_name": "Meng Weng Wong",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Meng Weng Wong",
+          "raw_affiliation_strings": [
+            "CodeX, Stanford University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CodeX, Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061097515",
+            "display_name": "Alexis Chun",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I79891267",
+              "display_name": "Singapore Management University",
+              "ror": "https://ror.org/050qmg959",
+              "country_code": "SG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I79891267"
+              ]
+            }
+          ],
+          "countries": [
+            "SG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexis Chun",
+          "raw_affiliation_strings": [
+            "Visiting Fellow, Singapore Management University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Visiting Fellow, Singapore Management University",
+              "institution_ids": [
+                "https://openalex.org/I79891267"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5062093738",
+            "display_name": "Jon Crowcroft",
+            "orcid": "https://orcid.org/0000-0002-7013-0121"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I241749",
+              "display_name": "University of Cambridge",
+              "ror": "https://ror.org/013meh722",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jon Crowcroft",
+          "raw_affiliation_strings": [
+            "Computer Laboratory, University of Cambridge, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Computer Laboratory, University of Cambridge, UK",
+              "institution_ids": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Decentralised": [
+          0
+        ],
+        "(on-blockchain)": [
+          1
+        ],
+        "and": [
+          2,
+          25,
+          53,
+          86,
+          121,
+          149,
+          158
+        ],
+        "centralised": [
+          3
+        ],
+        "(off–blockchain)": [
+          4
+        ],
+        "platforms": [
+          5,
+          46,
+          58,
+          79,
+          88
+        ],
+        "are": [
+          6,
+          59,
+          89,
+          100,
+          113
+        ],
+        "available": [
+          7
+        ],
+        "for": [
+          8
+        ],
+        "the": [
+          9,
+          17,
+          23,
+          82,
+          97,
+          108,
+          119,
+          132,
+          161,
+          167
+        ],
+        "implementation": [
+          10,
+          133
+        ],
+        "of": [
+          11,
+          16,
+          27,
+          39,
+          84,
+          125,
+          134,
+          174
+        ],
+        "smart": [
+          12,
+          32,
+          104,
+          135,
+          144
+        ],
+        "contracts.": [
+          13
+        ],
+        "However,": [
+          14
+        ],
+        "none": [
+          15
+        ],
+        "two": [
+          18
+        ],
+        "alternatives": [
+          19,
+          99
+        ],
+        "can": [
+          20,
+          146
+        ],
+        "individually": [
+          21
+        ],
+        "provide": [
+          22
+        ],
+        "services": [
+          24,
+          28
+        ],
+        "quality": [
+          26
+        ],
+        "(QoS)": [
+          29
+        ],
+        "imposed": [
+          30
+        ],
+        "on": [
+          31,
+          67,
+          85,
+          137,
+          152,
+          160
+        ],
+        "contracts": [
+          33,
+          105,
+          136
+        ],
+        "involved": [
+          34
+        ],
+        "in": [
+          35,
+          75,
+          127
+        ],
+        "a": [
+          36,
+          123,
+          143,
+          180
+        ],
+        "large": [
+          37
+        ],
+        "class": [
+          38
+        ],
+        "applications.": [
+          40
+        ],
+        "The": [
+          41
+        ],
+        "reason": [
+          42
+        ],
+        "is": [
+          43
+        ],
+        "that": [
+          44,
+          74,
+          93,
+          106
+        ],
+        "blockchain": [
+          45
+        ],
+        "suffer": [
+          47
+        ],
+        "from": [
+          48,
+          64,
+          81
+        ],
+        "scalability,": [
+          49
+        ],
+        "performance,": [
+          50
+        ],
+        "transaction": [
+          51
+        ],
+        "costs": [
+          52
+        ],
+        "other": [
+          54
+        ],
+        "limitations.": [
+          55
+        ],
+        "Likewise,": [
+          56
+        ],
+        "off–blockchain": [
+          57,
+          87,
+          154
+        ],
+        "afflicted": [
+          60
+        ],
+        "by": [
+          61,
+          179
+        ],
+        "drawbacks": [
+          62
+        ],
+        "emerging": [
+          63
+        ],
+        "their": [
+          65
+        ],
+        "dependence": [
+          66
+        ],
+        "single": [
+          68
+        ],
+        "trusted": [
+          69
+        ],
+        "third": [
+          70
+        ],
+        "parties.": [
+          71
+        ],
+        "We": [
+          72,
+          140
+        ],
+        "argue": [
+          73
+        ],
+        "several": [
+          76
+        ],
+        "applications,": [
+          77
+        ],
+        "hybrid": [
+          78,
+          138
+        ],
+        "composed": [
+          80
+        ],
+        "integration": [
+          83
+        ],
+        "more": [
+          90
+        ],
+        "adequate.": [
+          91
+        ],
+        "Developers": [
+          92
+        ],
+        "informatively": [
+          94
+        ],
+        "choose": [
+          95
+        ],
+        "between": [
+          96
+        ],
+        "three": [
+          98
+        ],
+        "likely": [
+          101
+        ],
+        "to": [
+          102,
+          172
+        ],
+        "implement": [
+          103
+        ],
+        "deliver": [
+          107
+        ],
+        "expected": [
+          109
+        ],
+        "QoS.": [
+          110
+        ],
+        "Hybrid": [
+          111
+        ],
+        "architectures": [
+          112
+        ],
+        "largely": [
+          114
+        ],
+        "unexplored.": [
+          115
+        ],
+        "To": [
+          116,
+          165
+        ],
+        "help": [
+          117
+        ],
+        "cover": [
+          118
+        ],
+        "gap": [
+          120
+        ],
+        "as": [
+          122
+        ],
+        "proof": [
+          124
+        ],
+        "concept,": [
+          126
+        ],
+        "this": [
+          128
+        ],
+        "paper": [
+          129
+        ],
+        "we": [
+          130,
+          169
+        ],
+        "discuss": [
+          131
+        ],
+        "architectures.": [
+          139
+        ],
+        "show": [
+          141
+        ],
+        "how": [
+          142
+        ],
+        "contract": [
+          145,
+          155,
+          181
+        ],
+        "be": [
+          147
+        ],
+        "split": [
+          148
+        ],
+        "executed": [
+          150
+        ],
+        "partially": [
+          151,
+          159
+        ],
+        "an": [
+          153
+        ],
+        "compliance": [
+          156
+        ],
+        "checker": [
+          157
+        ],
+        "rinkeby": [
+          162
+        ],
+        "ethereum": [
+          163
+        ],
+        "network.": [
+          164
+        ],
+        "test": [
+          166
+        ],
+        "solution,": [
+          168
+        ],
+        "expose": [
+          170
+        ],
+        "it": [
+          171
+        ],
+        "sequences": [
+          173
+        ],
+        "contractual": [
+          175
+        ],
+        "operations": [
+          176
+        ],
+        "generated": [
+          177
+        ],
+        "mechanically": [
+          178
+        ],
+        "validator": [
+          182
+        ],
+        "tool.": [
+          183
+        ]
+      },
+      "cited_by_count": 57,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2908877519",
+      "doi": "https://doi.org/10.1145/3287098.3287113",
+      "title": "Uncovering mobile infrastructure in developing countries with crowdsourced measurements",
+      "publication_year": 2019,
+      "primary_location": {
+        "id": "doi:10.1145/3287098.3287113",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3287098.3287113",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the Tenth International Conference on Information and Communication Technologies and Development",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5060084017",
+            "display_name": "Mah-Rukh Fida",
+            "orcid": "https://orcid.org/0000-0001-7660-1150"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mah-Rukh Fida",
+          "raw_affiliation_strings": [
+            "The University of Edinburgh, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The University of Edinburgh, UK",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5022046402",
+            "display_name": "Mahesh K. Marina",
+            "orcid": "https://orcid.org/0000-0002-6946-5143"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98677209",
+              "display_name": "University of Edinburgh",
+              "ror": "https://ror.org/01nrxwf90",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mahesh K. Marina",
+          "raw_affiliation_strings": [
+            "The University of Edinburgh, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The University of Edinburgh, UK",
+              "institution_ids": [
+                "https://openalex.org/I98677209"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Knowledge": [
+          0
+        ],
+        "of": [
+          1,
+          19,
+          23,
+          37,
+          57,
+          70,
+          152,
+          161,
+          185
+        ],
+        "cell": [
+          2,
+          24,
+          50,
+          122,
+          188
+        ],
+        "tower": [
+          3,
+          51,
+          189
+        ],
+        "locations": [
+          4,
+          22
+        ],
+        "enables": [
+          5
+        ],
+        "multiple": [
+          6
+        ],
+        "applications": [
+          7
+        ],
+        "including": [
+          8
+        ],
+        "identifying": [
+          9
+        ],
+        "unserved": [
+          10
+        ],
+        "or": [
+          11
+        ],
+        "poorly": [
+          12
+        ],
+        "served": [
+          13
+        ],
+        "regions.": [
+          14
+        ],
+        "We": [
+          15,
+          90,
+          127,
+          157
+        ],
+        "consider": [
+          16
+        ],
+        "the": [
+          17,
+          21,
+          34,
+          38,
+          58,
+          68,
+          71,
+          108,
+          114,
+          135,
+          159,
+          183
+        ],
+        "problem": [
+          18
+        ],
+        "estimating": [
+          20
+        ],
+        "towers": [
+          25
+        ],
+        "using": [
+          26
+        ],
+        "crowdsourced": [
+          27,
+          44,
+          125
+        ],
+        "measurements,": [
+          28
+        ],
+        "which": [
+          29
+        ],
+        "is": [
+          30
+        ],
+        "challenging": [
+          31
+        ],
+        "due": [
+          32
+        ],
+        "to": [
+          33,
+          85,
+          112,
+          191
+        ],
+        "uncontrolled": [
+          35
+        ],
+        "nature": [
+          36
+        ],
+        "sample": [
+          39
+        ],
+        "collection": [
+          40
+        ],
+        "process.": [
+          41
+        ],
+        "Using": [
+          42
+        ],
+        "large-scale": [
+          43
+        ],
+        "datasets": [
+          45
+        ],
+        "from": [
+          46
+        ],
+        "OpenCelliD": [
+          47
+        ],
+        "with": [
+          48,
+          139
+        ],
+        "ground-truth": [
+          49
+        ],
+        "locations,": [
+          52
+        ],
+        "we": [
+          53
+        ],
+        "find": [
+          54
+        ],
+        "that": [
+          55,
+          78,
+          105,
+          129,
+          181
+        ],
+        "none": [
+          56
+        ],
+        "several": [
+          59
+        ],
+        "commonly": [
+          60
+        ],
+        "used": [
+          61
+        ],
+        "localization": [
+          62,
+          88,
+          109,
+          117,
+          148,
+          190
+        ],
+        "algorithms": [
+          63
+        ],
+        "(e.g.,": [
+          64
+        ],
+        "Weighted": [
+          65,
+          74
+        ],
+        "Centroid)": [
+          66
+        ],
+        "nor": [
+          67
+        ],
+        "state": [
+          69
+        ],
+        "art": [
+          72
+        ],
+        "Filtered": [
+          73
+        ],
+        "Centroid": [
+          75
+        ],
+        "(FWC)": [
+          76
+        ],
+        "approach": [
+          77,
+          98
+        ],
+        "filters": [
+          79
+        ],
+        "out": [
+          80
+        ],
+        "less": [
+          81
+        ],
+        "predictive": [
+          82
+        ],
+        "measurements": [
+          83
+        ],
+        "manage": [
+          84
+        ],
+        "deliver": [
+          86
+        ],
+        "robust": [
+          87
+        ],
+        "performance.": [
+          89
+        ],
+        "propose": [
+          91
+        ],
+        "a": [
+          92,
+          120
+        ],
+        "novel": [
+          93
+        ],
+        "supervised": [
+          94
+        ],
+        "machine": [
+          95
+        ],
+        "learning": [
+          96
+        ],
+        "based": [
+          97,
+          187
+        ],
+        "termed": [
+          99
+        ],
+        "as": [
+          100
+        ],
+        "Adaptive": [
+          101
+        ],
+        "Algorithm": [
+          102
+        ],
+        "Selection": [
+          103
+        ],
+        "(AAS)": [
+          104
+        ],
+        "adaptively": [
+          106
+        ],
+        "selects": [
+          107
+        ],
+        "algorithm": [
+          110
+        ],
+        "likely": [
+          111
+        ],
+        "provide": [
+          113
+        ],
+        "most": [
+          115
+        ],
+        "accurate": [
+          116
+        ],
+        "performance": [
+          118,
+          149
+        ],
+        "for": [
+          119
+        ],
+        "given": [
+          121
+        ],
+        "and": [
+          123,
+          165
+        ],
+        "its": [
+          124
+        ],
+        "samples.": [
+          126
+        ],
+        "show": [
+          128
+        ],
+        "AAS": [
+          130,
+          162,
+          186
+        ],
+        "not": [
+          131
+        ],
+        "only": [
+          132
+        ],
+        "significantly": [
+          133
+        ],
+        "outperforms": [
+          134
+        ],
+        "state-of-the-art": [
+          136
+        ],
+        "FWC": [
+          137
+        ],
+        "approach,": [
+          138
+        ],
+        "median": [
+          140
+        ],
+        "error": [
+          141
+        ],
+        "improvement": [
+          142
+        ],
+        "over": [
+          143
+        ],
+        "65%,": [
+          144
+        ],
+        "but": [
+          145
+        ],
+        "also": [
+          146
+        ],
+        "achieves": [
+          147
+        ],
+        "within": [
+          150
+        ],
+        "20%": [
+          151
+        ],
+        "an": [
+          153
+        ],
+        "idealized": [
+          154
+        ],
+        "Oracle": [
+          155
+        ],
+        "solution.": [
+          156
+        ],
+        "validate": [
+          158
+        ],
+        "applicability": [
+          160
+        ],
+        "in": [
+          163,
+          176,
+          196
+        ],
+        "new": [
+          164
+        ],
+        "different": [
+          166,
+          178
+        ],
+        "settings": [
+          167
+        ],
+        "(including": [
+          168
+        ],
+        "WLAN": [
+          169
+        ],
+        "AP": [
+          170
+        ],
+        "localization)": [
+          171
+        ],
+        "before": [
+          172
+        ],
+        "presenting": [
+          173
+        ],
+        "case": [
+          174
+        ],
+        "studies": [
+          175
+        ],
+        "three": [
+          177
+        ],
+        "African": [
+          179
+        ],
+        "countries": [
+          180
+        ],
+        "demonstrate": [
+          182
+        ],
+        "use": [
+          184
+        ],
+        "reliably": [
+          192
+        ],
+        "infer": [
+          193
+        ],
+        "mobile": [
+          194
+        ],
+        "infrastructure": [
+          195
+        ],
+        "developing": [
+          197
+        ],
+        "countries.": [
+          198
+        ]
+      },
+      "cited_by_count": 11,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.research.ed.ac.uk/en/publications/b4aecc85-3872-4a2c-b13b-cfe45f725b6d",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3088829901",
+      "doi": "https://doi.org/10.1109/compsac48688.2020.0-136",
+      "title": "Application of Blockchain for Trusted Coordination in Collaborative Software Development",
+      "publication_year": 2020,
+      "primary_location": {
+        "id": "doi:10.1109/compsac48688.2020.0-136",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/compsac48688.2020.0-136",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5067217334",
+            "display_name": "Stephen S. Yau",
+            "orcid": "https://orcid.org/0000-0002-6663-5565"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Stephen S. Yau",
+          "raw_affiliation_strings": [
+            "Arizona State University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Arizona State University",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5011810491",
+            "display_name": "Jinal S. Patel",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55732556",
+              "display_name": "Arizona State University",
+              "ror": "https://ror.org/03efmqc40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jinal S. Patel",
+          "raw_affiliation_strings": [
+            "Arizona State University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Arizona State University",
+              "institution_ids": [
+                "https://openalex.org/I55732556"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "coordination": [
+          1,
+          34,
+          67,
+          101,
+          171,
+          190
+        ],
+        "of": [
+          2,
+          39,
+          137,
+          204,
+          209
+        ],
+        "developing": [
+          3
+        ],
+        "various": [
+          4,
+          79
+        ],
+        "complex": [
+          5,
+          40
+        ],
+        "and": [
+          6,
+          15,
+          29,
+          41,
+          60,
+          75,
+          112,
+          117,
+          139,
+          145,
+          166,
+          207
+        ],
+        "large-scale": [
+          7,
+          42
+        ],
+        "projects": [
+          8
+        ],
+        "using": [
+          9,
+          109,
+          155,
+          162,
+          195
+        ],
+        "computers": [
+          10
+        ],
+        "has": [
+          11
+        ],
+        "been": [
+          12
+        ],
+        "well": [
+          13
+        ],
+        "established": [
+          14
+        ],
+        "is": [
+          16,
+          180,
+          185,
+          199
+        ],
+        "the": [
+          17,
+          33,
+          69,
+          95,
+          126,
+          170,
+          202,
+          210
+        ],
+        "so-called": [
+          18
+        ],
+        "computer-supported": [
+          19
+        ],
+        "cooperative": [
+          20
+        ],
+        "work": [
+          21
+        ],
+        "(CSCW).": [
+          22
+        ],
+        "Collaborative": [
+          23
+        ],
+        "software": [
+          24,
+          43,
+          54,
+          104,
+          122,
+          153,
+          174,
+          193
+        ],
+        "development": [
+          25,
+          55,
+          105,
+          123,
+          154,
+          194
+        ],
+        "requires": [
+          26
+        ],
+        "similar": [
+          27
+        ],
+        "technologies": [
+          28
+        ],
+        "tools": [
+          30,
+          113
+        ],
+        "to": [
+          31,
+          114,
+          142,
+          187,
+          201
+        ],
+        "handle": [
+          32
+        ],
+        "among": [
+          35,
+          52,
+          68
+        ],
+        "participating": [
+          36,
+          53,
+          70,
+          80,
+          121
+        ],
+        "teams.": [
+          37
+        ],
+        "Development": [
+          38
+        ],
+        "systems": [
+          44
+        ],
+        "can": [
+          45
+        ],
+        "be": [
+          46
+        ],
+        "largely": [
+          47
+        ],
+        "improved": [
+          48
+        ],
+        "by": [
+          49
+        ],
+        "effective": [
+          50
+        ],
+        "collaboration": [
+          51
+        ],
+        "teams": [
+          56,
+          71,
+          124
+        ],
+        "at": [
+          57
+        ],
+        "both": [
+          58
+        ],
+        "component": [
+          59
+        ],
+        "system": [
+          61
+        ],
+        "levels,": [
+          62
+        ],
+        "which": [
+          63,
+          82
+        ],
+        "depends": [
+          64
+        ],
+        "on": [
+          65,
+          78,
+          108,
+          120
+        ],
+        "trusted": [
+          66,
+          189
+        ],
+        "for": [
+          72,
+          100,
+          151
+        ],
+        "sharing,": [
+          73
+        ],
+        "processing,": [
+          74
+        ],
+        "managing": [
+          76
+        ],
+        "information": [
+          77,
+          119
+        ],
+        "teams,": [
+          81
+        ],
+        "are": [
+          83,
+          93,
+          106,
+          149
+        ],
+        "often": [
+          84
+        ],
+        "operating": [
+          85
+        ],
+        "in": [
+          86,
+          94,
+          102,
+          172,
+          191
+        ],
+        "a": [
+          87,
+          134
+        ],
+        "distributed": [
+          88
+        ],
+        "environment,": [
+          89
+        ],
+        "even": [
+          90
+        ],
+        "if": [
+          91
+        ],
+        "they": [
+          92,
+          157
+        ],
+        "same": [
+          96
+        ],
+        "organization.": [
+          97
+        ],
+        "Existing": [
+          98
+        ],
+        "approaches": [
+          99,
+          129,
+          150
+        ],
+        "collaborative": [
+          103,
+          152,
+          173,
+          192
+        ],
+        "based": [
+          107
+        ],
+        "centralized": [
+          110,
+          131
+        ],
+        "repository": [
+          111
+        ],
+        "store,": [
+          115
+        ],
+        "process,": [
+          116
+        ],
+        "retrieve": [
+          118
+        ],
+        "during": [
+          125
+        ],
+        "development.": [
+          127,
+          175
+        ],
+        "These": [
+          128
+        ],
+        "use": [
+          130
+        ],
+        "authority,": [
+          132
+        ],
+        "have": [
+          133
+        ],
+        "single": [
+          135
+        ],
+        "point": [
+          136
+        ],
+        "failure": [
+          138
+        ],
+        "restricted": [
+          140
+        ],
+        "rights": [
+          141
+        ],
+        "own": [
+          143
+        ],
+        "data": [
+          144
+        ],
+        "software.": [
+          146
+        ],
+        "Although": [
+          147
+        ],
+        "there": [
+          148
+        ],
+        "blockchain,": [
+          156
+        ],
+        "only": [
+          158
+        ],
+        "verify": [
+          159
+        ],
+        "blockchain": [
+          160,
+          184
+        ],
+        "transactions": [
+          161
+        ],
+        "customized": [
+          163
+        ],
+        "agreement": [
+          164
+        ],
+        "techniques,": [
+          165
+        ],
+        "do": [
+          167
+        ],
+        "not": [
+          168
+        ],
+        "address": [
+          169
+        ],
+        "In": [
+          176
+        ],
+        "this": [
+          177
+        ],
+        "paper,": [
+          178
+        ],
+        "it": [
+          179
+        ],
+        "shown": [
+          181
+        ],
+        "how": [
+          182
+        ],
+        "private": [
+          183
+        ],
+        "used": [
+          186
+        ],
+        "provide": [
+          188
+        ],
+        "smart": [
+          196
+        ],
+        "contracts.": [
+          197
+        ],
+        "This": [
+          198
+        ],
+        "due": [
+          200
+        ],
+        "properties": [
+          203
+        ],
+        "immutability,": [
+          205
+        ],
+        "auditability,": [
+          206
+        ],
+        "transparency": [
+          208
+        ],
+        "blockchain.": [
+          211
+        ]
+      },
+      "cited_by_count": 10,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3091805370",
+      "doi": "https://doi.org/10.1287/orsc.2020.1379",
+      "title": "Blockchain Governance—A New Way of Organizing Collaborations?",
+      "publication_year": 2020,
+      "primary_location": {
+        "id": "doi:10.1287/orsc.2020.1379",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1287/orsc.2020.1379",
+        "pdf_url": "https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1379",
+        "source": {
+          "id": "https://openalex.org/S206124708",
+          "display_name": "Organization Science",
+          "issn_l": "1047-7039",
+          "issn": [
+            "1047-7039",
+            "1526-5455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315699",
+          "host_organization_name": "Institute for Operations Research and the Management Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315699"
+          ],
+          "host_organization_lineage_names": [
+            "Institute for Operations Research and the Management Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Organization Science",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5084190316",
+            "display_name": "Fabrice Lumineau",
+            "orcid": "https://orcid.org/0000-0003-2194-8629"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I219193219",
+              "display_name": "Purdue University West Lafayette",
+              "ror": "https://ror.org/02dqehb95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Fabrice Lumineau",
+          "raw_affiliation_strings": [
+            "Krannert School of Management, Purdue University, West Lafayette, Indiana 47907-2056;"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2194-8629",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Krannert School of Management, Purdue University, West Lafayette, Indiana 47907-2056;",
+              "institution_ids": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100631553",
+            "display_name": "Wenqian Wang",
+            "orcid": "https://orcid.org/0000-0001-8382-7545"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I219193219",
+              "display_name": "Purdue University West Lafayette",
+              "ror": "https://ror.org/02dqehb95",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wenqian Wang",
+          "raw_affiliation_strings": [
+            "Krannert School of Management, Purdue University, West Lafayette, Indiana 47907-2056;"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8382-7545",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Krannert School of Management, Purdue University, West Lafayette, Indiana 47907-2056;",
+              "institution_ids": [
+                "https://openalex.org/I219193219"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5001948088",
+            "display_name": "Oliver Schilke",
+            "orcid": "https://orcid.org/0000-0001-6832-1677"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138006243",
+              "display_name": "University of Arizona",
+              "ror": "https://ror.org/03m2x1q45",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Oliver Schilke",
+          "raw_affiliation_strings": [
+            "Eller College of Management, The University of Arizona, Tucson, Arizona 85721"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6832-1677",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Eller College of Management, The University of Arizona, Tucson, Arizona 85721",
+              "institution_ids": [
+                "https://openalex.org/I138006243"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "recent": [
+          1
+        ],
+        "emergence": [
+          2
+        ],
+        "of": [
+          3,
+          24,
+          78,
+          88,
+          149,
+          153,
+          186
+        ],
+        "blockchains": [
+          4,
+          25,
+          43,
+          79,
+          139,
+          154,
+          173,
+          182
+        ],
+        "may": [
+          5,
+          140,
+          155,
+          167
+        ],
+        "be": [
+          6,
+          175
+        ],
+        "considered": [
+          7
+        ],
+        "a": [
+          8,
+          31,
+          45,
+          92,
+          133,
+          184
+        ],
+        "critical": [
+          9
+        ],
+        "turning": [
+          10
+        ],
+        "point": [
+          11
+        ],
+        "in": [
+          12,
+          107,
+          132
+        ],
+        "organizing": [
+          13
+        ],
+        "collaborations.": [
+          14
+        ],
+        "We": [
+          15,
+          73,
+          96,
+          113
+        ],
+        "outline": [
+          16
+        ],
+        "the": [
+          17,
+          21,
+          76,
+          86,
+          89,
+          142
+        ],
+        "historical": [
+          18
+        ],
+        "background": [
+          19
+        ],
+        "and": [
+          20,
+          26,
+          50,
+          53,
+          62,
+          84,
+          110,
+          127,
+          160,
+          171,
+          180
+        ],
+        "fundamental": [
+          22
+        ],
+        "features": [
+          23
+        ],
+        "present": [
+          27
+        ],
+        "an": [
+          28
+        ],
+        "analysis": [
+          29,
+          130
+        ],
+        "with": [
+          30,
+          103
+        ],
+        "focus": [
+          32
+        ],
+        "on": [
+          33
+        ],
+        "their": [
+          34,
+          124
+        ],
+        "role": [
+          35
+        ],
+        "as": [
+          36,
+          65,
+          67,
+          80,
+          91,
+          121,
+          123
+        ],
+        "governance": [
+          37,
+          64,
+          82,
+          101,
+          105
+        ],
+        "mechanisms.": [
+          38
+        ],
+        "Specifically,": [
+          39
+        ],
+        "we": [
+          40
+        ],
+        "argue": [
+          41
+        ],
+        "that": [
+          42,
+          55,
+          136
+        ],
+        "offer": [
+          44
+        ],
+        "way": [
+          46,
+          143
+        ],
+        "to": [
+          47,
+          117,
+          144
+        ],
+        "enforce": [
+          48
+        ],
+        "agreements": [
+          49
+        ],
+        "achieve": [
+          51
+        ],
+        "cooperation": [
+          52
+        ],
+        "coordination": [
+          54
+        ],
+        "is": [
+          56,
+          158
+        ],
+        "distinct": [
+          57
+        ],
+        "from": [
+          58,
+          68
+        ],
+        "both": [
+          59,
+          108
+        ],
+        "traditional": [
+          60,
+          104
+        ],
+        "contractual": [
+          61
+        ],
+        "relational": [
+          63
+        ],
+        "well": [
+          66,
+          122
+        ],
+        "other": [
+          69
+        ],
+        "information": [
+          70
+        ],
+        "technology": [
+          71
+        ],
+        "solutions.": [
+          72
+        ],
+        "also": [
+          74
+        ],
+        "examine": [
+          75
+        ],
+        "scope": [
+          77
+        ],
+        "efficient": [
+          81
+        ],
+        "mechanisms": [
+          83,
+          106
+        ],
+        "highlight": [
+          85
+        ],
+        "tacitness": [
+          87
+        ],
+        "transaction": [
+          90
+        ],
+        "key": [
+          93
+        ],
+        "boundary": [
+          94
+        ],
+        "condition.": [
+          95
+        ],
+        "then": [
+          97
+        ],
+        "discuss": [
+          98
+        ],
+        "how": [
+          99,
+          138,
+          181
+        ],
+        "blockchain": [
+          100,
+          163
+        ],
+        "interacts": [
+          102
+        ],
+        "substitutive": [
+          109
+        ],
+        "complementary": [
+          111
+        ],
+        "ways.": [
+          112
+        ],
+        "pay": [
+          114
+        ],
+        "particular": [
+          115
+        ],
+        "attention": [
+          116
+        ],
+        "blockchains’": [
+          118
+        ],
+        "social": [
+          119
+        ],
+        "implications": [
+          120
+        ],
+        "inherent": [
+          125
+        ],
+        "challenges": [
+          126
+        ],
+        "limitations.": [
+          128
+        ],
+        "Our": [
+          129
+        ],
+        "culminates": [
+          131
+        ],
+        "research": [
+          134
+        ],
+        "agenda": [
+          135
+        ],
+        "explores": [
+          137
+        ],
+        "change": [
+          141
+        ],
+        "organize": [
+          145
+        ],
+        "collaborations,": [
+          146
+        ],
+        "including": [
+          147
+        ],
+        "issues": [
+          148
+        ],
+        "what": [
+          150
+        ],
+        "different": [
+          151
+        ],
+        "types": [
+          152
+        ],
+        "emerge,": [
+          156
+        ],
+        "who": [
+          157
+        ],
+        "involved": [
+          159
+        ],
+        "impacted": [
+          161
+        ],
+        "by": [
+          162
+        ],
+        "governance,": [
+          164
+        ],
+        "why": [
+          165
+        ],
+        "actors": [
+          166
+        ],
+        "want": [
+          168
+        ],
+        "blockchains,": [
+          169
+        ],
+        "when": [
+          170
+        ],
+        "where": [
+          172
+        ],
+        "can": [
+          174
+        ],
+        "more": [
+          176
+        ],
+        "(versus": [
+          177
+        ],
+        "less)": [
+          178
+        ],
+        "effective,": [
+          179
+        ],
+        "influence": [
+          183
+        ],
+        "number": [
+          185
+        ],
+        "important": [
+          187
+        ],
+        "organizational": [
+          188
+        ],
+        "outcomes.": [
+          189
+        ]
+      },
+      "cited_by_count": 481,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2020.1379",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3142830752",
+      "doi": "https://doi.org/10.3390/app11072960",
+      "title": "Software Engineering Applications Enabled by Blockchain Technology: A Systematic Mapping Study",
+      "publication_year": 2021,
+      "primary_location": {
+        "id": "doi:10.3390/app11072960",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/app11072960",
+        "pdf_url": "https://www.mdpi.com/2076-3417/11/7/2960/pdf?version=1617861336",
+        "source": {
+          "id": "https://openalex.org/S4210205812",
+          "display_name": "Applied Sciences",
+          "issn_l": "2076-3417",
+          "issn": [
+            "2076-3417"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Sciences",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5003999293",
+            "display_name": "Selina Demi",
+            "orcid": "https://orcid.org/0000-0001-5988-4697"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19923696",
+              "display_name": "Østfold University College",
+              "ror": "https://ror.org/04gf7fp41",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19923696"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Selina Demi",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, Østfold University College, 1783 Halden, Norway"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5988-4697",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, Østfold University College, 1783 Halden, Norway",
+              "institution_ids": [
+                "https://openalex.org/I19923696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038626586",
+            "display_name": "Ricardo Colomo‐Palacios",
+            "orcid": "https://orcid.org/0000-0002-1555-9726"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19923696",
+              "display_name": "Østfold University College",
+              "ror": "https://ror.org/04gf7fp41",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19923696"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ricardo Colomo-Palacios",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, Østfold University College, 1783 Halden, Norway"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1555-9726",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, Østfold University College, 1783 Halden, Norway",
+              "institution_ids": [
+                "https://openalex.org/I19923696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5050961429",
+            "display_name": "Mary Sánchez‐Gordón",
+            "orcid": "https://orcid.org/0000-0002-5102-1122"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19923696",
+              "display_name": "Østfold University College",
+              "ror": "https://ror.org/04gf7fp41",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19923696"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mary Sánchez-Gordón",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, Østfold University College, 1783 Halden, Norway"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5102-1122",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, Østfold University College, 1783 Halden, Norway",
+              "institution_ids": [
+                "https://openalex.org/I19923696"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "novel,": [
+          1
+        ],
+        "yet": [
+          2,
+          188
+        ],
+        "disruptive": [
+          3
+        ],
+        "blockchain": [
+          4,
+          31,
+          68,
+          115,
+          208,
+          219
+        ],
+        "technology": [
+          5
+        ],
+        "has": [
+          6
+        ],
+        "witnessed": [
+          7
+        ],
+        "growing": [
+          8
+        ],
+        "attention,": [
+          9
+        ],
+        "due": [
+          10
+        ],
+        "to": [
+          11,
+          45,
+          47,
+          120,
+          134,
+          172,
+          209,
+          216
+        ],
+        "its": [
+          12
+        ],
+        "intrinsic": [
+          13
+        ],
+        "potential.": [
+          14
+        ],
+        "Besides": [
+          15
+        ],
+        "the": [
+          16,
+          48,
+          62,
+          90,
+          111,
+          152,
+          168,
+          181,
+          184,
+          210,
+          222
+        ],
+        "conventional": [
+          17
+        ],
+        "domains": [
+          18
+        ],
+        "that": [
+          19,
+          147,
+          161,
+          183,
+          192,
+          201
+        ],
+        "benefit": [
+          20,
+          203
+        ],
+        "from": [
+          21
+        ],
+        "such": [
+          22,
+          24,
+          123,
+          166
+        ],
+        "potential,": [
+          23
+        ],
+        "as": [
+          25,
+          117,
+          124,
+          167
+        ],
+        "finance,": [
+          26
+        ],
+        "supply": [
+          27
+        ],
+        "chain": [
+          28
+        ],
+        "and": [
+          29,
+          80,
+          95,
+          128,
+          132,
+          175,
+          213
+        ],
+        "healthcare,": [
+          30
+        ],
+        "use": [
+          32
+        ],
+        "cases": [
+          33
+        ],
+        "in": [
+          34,
+          139,
+          206
+        ],
+        "software": [
+          35,
+          54,
+          63,
+          141,
+          158,
+          173,
+          211,
+          223
+        ],
+        "engineering": [
+          36,
+          55,
+          64,
+          159
+        ],
+        "have": [
+          37
+        ],
+        "emerged": [
+          38
+        ],
+        "recently.": [
+          39
+        ],
+        "In": [
+          40,
+          178
+        ],
+        "this": [
+          41,
+          193
+        ],
+        "study,": [
+          42
+        ],
+        "we": [
+          43,
+          73,
+          86,
+          190
+        ],
+        "aim": [
+          44
+        ],
+        "contribute": [
+          46
+        ],
+        "body": [
+          49
+        ],
+        "of": [
+          50,
+          52,
+          61,
+          104,
+          113,
+          154,
+          157,
+          180
+        ],
+        "knowledge": [
+          51
+        ],
+        "blockchain-oriented": [
+          53
+        ],
+        "by": [
+          56,
+          67
+        ],
+        "providing": [
+          57
+        ],
+        "an": [
+          58,
+          101,
+          118
+        ],
+        "adequate": [
+          59
+        ],
+        "overview": [
+          60,
+          200
+        ],
+        "applications": [
+          65
+        ],
+        "enabled": [
+          66
+        ],
+        "technology.": [
+          69
+        ],
+        "To": [
+          70
+        ],
+        "do": [
+          71
+        ],
+        "so,": [
+          72
+        ],
+        "carried": [
+          74
+        ],
+        "out": [
+          75,
+          146
+        ],
+        "a": [
+          76,
+          155,
+          198
+        ],
+        "systematic": [
+          77,
+          194
+        ],
+        "mapping": [
+          78,
+          195
+        ],
+        "study": [
+          79,
+          196
+        ],
+        "identified": [
+          81
+        ],
+        "22": [
+          82
+        ],
+        "primary": [
+          83
+        ],
+        "studies.": [
+          84
+        ],
+        "Then,": [
+          85
+        ],
+        "extracted": [
+          87
+        ],
+        "data": [
+          88
+        ],
+        "within": [
+          89
+        ],
+        "research": [
+          91,
+          93
+        ],
+        "type,": [
+          92
+        ],
+        "topic": [
+          94
+        ],
+        "contribution": [
+          96
+        ],
+        "type": [
+          97
+        ],
+        "facets.": [
+          98
+        ],
+        "Findings": [
+          99
+        ],
+        "suggest": [
+          100
+        ],
+        "increasing": [
+          102
+        ],
+        "trend": [
+          103
+        ],
+        "studies": [
+          105
+        ],
+        "since": [
+          106
+        ],
+        "2018.": [
+          107
+        ],
+        "Additionally,": [
+          108
+        ],
+        "findings": [
+          109
+        ],
+        "reveal": [
+          110
+        ],
+        "potential": [
+          112
+        ],
+        "using": [
+          114
+        ],
+        "technologies": [
+          116
+        ],
+        "alternative": [
+          119
+        ],
+        "centralized": [
+          121
+        ],
+        "systems,": [
+          122
+        ],
+        "GitHub,": [
+          125
+        ],
+        "Travis": [
+          126
+        ],
+        "CI,": [
+          127
+        ],
+        "cloud-based": [
+          129
+        ],
+        "package": [
+          130
+        ],
+        "managers,": [
+          131
+        ],
+        "also": [
+          133,
+          144
+        ],
+        "establish": [
+          135
+        ],
+        "trust": [
+          136
+        ],
+        "between": [
+          137
+        ],
+        "parties": [
+          138
+        ],
+        "collaborative": [
+          140
+        ],
+        "development.": [
+          142
+        ],
+        "We": [
+          143
+        ],
+        "found": [
+          145
+        ],
+        "smart": [
+          148
+        ],
+        "contracts": [
+          149
+        ],
+        "can": [
+          150,
+          220
+        ],
+        "enable": [
+          151
+        ],
+        "automation": [
+          153
+        ],
+        "variety": [
+          156
+        ],
+        "activities": [
+          160
+        ],
+        "usually": [
+          162
+        ],
+        "require": [
+          163
+        ],
+        "human": [
+          164
+        ],
+        "reasoning,": [
+          165
+        ],
+        "acceptance": [
+          169
+        ],
+        "phase,": [
+          170
+        ],
+        "payments": [
+          171
+        ],
+        "engineers,": [
+          174
+        ],
+        "compliance": [
+          176
+        ],
+        "adherence.": [
+          177
+        ],
+        "spite": [
+          179
+        ],
+        "fact": [
+          182
+        ],
+        "field": [
+          185
+        ],
+        "is": [
+          186
+        ],
+        "not": [
+          187
+        ],
+        "mature,": [
+          189
+        ],
+        "believe": [
+          191
+        ],
+        "provides": [
+          197
+        ],
+        "holistic": [
+          199
+        ],
+        "may": [
+          202
+        ],
+        "researchers": [
+          204
+        ],
+        "interested": [
+          205
+        ],
+        "bringing": [
+          207
+        ],
+        "industry,": [
+          212
+        ],
+        "practitioners": [
+          214
+        ],
+        "willing": [
+          215
+        ],
+        "understand": [
+          217
+        ],
+        "how": [
+          218
+        ],
+        "transform": [
+          221
+        ],
+        "development": [
+          224
+        ],
+        "industry.": [
+          225
+        ]
+      },
+      "cited_by_count": 33,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2076-3417/11/7/2960/pdf?version=1617861336",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3184655123",
+      "doi": "https://doi.org/10.1287/orsc.2021.1479",
+      "title": "Bottleneck Resources, Market Relatedness, and the Dynamics of Organizational Growth",
+      "publication_year": 2021,
+      "primary_location": {
+        "id": "doi:10.1287/orsc.2021.1479",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1287/orsc.2021.1479",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S206124708",
+          "display_name": "Organization Science",
+          "issn_l": "1047-7039",
+          "issn": [
+            "1047-7039",
+            "1526-5455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315699",
+          "host_organization_name": "Institute for Operations Research and the Management Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315699"
+          ],
+          "host_organization_lineage_names": [
+            "Institute for Operations Research and the Management Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Organization Science",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5056962735",
+            "display_name": "Sungyong Chang",
+            "orcid": "https://orcid.org/0000-0002-7374-3644"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I61544103",
+              "display_name": "London Business School",
+              "ror": "https://ror.org/001c2sn75",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I61544103"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sungyong Chang",
+          "raw_affiliation_strings": [
+            "London Business School, London NW1 4SA, United Kingdom"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7374-3644",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "London Business School, London NW1 4SA, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I61544103"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072929677",
+            "display_name": "J. P. Eggers",
+            "orcid": "https://orcid.org/0000-0003-3344-1155"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I57206974",
+              "display_name": "New York University",
+              "ror": "https://ror.org/0190ak572",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. P. Eggers",
+          "raw_affiliation_strings": [
+            "Stern School of Business, New York University, New York, New York 10012"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3344-1155",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stern School of Business, New York University, New York, New York 10012",
+              "institution_ids": [
+                "https://openalex.org/I57206974"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5050199431",
+            "display_name": "Dongil Daniel Keum",
+            "orcid": "https://orcid.org/0000-0001-8661-7199"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D. Daniel Keum",
+          "raw_affiliation_strings": [
+            "Management Division, Columbia Business School, New York, New York 10027"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8661-7199",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Management Division, Columbia Business School, New York, New York 10027",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Entering": [
+          0
+        ],
+        "a": [
+          1,
+          7,
+          13
+        ],
+        "new": [
+          2
+        ],
+        "product": [
+          3,
+          46,
+          86,
+          147
+        ],
+        "market": [
+          4,
+          41,
+          47,
+          70,
+          95,
+          135,
+          148
+        ],
+        "requires": [
+          5
+        ],
+        "assembling": [
+          6
+        ],
+        "bundle": [
+          8
+        ],
+        "of": [
+          9,
+          36,
+          69,
+          76,
+          126,
+          146
+        ],
+        "resources.": [
+          10
+        ],
+        "Because": [
+          11
+        ],
+        "missing": [
+          12
+        ],
+        "single": [
+          14
+        ],
+        "resource": [
+          15,
+          92
+        ],
+        "can": [
+          16
+        ],
+        "foil": [
+          17
+        ],
+        "the": [
+          18,
+          34,
+          67,
+          74,
+          98,
+          124,
+          138,
+          144
+        ],
+        "entire": [
+          19
+        ],
+        "entry": [
+          20
+        ],
+        "effort,": [
+          21
+        ],
+        "we": [
+          22,
+          64,
+          90
+        ],
+        "argue": [
+          23
+        ],
+        "that": [
+          24,
+          140
+        ],
+        "bottleneck": [
+          25,
+          139
+        ],
+        "resources—those": [
+          26
+        ],
+        "most": [
+          27
+        ],
+        "difficult": [
+          28
+        ],
+        "to": [
+          29,
+          45,
+          56,
+          101
+        ],
+        "obtain": [
+          30,
+          57
+        ],
+        "or": [
+          31
+        ],
+        "sell": [
+          32,
+          59
+        ],
+        "externally—anchor": [
+          33
+        ],
+        "direction": [
+          35,
+          145
+        ],
+        "firm": [
+          37,
+          129
+        ],
+        "growth.": [
+          38
+        ],
+        "We": [
+          39
+        ],
+        "characterize": [
+          40
+        ],
+        "resources": [
+          42,
+          71,
+          96,
+          127,
+          136
+        ],
+        "as": [
+          43,
+          137
+        ],
+        "bottlenecks": [
+          44
+        ],
+        "entry,": [
+          48
+        ],
+        "because": [
+          49
+        ],
+        "they": [
+          50
+        ],
+        "are": [
+          51
+        ],
+        "(on": [
+          52
+        ],
+        "average)": [
+          53
+        ],
+        "more": [
+          54
+        ],
+        "challenging": [
+          55
+        ],
+        "and": [
+          58,
+          63,
+          103,
+          112,
+          114,
+          119,
+          132,
+          142
+        ],
+        "than": [
+          60
+        ],
+        "technological": [
+          61,
+          106
+        ],
+        "resources,": [
+          62
+        ],
+        "articulate": [
+          65
+        ],
+        "why": [
+          66
+        ],
+        "importance": [
+          68,
+          125
+        ],
+        "varies": [
+          72
+        ],
+        "with": [
+          73,
+          88
+        ],
+        "strength": [
+          75
+        ],
+        "external": [
+          77,
+          115
+        ],
+        "markets": [
+          78
+        ],
+        "for": [
+          79,
+          128
+        ],
+        "technology.": [
+          80
+        ],
+        "Using": [
+          81
+        ],
+        "cross-industry": [
+          82
+        ],
+        "data": [
+          83
+        ],
+        "linking": [
+          84
+        ],
+        "firms’": [
+          85
+        ],
+        "portfolios": [
+          87
+        ],
+        "patents,": [
+          89
+        ],
+        "find": [
+          91
+        ],
+        "dynamics": [
+          93,
+          131
+        ],
+        "whereby": [
+          94
+        ],
+        "drive": [
+          97
+        ],
+        "strategic": [
+          99
+        ],
+        "decision": [
+          100
+        ],
+        "enter,": [
+          102
+        ],
+        "firms": [
+          104
+        ],
+        "fill": [
+          105
+        ],
+        "gaps": [
+          107
+        ],
+        "using": [
+          108
+        ],
+        "both": [
+          109
+        ],
+        "internal": [
+          110
+        ],
+        "research": [
+          111
+        ],
+        "development": [
+          113
+        ],
+        "acquisitions": [
+          116
+        ],
+        "(joint": [
+          117
+        ],
+        "ventures": [
+          118
+        ],
+        "alliances).": [
+          120
+        ],
+        "Our": [
+          121
+        ],
+        "study": [
+          122
+        ],
+        "underscores": [
+          123
+        ],
+        "growth": [
+          130
+        ],
+        "specifically": [
+          133
+        ],
+        "highlights": [
+          134
+        ],
+        "constrains": [
+          141
+        ],
+        "directs": [
+          143
+        ],
+        "entry.": [
+          149
+        ]
+      },
+      "cited_by_count": 16,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://lbsresearch.london.edu/id/eprint/1735/1/20210308%20Growth%20Logic%20Full%20v.2.1%20SY.pdf",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4309321702",
+      "doi": "https://doi.org/10.1148/ryai.220028",
+      "title": "Generalizability of Machine Learning Models: Quantitative Evaluation of Three Methodological Pitfalls",
+      "publication_year": 2022,
+      "primary_location": {
+        "id": "doi:10.1148/ryai.220028",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1148/ryai.220028",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210219523",
+          "display_name": "Radiology Artificial Intelligence",
+          "issn_l": "2638-6100",
+          "issn": [
+            "2638-6100"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315931",
+          "host_organization_name": "Radiological Society of North America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315931"
+          ],
+          "host_organization_lineage_names": [
+            "Radiological Society of North America"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Radiology: Artificial Intelligence",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5033210702",
+            "display_name": "Farhad Maleki",
+            "orcid": "https://orcid.org/0000-0002-5673-8210"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I168635309",
+              "display_name": "University of Calgary",
+              "ror": "https://ror.org/03yjb2x39",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I168635309"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800293973",
+              "display_name": "Montreal General Hospital",
+              "ror": "https://ror.org/04gbhgc79",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801824472",
+              "display_name": "Jewish General Hospital",
+              "ror": "https://ror.org/056jjra10",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801824472",
+                "https://openalex.org/I2801902503",
+                "https://openalex.org/I4210139015",
+                "https://openalex.org/I4405256057"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Farhad Maleki",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+            "Department of Computer Science, University of Calgary,                     Calgary, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5673-8210",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+              "institution_ids": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801824472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary,                     Calgary, Canada",
+              "institution_ids": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073425263",
+            "display_name": "Katie Ovens",
+            "orcid": "https://orcid.org/0000-0001-5956-7739"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I168635309",
+              "display_name": "University of Calgary",
+              "ror": "https://ror.org/03yjb2x39",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I168635309"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800293973",
+              "display_name": "Montreal General Hospital",
+              "ror": "https://ror.org/04gbhgc79",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801824472",
+              "display_name": "Jewish General Hospital",
+              "ror": "https://ror.org/056jjra10",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801824472",
+                "https://openalex.org/I2801902503",
+                "https://openalex.org/I4210139015",
+                "https://openalex.org/I4405256057"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Katie Ovens",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+            "Department of Computer Science, University of Calgary,                     Calgary, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5956-7739",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+              "institution_ids": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801824472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary,                     Calgary, Canada",
+              "institution_ids": [
+                "https://openalex.org/I168635309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100601447",
+            "display_name": "Rajiv Gupta",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800293973",
+              "display_name": "Montreal General Hospital",
+              "ror": "https://ror.org/04gbhgc79",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801824472",
+              "display_name": "Jewish General Hospital",
+              "ror": "https://ror.org/056jjra10",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801824472",
+                "https://openalex.org/I2801902503",
+                "https://openalex.org/I4210139015",
+                "https://openalex.org/I4405256057"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087915",
+              "display_name": "Massachusetts General Hospital",
+              "ror": "https://ror.org/002pd6e78",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210087915",
+                "https://openalex.org/I48633490"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rajiv Gupta",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+            "Department of Radiology, Massachusetts General                     Hospital, Boston, Mass"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5882-960X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+              "institution_ids": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801824472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Radiology, Massachusetts General                     Hospital, Boston, Mass",
+              "institution_ids": [
+                "https://openalex.org/I4210087915"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050179360",
+            "display_name": "Caroline Reinhold",
+            "orcid": "https://orcid.org/0000-0002-8852-3273"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800293973",
+              "display_name": "Montreal General Hospital",
+              "ror": "https://ror.org/04gbhgc79",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801766832",
+              "display_name": "McGill University Health Centre",
+              "ror": "https://ror.org/04cpxjv19",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801824472",
+              "display_name": "Jewish General Hospital",
+              "ror": "https://ror.org/056jjra10",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801824472",
+                "https://openalex.org/I2801902503",
+                "https://openalex.org/I4210139015",
+                "https://openalex.org/I4405256057"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Caroline Reinhold",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+            "Montreal Imaging Experts, Montreal, Canada",
+            "Department of Radiology and the Research Institute of the                     McGill University Health Centre, McGill University, Montreal, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8852-3273",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+              "institution_ids": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801824472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Montreal Imaging Experts, Montreal, Canada",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Radiology and the Research Institute of the                     McGill University Health Centre, McGill University, Montreal, Canada",
+              "institution_ids": [
+                "https://openalex.org/I2801766832"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5002072156",
+            "display_name": "Alan Spatz",
+            "orcid": "https://orcid.org/0000-0003-3020-1420"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2800293973",
+              "display_name": "Montreal General Hospital",
+              "ror": "https://ror.org/04gbhgc79",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801824472",
+              "display_name": "Jewish General Hospital",
+              "ror": "https://ror.org/056jjra10",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801824472",
+                "https://openalex.org/I2801902503",
+                "https://openalex.org/I4210139015",
+                "https://openalex.org/I4405256057"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alan Spatz",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+            "Division of                     Pathology, Jewish General Hospital, Montreal, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3020-1420",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+              "institution_ids": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801824472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of                     Pathology, Jewish General Hospital, Montreal, Canada",
+              "institution_ids": [
+                "https://openalex.org/I2801824472"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074411488",
+            "display_name": "Reza Forghani",
+            "orcid": "https://orcid.org/0000-0002-8572-1864"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1335043937",
+              "display_name": "UF Health Shands Hospital",
+              "ror": "https://ror.org/03kvbr153",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1335043937",
+                "https://openalex.org/I2800717037",
+                "https://openalex.org/I61515104"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2800293973",
+              "display_name": "Montreal General Hospital",
+              "ror": "https://ror.org/04gbhgc79",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801766832",
+              "display_name": "McGill University Health Centre",
+              "ror": "https://ror.org/04cpxjv19",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801824472",
+              "display_name": "Jewish General Hospital",
+              "ror": "https://ror.org/056jjra10",
+              "country_code": "CA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801824472",
+                "https://openalex.org/I2801902503",
+                "https://openalex.org/I4210139015",
+                "https://openalex.org/I4405256057"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I33213144",
+              "display_name": "University of Florida",
+              "ror": "https://ror.org/02y3ad647",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I33213144"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I94062374",
+              "display_name": "Florida College",
+              "ror": "https://ror.org/010bgev76",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I94062374"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Reza Forghani",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+            "Department of Radiology and the Norman                     Fixel Institute for Neurologic Diseases, University of Florida College of                     Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL                     32610-0374",
+            "Department of Radiology and the Research Institute of the                     McGill University Health Centre, McGill University, Montreal, Canada",
+            "Montreal Imaging Experts, Montreal, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8572-1864",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Calgary, Calgary, Canada (F.M., K.O.); Department of Radiology, Massachusetts General Hospital, Boston, Mass (R.G.); Augmented Intelligence & Precision Health Laboratory (AIPHL), Department of Radiology and the Research Institute of the McGill University Health Centre, McGill University, Montreal, Canada (C.R., R.F.); Montreal Imaging Experts, Montreal, Canada (C.R., R.F.); Division of Pathology, Jewish General Hospital, Montreal, Canada (A.S.); and Radiomics and Augmented Intelligence Laboratory (RAIL), Department of Radiology and the Norman Fixel Institute for Neurologic Diseases, University of Florida College of Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL 32610-0374 (R.F.)",
+              "institution_ids": [
+                "https://openalex.org/I2800293973",
+                "https://openalex.org/I2801824472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Radiology and the Norman                     Fixel Institute for Neurologic Diseases, University of Florida College of                     Medicine, UF Health Shands Hospital, 1600 SW Archer Rd, Gainesville, FL                     32610-0374",
+              "institution_ids": [
+                "https://openalex.org/I1335043937",
+                "https://openalex.org/I94062374",
+                "https://openalex.org/I33213144"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Radiology and the Research Institute of the                     McGill University Health Centre, McGill University, Montreal, Canada",
+              "institution_ids": [
+                "https://openalex.org/I2801766832"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Montreal Imaging Experts, Montreal, Canada",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Purpose": [
+          0
+        ],
+        "To": [
+          1
+        ],
+        "investigate": [
+          2
+        ],
+        "the": [
+          3,
+          6,
+          17,
+          57,
+          92,
+          102,
+          166,
+          182
+        ],
+        "impact": [
+          4
+        ],
+        "of": [
+          5,
+          16,
+          101,
+          184,
+          198,
+          205,
+          211
+        ],
+        "following": [
+          7
+        ],
+        "three": [
+          8,
+          58
+        ],
+        "methodological": [
+          9,
+          59,
+          221
+        ],
+        "pitfalls": [
+          10,
+          60,
+          237
+        ],
+        "on": [
+          11,
+          66
+        ],
+        "model": [
+          12,
+          21,
+          67,
+          124,
+          172,
+          189
+        ],
+        "generalizability:": [
+          13
+        ],
+        "(a)": [
+          14
+        ],
+        "violation": [
+          15
+        ],
+        "independence": [
+          18,
+          103
+        ],
+        "assumption,": [
+          19
+        ],
+        "(b)": [
+          20
+        ],
+        "evaluation": [
+          22
+        ],
+        "with": [
+          23,
+          54,
+          85,
+          219
+        ],
+        "an": [
+          24,
+          195
+        ],
+        "inappropriate": [
+          25
+        ],
+        "performance": [
+          26,
+          68,
+          81,
+          173
+        ],
+        "indicator": [
+          27
+        ],
+        "or": [
+          28
+        ],
+        "baseline": [
+          29
+        ],
+        "for": [
+          30,
+          129,
+          135,
+          148,
+          159,
+          191,
+          240,
+          267
+        ],
+        "comparison,": [
+          31
+        ],
+        "and": [
+          32,
+          37,
+          46,
+          55,
+          69,
+          78,
+          86,
+          110,
+          119,
+          133,
+          142,
+          145,
+          234
+        ],
+        "(c)": [
+          33
+        ],
+        "batch": [
+          34,
+          186
+        ],
+        "effect.": [
+          35
+        ],
+        "Materials": [
+          36
+        ],
+        "Methods": [
+          38
+        ],
+        "The": [
+          39
+        ],
+        "authors": [
+          40
+        ],
+        "used": [
+          41,
+          74
+        ],
+        "retrospective": [
+          42
+        ],
+        "CT,": [
+          43
+        ],
+        "histopathologic": [
+          44,
+          150
+        ],
+        "analysis,": [
+          45
+        ],
+        "radiography": [
+          47
+        ],
+        "datasets": [
+          48,
+          163
+        ],
+        "to": [
+          49,
+          61,
+          75
+        ],
+        "develop": [
+          50
+        ],
+        "machine": [
+          51
+        ],
+        "learning": [
+          52,
+          216
+        ],
+        "models": [
+          53,
+          83,
+          217
+        ],
+        "without": [
+          56,
+          87
+        ],
+        "quantitatively": [
+          62
+        ],
+        "illustrate": [
+          63
+        ],
+        "their": [
+          64
+        ],
+        "effect": [
+          65
+        ],
+        "generalizability.": [
+          70
+        ],
+        "F1": [
+          71,
+          125,
+          167,
+          196
+        ],
+        "score": [
+          72,
+          168,
+          197
+        ],
+        "was": [
+          73
+        ],
+        "measure": [
+          76
+        ],
+        "performance,": [
+          77
+        ],
+        "differences": [
+          79
+        ],
+        "in": [
+          80,
+          140,
+          152
+        ],
+        "between": [
+          82
+        ],
+        "developed": [
+          84,
+          218
+        ],
+        "errors": [
+          88
+        ],
+        "were": [
+          89
+        ],
+        "assessed": [
+          90
+        ],
+        "using": [
+          91
+        ],
+        "Wilcoxon": [
+          93
+        ],
+        "rank": [
+          94
+        ],
+        "sum": [
+          95
+        ],
+        "test": [
+          96,
+          120
+        ],
+        "when": [
+          97
+        ],
+        "applicable.": [
+          98
+        ],
+        "Results": [
+          99
+        ],
+        "Violation": [
+          100
+        ],
+        "assumption": [
+          104
+        ],
+        "by": [
+          105,
+          127,
+          146,
+          169
+        ],
+        "applying": [
+          106
+        ],
+        "oversampling,": [
+          107
+        ],
+        "feature": [
+          108
+        ],
+        "selection,": [
+          109
+        ],
+        "data": [
+          111,
+          115,
+          157
+        ],
+        "augmentation": [
+          112
+        ],
+        "before": [
+          113
+        ],
+        "splitting": [
+          114
+        ],
+        "into": [
+          116
+        ],
+        "training,": [
+          117
+        ],
+        "validation,": [
+          118
+        ],
+        "sets": [
+          121
+        ],
+        "seemingly": [
+          122
+        ],
+        "improved": [
+          123,
+          165
+        ],
+        "scores": [
+          126
+        ],
+        "71.2%": [
+          128
+        ],
+        "predicting": [
+          130,
+          136
+        ],
+        "local": [
+          131
+        ],
+        "recurrence": [
+          132
+        ],
+        "5.0%": [
+          134
+        ],
+        "3-year": [
+          137
+        ],
+        "overall": [
+          138
+        ],
+        "survival": [
+          139
+        ],
+        "head": [
+          141
+        ],
+        "neck": [
+          143
+        ],
+        "cancer": [
+          144
+        ],
+        "46.0%": [
+          147
+        ],
+        "distinguishing": [
+          149
+        ],
+        "patterns": [
+          151
+        ],
+        "lung": [
+          153,
+          179
+        ],
+        "cancer.": [
+          154
+        ],
+        "Randomly": [
+          155
+        ],
+        "distributing": [
+          156
+        ],
+        "points": [
+          158
+        ],
+        "a": [
+          160,
+          185,
+          188,
+          208,
+          272
+        ],
+        "patient": [
+          161
+        ],
+        "across": [
+          162
+        ],
+        "superficially": [
+          164
+        ],
+        "21.8%.": [
+          170
+        ],
+        "High": [
+          171
+        ],
+        "metrics": [
+          174
+        ],
+        "did": [
+          175
+        ],
+        "not": [
+          176
+        ],
+        "indicate": [
+          177
+        ],
+        "high-quality": [
+          178
+        ],
+        "segmentation.": [
+          180
+        ],
+        "In": [
+          181
+        ],
+        "presence": [
+          183
+        ],
+        "effect,": [
+          187
+        ],
+        "built": [
+          190
+        ],
+        "pneumonia": [
+          192
+        ],
+        "detection": [
+          193
+        ],
+        "had": [
+          194
+        ],
+        "98.7%": [
+          199
+        ],
+        "but": [
+          200
+        ],
+        "correctly": [
+          201
+        ],
+        "classified": [
+          202
+        ],
+        "only": [
+          203
+        ],
+        "3.86%": [
+          204
+        ],
+        "samples": [
+          206
+        ],
+        "from": [
+          207
+        ],
+        "new": [
+          209
+        ],
+        "dataset": [
+          210
+        ],
+        "healthy": [
+          212
+        ],
+        "patients.": [
+          213
+        ],
+        "Conclusion": [
+          214
+        ],
+        "Machine": [
+          215,
+          257
+        ],
+        "these": [
+          220,
+          236
+        ],
+        "pitfalls,": [
+          222
+        ],
+        "which": [
+          223
+        ],
+        "are": [
+          224
+        ],
+        "undetectable": [
+          225
+        ],
+        "during": [
+          226
+        ],
+        "internal": [
+          227
+        ],
+        "evaluation,": [
+          228
+        ],
+        "produce": [
+          229
+        ],
+        "inaccurate": [
+          230
+        ],
+        "predictions;": [
+          231
+        ],
+        "thus,": [
+          232
+        ],
+        "understanding": [
+          233
+        ],
+        "avoiding": [
+          235
+        ],
+        "is": [
+          238,
+          265
+        ],
+        "necessary": [
+          239
+        ],
+        "developing": [
+          241
+        ],
+        "generalizable": [
+          242
+        ],
+        "models.": [
+          243
+        ],
+        "Keywords:": [
+          244
+        ],
+        "Random": [
+          245
+        ],
+        "Forest,": [
+          246
+        ],
+        "Diagnosis,": [
+          247
+        ],
+        "Prognosis,": [
+          248
+        ],
+        "Convolutional": [
+          249
+        ],
+        "Neural": [
+          250
+        ],
+        "Network": [
+          251
+        ],
+        "(CNN),": [
+          252
+        ],
+        "Medical": [
+          253
+        ],
+        "Image": [
+          254
+        ],
+        "Analysis,": [
+          255
+        ],
+        "Generalizability,": [
+          256
+        ],
+        "Learning,": [
+          258,
+          260
+        ],
+        "Deep": [
+          259
+        ],
+        "Model": [
+          261
+        ],
+        "Evaluation": [
+          262
+        ],
+        "Supplemental": [
+          263
+        ],
+        "material": [
+          264
+        ],
+        "available": [
+          266
+        ],
+        "this": [
+          268
+        ],
+        "article.": [
+          269
+        ],
+        "Published": [
+          270
+        ],
+        "under": [
+          271
+        ],
+        "CC": [
+          273
+        ],
+        "BY": [
+          274
+        ],
+        "4.0": [
+          275
+        ],
+        "license.": [
+          276
+        ]
+      },
+      "cited_by_count": 128,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1148/ryai.220028",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W4309674289",
+      "doi": "https://doi.org/10.1145/3571730",
+      "title": "Survey of Hallucination in Natural Language Generation",
+      "publication_year": 2022,
+      "primary_location": {
+        "id": "doi:10.1145/3571730",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3571730",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S157921468",
+          "display_name": "ACM Computing Surveys",
+          "issn_l": "0360-0300",
+          "issn": [
+            "0360-0300",
+            "1557-7341"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACM Computing Surveys",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5010444468",
+            "display_name": "Ziwei Ji",
+            "orcid": "https://orcid.org/0000-0002-0206-7861"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ziwei Ji",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0206-7861",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101839369",
+            "display_name": "Nayeon Lee",
+            "orcid": "https://orcid.org/0000-0003-1144-1103"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nayeon Lee",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1144-1103",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040690315",
+            "display_name": "Rita Frieske",
+            "orcid": "https://orcid.org/0000-0002-3921-3519"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rita Frieske",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3921-3519",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081246075",
+            "display_name": "Tiezheng Yu",
+            "orcid": "https://orcid.org/0000-0001-5396-950X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tiezheng Yu",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5396-950X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075183307",
+            "display_name": "Dan Su",
+            "orcid": "https://orcid.org/0000-0001-5746-9545"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dan Su",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5746-9545",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100445668",
+            "display_name": "Yan Xu",
+            "orcid": "https://orcid.org/0000-0003-2205-2429"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yan Xu",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2205-2429",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010121592",
+            "display_name": "Etsuko Ishii",
+            "orcid": "https://orcid.org/0000-0002-6423-539X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Etsuko Ishii",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6423-539X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038748527",
+            "display_name": "Ye Jin Bang",
+            "orcid": "https://orcid.org/0000-0002-2968-0033"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ye Jin Bang",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2968-0033",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061096363",
+            "display_name": "Andrea Madotto",
+            "orcid": "https://orcid.org/0000-0002-8672-715X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrea Madotto",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8672-715X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5065856469",
+            "display_name": "Pascale Fung",
+            "orcid": "https://orcid.org/0000-0002-0628-7132"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I200769079",
+              "display_name": "Hong Kong University of Science and Technology",
+              "ror": "https://ror.org/00q4vv597",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pascale Fung",
+          "raw_affiliation_strings": [
+            "Hong Kong University of Science and Technology, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0628-7132",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hong Kong University of Science and Technology, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I200769079"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Natural": [
+          0
+        ],
+        "Language": [
+          1
+        ],
+        "Generation": [
+          2
+        ],
+        "(NLG)": [
+          3
+        ],
+        "has": [
+          4,
+          26
+        ],
+        "improved": [
+          5,
+          36
+        ],
+        "exponentially": [
+          6
+        ],
+        "in": [
+          7,
+          38,
+          77,
+          90,
+          102,
+          122,
+          126,
+          156,
+          183,
+          190
+        ],
+        "recent": [
+          8
+        ],
+        "years": [
+          9
+        ],
+        "thanks": [
+          10
+        ],
+        "to": [
+          11,
+          28,
+          35,
+          62,
+          73,
+          177
+        ],
+        "the": [
+          12,
+          68,
+          117,
+          123,
+          157,
+          185
+        ],
+        "development": [
+          13,
+          37
+        ],
+        "of": [
+          14,
+          116,
+          139,
+          150,
+          187
+        ],
+        "sequence-to-sequence": [
+          15
+        ],
+        "deep": [
+          16,
+          56
+        ],
+        "learning": [
+          17,
+          57
+        ],
+        "technologies": [
+          18
+        ],
+        "such": [
+          19,
+          41
+        ],
+        "as": [
+          20,
+          42
+        ],
+        "Transformer-based": [
+          21
+        ],
+        "language": [
+          22
+        ],
+        "models.": [
+          23
+        ],
+        "This": [
+          24,
+          174
+        ],
+        "advancement": [
+          25
+        ],
+        "led": [
+          27
+        ],
+        "more": [
+          29
+        ],
+        "fluent": [
+          30
+        ],
+        "and": [
+          31,
+          47,
+          71,
+          92,
+          120,
+          143,
+          146,
+          171
+        ],
+        "coherent": [
+          32
+        ],
+        "NLG,": [
+          33
+        ],
+        "leading": [
+          34
+        ],
+        "downstream": [
+          39,
+          159
+        ],
+        "tasks": [
+          40
+        ],
+        "abstractive": [
+          43,
+          162
+        ],
+        "summarization,": [
+          44,
+          163
+        ],
+        "dialogue": [
+          45,
+          164
+        ],
+        "generation,": [
+          46,
+          165,
+          170
+        ],
+        "data-to-text": [
+          48,
+          169
+        ],
+        "generation.": [
+          49
+        ],
+        "However,": [
+          50
+        ],
+        "it": [
+          51
+        ],
+        "is": [
+          52,
+          60,
+          130
+        ],
+        "also": [
+          53
+        ],
+        "apparent": [
+          54
+        ],
+        "that": [
+          55
+        ],
+        "based": [
+          58
+        ],
+        "generation": [
+          59
+        ],
+        "prone": [
+          61
+        ],
+        "hallucinate": [
+          63
+        ],
+        "unintended": [
+          64
+        ],
+        "text,": [
+          65
+        ],
+        "which": [
+          66
+        ],
+        "degrades": [
+          67
+        ],
+        "system": [
+          69
+        ],
+        "performance": [
+          70
+        ],
+        "fails": [
+          72
+        ],
+        "meet": [
+          74
+        ],
+        "user": [
+          75
+        ],
+        "expectations": [
+          76
+        ],
+        "many": [
+          78,
+          85
+        ],
+        "real-world": [
+          79
+        ],
+        "scenarios.": [
+          80
+        ],
+        "To": [
+          81
+        ],
+        "address": [
+          82
+        ],
+        "this": [
+          83,
+          108
+        ],
+        "issue,": [
+          84
+        ],
+        "studies": [
+          86
+        ],
+        "have": [
+          87,
+          98
+        ],
+        "been": [
+          88,
+          100
+        ],
+        "presented": [
+          89
+        ],
+        "measuring": [
+          91
+        ],
+        "mitigating": [
+          93
+        ],
+        "hallucinated": [
+          94,
+          188
+        ],
+        "texts,": [
+          95
+        ],
+        "but": [
+          96
+        ],
+        "these": [
+          97
+        ],
+        "never": [
+          99
+        ],
+        "reviewed": [
+          101
+        ],
+        "a": [
+          103,
+          113,
+          136
+        ],
+        "comprehensive": [
+          104
+        ],
+        "manner": [
+          105
+        ],
+        "before.": [
+          106
+        ],
+        "In": [
+          107
+        ],
+        "survey,": [
+          109
+        ],
+        "we": [
+          110
+        ],
+        "thus": [
+          111
+        ],
+        "provide": [
+          112
+        ],
+        "broad": [
+          114
+        ],
+        "overview": [
+          115,
+          138,
+          149
+        ],
+        "research": [
+          118,
+          152
+        ],
+        "progress": [
+          119,
+          153
+        ],
+        "challenges": [
+          121
+        ],
+        "hallucination": [
+          124
+        ],
+        "problem": [
+          125
+        ],
+        "NLG.": [
+          127,
+          191
+        ],
+        "The": [
+          128
+        ],
+        "survey": [
+          129,
+          175
+        ],
+        "organized": [
+          131
+        ],
+        "into": [
+          132
+        ],
+        "two": [
+          133
+        ],
+        "parts:": [
+          134
+        ],
+        "(1)": [
+          135
+        ],
+        "general": [
+          137
+        ],
+        "metrics,": [
+          140
+        ],
+        "mitigation": [
+          141
+        ],
+        "methods,": [
+          142
+        ],
+        "future": [
+          144
+        ],
+        "directions,": [
+          145
+        ],
+        "(2)": [
+          147
+        ],
+        "an": [
+          148
+        ],
+        "task-specific": [
+          151
+        ],
+        "on": [
+          154
+        ],
+        "hallucinations": [
+          155
+        ],
+        "following": [
+          158
+        ],
+        "tasks,": [
+          160
+        ],
+        "namely": [
+          161
+        ],
+        "generative": [
+          166
+        ],
+        "question": [
+          167
+        ],
+        "answering,": [
+          168
+        ],
+        "machine": [
+          172
+        ],
+        "translation.": [
+          173
+        ],
+        "serves": [
+          176
+        ],
+        "facilitate": [
+          178
+        ],
+        "collaborative": [
+          179
+        ],
+        "efforts": [
+          180
+        ],
+        "among": [
+          181
+        ],
+        "researchers": [
+          182
+        ],
+        "tackling": [
+          184
+        ],
+        "challenge": [
+          186
+        ],
+        "texts": [
+          189
+        ]
+      },
+      "cited_by_count": 3329,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4405189055",
+      "doi": "https://doi.org/10.3390/math12233860",
+      "title": "Scalability and Security in Blockchain Networks: Evaluation of Sharding Algorithms and Prospects for Decentralized Data Storage",
+      "publication_year": 2024,
+      "primary_location": {
+        "id": "doi:10.3390/math12233860",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/math12233860",
+        "pdf_url": "https://www.mdpi.com/2227-7390/12/23/3860/pdf?version=1733646958",
+        "source": {
+          "id": "https://openalex.org/S4210192031",
+          "display_name": "Mathematics",
+          "issn_l": "2227-7390",
+          "issn": [
+            "2227-7390"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Mathematics",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5086897530",
+            "display_name": "Andrey L. Bulgakov",
+            "orcid": "https://orcid.org/0000-0001-6999-4515"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19880235",
+              "display_name": "Lomonosov Moscow State University",
+              "ror": "https://ror.org/010pmpe69",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Andrey L. Bulgakov",
+          "raw_affiliation_strings": [
+            "Faculty of Economics, Lomonosov Moscow State University, Moscow 119991, Russia",
+            "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Economics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019535936",
+            "display_name": "Anna V. Aleshina",
+            "orcid": "https://orcid.org/0000-0002-1682-7454"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19880235",
+              "display_name": "Lomonosov Moscow State University",
+              "ror": "https://ror.org/010pmpe69",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Anna V. Aleshina",
+          "raw_affiliation_strings": [
+            "Faculty of Economics, Lomonosov Moscow State University, Moscow 119991, Russia",
+            "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Economics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055889848",
+            "display_name": "Sergey D. Smirnov",
+            "orcid": "https://orcid.org/0000-0003-4392-7861"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19880235",
+              "display_name": "Lomonosov Moscow State University",
+              "ror": "https://ror.org/010pmpe69",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sergey D. Smirnov",
+          "raw_affiliation_strings": [
+            "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114283334",
+            "display_name": "Alexey D. Demidov",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19880235",
+              "display_name": "Lomonosov Moscow State University",
+              "ror": "https://ror.org/010pmpe69",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Alexey D. Demidov",
+          "raw_affiliation_strings": [
+            "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114283335",
+            "display_name": "Maxim A. Milyutin",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19880235",
+              "display_name": "Lomonosov Moscow State University",
+              "ror": "https://ror.org/010pmpe69",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Maxim A. Milyutin",
+          "raw_affiliation_strings": [
+            "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Moscow Center for Fundamental and Applied Mathematics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Yanliang Xin",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19880235",
+              "display_name": "Lomonosov Moscow State University",
+              "ror": "https://ror.org/010pmpe69",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yanliang Xin",
+          "raw_affiliation_strings": [
+            "Faculty of Economics, Lomonosov Moscow State University, Moscow 119991, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Economics, Lomonosov Moscow State University, Moscow 119991, Russia",
+              "institution_ids": [
+                "https://openalex.org/I19880235"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          120
+        ],
+        "article": [
+          1,
+          121
+        ],
+        "addresses": [
+          2
+        ],
+        "the": [
+          3,
+          25,
+          123,
+          145
+        ],
+        "issues": [
+          4
+        ],
+        "of": [
+          5,
+          147
+        ],
+        "scalability": [
+          6,
+          91,
+          155
+        ],
+        "and": [
+          7,
+          18,
+          28,
+          38,
+          59,
+          69,
+          78,
+          99,
+          108,
+          116,
+          134,
+          150,
+          156
+        ],
+        "security": [
+          8
+        ],
+        "in": [
+          9,
+          32
+        ],
+        "blockchain": [
+          10
+        ],
+        "networks,": [
+          11,
+          151
+        ],
+        "with": [
+          12
+        ],
+        "a": [
+          13,
+          44,
+          126,
+          138
+        ],
+        "focus": [
+          14
+        ],
+        "on": [
+          15
+        ],
+        "sharding": [
+          16,
+          146
+        ],
+        "algorithms": [
+          17
+        ],
+        "decentralized": [
+          19
+        ],
+        "data": [
+          20,
+          50
+        ],
+        "storage.": [
+          21
+        ],
+        "Key": [
+          22
+        ],
+        "challenges": [
+          23
+        ],
+        "include": [
+          24
+        ],
+        "low": [
+          26
+        ],
+        "throughput": [
+          27
+        ],
+        "high": [
+          29
+        ],
+        "transaction": [
+          30,
+          117
+        ],
+        "latency": [
+          31
+        ],
+        "public": [
+          33
+        ],
+        "networks": [
+          34
+        ],
+        "such": [
+          35,
+          63,
+          102
+        ],
+        "as": [
+          36,
+          43,
+          64,
+          103
+        ],
+        "Bitcoin": [
+          37
+        ],
+        "Ethereum.": [
+          39
+        ],
+        "Sharding": [
+          40,
+          61
+        ],
+        "is": [
+          41,
+          141
+        ],
+        "examined": [
+          42
+        ],
+        "method": [
+          45
+        ],
+        "to": [
+          46,
+          96,
+          113
+        ],
+        "enhance": [
+          47
+        ],
+        "performance": [
+          48,
+          115
+        ],
+        "through": [
+          49
+        ],
+        "distribution,": [
+          51
+        ],
+        "but": [
+          52,
+          92
+        ],
+        "it": [
+          53
+        ],
+        "raises": [
+          54
+        ],
+        "concerns": [
+          55
+        ],
+        "regarding": [
+          56
+        ],
+        "node": [
+          57
+        ],
+        "management": [
+          58
+        ],
+        "reliability.": [
+          60
+        ],
+        "schemes,": [
+          62
+        ],
+        "Elastico,": [
+          65
+        ],
+        "OmniLedger,": [
+          66
+        ],
+        "Pyramid,": [
+          67
+        ],
+        "RepChain,": [
+          68
+        ],
+        "SSchain,": [
+          70
+        ],
+        "are": [
+          71
+        ],
+        "analyzed,": [
+          72
+        ],
+        "each": [
+          73
+        ],
+        "presenting": [
+          74
+        ],
+        "its": [
+          75
+        ],
+        "own": [
+          76
+        ],
+        "advantages": [
+          77
+        ],
+        "drawbacks.": [
+          79
+        ],
+        "Alternative": [
+          80
+        ],
+        "architectures": [
+          81
+        ],
+        "like": [
+          82
+        ],
+        "Directed": [
+          83
+        ],
+        "Acyclic": [
+          84
+        ],
+        "Graphs": [
+          85
+        ],
+        "(DAGs)": [
+          86
+        ],
+        "demonstrate": [
+          87
+        ],
+        "potential": [
+          88
+        ],
+        "for": [
+          89,
+          125
+        ],
+        "improved": [
+          90
+        ],
+        "require": [
+          93
+        ],
+        "further": [
+          94
+        ],
+        "refinement": [
+          95
+        ],
+        "ensure": [
+          97
+        ],
+        "decentralization": [
+          98
+        ],
+        "security.": [
+          100
+        ],
+        "Protocols": [
+          101
+        ],
+        "Brokerchain,": [
+          104
+        ],
+        "Meepo,": [
+          105
+        ],
+        "AHL,": [
+          106
+        ],
+        "Benzene,": [
+          107
+        ],
+        "CycLedger": [
+          109
+        ],
+        "offer": [
+          110
+        ],
+        "unique": [
+          111
+        ],
+        "approaches": [
+          112
+        ],
+        "addressing": [
+          114
+        ],
+        "consistency": [
+          118
+        ],
+        "issues.": [
+          119
+        ],
+        "emphasizes": [
+          122
+        ],
+        "need": [
+          124
+        ],
+        "comprehensive": [
+          127
+        ],
+        "approach,": [
+          128
+        ],
+        "including": [
+          129
+        ],
+        "dynamic": [
+          130
+        ],
+        "sharding,": [
+          131
+        ],
+        "multi-level": [
+          132
+        ],
+        "consensus,": [
+          133
+        ],
+        "inter-shard": [
+          135
+        ],
+        "coordination.": [
+          136
+        ],
+        "Additionally,": [
+          137
+        ],
+        "conceptual": [
+          139
+        ],
+        "model": [
+          140
+        ],
+        "proposed": [
+          142
+        ],
+        "that": [
+          143
+        ],
+        "incorporates": [
+          144
+        ],
+        "transactions,": [
+          148
+        ],
+        "states,": [
+          149
+        ],
+        "which": [
+          152
+        ],
+        "enables": [
+          153
+        ],
+        "greater": [
+          154
+        ],
+        "efficiency.": [
+          157
+        ]
+      },
+      "cited_by_count": 13,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2227-7390/12/23/3860/pdf?version=1733646958",
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W4406728221",
+      "doi": "https://doi.org/10.1109/access.2025.3532853",
+      "title": "Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/access.2025.3532853",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1109/access.2025.3532853",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2485537415",
+          "display_name": "IEEE Access",
+          "issn_l": "2169-3536",
+          "issn": [
+            "2169-3536"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Access",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052257805",
+            "display_name": "Deepak Bhaskar Acharya",
+            "orcid": "https://orcid.org/0000-0002-7071-8849"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I82495205",
+              "display_name": "University of Alabama in Huntsville",
+              "ror": "https://ror.org/02zsxwr40",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I82495205"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Deepak Bhaskar Acharya",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, The University of Alabama in Huntsville, Huntsville, AL, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7071-8849",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, The University of Alabama in Huntsville, Huntsville, AL, USA",
+              "institution_ids": [
+                "https://openalex.org/I82495205"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106840535",
+            "display_name": "Karthigeyan Kuppan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1305429384",
+              "display_name": "JPMorgan Chase & Co (United States)",
+              "ror": "https://ror.org/01x3kkr08",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1305429384"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Karthigeyan Kuppan",
+          "raw_affiliation_strings": [
+            "JPMorgan Chase, Houston, TX, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0000-7416-7725",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "JPMorgan Chase, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I1305429384"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5100686624",
+            "display_name": "B Divya",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I164861460",
+              "display_name": "Manipal Academy of Higher Education",
+              "ror": "https://ror.org/02xzytt36",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I164861460"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "B. Divya",
+          "raw_affiliation_strings": [
+            "Department of Electronics and Communication Engineering, Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal, Karnataka, India",
+            "Department of Electronics &#x0026; Communication Engineering, Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal, KA, INDIA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9523-5229",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Electronics and Communication Engineering, Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal, Karnataka, India",
+              "institution_ids": [
+                "https://openalex.org/I164861460"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Electronics &#x0026; Communication Engineering, Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal, KA, INDIA",
+              "institution_ids": [
+                "https://openalex.org/I164861460"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Agentic": [
+          0,
+          32,
+          65,
+          103,
+          124,
+          150
+        ],
+        "AI,": [
+          1,
+          23,
+          104,
+          151
+        ],
+        "an": [
+          2
+        ],
+        "emerging": [
+          3
+        ],
+        "paradigm": [
+          4
+        ],
+        "in": [
+          5,
+          46,
+          91,
+          157
+        ],
+        "artificial": [
+          6
+        ],
+        "intelligence,": [
+          7
+        ],
+        "refers": [
+          8
+        ],
+        "to": [
+          9,
+          13,
+          43,
+          137,
+          149
+        ],
+        "autonomous": [
+          10
+        ],
+        "systems": [
+          11,
+          90
+        ],
+        "designed": [
+          12
+        ],
+        "pursue": [
+          14
+        ],
+        "complex": [
+          15
+        ],
+        "goals": [
+          16
+        ],
+        "with": [
+          17,
+          159
+        ],
+        "minimal": [
+          18
+        ],
+        "human": [
+          19
+        ],
+        "intervention.": [
+          20
+        ],
+        "Unlike": [
+          21
+        ],
+        "traditional": [
+          22
+        ],
+        "which": [
+          24
+        ],
+        "depends": [
+          25
+        ],
+        "on": [
+          26,
+          134
+        ],
+        "structured": [
+          27
+        ],
+        "instructions": [
+          28
+        ],
+        "and": [
+          29,
+          39,
+          58,
+          71,
+          80,
+          112,
+          121,
+          155,
+          164
+        ],
+        "close": [
+          30
+        ],
+        "oversight,": [
+          31
+        ],
+        "AI": [
+          33,
+          125
+        ],
+        "demonstrates": [
+          34
+        ],
+        "adaptability,": [
+          35
+        ],
+        "advanced": [
+          36
+        ],
+        "decision-making": [
+          37
+        ],
+        "capabilities": [
+          38
+        ],
+        "self-sufficiency,": [
+          40
+        ],
+        "enabling": [
+          41
+        ],
+        "it": [
+          42
+        ],
+        "operate": [
+          44
+        ],
+        "dynamically": [
+          45
+        ],
+        "evolving": [
+          47
+        ],
+        "environments.": [
+          48
+        ],
+        "This": [
+          49,
+          142
+        ],
+        "survey": [
+          50,
+          143
+        ],
+        "thoroughly": [
+          51
+        ],
+        "explores": [
+          52
+        ],
+        "the": [
+          53,
+          62,
+          85,
+          98,
+          129
+        ],
+        "foundational": [
+          54
+        ],
+        "concepts,": [
+          55
+        ],
+        "unique": [
+          56
+        ],
+        "characteristics,": [
+          57
+        ],
+        "core": [
+          59
+        ],
+        "methodologies": [
+          60
+        ],
+        "driving": [
+          61
+        ],
+        "development": [
+          63
+        ],
+        "of": [
+          64,
+          87
+        ],
+        "AI.": [
+          66
+        ],
+        "We": [
+          67,
+          115
+        ],
+        "examine": [
+          68
+        ],
+        "its": [
+          69,
+          160
+        ],
+        "current": [
+          70
+        ],
+        "potential": [
+          72,
+          162
+        ],
+        "applications": [
+          73
+        ],
+        "across": [
+          74
+        ],
+        "various": [
+          75
+        ],
+        "fields,": [
+          76
+        ],
+        "including": [
+          77
+        ],
+        "healthcare,": [
+          78
+        ],
+        "finance,": [
+          79
+        ],
+        "adaptive": [
+          81
+        ],
+        "software": [
+          82
+        ],
+        "systems,": [
+          83
+        ],
+        "emphasizing": [
+          84
+        ],
+        "advantages": [
+          86
+        ],
+        "deploying": [
+          88
+        ],
+        "agentic": [
+          89
+        ],
+        "real-world": [
+          92
+        ],
+        "scenarios.": [
+          93
+        ],
+        "The": [
+          94
+        ],
+        "paper": [
+          95
+        ],
+        "also": [
+          96
+        ],
+        "addresses": [
+          97
+        ],
+        "ethical": [
+          99,
+          135
+        ],
+        "challenges": [
+          100
+        ],
+        "posed": [
+          101
+        ],
+        "by": [
+          102
+        ],
+        "proposing": [
+          105
+        ],
+        "solutions": [
+          106
+        ],
+        "for": [
+          107,
+          119,
+          131
+        ],
+        "goal": [
+          108
+        ],
+        "alignment,": [
+          109
+        ],
+        "resource": [
+          110
+        ],
+        "constraints,": [
+          111
+        ],
+        "environmental": [
+          113
+        ],
+        "adaptability.": [
+          114
+        ],
+        "outline": [
+          116
+        ],
+        "a": [
+          117,
+          146
+        ],
+        "framework": [
+          118
+        ],
+        "safely": [
+          120
+        ],
+        "effectively": [
+          122
+        ],
+        "integrating": [
+          123
+        ],
+        "into": [
+          126
+        ],
+        "society,": [
+          127
+        ],
+        "highlighting": [
+          128
+        ],
+        "need": [
+          130
+        ],
+        "further": [
+          132
+        ],
+        "research": [
+          133
+        ],
+        "considerations": [
+          136
+        ],
+        "ensure": [
+          138
+        ],
+        "beneficial": [
+          139
+        ],
+        "societal": [
+          140
+        ],
+        "impacts.": [
+          141
+        ],
+        "serves": [
+          144
+        ],
+        "as": [
+          145
+        ],
+        "comprehensive": [
+          147
+        ],
+        "introduction": [
+          148
+        ],
+        "guiding": [
+          152
+        ],
+        "researchers,": [
+          153
+        ],
+        "developers,": [
+          154
+        ],
+        "policymakers": [
+          156
+        ],
+        "engaging": [
+          158
+        ],
+        "transformative": [
+          161
+        ],
+        "responsibly": [
+          163
+        ],
+        "creatively.": [
+          165
+        ]
+      },
+      "cited_by_count": 392,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1109/access.2025.3532853",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W7133224126",
+      "doi": "https://doi.org/10.52202/068431-1800",
+      "title": "Chain-Of-Thought Prompting Elicits Reasoning in Large Language Models",
+      "publication_year": 2022,
+      "primary_location": {
+        "id": "doi:10.52202/068431-1800",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.52202/068431-1800",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Neural Information Processing Systems 35",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5074322007",
+            "display_name": "Maarten Bosma",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Maarten Bosma",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5127820429",
+            "display_name": "Ed Chi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ed Chi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018507768",
+            "display_name": "Brian Ichter",
+            "orcid": "https://orcid.org/0000-0002-6955-6432"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Brian Ichter",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5127835223",
+            "display_name": "Quoc V Le",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Quoc V Le",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010575626",
+            "display_name": "Dale Schuurmans",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Dale Schuurmans",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5127857043",
+            "display_name": "Xuezhi Wang",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Xuezhi Wang",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078446912",
+            "display_name": "Jason Wei",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jason Wei",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5127781003",
+            "display_name": "Fei Xia",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Fei Xia",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Denny Zhou",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Denny Zhou",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_count": 432,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ]
+}

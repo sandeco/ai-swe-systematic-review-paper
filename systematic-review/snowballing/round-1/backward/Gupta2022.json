@@ -1,0 +1,4819 @@
+{
+  "source": "Gupta2022",
+  "source_doi": "10.36227/techrxiv.20097701",
+  "provider": "openalex",
+  "items": [
+    {
+      "id": "https://openalex.org/W1970200091",
+      "doi": "https://doi.org/10.1016/j.intcom.2009.04.007",
+      "title": "Usability – Context, framework, definition, design and evaluation",
+      "publication_year": 2009,
+      "primary_location": {
+        "id": "doi:10.1016/j.intcom.2009.04.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.intcom.2009.04.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S23117883",
+          "display_name": "Interacting with Computers",
+          "issn_l": "0953-5438",
+          "issn": [
+            "0953-5438",
+            "1873-7951"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Interacting with Computers",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5006739593",
+            "display_name": "B Shackel",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I143804889",
+              "display_name": "Loughborough University",
+              "ror": "https://ror.org/04vg4w365",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I143804889"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Brian Shackel",
+          "raw_affiliation_strings": [
+            "HUSAT Research Institute and Department of Human Sciences, Loughborough University of Technology, Loughborough, Leicestershire LE11 3TU, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "HUSAT Research Institute and Department of Human Sciences, Loughborough University of Technology, Loughborough, Leicestershire LE11 3TU, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I143804889"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "For": [
+          0
+        ],
+        "many": [
+          1
+        ],
+        "users": [
+          2,
+          31,
+          55
+        ],
+        "the": [
+          3,
+          8,
+          19,
+          51,
+          63,
+          66,
+          69,
+          109,
+          124,
+          128,
+          152,
+          166,
+          170,
+          174,
+          181,
+          184,
+          201,
+          213,
+          219
+        ],
+        "informatics": [
+          4
+        ],
+        "system": [
+          5,
+          71,
+          217
+        ],
+        "is": [
+          6,
+          18,
+          88,
+          159,
+          187,
+          218
+        ],
+        "essentially": [
+          7
+        ],
+        "terminal": [
+          9
+        ],
+        "or": [
+          10
+        ],
+        "workstation": [
+          11
+        ],
+        "which": [
+          12,
+          47
+        ],
+        "they": [
+          13,
+          23
+        ],
+        "are": [
+          14,
+          32
+        ],
+        "using,": [
+          15
+        ],
+        "and": [
+          16,
+          39,
+          56,
+          93,
+          138,
+          163,
+          197
+        ],
+        "that": [
+          17,
+          147
+        ],
+        "central": [
+          20
+        ],
+        "computer": [
+          21,
+          70
+        ],
+        "as": [
+          22,
+          34,
+          65,
+          74
+        ],
+        "see": [
+          24,
+          62
+        ],
+        "it.": [
+          25
+        ],
+        "But": [
+          26
+        ],
+        "only": [
+          27
+        ],
+        "too": [
+          28
+        ],
+        "often": [
+          29,
+          89,
+          173
+        ],
+        "these": [
+          30
+        ],
+        "seen": [
+          33
+        ],
+        "“end-users”": [
+          35
+        ],
+        "by": [
+          36,
+          91,
+          101
+        ],
+        "designers": [
+          37,
+          133
+        ],
+        "–": [
+          38
+        ],
+        "this": [
+          40,
+          145,
+          209
+        ],
+        "name": [
+          41
+        ],
+        "may": [
+          42
+        ],
+        "well": [
+          43
+        ],
+        "betray": [
+          44
+        ],
+        "an": [
+          45
+        ],
+        "attitude": [
+          46
+        ],
+        "causes": [
+          48
+        ],
+        "some": [
+          49
+        ],
+        "of": [
+          50,
+          68,
+          73,
+          106,
+          111,
+          114,
+          130,
+          136,
+          183,
+          194,
+          211,
+          215
+        ],
+        "bad": [
+          52
+        ],
+        "design": [
+          53,
+          182
+        ],
+        "for": [
+          54
+        ],
+        "failures": [
+          57
+        ],
+        "in": [
+          58,
+          108,
+          144,
+          180,
+          203
+        ],
+        "usability.": [
+          59
+        ],
+        "Designers": [
+          60
+        ],
+        "must": [
+          61
+        ],
+        "user": [
+          64,
+          168,
+          202
+        ],
+        "centre": [
+          67,
+          214
+        ],
+        "instead": [
+          72
+        ],
+        "a": [
+          75,
+          131,
+          161,
+          164,
+          191,
+          204,
+          216
+        ],
+        "mere": [
+          76
+        ],
+        "peripheral.": [
+          77
+        ],
+        "This": [
+          78
+        ],
+        "simple": [
+          79
+        ],
+        "concept,": [
+          80
+        ],
+        "easy": [
+          81
+        ],
+        "to": [
+          82,
+          86,
+          150,
+          177,
+          189,
+          198
+        ],
+        "state": [
+          83
+        ],
+        "but": [
+          84
+        ],
+        "harder": [
+          85
+        ],
+        "achieve,": [
+          87
+        ],
+        "expounded": [
+          90
+        ],
+        "ergonomists": [
+          92
+        ],
+        "human": [
+          94
+        ],
+        "factors": [
+          95
+        ],
+        "specialists.": [
+          96
+        ],
+        "It": [
+          97,
+          186
+        ],
+        "has": [
+          98
+        ],
+        "been": [
+          99
+        ],
+        "emphasised": [
+          100
+        ],
+        "Nicholls": [
+          102
+        ],
+        "(1979):": [
+          103
+        ],
+        "In": [
+          104,
+          120
+        ],
+        "spite": [
+          105
+        ],
+        "changes": [
+          107
+        ],
+        "nature": [
+          110
+        ],
+        "computing,": [
+          112,
+          212
+        ],
+        "remnants": [
+          113
+        ],
+        "old": [
+          115
+        ],
+        "thinking": [
+          116
+        ],
+        "remain": [
+          117
+        ],
+        "with": [
+          118
+        ],
+        "us.": [
+          119
+        ],
+        "former": [
+          121
+        ],
+        "days,": [
+          122
+        ],
+        "when": [
+          123
+        ],
+        "CPU": [
+          125
+        ],
+        "was": [
+          126,
+          143,
+          172
+        ],
+        "at": [
+          127,
+          169,
+          200
+        ],
+        "heart": [
+          129
+        ],
+        "system,": [
+          132
+        ],
+        "naturally": [
+          134
+        ],
+        "talked": [
+          135
+        ],
+        "“terminals”": [
+          137
+        ],
+        "“peripherals”.": [
+          139
+        ],
+        "I": [
+          140
+        ],
+        "suspect": [
+          141
+        ],
+        "it": [
+          142
+        ],
+        "period": [
+          146
+        ],
+        "people": [
+          148
+        ],
+        "began": [
+          149
+        ],
+        "use": [
+          151
+        ],
+        "term": [
+          153
+        ],
+        "“end": [
+          154
+        ],
+        "user”.": [
+          155
+        ],
+        "The": [
+          156
+        ],
+        "unconscious": [
+          157
+        ],
+        "symbolism": [
+          158
+        ],
+        "both": [
+          160
+        ],
+        "symptom": [
+          162
+        ],
+        "cause;": [
+          165
+        ],
+        "“end”": [
+          167
+        ],
+        "“terminal”": [
+          171
+        ],
+        "last": [
+          175
+        ],
+        "person": [
+          176
+        ],
+        "be": [
+          178
+        ],
+        "considered": [
+          179
+        ],
+        "system.": [
+          185
+        ],
+        "important": [
+          188
+        ],
+        "develop": [
+          190
+        ],
+        "new": [
+          192
+        ],
+        "view": [
+          193,
+          210
+        ],
+        "computing": [
+          195
+        ],
+        "systems,": [
+          196
+        ],
+        "look": [
+          199
+        ],
+        "different": [
+          205
+        ],
+        "light": [
+          206
+        ],
+        "…": [
+          207
+        ],
+        "taking": [
+          208
+        ],
+        "user.": [
+          220
+        ]
+      },
+      "cited_by_count": 418,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2055000704",
+      "doi": "https://doi.org/10.1016/j.infsof.2011.02.007",
+      "title": "Usability evaluation methods for the web: A systematic mapping study",
+      "publication_year": 2011,
+      "primary_location": {
+        "id": "doi:10.1016/j.infsof.2011.02.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.infsof.2011.02.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S205010575",
+          "display_name": "Information and Software Technology",
+          "issn_l": "0950-5849",
+          "issn": [
+            "0950-5849",
+            "1873-6025"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Information and Software Technology",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002803924",
+            "display_name": "Adrián Fernandez",
+            "orcid": "https://orcid.org/0000-0002-9434-9494"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60053951",
+              "display_name": "Universitat Politècnica de València",
+              "ror": "https://ror.org/01460j859",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60053951"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Adrian Fernandez",
+          "raw_affiliation_strings": [
+            "ISSI Research Group, Department of Information Systems and Computation, Universitat Politécnica de Valéncia, Camino de Vera, s/n, 46022 Valencia, Spain"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ISSI Research Group, Department of Information Systems and Computation, Universitat Politécnica de Valéncia, Camino de Vera, s/n, 46022 Valencia, Spain",
+              "institution_ids": [
+                "https://openalex.org/I60053951"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5106127259",
+            "display_name": "Emilio Insfrán",
+            "orcid": "https://orcid.org/0000-0003-0855-5564"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60053951",
+              "display_name": "Universitat Politècnica de València",
+              "ror": "https://ror.org/01460j859",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60053951"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Emilio Insfran",
+          "raw_affiliation_strings": [
+            "ISSI Research Group, Department of Information Systems and Computation, Universitat Politécnica de Valéncia, Camino de Vera, s/n, 46022 Valencia, Spain"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ISSI Research Group, Department of Information Systems and Computation, Universitat Politécnica de Valéncia, Camino de Vera, s/n, 46022 Valencia, Spain",
+              "institution_ids": [
+                "https://openalex.org/I60053951"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5063859419",
+            "display_name": "Silvia Abrahão",
+            "orcid": "https://orcid.org/0000-0003-3580-2014"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60053951",
+              "display_name": "Universitat Politècnica de València",
+              "ror": "https://ror.org/01460j859",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60053951"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Silvia Abrahão",
+          "raw_affiliation_strings": [
+            "ISSI Research Group, Department of Information Systems and Computation, Universitat Politécnica de Valéncia, Camino de Vera, s/n, 46022 Valencia, Spain"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ISSI Research Group, Department of Information Systems and Computation, Universitat Politécnica de Valéncia, Camino de Vera, s/n, 46022 Valencia, Spain",
+              "institution_ids": [
+                "https://openalex.org/I60053951"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_count": 494,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/10251/33426",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2491724337",
+      "doi": "https://doi.org/10.1109/zinc.2016.7513646",
+      "title": "User behavior prediction in the “offline” smart home solutions",
+      "publication_year": 2016,
+      "primary_location": {
+        "id": "doi:10.1109/zinc.2016.7513646",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/zinc.2016.7513646",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2016 Zooming Innovation in Consumer Electronics International Conference (ZINC)",
+        "raw_type": "proceedings-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5041463442",
+            "display_name": "Valery Milykh",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Valery Milykh",
+          "raw_affiliation_strings": [
+            "Quarta Technologies, Moscow, Russia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Quarta Technologies, Moscow, Russia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025368980",
+            "display_name": "Dmitry Vavilov",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Dmitry Vavilov",
+          "raw_affiliation_strings": [
+            "T-Systems, St-Petersburg, Russia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "T-Systems, St-Petersburg, Russia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109986938",
+            "display_name": "Ivan Platonov",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ivan Platonov",
+          "raw_affiliation_strings": [
+            "Billetkontoret A/S IT Dept., St-Petersburg, Russia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Billetkontoret A/S IT Dept., St-Petersburg, Russia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5059117817",
+            "display_name": "А. Г. Анисимов",
+            "orcid": "https://orcid.org/0000-0002-0244-2246"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I172901346",
+              "display_name": "St Petersburg University",
+              "ror": "https://ror.org/023znxa73",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I172901346"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Anisimov",
+          "raw_affiliation_strings": [
+            "State University, St-Petersburg, Russia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State University, St-Petersburg, Russia",
+              "institution_ids": [
+                "https://openalex.org/I172901346"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Smart": [
+          0,
+          25,
+          69
+        ],
+        "Home": [
+          1,
+          26
+        ],
+        "products": [
+          2
+        ],
+        "spread": [
+          3
+        ],
+        "is": [
+          4
+        ],
+        "restrained": [
+          5
+        ],
+        "due": [
+          6
+        ],
+        "to": [
+          7,
+          44
+        ],
+        "several": [
+          8
+        ],
+        "reasons": [
+          9
+        ],
+        "including": [
+          10,
+          123
+        ],
+        "poor": [
+          11
+        ],
+        "usability": [
+          12,
+          66,
+          100
+        ],
+        "and": [
+          13,
+          34,
+          82,
+          97,
+          113,
+          162
+        ],
+        "fears": [
+          14
+        ],
+        "of": [
+          15,
+          41,
+          52,
+          67,
+          78,
+          84,
+          127,
+          138,
+          140,
+          147,
+          154,
+          157
+        ],
+        "the": [
+          16,
+          30,
+          53,
+          60,
+          65,
+          68,
+          74,
+          79,
+          109,
+          116,
+          136,
+          141,
+          148
+        ],
+        "personal": [
+          17
+        ],
+        "data": [
+          18
+        ],
+        "security": [
+          19
+        ],
+        "[1,2].": [
+          20
+        ],
+        "Our": [
+          21
+        ],
+        "research": [
+          22
+        ],
+        "team": [
+          23
+        ],
+        "suggested": [
+          24,
+          143
+        ],
+        "solutions": [
+          27,
+          89
+        ],
+        "based": [
+          28,
+          90
+        ],
+        "on": [
+          29,
+          91
+        ],
+        "user": [
+          31,
+          149
+        ],
+        "behavior": [
+          32,
+          81
+        ],
+        "analysis": [
+          33,
+          77
+        ],
+        "modeling": [
+          35
+        ],
+        "[3].": [
+          36
+        ],
+        "We": [
+          37,
+          57
+        ],
+        "also": [
+          38,
+          62
+        ],
+        "studied": [
+          39
+        ],
+        "application": [
+          40
+        ],
+        "this": [
+          42,
+          92,
+          131,
+          158
+        ],
+        "approach": [
+          43,
+          61,
+          93,
+          159
+        ],
+        "different": [
+          45
+        ],
+        "householder": [
+          46
+        ],
+        "needs": [
+          47,
+          150
+        ],
+        "(like": [
+          48
+        ],
+        "healthcare": [
+          49
+        ],
+        "or": [
+          50,
+          105
+        ],
+        "imitation": [
+          51
+        ],
+        "user's": [
+          54
+        ],
+        "presence": [
+          55
+        ],
+        "[4]).": [
+          56
+        ],
+        "showed": [
+          58
+        ],
+        "that": [
+          59
+        ],
+        "critically": [
+          63
+        ],
+        "improve": [
+          64
+        ],
+        "Home.": [
+          70
+        ],
+        "Finally,": [
+          71
+        ],
+        "we": [
+          72,
+          133
+        ],
+        "described": [
+          73
+        ],
+        "methodology": [
+          75,
+          144
+        ],
+        "for": [
+          76
+        ],
+        "householder's": [
+          80
+        ],
+        "simulation": [
+          83
+        ],
+        "his": [
+          85
+        ],
+        "activities.": [
+          86
+        ],
+        "So": [
+          87
+        ],
+        "“offline”": [
+          88
+        ],
+        "allows": [
+          94
+        ],
+        "protecting": [
+          95
+        ],
+        "privacy": [
+          96
+        ],
+        "provide": [
+          98
+        ],
+        "good": [
+          99
+        ],
+        "(“offline”": [
+          101
+        ],
+        "means": [
+          102
+        ],
+        "here": [
+          103
+        ],
+        "partly": [
+          104
+        ],
+        "completely": [
+          106
+        ],
+        "disconnected": [
+          107
+        ],
+        "from": [
+          108
+        ],
+        "external": [
+          110
+        ],
+        "operating": [
+          111
+        ],
+        "signals": [
+          112
+        ],
+        "observations).": [
+          114
+        ],
+        "At": [
+          115
+        ],
+        "same": [
+          117
+        ],
+        "time": [
+          118
+        ],
+        "they": [
+          119
+        ],
+        "have": [
+          120
+        ],
+        "some": [
+          121
+        ],
+        "disadvantages": [
+          122
+        ],
+        "relatively": [
+          124
+        ],
+        "low": [
+          125
+        ],
+        "quality": [
+          126
+        ],
+        "predictions": [
+          128
+        ],
+        "[5].": [
+          129
+        ],
+        "In": [
+          130
+        ],
+        "paper": [
+          132
+        ],
+        "discuss": [
+          134
+        ],
+        "how": [
+          135
+        ],
+        "tuning": [
+          137
+        ],
+        "parameters": [
+          139
+        ],
+        "previously": [
+          142
+        ],
+        "provides": [
+          145
+        ],
+        "improvement": [
+          146
+        ],
+        "predictions.": [
+          151
+        ],
+        "The": [
+          152
+        ],
+        "results": [
+          153
+        ],
+        "primal": [
+          155
+        ],
+        "tests": [
+          156
+        ],
+        "are": [
+          160
+        ],
+        "presented": [
+          161
+        ],
+        "analyzed.": [
+          163
+        ]
+      },
+      "cited_by_count": 9,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2599803294",
+      "doi": null,
+      "title": "Parsing Software Requirements with an Ontology-based Semantic Role Labeler",
+      "publication_year": 2015,
+      "primary_location": {
+        "id": "pmh:oai:CiteSeerX.psu:10.1.1.712.5504",
+        "is_oa": false,
+        "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.712.5504",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "http://homepages.inf.ed.ac.uk/mroth/LaO15.pdf",
+        "raw_type": "text"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025079639",
+            "display_name": "Michael Roth",
+            "orcid": "https://orcid.org/0000-0002-9128-519X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Michael Roth",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5060938605",
+            "display_name": "Ewan Klein",
+            "orcid": "https://orcid.org/0000-0002-0520-8447"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ewan Klein",
+          "raw_affiliation_strings": [
+            "School of Informatics"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0520-8447",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Informatics",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Software": [
+          0
+        ],
+        "requirements": [
+          1,
+          20,
+          40,
+          53,
+          104
+        ],
+        "describe": [
+          2
+        ],
+        "functional": [
+          3
+        ],
+        "and": [
+          4,
+          11,
+          43,
+          79,
+          92,
+          97,
+          106,
+          116
+        ],
+        "non-functional": [
+          5
+        ],
+        "aspects": [
+          6
+        ],
+        "of": [
+          7,
+          21,
+          30,
+          41,
+          94
+        ],
+        "a": [
+          8,
+          73,
+          90
+        ],
+        "software": [
+          9,
+          33,
+          84,
+          103
+        ],
+        "system": [
+          10
+        ],
+        "form": [
+          12
+        ],
+        "the": [
+          13,
+          16,
+          28
+        ],
+        "basis": [
+          14
+        ],
+        "for": [
+          15,
+          81
+        ],
+        "development": [
+          17
+        ],
+        "process.": [
+          18
+        ],
+        "Accordingly,": [
+          19
+        ],
+        "existing": [
+          22,
+          42
+        ],
+        "systems": [
+          23
+        ],
+        "can": [
+          24
+        ],
+        "pro-vide": [
+          25
+        ],
+        "insights": [
+          26
+        ],
+        "regarding": [
+          27
+        ],
+        "re-usability": [
+          29
+        ],
+        "already": [
+          31
+        ],
+        "implemented": [
+          32
+        ],
+        "artifacts.": [
+          34
+        ],
+        "To": [
+          35
+        ],
+        "facilitate": [
+          36
+        ],
+        "direct": [
+          37
+        ],
+        "comparison": [
+          38
+        ],
+        "between": [
+          39
+        ],
+        "to": [
+          44,
+          50,
+          58,
+          72
+        ],
+        "be": [
+          45
+        ],
+        "developed": [
+          46
+        ],
+        "systems,": [
+          47
+        ],
+        "we": [
+          48,
+          65
+        ],
+        "propose": [
+          49
+        ],
+        "automati-cally": [
+          51
+        ],
+        "map": [
+          52
+        ],
+        "in": [
+          54
+        ],
+        "natural": [
+          55
+        ],
+        "language": [
+          56
+        ],
+        "text": [
+          57
+        ],
+        "structured": [
+          59
+        ],
+        "semantic": [
+          60,
+          69
+        ],
+        "representations.": [
+          61
+        ],
+        "For": [
+          62
+        ],
+        "this": [
+          63
+        ],
+        "task,": [
+          64
+        ],
+        "adapt": [
+          66
+        ],
+        "techniques": [
+          67
+        ],
+        "from": [
+          68
+        ],
+        "role": [
+          70
+        ],
+        "labeling": [
+          71
+        ],
+        "high-level": [
+          74
+        ],
+        "ontology": [
+          75
+        ],
+        "that": [
+          76,
+          111
+        ],
+        "defines": [
+          77
+        ],
+        "concepts": [
+          78
+        ],
+        "relations": [
+          80
+        ],
+        "describing": [
+          82
+        ],
+        "static": [
+          83
+        ],
+        "functionalities.": [
+          85
+        ],
+        "The": [
+          86
+        ],
+        "proposed": [
+          87
+        ],
+        "method": [
+          88
+        ],
+        "achieves": [
+          89
+        ],
+        "precision": [
+          91
+        ],
+        "recall": [
+          93
+        ],
+        "77.9": [
+          95
+        ],
+        "%": [
+          96
+        ],
+        "74.5%,": [
+          98
+        ],
+        "respectively,": [
+          99
+        ],
+        "on": [
+          100,
+          114
+        ],
+        "an": [
+          101
+        ],
+        "annotated": [
+          102
+        ],
+        "dataset": [
+          105
+        ],
+        "significantly": [
+          107
+        ],
+        "outperforms": [
+          108
+        ],
+        "two": [
+          109
+        ],
+        "baselines": [
+          110
+        ],
+        "are": [
+          112
+        ],
+        "based": [
+          113
+        ],
+        "lexical": [
+          115
+        ],
+        "syntactic": [
+          117
+        ],
+        "patterns.": [
+          118
+        ],
+        "1": [
+          119
+        ]
+      },
+      "cited_by_count": 13,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2912370264",
+      "doi": "https://doi.org/10.1001/jama.2019.0161",
+      "title": "A Decade of Health Information Technology Usability Challenges and the Path Forward",
+      "publication_year": 2019,
+      "primary_location": {
+        "id": "doi:10.1001/jama.2019.0161",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1001/jama.2019.0161",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S172573765",
+          "display_name": "JAMA",
+          "issn_l": "0098-7484",
+          "issn": [
+            "0098-7484",
+            "1538-3598"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320259",
+          "host_organization_name": "American Medical Association",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320259"
+          ],
+          "host_organization_lineage_names": [
+            "American Medical Association"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "JAMA",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5037268899",
+            "display_name": "Raj M. Ratwani",
+            "orcid": "https://orcid.org/0000-0002-8623-6123"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I86755215",
+              "display_name": "MedStar Health",
+              "ror": "https://ror.org/05atemp08",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I86755215"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I184565670",
+              "display_name": "Georgetown University",
+              "ror": "https://ror.org/05vzafd60",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I184565670"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Raj M. Ratwani",
+          "raw_affiliation_strings": [
+            "National Center for Human Factors in Healthcare, MedStar Health, Georgetown University School of Medicine, Washington, DC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Center for Human Factors in Healthcare, MedStar Health, Georgetown University School of Medicine, Washington, DC",
+              "institution_ids": [
+                "https://openalex.org/I86755215",
+                "https://openalex.org/I184565670"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039113155",
+            "display_name": "Jacob Reider",
+            "orcid": "https://orcid.org/0000-0002-6377-384X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I77920804",
+              "display_name": "Albany Medical Center Hospital",
+              "ror": "https://ror.org/0307crw42",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4405259726",
+                "https://openalex.org/I77920804"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacob Reider",
+          "raw_affiliation_strings": [
+            "Alliance for Better Health, Albany Medical College, Albany, New York"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Alliance for Better Health, Albany Medical College, Albany, New York",
+              "institution_ids": [
+                "https://openalex.org/I77920804"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5087248896",
+            "display_name": "Hardeep Singh",
+            "orcid": "https://orcid.org/0000-0002-4419-8974"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181547552",
+              "display_name": "Baylor College of Medicine",
+              "ror": "https://ror.org/02pttbw34",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181547552",
+                "https://openalex.org/I2801539370"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1299501804",
+              "display_name": "Michael E. DeBakey VA Medical Center",
+              "ror": "https://ror.org/052qqbc08",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I1299501804",
+                "https://openalex.org/I1322918889",
+                "https://openalex.org/I2799886695",
+                "https://openalex.org/I4210138636"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210138309",
+              "display_name": "Center for Innovation",
+              "ror": "https://ror.org/04c1v2b17",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1322918889",
+                "https://openalex.org/I2799886695",
+                "https://openalex.org/I4210089489",
+                "https://openalex.org/I4210138309"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hardeep Singh",
+          "raw_affiliation_strings": [
+            "Center for Innovations in Quality, Effectiveness, and Safety, Michael E. DeBakey Veterans Affairs Medical Center, Baylor College of Medicine, Houston, Texas"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Innovations in Quality, Effectiveness, and Safety, Michael E. DeBakey Veterans Affairs Medical Center, Baylor College of Medicine, Houston, Texas",
+              "institution_ids": [
+                "https://openalex.org/I1299501804",
+                "https://openalex.org/I181547552",
+                "https://openalex.org/I4210138309"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Our": [
+          0
+        ],
+        "website": [
+          1
+        ],
+        "uses": [
+          2
+        ],
+        "cookies": [
+          3
+        ],
+        "to": [
+          4,
+          10,
+          20,
+          171
+        ],
+        "enhance": [
+          5
+        ],
+        "your": [
+          6,
+          158
+        ],
+        "experience.": [
+          7
+        ],
+        "By": [
+          8
+        ],
+        "continuing": [
+          9
+        ],
+        "use": [
+          11
+        ],
+        "our": [
+          12,
+          21
+        ],
+        "site,": [
+          13
+        ],
+        "or": [
+          14
+        ],
+        "clicking": [
+          15
+        ],
+        "\"Continue,\"": [
+          16
+        ],
+        "you": [
+          17
+        ],
+        "are": [
+          18
+        ],
+        "agreeing": [
+          19
+        ],
+        "Cookie": [
+          22
+        ],
+        "Policy": [
+          23,
+          92
+        ],
+        "|": [
+          24,
+          90,
+          93
+        ],
+        "Continue": [
+          25
+        ],
+        "JAMA": [
+          26,
+          32,
+          33,
+          36,
+          38,
+          40,
+          43,
+          46,
+          48,
+          50,
+          52,
+          57,
+          59,
+          61,
+          105,
+          106,
+          109,
+          111,
+          113,
+          116,
+          119,
+          122,
+          124,
+          126,
+          128,
+          133,
+          135,
+          137,
+          173
+        ],
+        "HomeNew": [
+          27
+        ],
+        "OnlineCurrent": [
+          28
+        ],
+        "IssueFor": [
+          29
+        ],
+        "Authors": [
+          30
+        ],
+        "Publications": [
+          31
+        ],
+        "Network": [
+          34,
+          107
+        ],
+        "Open": [
+          35,
+          108
+        ],
+        "Cardiology": [
+          37,
+          110
+        ],
+        "Dermatology": [
+          39,
+          112
+        ],
+        "Health": [
+          41,
+          117
+        ],
+        "Forum": [
+          42,
+          114,
+          118
+        ],
+        "Internal": [
+          44,
+          120
+        ],
+        "Medicine": [
+          45,
+          121
+        ],
+        "Neurology": [
+          47,
+          65,
+          123,
+          141
+        ],
+        "Oncology": [
+          49,
+          125
+        ],
+        "Ophthalmology": [
+          51,
+          127
+        ],
+        "Otolaryngology–Head": [
+          53,
+          129
+        ],
+        "&": [
+          54,
+          66,
+          85,
+          130,
+          142
+        ],
+        "Neck": [
+          55,
+          131
+        ],
+        "Surgery": [
+          56,
+          62,
+          132,
+          138
+        ],
+        "Pediatrics": [
+          58,
+          134
+        ],
+        "Psychiatry": [
+          60,
+          67,
+          136,
+          143
+        ],
+        "Archives": [
+          63,
+          139
+        ],
+        "of": [
+          64,
+          88,
+          140
+        ],
+        "(1919-1959)": [
+          68
+        ],
+        "Podcasts": [
+          69
+        ],
+        "Clinical": [
+          70
+        ],
+        "Reviews": [
+          71
+        ],
+        "Editors'": [
+          72
+        ],
+        "Summary": [
+          73
+        ],
+        "Medical": [
+          74,
+          98
+        ],
+        "News": [
+          75
+        ],
+        "Author": [
+          76
+        ],
+        "Interviews": [
+          77
+        ],
+        "More": [
+          78
+        ],
+        "JN": [
+          79
+        ],
+        "Learning": [
+          80
+        ],
+        "/": [
+          81,
+          83
+        ],
+        "CMESubscribeJobsInstitutions": [
+          82
+        ],
+        "LibrariansReprints": [
+          84
+        ],
+        "Permissions": [
+          86
+        ],
+        "Terms": [
+          87
+        ],
+        "Use": [
+          89
+        ],
+        "Privacy": [
+          91
+        ],
+        "Accessibility": [
+          94
+        ],
+        "Statement": [
+          95
+        ],
+        "2023": [
+          96
+        ],
+        "American": [
+          97
+        ],
+        "Association.": [
+          99
+        ],
+        "All": [
+          100,
+          104
+        ],
+        "Rights": [
+          101
+        ],
+        "Reserved": [
+          102
+        ],
+        "Search": [
+          103,
+          145
+        ],
+        "Archive": [
+          115
+        ],
+        "Input": [
+          144
+        ],
+        "Term": [
+          146
+        ],
+        "Sign": [
+          147,
+          150,
+          152,
+          160
+        ],
+        "In": [
+          148,
+          151,
+          161
+        ],
+        "Individual": [
+          149
+        ],
+        "inCreate": [
+          153
+        ],
+        "an": [
+          154
+        ],
+        "Account": [
+          155
+        ],
+        "Access": [
+          156
+        ],
+        "through": [
+          157
+        ],
+        "institution": [
+          159
+        ],
+        "Purchase": [
+          162
+        ],
+        "Options:": [
+          163
+        ],
+        "Buy": [
+          164
+        ],
+        "this": [
+          165,
+          168
+        ],
+        "article": [
+          166,
+          169
+        ],
+        "Rent": [
+          167
+        ],
+        "Subscribe": [
+          170
+        ],
+        "the": [
+          172
+        ],
+        "journal": [
+          174
+        ]
+      },
+      "cited_by_count": 101,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2914256856",
+      "doi": "https://doi.org/10.1201/9781315151199",
+      "title": "Virtual Humans: Today and Tomorrow",
+      "publication_year": 2019,
+      "primary_location": {
+        "id": "pmh:oai:aleph.bib-bvb.de:BVB01-032140518",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1201/9781315151199",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "software, multimedia"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5113843245",
+            "display_name": "David Burden",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "David Burden",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5057390505",
+            "display_name": "Maggi Savin‐Baden",
+            "orcid": "https://orcid.org/0000-0002-8082-7635"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I808010",
+              "display_name": "University of Worcester",
+              "ror": "https://ror.org/00v6s9648",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I808010"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Maggi Savin‐Baden",
+          "raw_affiliation_strings": [
+            "University of Worcester ,"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8082-7635",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Worcester ,",
+              "institution_ids": [
+                "https://openalex.org/I808010"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_count": 52,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2950606302",
+      "doi": "https://doi.org/10.18420/muc2018-mci-0200",
+      "title": "Developers' Needs and Severity Conceptions of Usability Problems",
+      "publication_year": 2018,
+      "primary_location": {
+        "id": "doi:10.18420/muc2018-mci-0200",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.18420/muc2018-mci-0200",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407052918",
+          "display_name": "Gesellschaft für Informatik (GI)",
+          "issn_l": null,
+          "issn": [],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5043469866",
+            "display_name": "Ngoc-Huy Truong",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Truong, Ngoc-Huy",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049186013",
+            "display_name": "Daniel Brand",
+            "orcid": "https://orcid.org/0000-0001-6081-6587"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Brand, Daniel",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068014671",
+            "display_name": "Carine Ewert",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ewert, Carine",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5000960950",
+            "display_name": "Laura Wächter",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Wächter, Laura",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5021143916",
+            "display_name": "Rul von Stülpnagel",
+            "orcid": "https://orcid.org/0000-0001-5428-5716"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "von Stülpnagel, Rul",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "abstract_inverted_index": {
+        "To": [
+          0
+        ],
+        "improve": [
+          1
+        ],
+        "products": [
+          2
+        ],
+        "effectively,": [
+          3
+        ],
+        "usability": [
+          4,
+          28,
+          31,
+          46,
+          54,
+          72,
+          77,
+          88,
+          122,
+          133
+        ],
+        "testing": [
+          5
+        ],
+        "reports": [
+          6
+        ],
+        "must": [
+          7
+        ],
+        "be": [
+          8
+        ],
+        "comprehensible": [
+          9
+        ],
+        "for": [
+          10,
+          82
+        ],
+        "developers.": [
+          11
+        ],
+        "How-ever,": [
+          12
+        ],
+        "it": [
+          13
+        ],
+        "remains": [
+          14
+        ],
+        "unclear": [
+          15
+        ],
+        "which": [
+          16
+        ],
+        "information": [
+          17
+        ],
+        "is": [
+          18
+        ],
+        "helpful": [
+          19
+        ],
+        "and": [
+          20,
+          63,
+          70,
+          76,
+          85,
+          100,
+          112,
+          121
+        ],
+        "whether": [
+          21
+        ],
+        "developers": [
+          22,
+          41,
+          75,
+          120
+        ],
+        "agree": [
+          23
+        ],
+        "on": [
+          24,
+          91
+        ],
+        "the": [
+          25,
+          130
+        ],
+        "severity": [
+          26,
+          131
+        ],
+        "of": [
+          27,
+          39,
+          45,
+          52,
+          60,
+          68,
+          132
+        ],
+        "issues": [
+          29
+        ],
+        "with": [
+          30
+        ],
+        "researchers.": [
+          32
+        ],
+        "In": [
+          33
+        ],
+        "this": [
+          34
+        ],
+        "case": [
+          35
+        ],
+        "study,": [
+          36
+        ],
+        "a": [
+          37,
+          49,
+          57,
+          65,
+          126
+        ],
+        "team": [
+          38
+        ],
+        "software": [
+          40
+        ],
+        "rated": [
+          42
+        ],
+        "three": [
+          43
+        ],
+        "forms": [
+          44
+        ],
+        "feedback:": [
+          47
+        ],
+        "(1)": [
+          48,
+          99
+        ],
+        "low-detailed": [
+          50,
+          58
+        ],
+        "presentation": [
+          51
+        ],
+        "obtrusive": [
+          53
+        ],
+        "problems,": [
+          55,
+          62,
+          89
+        ],
+        "(2)": [
+          56
+        ],
+        "list": [
+          59,
+          67
+        ],
+        "aggregated": [
+          61,
+          71
+        ],
+        "(3)": [
+          64,
+          101
+        ],
+        "high-detailed": [
+          66
+        ],
+        "unique": [
+          69
+        ],
+        "prob-lems.": [
+          73
+        ],
+        "Furthermore,": [
+          74
+        ],
+        "researchers": [
+          78,
+          123
+        ],
+        "independently": [
+          79
+        ],
+        "created": [
+          80
+        ],
+        "criteria": [
+          81
+        ],
+        "low,": [
+          83
+        ],
+        "medium,": [
+          84
+        ],
+        "high": [
+          86
+        ],
+        "severe": [
+          87
+        ],
+        "based": [
+          90
+        ],
+        "their": [
+          92
+        ],
+        "respective": [
+          93
+        ],
+        "expertise.": [
+          94
+        ],
+        "Our": [
+          95
+        ],
+        "analyses": [
+          96
+        ],
+        "indicate": [
+          97
+        ],
+        "that": [
+          98,
+          119
+        ],
+        "were": [
+          102
+        ],
+        "both": [
+          103,
+          114
+        ],
+        "perceived": [
+          104
+        ],
+        "as": [
+          105
+        ],
+        "helpful.": [
+          106
+        ],
+        "Moreover,": [
+          107
+        ],
+        "agreement": [
+          108
+        ],
+        "within": [
+          109
+        ],
+        "each": [
+          110
+        ],
+        "group": [
+          111
+        ],
+        "between": [
+          113
+        ],
+        "groups": [
+          115
+        ],
+        "was": [
+          116
+        ],
+        "high,": [
+          117
+        ],
+        "indicating": [
+          118
+        ],
+        "can": [
+          124
+        ],
+        "have": [
+          125
+        ],
+        "similar": [
+          127
+        ],
+        "understanding": [
+          128
+        ],
+        "regarding": [
+          129
+        ],
+        "issues.": [
+          134
+        ]
+      },
+      "cited_by_count": 2,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.18420/muc2018-mci-0200",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W2963725780",
+      "doi": "https://doi.org/10.1016/j.infsof.2019.07.007",
+      "title": "Using cognitive dimensions to evaluate the usability of security APIs: An empirical investigation",
+      "publication_year": 2019,
+      "primary_location": {
+        "id": "doi:10.1016/j.infsof.2019.07.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.infsof.2019.07.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S205010575",
+          "display_name": "Information and Software Technology",
+          "issn_l": "0950-5849",
+          "issn": [
+            "0950-5849",
+            "1873-6025"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Information and Software Technology",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5057083188",
+            "display_name": "Chamila Wijayarathna",
+            "orcid": "https://orcid.org/0000-0001-5332-5341"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1292875679",
+              "display_name": "Commonwealth Scientific and Industrial Research Organisation",
+              "ror": "https://ror.org/03qn8fb07",
+              "country_code": "AU",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1292875679",
+                "https://openalex.org/I2801453606",
+                "https://openalex.org/I4387156119"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40053085",
+              "display_name": "Australian Defence Force Academy",
+              "ror": "https://ror.org/02j5s7g39",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31746571",
+                "https://openalex.org/I40053085",
+                "https://openalex.org/I4394709116"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I42894916",
+              "display_name": "Data61",
+              "ror": "https://ror.org/03q397159",
+              "country_code": "AU",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I1292875679",
+                "https://openalex.org/I2801453606",
+                "https://openalex.org/I42894916",
+                "https://openalex.org/I4387156119"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Chamila Wijayarathna",
+          "raw_affiliation_strings": [
+            "Data61, CSIRO, Melbourne, VIC 3008, Australia",
+            "School of Engineering and Information Technology (SEIT), The University of New South Wales, Australian Defence Force Academy, PO Box 7916, Canberra BA ACT 2610, Australia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5332-5341",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Data61, CSIRO, Melbourne, VIC 3008, Australia",
+              "institution_ids": [
+                "https://openalex.org/I42894916",
+                "https://openalex.org/I1292875679"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Engineering and Information Technology (SEIT), The University of New South Wales, Australian Defence Force Academy, PO Box 7916, Canberra BA ACT 2610, Australia",
+              "institution_ids": [
+                "https://openalex.org/I40053085"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5081069489",
+            "display_name": "Nalin Asanka Gamagedara Arachchilage",
+            "orcid": "https://orcid.org/0000-0002-0059-0376"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I196829312",
+              "display_name": "La Trobe University",
+              "ror": "https://ror.org/01rxfrp27",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I196829312"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40053085",
+              "display_name": "Australian Defence Force Academy",
+              "ror": "https://ror.org/02j5s7g39",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31746571",
+                "https://openalex.org/I40053085",
+                "https://openalex.org/I4394709116"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nalin Asanka Gamagedara Arachchilage",
+          "raw_affiliation_strings": [
+            "Optus La Trobe Cyber Security Research Hub La Trobe University, Bundoora, Victoria 3086, Australia",
+            "School of Engineering and Information Technology (SEIT), The University of New South Wales, Australian Defence Force Academy, PO Box 7916, Canberra BA ACT 2610, Australia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Optus La Trobe Cyber Security Research Hub La Trobe University, Bundoora, Victoria 3086, Australia",
+              "institution_ids": [
+                "https://openalex.org/I196829312"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Engineering and Information Technology (SEIT), The University of New South Wales, Australian Defence Force Academy, PO Box 7916, Canberra BA ACT 2610, Australia",
+              "institution_ids": [
+                "https://openalex.org/I40053085"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_count": 19,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2976869736",
+      "doi": "https://doi.org/10.1016/j.infsof.2019.106195",
+      "title": "Impact of usability mechanisms: An experiment on efficiency, effectiveness and user satisfaction",
+      "publication_year": 2019,
+      "primary_location": {
+        "id": "doi:10.1016/j.infsof.2019.106195",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.infsof.2019.106195",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S205010575",
+          "display_name": "Information and Software Technology",
+          "issn_l": "0950-5849",
+          "issn": [
+            "0950-5849",
+            "1873-6025"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Information and Software Technology",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101811573",
+            "display_name": "Juan M. Ferreira",
+            "orcid": "https://orcid.org/0000-0002-2131-0345"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I8379220",
+              "display_name": "Universidad Nacional de Asunción",
+              "ror": "https://ror.org/03f27y887",
+              "country_code": "PY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I8379220"
+              ]
+            }
+          ],
+          "countries": [
+            "PY"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Juan M. Ferreira",
+          "raw_affiliation_strings": [
+            "Facultad Politécnica, Universidad Nacional de Asunción, CC 2111, San Lorenzo, Paraguay"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2131-0345",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Facultad Politécnica, Universidad Nacional de Asunción, CC 2111, San Lorenzo, Paraguay",
+              "institution_ids": [
+                "https://openalex.org/I8379220"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022941249",
+            "display_name": "Silvia T. Acuña",
+            "orcid": "https://orcid.org/0000-0003-2135-6113"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63634437",
+              "display_name": "Universidad Autónoma de Madrid",
+              "ror": "https://ror.org/01cby8j38",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Silvia T. Acuña",
+          "raw_affiliation_strings": [
+            "Universidad Autónoma de Madrid, Calle Francisco Tomás y Valiente 11, 28049 Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Autónoma de Madrid, Calle Francisco Tomás y Valiente 11, 28049 Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5004737603",
+            "display_name": "Óscar Dieste",
+            "orcid": "https://orcid.org/0000-0002-3060-7853"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I88060688",
+              "display_name": "Universidad Politécnica de Madrid",
+              "ror": "https://ror.org/03n6nwv02",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I88060688"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Oscar Dieste",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Madrid, Campus de Montegancedo, 28660 Boadilla del Monte, Madrid, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3060-7853",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Madrid, Campus de Montegancedo, 28660 Boadilla del Monte, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I88060688"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076034572",
+            "display_name": "Sira Vegas",
+            "orcid": "https://orcid.org/0000-0001-8535-9386"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I88060688",
+              "display_name": "Universidad Politécnica de Madrid",
+              "ror": "https://ror.org/03n6nwv02",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I88060688"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sira Vegas",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Madrid, Campus de Montegancedo, 28660 Boadilla del Monte, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Madrid, Campus de Montegancedo, 28660 Boadilla del Monte, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I88060688"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111559595",
+            "display_name": "Adrián Santos",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98381234",
+              "display_name": "University of Oulu",
+              "ror": "https://ror.org/03yj89h83",
+              "country_code": "FI",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98381234"
+              ]
+            }
+          ],
+          "countries": [
+            "FI"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adrián Santos",
+          "raw_affiliation_strings": [
+            "M3S ITEE, University of Oulu, Finland"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8690-2309",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "M3S ITEE, University of Oulu, Finland",
+              "institution_ids": [
+                "https://openalex.org/I98381234"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036385244",
+            "display_name": "Francy D. Rodríguez",
+            "orcid": "https://orcid.org/0000-0002-3354-4819"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63634437",
+              "display_name": "Universidad Autónoma de Madrid",
+              "ror": "https://ror.org/01cby8j38",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Francy Rodríguez",
+          "raw_affiliation_strings": [
+            "Universidad Autónoma de Madrid, Calle Francisco Tomás y Valiente 11, 28049 Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Autónoma de Madrid, Calle Francisco Tomás y Valiente 11, 28049 Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5056117323",
+            "display_name": "Natália Juristo",
+            "orcid": "https://orcid.org/0000-0002-2465-7141"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I88060688",
+              "display_name": "Universidad Politécnica de Madrid",
+              "ror": "https://ror.org/03n6nwv02",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I88060688"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Natalia Juristo",
+          "raw_affiliation_strings": [
+            "Universidad Politécnica de Madrid, Campus de Montegancedo, 28660 Boadilla del Monte, Madrid, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universidad Politécnica de Madrid, Campus de Montegancedo, 28660 Boadilla del Monte, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I88060688"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_count": 81,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://urn.fi/urn:nbn:fi-fe202002054561",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3096709149",
+      "doi": "https://doi.org/10.1007/978-3-030-62522-1_24",
+      "title": "Towards an Ontology Network on Human-Computer Interaction",
+      "publication_year": 2020,
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-62522-1_24",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-62522-1_24",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106296714",
+          "display_name": "Lecture notes in computer science",
+          "issn_l": "0302-9743",
+          "issn": [
+            "0302-9743",
+            "1611-3349"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Lecture Notes in Computer Science",
+        "raw_type": "book-chapter"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5026987215",
+            "display_name": "Simone Dornelas Costa",
+            "orcid": "https://orcid.org/0000-0001-9919-2089"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51235708",
+              "display_name": "Universidade Federal do Espírito Santo",
+              "ror": "https://ror.org/05sxf4h28",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Simone Dornelas Costa",
+          "raw_affiliation_strings": [
+            "Computer Department, Federal University of Espírito Santo (UFES), Alegre, Brazil",
+            "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Computer Department, Federal University of Espírito Santo (UFES), Alegre, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I51235708"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027468858",
+            "display_name": "Monalessa Perini Barcellos",
+            "orcid": "https://orcid.org/0000-0002-6225-9478"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51235708",
+              "display_name": "Universidade Federal do Espírito Santo",
+              "ror": "https://ror.org/05sxf4h28",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Monalessa Perini Barcellos",
+          "raw_affiliation_strings": [
+            "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017900692",
+            "display_name": "Ricardo de Almeida Falbo",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51235708",
+              "display_name": "Universidade Federal do Espírito Santo",
+              "ror": "https://ror.org/05sxf4h28",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ricardo de Almeida Falbo",
+          "raw_affiliation_strings": [
+            "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5084717925",
+            "display_name": "Murillo V. H. B. Castro",
+            "orcid": "https://orcid.org/0000-0002-9976-0696"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51235708",
+              "display_name": "Universidade Federal do Espírito Santo",
+              "ror": "https://ror.org/05sxf4h28",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Murillo Vasconcelos Henriques Bitte Castro",
+          "raw_affiliation_strings": [
+            "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ontology and Conceptual Modeling Research Group (NEMO), Computer Science Department, Federal University of Espírito Santo (UFES), Vitória, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I51235708"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": null,
+      "cited_by_count": 7,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3196860672",
+      "doi": "https://doi.org/10.3390/su13179819",
+      "title": "Explainable Ontology-Based Intelligent Decision Support System for Business Model Design and Sustainability",
+      "publication_year": 2021,
+      "primary_location": {
+        "id": "doi:10.3390/su13179819",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/su13179819",
+        "pdf_url": "https://www.mdpi.com/2071-1050/13/17/9819/pdf?version=1630499806",
+        "source": {
+          "id": "https://openalex.org/S10134376",
+          "display_name": "Sustainability",
+          "issn_l": "2071-1050",
+          "issn": [
+            "2071-1050"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sustainability",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5088439842",
+            "display_name": "Basma Hamrouni",
+            "orcid": "https://orcid.org/0000-0003-4786-8096"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114564095",
+              "display_name": "University of Ouargla",
+              "ror": "https://ror.org/05amrd548",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114564095"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Basma Hamrouni",
+          "raw_affiliation_strings": [
+            "Computer Science Department, University of Ouargla, Ouargla 30000, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4786-8096",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Computer Science Department, University of Ouargla, Ouargla 30000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I114564095"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009381679",
+            "display_name": "Abdelhabib Bourouis",
+            "orcid": "https://orcid.org/0000-0002-4592-4042"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3132180716",
+              "display_name": "Larbi Ben M'hidi University of Oum El Bouaghi",
+              "ror": "https://ror.org/0034tbg85",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3132180716"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdelhabib Bourouis",
+          "raw_affiliation_strings": [
+            "Research Laboratory on Computer Science’s Complex Systems, University of Oum El Bouaghi, Oum El Bouaghi 04000, Algeria",
+            "Research Laboratory on Computer Science's Complex Systems, University of Oum El Bouaghi, Oum El Bouaghi 04000, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4592-4042",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Laboratory on Computer Science’s Complex Systems, University of Oum El Bouaghi, Oum El Bouaghi 04000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I3132180716"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Research Laboratory on Computer Science's Complex Systems, University of Oum El Bouaghi, Oum El Bouaghi 04000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I3132180716"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080839223",
+            "display_name": "Ahmed Korichi",
+            "orcid": "https://orcid.org/0000-0002-5741-4963"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114564095",
+              "display_name": "University of Ouargla",
+              "ror": "https://ror.org/05amrd548",
+              "country_code": "DZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114564095"
+              ]
+            }
+          ],
+          "countries": [
+            "DZ"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Korichi",
+          "raw_affiliation_strings": [
+            "Computer Science Department, University of Ouargla, Ouargla 30000, Algeria"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-5741-4963",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Computer Science Department, University of Ouargla, Ouargla 30000, Algeria",
+              "institution_ids": [
+                "https://openalex.org/I114564095"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5053279444",
+            "display_name": "Mohsen Brahmi",
+            "orcid": "https://orcid.org/0000-0002-0995-0761"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I142899784",
+              "display_name": "University of Sfax",
+              "ror": "https://ror.org/04d4sd432",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I142899784"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohsen Brahmi",
+          "raw_affiliation_strings": [
+            "Faculty FEM, University of Sfax, Sfax 3018, Tunisia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0995-0761",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty FEM, University of Sfax, Sfax 3018, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I142899784"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Background:": [
+          0
+        ],
+        "Case-Based": [
+          1
+        ],
+        "Reasoning": [
+          2
+        ],
+        "(CBR)": [
+          3
+        ],
+        "is": [
+          4,
+          54,
+          146
+        ],
+        "a": [
+          5,
+          36,
+          94,
+          149,
+          206
+        ],
+        "problem-solving": [
+          6
+        ],
+        "paradigm": [
+          7,
+          53,
+          196
+        ],
+        "that": [
+          8,
+          38,
+          59
+        ],
+        "uses": [
+          9
+        ],
+        "knowledge": [
+          10,
+          34,
+          68
+        ],
+        "of": [
+          11,
+          51,
+          64,
+          81,
+          143,
+          152,
+          180,
+          187,
+          200
+        ],
+        "relevant": [
+          12
+        ],
+        "past": [
+          13
+        ],
+        "experiences": [
+          14
+        ],
+        "(cases)": [
+          15
+        ],
+        "to": [
+          16,
+          42,
+          74,
+          147,
+          163,
+          166
+        ],
+        "interpret": [
+          17
+        ],
+        "or": [
+          18
+        ],
+        "solve": [
+          19
+        ],
+        "new": [
+          20,
+          150
+        ],
+        "problems.": [
+          21
+        ],
+        "CBR": [
+          22
+        ],
+        "systems": [
+          23,
+          85,
+          126,
+          156
+        ],
+        "allow": [
+          24
+        ],
+        "generating": [
+          25
+        ],
+        "explanations": [
+          26,
+          165
+        ],
+        "easily,": [
+          27,
+          90
+        ],
+        "as": [
+          28
+        ],
+        "they": [
+          29,
+          105
+        ],
+        "typically": [
+          30
+        ],
+        "organize": [
+          31
+        ],
+        "and": [
+          32,
+          45,
+          78,
+          92,
+          109,
+          119,
+          134,
+          215
+        ],
+        "represent": [
+          33,
+          93
+        ],
+        "in": [
+          35,
+          61,
+          72,
+          169
+        ],
+        "way": [
+          37
+        ],
+        "makes": [
+          39
+        ],
+        "it": [
+          40
+        ],
+        "possible": [
+          41
+        ],
+        "reason": [
+          43
+        ],
+        "about": [
+          44
+        ],
+        "thereby": [
+          46
+        ],
+        "generate": [
+          47
+        ],
+        "explanations.": [
+          48
+        ],
+        "An": [
+          49
+        ],
+        "improvement": [
+          50
+        ],
+        "this": [
+          52,
+          123,
+          139,
+          144,
+          195
+        ],
+        "ontology-based": [
+          55
+        ],
+        "CBR,": [
+          56
+        ],
+        "an": [
+          57,
+          188
+        ],
+        "approach": [
+          58
+        ],
+        "combines,": [
+          60
+        ],
+        "the": [
+          62,
+          76,
+          82,
+          102,
+          113,
+          141,
+          161,
+          178,
+          181
+        ],
+        "form": [
+          63
+        ],
+        "formal": [
+          65
+        ],
+        "ontologies,": [
+          66
+        ],
+        "case-specific": [
+          67
+        ],
+        "with": [
+          69,
+          184
+        ],
+        "domain": [
+          70
+        ],
+        "one": [
+          71,
+          103
+        ],
+        "order": [
+          73
+        ],
+        "improve": [
+          75,
+          106,
+          135
+        ],
+        "effectiveness": [
+          77
+        ],
+        "explanation": [
+          79
+        ],
+        "capability": [
+          80
+        ],
+        "system.": [
+          83,
+          192
+        ],
+        "Intelligent": [
+          84
+        ],
+        "make": [
+          86,
+          205
+        ],
+        "daily": [
+          87
+        ],
+        "activities": [
+          88
+        ],
+        "more": [
+          89
+        ],
+        "efficiently,": [
+          91
+        ],
+        "real": [
+          95
+        ],
+        "support": [
+          96,
+          155,
+          191
+        ],
+        "for": [
+          97,
+          157,
+          197,
+          209
+        ],
+        "sustainable": [
+          98,
+          128
+        ],
+        "economic": [
+          99,
+          130
+        ],
+        "development.": [
+          100
+        ],
+        "On": [
+          101
+        ],
+        "hand,": [
+          104,
+          115
+        ],
+        "efficiency,": [
+          107
+        ],
+        "productivity,": [
+          108
+        ],
+        "quality,": [
+          110
+        ],
+        "and,": [
+          111
+        ],
+        "on": [
+          112
+        ],
+        "other": [
+          114
+        ],
+        "can": [
+          116
+        ],
+        "reduce": [
+          117
+        ],
+        "costs": [
+          118
+        ],
+        "cut": [
+          120
+        ],
+        "waste.": [
+          121
+        ],
+        "In": [
+          122,
+          138
+        ],
+        "way,": [
+          124
+        ],
+        "intelligent": [
+          125,
+          153
+        ],
+        "facilitate": [
+          127
+        ],
+        "development,": [
+          129
+        ],
+        "growth,": [
+          131
+        ],
+        "societal": [
+          132
+        ],
+        "progress,": [
+          133
+        ],
+        "efficiency.": [
+          136
+        ],
+        "Aim:": [
+          137
+        ],
+        "vision,": [
+          140
+        ],
+        "purpose": [
+          142
+        ],
+        "paper": [
+          145
+        ],
+        "propose": [
+          148
+        ],
+        "generation": [
+          151
+        ],
+        "decision": [
+          154,
+          190
+        ],
+        "Business": [
+          158
+        ],
+        "Model": [
+          159
+        ],
+        "having": [
+          160
+        ],
+        "ability": [
+          162
+        ],
+        "provide": [
+          164
+        ],
+        "increase": [
+          167
+        ],
+        "confidence": [
+          168
+        ],
+        "proposed": [
+          170,
+          182
+        ],
+        "solutions.": [
+          171
+        ],
+        "Findings/result:": [
+          172
+        ],
+        "The": [
+          173
+        ],
+        "performance": [
+          174
+        ],
+        "results": [
+          175
+        ],
+        "obtained": [
+          176
+        ],
+        "show": [
+          177
+        ],
+        "benefits": [
+          179
+        ],
+        "solution": [
+          183
+        ],
+        "different": [
+          185
+        ],
+        "requirements": [
+          186
+        ],
+        "explanatory": [
+          189
+        ],
+        "Consequently,": [
+          193
+        ],
+        "applying": [
+          194
+        ],
+        "software": [
+          198
+        ],
+        "tools": [
+          199
+        ],
+        "business": [
+          201,
+          211
+        ],
+        "model": [
+          202,
+          212
+        ],
+        "development": [
+          203
+        ],
+        "will": [
+          204
+        ],
+        "great": [
+          207
+        ],
+        "promise": [
+          208
+        ],
+        "supporting": [
+          210
+        ],
+        "design,": [
+          213
+        ],
+        "sustainability,": [
+          214
+        ],
+        "innovation.": [
+          216
+        ]
+      },
+      "cited_by_count": 51,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2071-1050/13/17/9819/pdf?version=1630499806",
+        "any_repository_has_fulltext": true
+      }
+    },
+    {
+      "id": "https://openalex.org/W3199297239",
+      "doi": "https://doi.org/10.3390/s21186172",
+      "title": "Research Trends of Human–Computer Interaction Studies in Construction Hazard Recognition: A Bibliometric Review",
+      "publication_year": 2021,
+      "primary_location": {
+        "id": "doi:10.3390/s21186172",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/s21186172",
+        "pdf_url": "https://www.mdpi.com/1424-8220/21/18/6172/pdf",
+        "source": {
+          "id": "https://openalex.org/S101949793",
+          "display_name": "Sensors",
+          "issn_l": "1424-8220",
+          "issn": [
+            "1424-8220"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sensors",
+        "raw_type": "journal-article"
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025354103",
+            "display_name": "Jiaming Wang",
+            "orcid": "https://orcid.org/0000-0001-8769-0814"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116953780",
+              "display_name": "Tongji University",
+              "ror": "https://ror.org/03rc6as71",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116953780"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jiaming Wang",
+          "raw_affiliation_strings": [
+            "Department of Construction Management, Tsinghua University, Beijing 100084, China",
+            "School of Economics and Management, Tongji University, Shanghai 200092, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-8769-0814",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Construction Management, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Economics and Management, Tongji University, Shanghai 200092, China",
+              "institution_ids": [
+                "https://openalex.org/I116953780"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012574178",
+            "display_name": "Cheng Rui",
+            "orcid": "https://orcid.org/0000-0001-7306-0774"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rui Cheng",
+          "raw_affiliation_strings": [
+            "Department of Construction Management, Tsinghua University, Beijing 100084, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7306-0774",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Construction Management, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100347912",
+            "display_name": "Mei Liu",
+            "orcid": "https://orcid.org/0000-0002-0320-4688"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62853816",
+              "display_name": "Beijing University of Civil Engineering and Architecture",
+              "ror": "https://ror.org/02yj0p855",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I62853816"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mei Liu",
+          "raw_affiliation_strings": [
+            "School of Urban Economics and Management, Beijing University of Civil Engineering and Architecture, Beijing 100084, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Urban Economics and Management, Beijing University of Civil Engineering and Architecture, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I62853816"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5009783183",
+            "display_name": "Pin‐Chao Liao",
+            "orcid": "https://orcid.org/0000-0001-6927-9204"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Pin-Chao Liao",
+          "raw_affiliation_strings": [
+            "Department of Construction Management, Tsinghua University, Beijing 100084, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6927-9204",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Construction Management, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ]
+        }
+      ],
+      "abstract_inverted_index": {
+        "Human-computer": [
+          0
+        ],
+        "interaction,": [
+          1
+        ],
+        "an": [
+          2
+        ],
+        "interdisciplinary": [
+          3
+        ],
+        "discipline,": [
+          4
+        ],
+        "has": [
+          5,
+          21,
+          30
+        ],
+        "become": [
+          6
+        ],
+        "a": [
+          7,
+          101,
+          140,
+          190,
+          220
+        ],
+        "frontier": [
+          8
+        ],
+        "research": [
+          9,
+          88,
+          94,
+          102,
+          144,
+          174,
+          196
+        ],
+        "topic": [
+          10
+        ],
+        "in": [
+          11,
+          38,
+          54,
+          67,
+          96,
+          107,
+          116,
+          152,
+          213
+        ],
+        "recent": [
+          12
+        ],
+        "years.": [
+          13
+        ],
+        "In": [
+          14,
+          58,
+          185
+        ],
+        "the": [
+          15,
+          33,
+          39,
+          49,
+          87,
+          117,
+          121,
+          132,
+          163,
+          194,
+          199,
+          207,
+          214
+        ],
+        "fourth": [
+          16
+        ],
+        "industrial": [
+          17
+        ],
+        "revolution,": [
+          18
+        ],
+        "human-computer": [
+          19,
+          52,
+          105,
+          124,
+          164,
+          211
+        ],
+        "interaction": [
+          20,
+          53,
+          106,
+          125,
+          165,
+          212
+        ],
+        "been": [
+          22
+        ],
+        "increasingly": [
+          23
+        ],
+        "applied": [
+          24
+        ],
+        "to": [
+          25,
+          131
+        ],
+        "construction": [
+          26,
+          40,
+          55,
+          108
+        ],
+        "safety": [
+          27,
+          166
+        ],
+        "management,": [
+          28
+        ],
+        "which": [
+          29
+        ],
+        "significantly": [
+          31
+        ],
+        "promoted": [
+          32
+        ],
+        "progress": [
+          34
+        ],
+        "of": [
+          35,
+          51,
+          72,
+          123,
+          134,
+          142,
+          157,
+          210,
+          216
+        ],
+        "hazard": [
+          36,
+          56,
+          109,
+          135,
+          153,
+          217
+        ],
+        "recognition": [
+          37,
+          110,
+          154,
+          218
+        ],
+        "industry.": [
+          41
+        ],
+        "However,": [
+          42
+        ],
+        "limited": [
+          43
+        ],
+        "scholars": [
+          44
+        ],
+        "have": [
+          45
+        ],
+        "yet": [
+          46
+        ],
+        "systematically": [
+          47,
+          85
+        ],
+        "reviewed": [
+          48
+        ],
+        "development": [
+          50,
+          133,
+          156,
+          209
+        ],
+        "recognition.": [
+          57
+        ],
+        "this": [
+          59,
+          97,
+          186
+        ],
+        "study,": [
+          60,
+          187
+        ],
+        "we": [
+          61,
+          188
+        ],
+        "analyzed": [
+          62
+        ],
+        "274": [
+          63
+        ],
+        "related": [
+          64
+        ],
+        "papers": [
+          65
+        ],
+        "published": [
+          66
+        ],
+        "ACM": [
+          68
+        ],
+        "Digital": [
+          69
+        ],
+        "Library,": [
+          70
+        ],
+        "Web": [
+          71
+        ],
+        "Science,": [
+          73
+        ],
+        "Google": [
+          74
+        ],
+        "Scholar,": [
+          75
+        ],
+        "and": [
+          76,
+          80,
+          92,
+          99,
+          160,
+          162,
+          183,
+          198,
+          203
+        ],
+        "Scopus": [
+          77
+        ],
+        "between": [
+          78,
+          201
+        ],
+        "2000": [
+          79
+        ],
+        "2021": [
+          81
+        ],
+        "using": [
+          82
+        ],
+        "bibliometric": [
+          83
+        ],
+        "methods,": [
+          84
+        ],
+        "identified": [
+          86
+        ],
+        "progress,": [
+          89
+        ],
+        "key": [
+          90
+        ],
+        "topics,": [
+          91
+        ],
+        "future": [
+          93,
+          208
+        ],
+        "directions": [
+          95
+        ],
+        "field,": [
+          98
+        ],
+        "proposed": [
+          100
+        ],
+        "framework": [
+          103
+        ],
+        "for": [
+          104,
+          206
+        ],
+        "(CHR-HCI).": [
+          111
+        ],
+        "The": [
+          112
+        ],
+        "results": [
+          113,
+          197
+        ],
+        "showed": [
+          114
+        ],
+        "that,": [
+          115
+        ],
+        "past": [
+          118
+        ],
+        "20": [
+          119
+        ],
+        "years,": [
+          120
+        ],
+        "application": [
+          122
+        ],
+        "not": [
+          126
+        ],
+        "only": [
+          127
+        ],
+        "made": [
+          128
+        ],
+        "significant": [
+          129
+        ],
+        "contributions": [
+          130
+        ],
+        "recognition,": [
+          136
+        ],
+        "but": [
+          137
+        ],
+        "also": [
+          138
+        ],
+        "generated": [
+          139
+        ],
+        "series": [
+          141
+        ],
+        "new": [
+          143
+        ],
+        "subjects,": [
+          145
+        ],
+        "such": [
+          146
+        ],
+        "as": [
+          147
+        ],
+        "multimodal": [
+          148
+        ],
+        "physiological": [
+          149
+        ],
+        "data": [
+          150
+        ],
+        "analysis": [
+          151
+        ],
+        "experiments,": [
+          155
+        ],
+        "intuitive": [
+          158
+        ],
+        "devices": [
+          159
+        ],
+        "sensors,": [
+          161
+        ],
+        "management": [
+          167
+        ],
+        "platform": [
+          168
+        ],
+        "based": [
+          169
+        ],
+        "on": [
+          170
+        ],
+        "big": [
+          171
+        ],
+        "data.": [
+          172
+        ],
+        "Future": [
+          173
+        ],
+        "modules": [
+          175
+        ],
+        "include": [
+          176
+        ],
+        "computer": [
+          177,
+          179
+        ],
+        "vision,": [
+          178
+        ],
+        "simulation,": [
+          180
+        ],
+        "virtual": [
+          181
+        ],
+        "reality,": [
+          182
+        ],
+        "ergonomics.": [
+          184
+        ],
+        "drew": [
+          189
+        ],
+        "theoretical": [
+          191
+        ],
+        "map": [
+          192
+        ],
+        "reflecting": [
+          193
+        ],
+        "existing": [
+          195
+        ],
+        "relationship": [
+          200
+        ],
+        "them,": [
+          202
+        ],
+        "provided": [
+          204
+        ],
+        "suggestions": [
+          205
+        ],
+        "field": [
+          215
+        ],
+        "from": [
+          219
+        ],
+        "practical": [
+          221
+        ],
+        "perspective.": [
+          222
+        ]
+      },
+      "cited_by_count": 48,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/1424-8220/21/18/6172/pdf",
+        "any_repository_has_fulltext": true
+      }
+    }
+  ]
+}

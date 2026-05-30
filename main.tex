@@ -1,0 +1,57 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+\geometry{margin=2.5cm}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  citecolor=blue,
+  urlcolor=blue
+}
+
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcommand{\doi}[1]{\href{https://doi.org/#1}{doi:\ #1}}
+
+\title{From Prompt to Process: A Systematic Review of AI-Assisted Software Development Frameworks}
+\author{Sanderson Oliveira de Macedo\\
+\textit{Federal Institute of Goias}\\
+\texttt{sanderson.macedo@ifg.edu.br}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\input{tex/sections/00_resumo}
+\input{tex/sections/01_introducao}
+\input{tex/sections/02_metodo_revisao}
+\input{tex/sections/03_trabalhos_relacionados}
+\input{tex/sections/03_taxonomia}
+\input{tex/sections/04_resultados_sintese}
+\input{tex/sections/05_discussao}
+\input{tex/sections/06_agenda_pesquisa}
+\input{tex/sections/06b_limitacoes}
+\input{tex/sections/07_conclusao}
+
+\section*{Declaration on the Use of Generative AI}
+
+The author conducted the research and wrote the manuscript. During the preparation of this study, however, the author used Grammarly tools to improve textual agreement and Claude Opus 4.7 to support text structuring and translation into English. After using these tools/services, the author reviewed and edited the content as needed and takes full responsibility for the content of the publication.
+
+\bibliographystyle{plain}
+\bibliography{refs}
+
+\end{document}
