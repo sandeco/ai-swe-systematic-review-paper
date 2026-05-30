@@ -31,7 +31,7 @@ T = {
   "e1": "Excluídos na triagem\ntítulo/resumo: 57",
   "e2": "Excluídos em\ntexto completo: 3",
   "note": "1 fonte aprovada na triagem da R3 ficou sem texto completo na data de corte\n(pendência operacional, não exclusão). Data de corte: 26 de maio de 2026.",
-  "title": "Fluxo da revisão de literatura multivocal (protocolo Kitchenham)",
+  "title": "Fluxo da revisão sistemática de literatura (protocolo Kitchenham)",
  },
  "en": {
   "lanes": ["Identification","Selection","Snowballing","Extraction","Synthesis","Reporting"],
@@ -48,7 +48,7 @@ T = {
   "e1": "Excluded at title/abstract\nscreening: 57",
   "e2": "Excluded at\nfull text: 3",
   "note": "1 source approved at R3 screening lacked full text at the cutoff date\n(operational pending item, not an exclusion). Cutoff date: May 26, 2026.",
-  "title": "Multivocal literature review flow (Kitchenham protocol)",
+  "title": "Systematic literature review flow (Kitchenham protocol)",
  },
 }
 
