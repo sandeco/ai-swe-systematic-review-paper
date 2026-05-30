@@ -1,85 +1,113 @@
-\section{Results and Synthesis}
+\section{Resultados e Síntese}
 
-This section consolidates the findings of the 37 included studies. The synthesis follows a hybrid thematic approach: six themes were derived inductively from the structured fields of the extraction records (artifacts, roles, execution, validation, portability, risks, nature, and evidence) and then confronted with the six-dimension taxonomy proposed in the previous section, so as to validate it empirically rather than assume it. The themes answer RQ1 through RQ4; RQ5, on gaps, is addressed in the Research Agenda. Because the protocol fixed \texttt{quality\_assessment: none}, there is no weighting by risk of bias; the strength of the evidence is qualified by source category.
+Esta seção consolida os achados dos 37 estudos incluídos. A síntese segue uma abordagem temática em modo híbrido: seis temas foram derivados indutivamente dos campos estruturados das fichas de extração (artefatos, papéis, execução, validação, portabilidade, riscos, natureza e evidência) e, em seguida, confrontados com a taxonomia de seis dimensões proposta na seção anterior, de modo a validá-la empiricamente em vez de assumi-la. Os temas respondem às perguntas RQ1 a RQ4; a RQ5, sobre lacunas, é tratada na Agenda de Pesquisa. Como o protocolo fixou \texttt{quality\_assessment: none}, não há ponderação por risco de viés; a força da evidência é qualificada por categoria de fonte.
 
-\noindent\textbf{Quantitative overview.} Table~\ref{tab:quant} summarizes the composition of the corpus. The framework category dominates almost entirely (34 of the 37 studies), which empirically supports the thesis that the unit of work has shifted from the isolated prompt to the structured process. Empirical evaluation is claimed by 26 studies and 22 release a public repository, but ten are arXiv preprints not yet peer-reviewed, which calls for a qualified reading of the strength of the evidence. The temporal distribution shows steady acceleration of the field, from a single study in 2022 to eleven in 2026, with most of the corpus concentrated from 2024 onward. Venues are dispersed, with the ACM Transactions on Software Engineering and Methodology as a recurring outlet (five studies) followed by a long tail of conferences and journals with one or two studies each, consistent with an emerging field that still lacks a consolidated forum.
+\noindent\textbf{Panorama quantitativo.} A Tabela~\ref{tab:quant} resume a composição do corpus. A categoria framework domina quase por completo (34 dos 37 estudos), o que sustenta empiricamente a tese de que a unidade de trabalho se deslocou do prompt isolado para o processo estruturado. A avaliação empírica é reivindicada por 26 estudos e 22 disponibilizam repositório público, mas dez são preprints arXiv ainda não revisados por pares, o que exige leitura qualificada da força da evidência (Figura~\ref{fig:evidence}). A distribuição temporal mostra aceleração consistente do campo, de um único estudo em 2022 para onze em 2026, com a maior parte do corpus concentrada a partir de 2024 (Figura~\ref{fig:year}). Os venues são dispersos, com a ACM Transactions on Software Engineering and Methodology como canal recorrente (cinco estudos) seguido de uma cauda longa de conferências e periódicos com um a dois estudos cada, o que é coerente com um campo emergente ainda sem foro consolidado.
 
 \begin{table}[h!]
 \centering
-\caption{Composition of the corpus of 37 included studies. Counts extracted from the extraction matrix.}
+\caption{Composição do corpus de 37 estudos incluídos. Contagens extraídas da matriz de extração.}
 \label{tab:quant}
 \small
 \begin{tabularx}{\textwidth}{@{}p{0.50\textwidth}r Y@{}}
 \toprule
-\textbf{Aspect} & \textbf{N} & \textbf{Note} \\
+\textbf{Aspecto} & \textbf{N} & \textbf{Observação} \\
 \midrule
-Total included studies & 37 & After two screening passes and three snowballing rounds \\
-Nature: framework & 34 & Near-total predominance \\
-Nature: architecture / platform / method & 1 / 1 / 1 & JulesWhite2023, YuCheng2023, JSauvola2024 \\
-With empirical evaluation & 26 & Some degree of validation claimed \\
-With public repository & 22 & Code traceability in more than half \\
-arXiv preprint & 10 & Literature not yet peer-reviewed \\
-Survey or review & 2 & AhmedEHassan2024, JundaHe2025 \\
-Case study & 5 & Ulfsnes2024, ZeeshanRasheed2024, Baron2025, Khan2026, Macedo2026 \\
-Distribution by year & \multicolumn{2}{l}{2022:1, 2023:4, 2024:10, 2025:11, 2026:11} \\
-Academic or technical / industrial origin & 33 / 4 & Four studies from industry or professional practice \\
-High extraction confidence & 35 & Medium in Dam2025 and JundaHe2025 \\
+Total de estudos incluídos & 37 & Após triagem em duas passadas e três rodadas de snowballing \\
+Natureza: framework & 34 & Predominância quase total \\
+Natureza: arquitetura / plataforma / método & 1 / 1 / 1 & JulesWhite2023, YuCheng2023, JSauvola2024 \\
+Com avaliação empírica & 26 & Algum grau de validação reivindicado \\
+Com repositório público & 22 & Rastreabilidade de código em mais da metade \\
+Preprint arXiv & 10 & Literatura ainda não revisada por pares \\
+Survey ou revisão & 2 & AhmedEHassan2024, JundaHe2025 \\
+Estudo de caso & 5 & Ulfsnes2024, ZeeshanRasheed2024, Baron2025, Khan2026, Macedo2026 \\
+Distribuição por ano & \multicolumn{2}{l}{2022:1, 2023:4, 2024:10, 2025:11, 2026:11} \\
+Origem acadêmica ou técnica / industrial & 33 / 4 & Quatro estudos de indústria ou prática profissional \\
+Confiança de extração alta & 35 & Média em Dam2025 e JundaHe2025 \\
 \bottomrule
 \end{tabularx}
 \end{table}
 
-\noindent\textbf{Six inductive themes.} The analysis surfaced six themes that, together, cover the 37 studies (100\% coverage, above the 80\% target). Each study may belong to more than one theme; the order reflects decreasing frequency.
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.70\textwidth]{studies_by_year_pt.pdf}
+\caption{Estudos por ano de publicação. O campo acelera de um único estudo em 2022 para um patamar de dez a onze por ano a partir de 2024.}
+\label{fig:year}
+\end{figure}
 
-\noindent\textbf{T1: multi-agent orchestration and role division.} This is the most populous theme and the dominant architectural axis of the corpus, answering RQ1 directly. The central convergence is that structuring the work by distinct roles, not the choice of language model, is what differentiates the frameworks. ChatDev encodes a chat chain with design, coding, testing, and review phases, plus a communicative dehallucination mechanism \cite{ChenQian2023}. MetaGPT internalizes standard operating procedures from software engineering, assigning specific artifacts to each role: the product manager generates requirements, the architect generates the design and interfaces, the developer implements \cite{SiruiHong2023}. CodePori scales that arrangement to agents for management, architecture, structure, development, verification, and finalization \cite{ZeeshanRasheed2024}, and AutoDev and AutoCodeRover bring agent coordination to real program-improvement tasks \cite{MicheleTufano2024,YuntongZhang2024}. He et al.'s reviews and Hassan et al.'s Software Engineering 3.0 vision confirm that the literature already organizes these systems by lifecycle stage \cite{JundaHe2025,AhmedEHassan2024}. Consensus, however, is partial: there is clear tension over the degree of autonomy. Sapkota et al. explicitly contrast vibe coding and agentic coding \cite{RanjanSapkota2025}, and while CodePori and MetaGPT lean toward end-to-end autonomous development, other designs preserve human decision points. Reliability and coordination cost appear as recurring risks in this theme \cite{Dam2025,Alsegier2026,Merchant2025,Paduraru2026,SKaruppuchamy2026,Paiva2026,Akbar2025,LiyiCai2025,Anon2026,BESLEAGA2026}.
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.80\textwidth]{evidence_profile_pt.pdf}
+\caption{Perfil de evidência do corpus. A maioria dos estudos reivindica avaliação empírica e disponibiliza repositório público, mas dez são preprints arXiv ainda não revisados por pares.}
+\label{fig:evidence}
+\end{figure}
 
-\noindent\textbf{T2: specification and contract as the central artifact.} This theme answers RQ1 and RQ2 and gives substance to the thesis that the specification becomes the unit of coordination. Spec-driven development formalizes the move from code to contract, treating the specification as a versionable artifact \cite{DeepakBabuPiskala2026}. AgileGen uses acceptance criteria as an executable contract and keeps memory and iteration until validation \cite{SaiZhang2025}, and MetaGPT already made structured requirements the source of truth across roles \cite{SiruiHong2023}. There is, however, a productive contradiction in the direction of the flow: most assume spec-first, where the specification precedes and generates the code, whereas Reversa inverts the flow, recovering operational specifications from legacy code to feed the agents \cite{Macedo2026}. This opposition between specifying first and recovering the specification from legacy is a relevant axis of differentiation. Risk-aware requirements engineering ties the specification to governance \cite{Watfa2026}, and the misalignment between specification and code is named explicitly as a risk in several studies \cite{DeepakBabuPiskala2026,Paduraru2026,Watfa2026,YuCheng2023,Gupta2022,MitulModi2024,Khan2026,Gadamsetty2025}.
+\noindent\textbf{Seis temas indutivos.} A análise fez emergir seis temas que, juntos, cobrem os 37 estudos (cobertura de 100\%, acima do alvo de 80\%). Cada estudo pode pertencer a mais de um tema; a ordem reflete frequência decrescente.
 
-\noindent\textbf{T3: context engineering and repository knowledge retrieval.} This theme answers RQ2 with a focus on the context dimension. Context engineering is treated as a discipline of its own for agents in open-source software \cite{SeyedmoeinMohsenimofidi2025}. AutoCodeRover shows that structural retrieval of context from the code, and not just textual search by embeddings, improves patch generation \cite{YuntongZhang2024}, while the synchronization of multimodal artifacts seeks to keep coherence across heterogeneous artifacts over the cycle \cite{Paiva2026}. Self-evolving software pushes the theme to its extreme \cite{LiyiCai2025}, but it sits in tension with the emphasis on traceability and contract in T2 and T4: the more the software modifies itself autonomously, the harder it is to anchor each change in an auditable specification \cite{Macedo2026,AhmedEHassan2024,Chechik2026}. The risk tied to context is the most frequent in the whole corpus, which suggests that the context window and context fidelity are the transversal practical bottleneck of the field.
+\noindent\textbf{T1: orquestração multiagente e divisão de papéis.} Este é o tema mais populoso e o eixo arquitetônico dominante do corpus, respondendo diretamente à RQ1. A convergência central é que a estruturação do trabalho por papéis distintos, e não a escolha do modelo de linguagem, é o que diferencia os frameworks. ChatDev codifica uma cadeia de conversas com fases de design, codificação, teste e revisão, além de um mecanismo de redução comunicativa de alucinação \cite{ChenQian2023}. MetaGPT internaliza procedimentos operacionais padrão de engenharia de software, atribuindo a cada papel artefatos específicos: o gerente de produto gera requisitos, o arquiteto gera o design e as interfaces, o desenvolvedor implementa \cite{SiruiHong2023}. CodePori escala esse arranjo para agentes de gerência, arquitetura, estrutura, desenvolvimento, verificação e finalização \cite{ZeeshanRasheed2024}, e AutoDev e AutoCodeRover levam a coordenação de agentes a tarefas reais de melhoria de programas \cite{MicheleTufano2024,YuntongZhang2024}. As revisões de He et al. e a visão de Engenharia de Software 3.0 de Hassan et al. confirmam que a literatura já organiza esses sistemas por etapas do ciclo de vida \cite{JundaHe2025,AhmedEHassan2024}. O consenso, porém, é parcial: há tensão clara quanto ao grau de autonomia. Sapkota et al. contrastam explicitamente codificação por intuição e codificação agêntica \cite{RanjanSapkota2025}, e enquanto CodePori e MetaGPT se inclinam ao desenvolvimento autônomo de ponta a ponta, outros desenhos preservam pontos de decisão humana. A confiabilidade e o custo de coordenação aparecem como riscos recorrentes neste tema \cite{Dam2025,Alsegier2026,Merchant2025,Paduraru2026,SKaruppuchamy2026,Paiva2026,Akbar2025,LiyiCai2025,Anon2026,BESLEAGA2026}.
 
-\noindent\textbf{T4: validation, traceability, assurance, and governance.} This theme answers RQ2, in the validation dimension, and RQ4, in the risks of governance and traceability. Almost the entire corpus declares some validation mechanism, but here we group the studies for which validation is the central point rather than an appendix. Trace-based assurance articulates contracts, tests, and governance \cite{Paduraru2026}; verifiable collaboration among agentic assistants records the acts of the flow in an auditable way \cite{Merchant2025}; and product-line engineering is imported to govern the variability of agency \cite{Alsegier2026}. Traceability and trace auditing appear as a recurring requirement for trusting agents on real projects \cite{Paduraru2026,Merchant2025,Macedo2026,SKaruppuchamy2026,Watfa2026,Chechik2026,Anon2026}. There is, however, a cost contradiction: on one side, heavy governance ceremony \cite{Merchant2025,Paduraru2026}; on the other, lightweight agility aimed at startups and lean flows \cite{Khan2026,RanjanSapkota2025,JulesWhite2023}. Coordination cost is named as a risk in much of this group \cite{MitulModi2024,Ulfsnes2024,Akbar2025,Baron2025,KRRaghi2024,Gupta2022,KumarAle2024}, which materializes the tension between governance and productivity.
+\noindent\textbf{T2: especificação e contrato como artefato central.} Este tema responde RQ1 e RQ2 e materializa a tese de que a especificação se torna a unidade de coordenação. O desenvolvimento orientado por especificação formaliza a passagem do código ao contrato, tratando a especificação como artefato versionável \cite{DeepakBabuPiskala2026}. AgileGen usa critérios de aceitação como contrato executável e mantém memória e iteração até a validação \cite{SaiZhang2025}, e MetaGPT já fazia dos requisitos estruturados a fonte de verdade entre papéis \cite{SiruiHong2023}. Há, contudo, uma contradição produtiva quanto à direção do fluxo: a maioria assume \textit{spec-first}, em que a especificação precede e gera o código, ao passo que Reversa inverte o fluxo, recuperando especificações operacionais a partir de código legado para alimentar os agentes \cite{Macedo2026}. Essa oposição entre especificar antes e recuperar a especificação do legado é um eixo de diferenciação relevante. A engenharia de requisitos consciente de risco liga a especificação à governança \cite{Watfa2026}, e o desalinhamento entre especificação e código é discutido como risco em vários estudos \cite{DeepakBabuPiskala2026,Paduraru2026,Watfa2026,YuCheng2023,Gupta2022,MitulModi2024,Khan2026,Gadamsetty2025}.
 
-\noindent\textbf{T5: human-AI collaboration, adoption, and trust (emergent).} These studies focus not on the technical architecture but on integrating AI into human work: collaboration flows, organizational adoption factors, and trust building. A human-AI collaboration and adaptation framework models workflow factors and organizational strategies \cite{DanielRusso2024}; field evidence describes how real teams reorganize collaboration and flow \cite{Ulfsnes2024,Akbar2025}; and trust is treated as a precondition for adoption \cite{Baron2025}, with future scenarios of AI-assisted operation also documented \cite{JSauvola2024}. The notable finding is that this theme does not fit cleanly into any of the six taxonomy dimensions, all of which are technical and architectural: the human, organizational, and trust dimension cuts across the corpus but has no home in the current taxonomy. Six studies (16\% of the corpus) have this as their primary focus, enough to recommend extending the taxonomy.
+\noindent\textbf{T3: engenharia de contexto e recuperação de conhecimento do repositório.} Este tema responde RQ2 com foco na dimensão de contexto. A engenharia de contexto é tratada como disciplina própria para agentes em software de código aberto \cite{SeyedmoeinMohsenimofidi2025}. AutoCodeRover demonstra que a recuperação estrutural de contexto no código, e não apenas a busca textual por embeddings, melhora a geração de correções \cite{YuntongZhang2024}, enquanto a sincronização de artefatos multimodais busca manter coerência entre artefatos heterogêneos ao longo do ciclo \cite{Paiva2026}. O software autoevolutivo leva o tema ao extremo \cite{LiyiCai2025}, mas entra em tensão com a ênfase em rastreabilidade e contrato dos temas T2 e T4: quanto mais o software se modifica de forma autônoma, mais difícil é ancorar cada mudança em uma especificação auditável \cite{Macedo2026,AhmedEHassan2024,Chechik2026}. O risco associado ao contexto é o mais frequente do corpus inteiro, o que sugere que a janela e a fidelidade de contexto são o gargalo prático transversal do campo.
 
-\noindent\textbf{T6: security, robustness, and red-teaming (emergent).} These studies focus on the security of the code and of agentic behavior. ASTRA proposes autonomous spatial-temporal red-teaming for AI software assistants, treating security as an active activity rather than an assumed property \cite{XiangzheXu2025}; risk-aware requirements engineering and the discussion of the security implications of agentic coding reinforce the theme \cite{Watfa2026,RanjanSapkota2025,Merchant2025,BESLEAGA2026}, and ChatDev's communicative dehallucination touches the point from the reliability side \cite{ChenQian2023}. Security risk is the second most frequent in the corpus. Like T5, this theme connects only partially to the six dimensions: security appears almost always as a risk to mitigate, rarely as a positive design dimension embedded in the architecture. ASTRA is the exception that makes security the central object, which suggests treating it as a transversal evaluation criterion rather than as one of the dimensions that classify frameworks.
+\noindent\textbf{T4: validação, rastreabilidade, asseguramento e governança.} Este tema responde RQ2, na dimensão de validação, e RQ4, nos riscos de governança e rastreabilidade. Quase todo o corpus declara algum mecanismo de validação, mas aqui se agrupam os estudos para os quais a validação é o ponto central, e não um apêndice. O asseguramento baseado em traços articula contratos, testes e governança \cite{Paduraru2026}; a colaboração verificável entre assistentes agênticos registra atos do fluxo de forma auditável \cite{Merchant2025}; e a engenharia de linha de produto é importada para governar a variabilidade de agência \cite{Alsegier2026}. A rastreabilidade e a auditoria de traços aparecem como requisito recorrente para confiar em agentes em projetos reais \cite{Paduraru2026,Merchant2025,Macedo2026,SKaruppuchamy2026,Watfa2026,Chechik2026,Anon2026}. Há, porém, uma contradição de custo: de um lado, cerimônia pesada de governança \cite{Merchant2025,Paduraru2026}; de outro, agilidade leve voltada a startups e a fluxos enxutos \cite{Khan2026,RanjanSapkota2025,JulesWhite2023}. O custo de coordenação é nomeado como risco em boa parte deste grupo \cite{MitulModi2024,Ulfsnes2024,Akbar2025,Baron2025,KRRaghi2024,Gupta2022,KumarAle2024}, o que materializa a tensão entre governança e produtividade.
 
-\noindent\textbf{Empirical validation of the taxonomy.} Table~\ref{tab:tema-dim} crosses each inductive theme with the six taxonomy dimensions, indicating the strength of the relation. The reading is direct. Five of the six dimensions receive strong empirical support from at least one theme: roles and execution anchor in T1; specification and validation, in T2 and T4; context, in T3. In that part, the taxonomy is empirically validated. The exception is portability, which receives no strong relation from any theme and is absent in two. In the data, portability appears almost always on the negative side, as a risk of lock-in and of dependence on an IDE, a commercial model, or a platform. The portability field of the records notes dependence on an IDE or environment in nearly all 37 studies, and lock-in is named explicitly as a risk in only one of them \cite{SeyedmoeinMohsenimofidi2025}. Portability is therefore the weakest dimension of the taxonomy when confronted with the evidence, and should be read as a predominantly diagnostic dimension, not as a positive differentiator between frameworks. Themes T5 and T6, in turn, have no clear home in the six dimensions: the human-organizational axis and the security axis emerge from the data as concrete recommendations for extension, and the rule of the hybrid mode was respected by not forcing them into the existing dimensions.
+\noindent\textbf{T5: colaboração humano-IA, adoção e confiança (emergente).} Estes estudos têm como foco primário não a arquitetura técnica, mas a integração da IA no trabalho humano: fluxos de colaboração, fatores de adoção organizacional e construção de confiança. Um framework de colaboração e adaptação humano-IA modela fatores de fluxo de trabalho e estratégias organizacionais \cite{DanielRusso2024}; evidências de campo descrevem como equipes reais reorganizam colaboração e fluxo \cite{Ulfsnes2024,Akbar2025}; e a confiança é tratada como precondição de adoção \cite{Baron2025}, com cenários futuros de operação assistida por IA também documentados \cite{JSauvola2024}. O achado relevante é que este tema não cabe limpo em nenhuma das seis dimensões da taxonomia, todas técnico-arquiteturais: a dimensão humana, organizacional e de confiança atravessa o corpus mas não tem casa na taxonomia atual. Seis estudos (16\% do corpus) têm este foco primário, material o bastante para recomendar uma extensão da taxonomia.
+
+\noindent\textbf{T6: segurança, robustez e red-teaming (emergente).} Estes estudos focam a segurança do código e do comportamento agêntico. ASTRA propõe \textit{red-teaming} espaço-temporal autônomo para assistentes de software com IA, tratando segurança como atividade ativa e não como propriedade assumida \cite{XiangzheXu2025}; a engenharia de requisitos consciente de risco e a discussão das implicações de segurança da codificação agêntica reforçam o tema \cite{Watfa2026,RanjanSapkota2025,Merchant2025,BESLEAGA2026}, e a redução comunicativa de alucinação de ChatDev tangencia o ponto pelo lado da confiabilidade \cite{ChenQian2023}. A segurança está entre os riscos mais citados, nomeada em 24 dos 37 estudos, atrás de contexto, confiabilidade e custo de coordenação (Figura~\ref{fig:risk}). Assim como T5, este tema só se conecta parcialmente às seis dimensões: segurança aparece quase sempre como risco a mitigar, raramente como dimensão de projeto positiva embutida na arquitetura. ASTRA é a exceção que faz da segurança o objeto central, o que sugere tratá-la como critério de avaliação transversal mais do que como uma das dimensões que classificam frameworks.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.80\textwidth]{risk_frequency_pt.pdf}
+\caption{Frequência dos riscos reportados no corpus. Contexto, confiabilidade e custo de coordenação lideram; segurança, embora proeminente, fica abaixo deles, e a marcação explícita de aprisionamento é rara.}
+\label{fig:risk}
+\end{figure}
+
+\noindent\textbf{Validação empírica da taxonomia.} A Tabela~\ref{tab:tema-dim} cruza cada tema indutivo com as seis dimensões da taxonomia, indicando a força da relação. A leitura é direta. Cinco das seis dimensões recebem suporte empírico forte de pelo menos um tema: papéis e execução ancoram-se em T1; especificação e validação, em T2 e T4; contexto, em T3. Nessa parte, a taxonomia é empiricamente validada. A Figura~\ref{fig:heatmap} apresenta o mesmo mapeamento como um mapa de calor. A exceção é portabilidade, que não recebe relação forte de nenhum tema e é ausente em dois. Nos dados, portabilidade aparece quase sempre pelo lado negativo, como risco de aprisionamento tecnológico e de dependência de IDE, modelo comercial ou plataforma. O campo de portabilidade das fichas registra dependência de IDE ou ambiente em praticamente todos os 37 estudos, e o aprisionamento só é nomeado explicitamente como risco em um deles \cite{SeyedmoeinMohsenimofidi2025}. Portabilidade é, portanto, a dimensão mais fraca da taxonomia quando confrontada com a evidência, e deve ser lida como dimensão predominantemente diagnóstica, e não como diferenciador positivo entre frameworks. Os temas T5 e T6, por sua vez, não têm casa clara nas seis dimensões: o eixo humano-organizacional e o eixo de segurança emergem dos dados como recomendações concretas de extensão, e a regra do modo híbrido foi respeitada ao não forçá-los nas dimensões existentes.
 
 \begin{table}[h!]
 \centering
-\caption{Hybrid mapping: inductive themes against the six taxonomy dimensions. Legend: strong (the dimension is the theme's axis), medium (relevant presence), weak (marginal touch), absent (no significant relation).}
+\caption{Mapeamento híbrido: temas indutivos contra as seis dimensões da taxonomia. Legenda: forte (eixo do tema), média (presença relevante), fraca (toque marginal), ausente (sem relação significativa).}
 \label{tab:tema-dim}
 \small
 \begin{tabularx}{\textwidth}{@{}p{3.5cm}YYYYYY@{}}
 \toprule
-\textbf{Theme} & \textbf{Spec.} & \textbf{Context} & \textbf{Roles} & \textbf{Exec.} & \textbf{Valid.} & \textbf{Portab.} \\
+\textbf{Tema} & \textbf{Espec.} & \textbf{Contexto} & \textbf{Papéis} & \textbf{Execução} & \textbf{Validação} & \textbf{Portab.} \\
 \midrule
-T1 Multi-agent orchestration & medium & medium & strong & strong & medium & weak \\
-T2 Specification and contract & strong & medium & weak & medium & strong & weak \\
-T3 Context engineering & weak & strong & weak & medium & weak & weak \\
-T4 Validation and governance & medium & weak & weak & medium & strong & weak \\
-T5 Human-AI collaboration & weak & weak & weak & weak & weak & absent \\
-T6 Security and red-teaming & weak & weak & weak & medium & medium & absent \\
+T1 Orquestração multiagente & média & média & forte & forte & média & fraca \\
+T2 Especificação e contrato & forte & média & fraca & média & forte & fraca \\
+T3 Engenharia de contexto & fraca & forte & fraca & média & fraca & fraca \\
+T4 Validação e governança & média & fraca & fraca & média & forte & fraca \\
+T5 Colaboração humano-IA & fraca & fraca & fraca & fraca & fraca & ausente \\
+T6 Segurança e red-teaming & fraca & fraca & fraca & média & média & ausente \\
 \bottomrule
 \end{tabularx}
 \end{table}
 
-\noindent\textbf{Coverage of the research questions.} Table~\ref{tab:tema-rq} crosses the themes with the research questions. RQ1 and RQ2 are answered by most themes; RQ3 and RQ4 cut across the whole corpus, and RQ5 is a meta-question answered transversally in the Research Agenda rather than by study-by-study tagging, which is why the individual records mark only RQ1 through RQ4.
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.92\textwidth]{theme_dimension_pt.pdf}
+\caption{Mapeamento híbrido dos seis temas indutivos contra as seis dimensões da taxonomia. Cinco dimensões são ancoradas por pelo menos um tema; portabilidade permanece fraca em toda a linha, e os temas T5 e T6 ficam parcialmente fora da taxonomia.}
+\label{fig:heatmap}
+\end{figure}
+
+\noindent\textbf{Cobertura das perguntas de pesquisa.} A Tabela~\ref{tab:tema-rq} cruza os temas com as perguntas de pesquisa. RQ1 e RQ2 são respondidas pela maioria dos temas; RQ3 e RQ4 atravessam o corpus inteiro, e a RQ5 é meta-pergunta respondida transversalmente na Agenda de Pesquisa, e não por marcação estudo a estudo, razão pela qual as fichas individuais marcam apenas RQ1 a RQ4.
 
 \begin{table}[h!]
 \centering
-\caption{Inductive themes against the research questions.}
+\caption{Temas indutivos contra as perguntas de pesquisa.}
 \label{tab:tema-rq}
 \small
 \begin{tabularx}{\textwidth}{@{}p{3.5cm}YYYYY@{}}
 \toprule
-\textbf{Theme} & \textbf{RQ1} & \textbf{RQ2} & \textbf{RQ3} & \textbf{RQ4} & \textbf{RQ5} \\
+\textbf{Tema} & \textbf{RQ1} & \textbf{RQ2} & \textbf{RQ3} & \textbf{RQ4} & \textbf{RQ5} \\
 \midrule
-T1 Multi-agent orchestration & yes & yes & yes & yes & via synthesis \\
-T2 Specification and contract & yes & yes & partial & yes & via synthesis \\
-T3 Context engineering & yes & yes & partial & yes & via synthesis \\
-T4 Validation and governance & partial & yes & yes & yes & via synthesis \\
-T5 Human-AI collaboration & partial & yes & yes & yes & via synthesis \\
-T6 Security and red-teaming & no & partial & yes & yes & via synthesis \\
+T1 Orquestração multiagente & sim & sim & sim & sim & via síntese \\
+T2 Especificação e contrato & sim & sim & parcial & sim & via síntese \\
+T3 Engenharia de contexto & sim & sim & parcial & sim & via síntese \\
+T4 Validação e governança & parcial & sim & sim & sim & via síntese \\
+T5 Colaboração humano-IA & parcial & sim & sim & sim & via síntese \\
+T6 Segurança e red-teaming & não & parcial & sim & sim & via síntese \\
 \bottomrule
 \end{tabularx}
 \end{table}

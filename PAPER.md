@@ -13,7 +13,10 @@
 - **Autores**: Sanderson Oliveira de Macedo, Federal Institute of Goias (`sanderson.macedo@ifg.edu.br`)
 - **Venue-alvo**: arXiv (preprint). Categoria principal provavel: `cs.SE`; cross-list possivel: `cs.AI`.
 - **Status**: CONCLUIDO E PRONTO PARA PUBLICAR (modo autonomo, 2026-05-30). Texto escrito da sintese, validado (latex + 40/40 citacoes com DOI), 3 ciclos de critic (REVISAO MENOR, 0 issue residual), TRADUZIDO PARA INGLES e HUMANIZADO (voz Ng/Rajpurkar). Figura da metodologia regenerada em ingles a 96 DPI / fontes >=12pt. Ver `AUTONOMOUS_RUN.md` e `critic/review_log.md`.
-- **Idioma de escrita**: ingles (entrega final; rascunho intermediario foi pt-br, traduzido a pedido do autor)
+- **Idioma de escrita**: BILINGUE. `main.tex` (pt-br, secoes em `tex/sections/`) e `main-en.tex` (ingles, secoes em `tex/sections-en/`), mesmo `refs.bib`.
+- **Figuras (5, dados reais, 96 DPI, >=12pt, variantes _pt/_en)**: methodology (funil Kitchenham), studies_by_year, evidence_profile, theme_dimension (mapa de calor), risk_frequency. Geradas por `systematic-review/make_methodology_bilingual.py` e `make_data_figures.py`.
+- **DOI**: 100% das 41 entradas do refs.bib tem `doi` verificado E `note` com `\href` clicavel (visivel mesmo com bibstyle `plain`, inclusive nos @misc/preprints).
+- **Correcao de dado (2026-05-30)**: ranking de risco corrigido (seguranca e 4o, nao 2o): contexto 33 > confiabilidade 31 > custo de coordenacao 25 > seguranca 24 > governanca 16; texto ajustado em ambas as versoes (a figura risk_frequency expos a discrepancia).
 
 ## Humanizer (voz autoral, ingles)
 

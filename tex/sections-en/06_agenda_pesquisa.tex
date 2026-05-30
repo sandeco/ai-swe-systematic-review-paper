@@ -1,0 +1,15 @@
+\section{Research Agenda}
+
+RQ5 asks which gaps remain for comparing, evaluating, and governing these frameworks in real projects. Unlike the other questions, it is answered at the level of the whole corpus rather than study by study. Six gaps emerge from the synthesis, each with a concrete research direction.
+
+\noindent\textbf{Absence of process-oriented benchmarks.} The corpus evaluation concentrates on the final result, that is, the generated code and the issue-resolution rate, not on process quality: adherence of the implementation to the specification, drift rate, coordination cost between agents, and quality of intermediate artifacts. No study proposes a standardized process benchmark. The direction indicated is to define metrics and datasets that evaluate the pipeline, not just the solution.
+
+\noindent\textbf{Lack of direct empirical comparison between frameworks.} Each study evaluates its own framework in isolation. There is no controlled comparative study that pits, say, ChatDev, MetaGPT, and AgileGen against the same task with the same metrics \cite{ChenQian2023,SiruiHong2023,SaiZhang2025}. This blocks conclusions about which process structure works best and under which conditions. The direction indicated is head-to-head comparative experiments with common protocols.
+
+\noindent\textbf{Portability and lock-in, little studied as an object.} Dependence on an IDE, a platform, and a commercial model is nearly universal in the records, but only one study names lock-in explicitly, and none measures portability systematically \cite{SeyedmoeinMohsenimofidi2025}. The direction indicated is instruments to measure vendor coupling and the cost of migrating between agentic platforms.
+
+\noindent\textbf{Governance and traceability lack validation at real scale.} The proposals for traces, contracts, and auditing are promising but validated on case studies or prototypes, not on organizations over time, and there is no cost-benefit analysis of the coordination cost imposed by governance \cite{Paduraru2026,Merchant2025,Watfa2026,Macedo2026}. The direction indicated is the longitudinal evaluation of governance regimes in real teams.
+
+\noindent\textbf{The human and adoption dimension is underrepresented in the technical taxonomy.} The emergent collaboration theme shows that trust and organizational adoption are decisive, but the six-dimension taxonomy does not account for them \cite{DanielRusso2024,Ulfsnes2024,Baron2025,Akbar2025}. The direction indicated is to integrate a sociotechnical layer into the classification of frameworks and to study adoption factors in the field.
+
+\noindent\textbf{Security treated reactively.} With the exception of ASTRA, security appears as a risk to mitigate, not as an evaluated design property \cite{XiangzheXu2025}. There is no systematic evaluation of the attack surface of agentic frameworks, especially of community extensions, skills, and plugins. The direction indicated is a security evaluation framework specific to agentic development pipelines.
