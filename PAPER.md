@@ -26,7 +26,7 @@
 - Tecnicas aplicadas: variar ritmo (quebra de run-ons 45-60w via ponto), cortar paralelismo simetrico, voz autoral em 1a pessoa do plural, citacoes integradas.
 - Contrato de preservacao: todos os \cite (41), numeros e fatos intactos; zero travessao; sem subsecao numerada. Nenhum claim fortalecido/enfraquecido.
 - **paper_type**: `systematic-review`
-- **protocol**: `kitchenham` (reconhecido como MLR: Kitchenham para literatura formal + Garousi et al. 2019 para literatura cinzenta)
+- **protocol**: `kitchenham` (RSL pura; APENAS estudos com paper citavel/DOI. Enquadramento multivocal/literatura cinzenta REMOVIDO a pedido do autor em 2026-05-30 para maximizar rigor; ref. Garousi removida; figura da metodologia retitulada para "revisao sistematica de literatura").
 - **quality_assessment**: `none`
 - **synthesis_method**: `thematic` (modo hibrido)
 - **target_pages**: `12-20`
