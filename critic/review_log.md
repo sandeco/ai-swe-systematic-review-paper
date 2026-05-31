@@ -57,4 +57,12 @@ Confirmação dos deltas do backlog do score.md (item a item):
 
 Sem regressão das forças: gap de SE preservado; RSL pura preservada; 40/40 DOIs intactos; hedging honesto reforçado, não enfraquecido. Paridade pt/en mantida. 0 travessões; 0 fatais de LaTeX; 40/40 cite-keys.
 
-## Após 4 ciclos: sem issues FATAL/MAJOR residuais. Pendência AUTOR para 90+: IRR humano real (kappa) e, opcionalmente, ampliação de bases.
+### Ciclo 5 (2026-05-31, scientex-improve, pós-expansão 37->41). Veredito: REVISÃO MENOR.
+
+Expansão do corpus de 37 para 41 (4 estudos peer-reviewed de 2025 via busca suplementar: Tawosi2025/ALMAS, Erten2025/Scrum-AI, Zabardast2025/3-Layer NFR, Chen2025/AutoReview; extração a nível de resumo, confiança média).
+- Consistência numérica: PASSA. Verdade-fonte da matriz (n=41): framework 37, empírica 28, repo 22, preprint 10, caso 6, confiança média 6, 2025:15, segurança 26. Todas as contagens no texto (abstract, método, resultados, tabelas, discussão, conclusão, limitações, figuras) batem nas duas línguas. Os "37/25/12" residuais são referências legítimas ao fluxo do protocolo (corpus do protocolo = 37; 25 incluídos pós-2-passadas; 12 do snowballing).
+- Integração: 4 novos citados em temas (T1 Tawosi2025+Erten2025; T4 Zabardast2025; T6 Chen2025), na matriz (41 linhas), no refs.bib com DOI verificado (44 entradas, 44 cite-keys, 0 órfãs).
+- Honestidade preservada: extração a nível de resumo declarada no Método e Limitações; recall audit reportado (12 achados: 4 incorporados, 1 pendente, 7 pós-corte); funil e figura de saturação atualizados; sem inflar além dos dados.
+- Sem regressão: gap de SE, RSL pura, 44 DOIs, hedging honesto, 0 travessão, sem subseção numerada. latex-validator 0 fatais pt+en.
+
+## Após 5 ciclos: sem issues FATAL/MAJOR residuais. Corpus 41. Pendência AUTOR para 90+: IRR humano real (kappa) e expansão completa (7 pós-corte + mais bases).

@@ -24,24 +24,25 @@ os.makedirs(OUT, exist_ok=True)
 DPI = 96
 BLUE = "#2C5F8A"; GREEN = "#1F6B3B"; GREY = "#777777"
 
-# Real data (round 0 = initial database search after 2 screening passes).
-rounds = [0, 1, 2, 3]
-candidates = [85, 69, 50, 30]   # screened candidates per stage (85 = initial pool)
-included = [25, 6, 3, 3]        # new studies included per stage
-cumulative = [25, 31, 34, 37]   # running corpus size
+# Real data (round 0 = initial database search after 2 screening passes;
+# last stage = supplementary search on additional access routes).
+rounds = [0, 1, 2, 3, 4]
+candidates = [85, 69, 50, 30, 0]   # screened candidates per stage (85 = initial pool)
+included = [25, 6, 3, 3, 4]        # new studies included per stage
+cumulative = [25, 31, 34, 37, 41]  # running corpus size
 
 
 def fig_saturation(lang):
     if lang == "pt":
-        xlabels = ["Busca\ninicial", "Snowball\nrodada 1", "Snowball\nrodada 2", "Snowball\nrodada 3"]
-        title = "Saturação do snowballing: novos estudos incluídos por rodada"
+        xlabels = ["Busca\ninicial", "Snowball\nrodada 1", "Snowball\nrodada 2", "Snowball\nrodada 3", "Busca\nsuplementar"]
+        title = "Saturação da busca: novos estudos incluídos por etapa"
         ylab_l = "Novos estudos incluídos"
         ylab_r = "Corpus acumulado"
         leg_inc = "Novos incluídos na rodada"
         leg_cum = "Corpus acumulado"
     else:
-        xlabels = ["Initial\nsearch", "Snowball\nround 1", "Snowball\nround 2", "Snowball\nround 3"]
-        title = "Snowballing saturation: new studies included per round"
+        xlabels = ["Initial\nsearch", "Snowball\nround 1", "Snowball\nround 2", "Snowball\nround 3", "Supplementary\nsearch"]
+        title = "Search saturation: new studies included per stage"
         ylab_l = "New studies included"
         ylab_r = "Cumulative corpus"
         leg_inc = "New inclusions in round"

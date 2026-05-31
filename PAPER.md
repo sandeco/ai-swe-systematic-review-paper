@@ -86,10 +86,11 @@ Nota: o `PAPER.md` antigo listava so 4 RQs; a autoridade e o `protocol.md` com 5
 
 ## Score / viabilidade
 
-- Analise de viabilidade e backlog de melhoria em `score.md`. **Q atual 86/100** (era 74; rodada scientex-improve de 2026-05-30 + follow-up de texto completo e busca suplementar). Log auditavel em `IMPROVE_RUN.md`.
+- Analise de viabilidade e backlog de melhoria em `score.md`. **Q atual 87/100** (era 74; scientex-improve 2026-05-30/31, com texto completo + busca suplementar + expansao do corpus 37->41). Log auditavel em `IMPROVE_RUN.md`.
+- **Corpus agora 41 estudos** (37 do protocolo + 4 peer-reviewed de 2025 da busca suplementar: Tawosi2025, Erten2025, Zabardast2025, Chen2025). Figuras e contagens recomputadas nas duas linguas; consistencia confirmada por paper-critic (ciclo 5).
 - Rodada scientex-improve (2026-05-30, escopo "AUTO + infra dos AUTOR"): FEITO IMP-2 (avaliacao de qualidade), IMP-3 (overclaim suavizado), IMP-5 (curva de saturacao), IMP-6 (checklist Kitchenham), IMP-8 (posicionamento quantitativo); PARCIAL IMP-1 (infra de IRR), IMP-4 (achado por estudo), IMP-7 (vies quantificado). Deltas confirmados por paper-critic (ciclo 4). Sem fabricacao; sem regressao de forcas.
 - Follow-up (2026-05-30): IMP-4 concluido (extracao de texto completo dos 25, achados reais na sintese) e IMP-7 com busca suplementar real (arXiv+Crossref) que achou 12 estudos no escopo nao capturados (5 na janela, 7 pos-corte; `systematic-review/snowballing/supplementary/screened-inscope.md`), reportados nas Limitacoes sem inflar o corpus.
-- Pendencias AUTOR para cruzar 90+ (teto honesto desta rodada ~86): (1) IRR humano real (2o codificador) usando o kit em `systematic-review/irr_kit.py` + `screening/irr/`; (2) expandir o corpus de fato re-extraindo os 12 estudos da busca suplementar que estao dentro da janela, sob o protocolo.
+- Pendencias AUTOR para cruzar 90+ (teto honesto desta rodada ~87): (1) IRR humano real (2o codificador) usando o kit em `systematic-review/irr_kit.py` + `screening/irr/`; (2) incorporar os 7 estudos pos-corte da busca suplementar (exige mover o cutoff) e ampliar a busca a mais bases; (3) recuperar texto completo dos 4 estudos incorporados a nivel de resumo e do estudo pendente (MengDocDriven2025).
 
 ## Submissao
 

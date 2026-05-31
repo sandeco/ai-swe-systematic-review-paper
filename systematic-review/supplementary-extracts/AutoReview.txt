@@ -1,0 +1,5 @@
+# AutoReview
+DOI: 10.1145/3696630.3728618
+source: s2
+
+Software vulnerabilities can lead to severe security issues such as data breaches, financial losses, and service disruptions, making security issue-oriented code review a crucial part of the development process. Traditional approaches struggle with analyzing complex code and providing explanations, while large language models (LLMs) show promise in code review but do not focus on security-related issues. To address these limitations, we propose AutoReview, an LLM-based multi-agent system for security code review. It integrates three agents: (1) Issue Detector identifying potential vulnerabilities using knowledge-level retrieval-augmented generation, (2) Issue Locator pinpoints the vulnerability positions through graph-based code slicing, and (3) Issue Repairer generating context-aware fixes via iterative verification. Evaluated on ReposVul with three code LLMs, AutoReview greatly demonstrates its effectiveness in security code reviews, improving F1-score for detection by 18.72%, precision for location by 27.75%, and BLEU for repair by 14.82% over baselines.

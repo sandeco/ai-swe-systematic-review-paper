@@ -43,3 +43,20 @@
 ### Gates (follow-up)
 - latex-validator: 0 fatais pt+en; 40/40 cite-keys; 0 citação nova; 0 órfãos; 0 travessão.
 - Q depois: 86/100 (teto honesto desta rodada atingido). 90+ exige IRR humano real + re-extração dos 12 estudos da busca suplementar.
+
+## Rodada 1c (expansão do corpus, autorizada pelo autor), 2026-05-31
+- Autor autorizou expandir o corpus. Recomendação seguida: incorporar só os 5 estudos de 2025 (dentro da janela); 4 viáveis + 1 pendente.
+
+### Estudos incorporados (corpus 37 -> 41)
+- Tawosi2025 (ALMAS), Erten2025 (Scrum-AI), Zabardast2025 (3-Layer NFR), Chen2025 (AutoReview). Todos peer-reviewed (IEEE ASEW, IEEE UBMK, ACM FSE), 2025, dentro da janela. DOIs verificados no CrossRef (título/autores conferidos). Extração a nível de resumo (Semantic Scholar/OpenAlex), confiança média, pois nenhum tem PDF aberto.
+- MengDocDriven2025: dentro do escopo e da janela, mas sem resumo recuperável -> pendência operacional (não extraído).
+
+### Artefatos e propagação
+- refs.bib +4 entradas (@inproceedings com DOI + \href). extraction-matrix.csv 37->41. screening/supplementary.log.csv (5 registros). run_supplementary_search.py + snowballing/supplementary/.
+- Figuras regeneradas: methodology (funil com etapa suplementar e corpus 41), snowball_saturation (5a barra +4), data figures e quality (n=41).
+- Contagens propagadas nas DUAS línguas em abstract, método, resultados (composição + qualidade + temas + empírica), discussão, conclusão, limitações: framework 37, empírica 28, peer-reviewed 29/71%, qualidade 11/20/10, caso 6, confiança média 6, 2025:15, segurança 26, T5 15%.
+- Os 4 novos citados nos temas: T1 (Tawosi2025, Erten2025), T4 (Zabardast2025), T6 (Chen2025) + AutoReview na evidência empírica.
+
+### Gates (expansão)
+- latex-validator: 0 fatais pt+en. cross_validate: 44 cite-keys = 44 bib, 0 órfãs. validate_bib: 0 fatais (18 avisos cosméticos pré-existentes). 0 travessão. Consistência numérica e ausência de regressão confirmadas por paper-critic (ciclo 5, REVISÃO MENOR).
+- Generalização 8 -> 9. Q depois: 87/100. 90+ exige itens AUTOR (IRR humano, 7 pós-corte + mais bases, texto completo dos abstract-level).
