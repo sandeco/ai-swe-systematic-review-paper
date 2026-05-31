@@ -50,29 +50,36 @@ def fig_saturation(lang):
 
     x = list(range(len(rounds)))
     fig, ax = plt.subplots(figsize=(7.8, 4.6))
-    bars = ax.bar(x, included, color=BLUE, width=0.55, label=leg_inc)
+    bars = ax.bar(x, included, color=BLUE, width=0.55, label=leg_inc, zorder=2)
     for b, v in zip(bars, included):
-        ax.text(b.get_x() + b.get_width() / 2, v + 0.4, str(v), ha="center", va="bottom", fontsize=12)
+        ax.text(b.get_x() + b.get_width() / 2, v + 0.5, str(v), ha="center", va="bottom", fontsize=12, zorder=4)
     ax.set_ylabel(ylab_l)
-    ax.set_ylim(0, max(included) + 4)
+    ax.set_ylim(0, max(included) + 7)
     ax.set_xticks(x)
     ax.set_xticklabels(xlabels, fontsize=12)
-    ax.set_title(title)
+    ax.set_title(title, pad=12)
     ax.spines["top"].set_visible(False)
     ax.tick_params(labelsize=12)
 
     ax2 = ax.twinx()
-    ax2.plot(x, cumulative, color=GREEN, marker="o", linewidth=2, label=leg_cum)
+    ax2.plot(x, cumulative, color=GREEN, marker="o", linewidth=2, label=leg_cum, zorder=3)
+    # Cumulative labels sit clearly above each marker (extra room from the higher ylim).
+    label_bg = dict(boxstyle="round,pad=0.12", fc="white", ec="none", alpha=0.9)
     for xi, v in zip(x, cumulative):
-        ax2.text(xi, v + 0.6, str(v), ha="center", va="bottom", fontsize=12, color=GREEN)
+        ax2.annotate(str(v), (xi, v), textcoords="offset points", xytext=(0, 10),
+                     ha="center", va="bottom", fontsize=12, color=GREEN, zorder=5,
+                     bbox=label_bg)
     ax2.set_ylabel(ylab_r, color=GREEN)
-    ax2.set_ylim(0, 44)
+    ax2.set_ylim(0, 52)
     ax2.tick_params(axis="y", labelcolor=GREEN, labelsize=12)
     ax2.spines["top"].set_visible(False)
 
+    # Legend in the open central region, with an opaque white box so no element shows through.
     lines_l, labels_l = ax.get_legend_handles_labels()
     lines_r, labels_r = ax2.get_legend_handles_labels()
-    ax.legend(lines_l + lines_r, labels_l + labels_r, loc="upper right", fontsize=12, frameon=False)
+    leg = ax.legend(lines_l + lines_r, labels_l + labels_r, loc="center", fontsize=12,
+                    frameon=True, framealpha=1.0, facecolor="white", edgecolor="#CCCCCC")
+    leg.set_zorder(6)
 
     for ext in ("pdf", "png"):
         fig.savefig(os.path.join(OUT, f"snowball_saturation_{lang}.{ext}"), dpi=DPI, facecolor="white", bbox_inches="tight")
